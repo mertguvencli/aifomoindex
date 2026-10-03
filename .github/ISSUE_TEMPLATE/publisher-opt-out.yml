@@ -1,0 +1,15 @@
+name: Publisher opt-out
+description: Ask for a site's stories to be removed and kept out of the dataset.
+labels: [opt-out]
+body:
+  - type: input
+    id: host
+    attributes:
+      label: Host
+      description: For example, example.com. Subdomains are included.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else we should know?

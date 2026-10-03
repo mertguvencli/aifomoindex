@@ -1,0 +1,21 @@
+AI FOMO Index dataset — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The contents of this `data/` directory (the AI FOMO Index dataset: index.json,
+seen.json, coverage.json, the markdown files under news/ and the files under
+semantic/) are licensed under the Creative Commons Attribution 4.0 International
+License.
+
+You are free to share and adapt the dataset for any purpose, including
+commercially, provided you give appropriate credit to "AI FOMO Index" with a link to
+the project and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Note: each item links to a third-party source and quotes only its headline.
+Headlines, articles and trademarks remain the property of their respective
+owners and are not licensed here. This license covers only what AI FOMO Index adds:
+the compilation, its structure, tags, scores and other metadata.
+
+The annotations under semantic/ are outputs of a third-party model (Jev, served
+by TypeSafe and OpenRouter). They are shared as research records; check the
+provider's terms before relying on them beyond this dataset.

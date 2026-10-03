@@ -1,0 +1,40 @@
+{
+  "_comment": "Sources crawled on every run. Adding a source = adding a line here (great first PR). `feeds` are RSS/Atom. `pages` are for labs without a feed: the crawler reads the news index and opens article links under `articlePath`. URLs are best-effort; fix them as sites move.",
+  "feeds": [
+    {
+      "name": "openai",
+      "url": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "name": "googleai",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "name": "huggingface",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "deepmind",
+      "url": "https://deepmind.google/blog/rss.xml"
+    }
+  ],
+  "pages": [
+    {
+      "name": "anthropic",
+      "url": "https://www.anthropic.com/news",
+      "articlePath": "/news/"
+    },
+    {
+      "name": "mistral",
+      "url": "https://mistral.ai/news",
+      "articlePath": "/news/"
+    },
+    {
+      "name": "deepseek",
+      "url": "https://api-docs.deepseek.com/",
+      "articlePath": "/news/"
+    }
+  ],
+  "_blocked": "Hosts whose stories must never be stored, e.g. after a publisher asks to be removed. The next run deletes their existing stories too.",
+  "blockedHosts": []
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@aifomoindex/pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Crawl \u2192 Add/Skip \u2192 Refine \u2192 Finalize pipeline that produces the AI FOMO Index open dataset",
+  "scripts": {
+    "crawl": "tsx src/run.ts",
+    "backfill": "tsx src/backfill.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "tsx": "^4.19.2",
+    "typescript": "^5"
+  }
+}

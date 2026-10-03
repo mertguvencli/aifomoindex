@@ -1,0 +1,82 @@
+name: pipeline
+
+# Crawl → Add/Skip → Refine → Finalize, then commit the dataset back to the repo.
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours (UTC). GitHub may delay scheduled runs.
+  workflow_dispatch: {}
+
+# Lets the job push the updated dataset.
+permissions:
+  contents: write
+
+# Never let two crawls race on the same files.
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+# Crawling rules live in pipeline/src/polite.ts: robots.txt is obeyed, one
+# request per host at a time with at least a second between them, an honest
+# user agent, and no retries after a 403 or 429. A normal run makes a few
+# dozen requests. The historical backfill is a one-off run locally, never here.
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 24
+
+      - name: Install pipeline deps
+        working-directory: pipeline
+        run: npm ci
+
+      - name: Run pipeline
+        working-directory: pipeline
+        env:
+          # Optional. Without it, refinement falls back and the run still works —
+          # which is also why forks/PRs (no secret access) don't break.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run crawl
+
+      - name: Annotate new or changed headlines with Jev
+        id: jev
+        continue-on-error: true
+        env:
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY || secrets.OPENROUTER_API_KEY }}
+        run: node scripts/semantic-corpus.mjs --execute --concurrency=8
+
+      - name: Preserve Jev checkpoint
+        if: always() && steps.jev.outcome != 'skipped'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: jev-checkpoint-${{ github.run_id }}
+          path: data/semantic/
+          retention-days: 14
+
+      - name: Commit dataset
+        if: always() && !cancelled()
+        run: |
+          git config user.name "aifomoindex-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no dataset changes"
+          else
+            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            # A run takes up to 45 minutes; main may have moved meanwhile.
+            for attempt in 1 2 3; do
+              git pull --rebase && git push && exit 0
+              sleep $((attempt * 10))
+            done
+            exit 1
+          fi
+
+      - name: Report incomplete Jev run
+        if: steps.jev.outcome == 'failure'
+        run: |
+          echo "Jev annotation incomplete. Saved progress was committed; inspect the failed step and resume."
+          exit 1

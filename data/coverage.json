@@ -1,0 +1,11 @@
+{
+  "historyFrom": "2022-10-01",
+  "sources": {
+    "hackernews": "2022-10-01",
+    "openai": "2022-10-01",
+    "huggingface": "2022-10-01",
+    "anthropic": "2022-10-01",
+    "mistral": "2022-10-01",
+    "deepmind": "2022-10-01"
+  }
+}
