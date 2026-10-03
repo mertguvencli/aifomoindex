@@ -34,7 +34,7 @@ jobs:
           node-version: 24
       # The site's current URL: github.io today, the custom domain once attached.
       - id: pages
-        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
       - name: Post
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
