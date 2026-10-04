@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "AI FOMO Index: an open dataset and index of AI-news activity",
+  "description": "<p>AI FOMO Index is an open research project that tracks the changing pace of the AI information environment. It combines news velocity, AI lab activity, community attention and topic spikes into a transparent, reproducible index.</p><p>This archive is a snapshot of the repository: the dataset under <code>data/</code> (one record per AI-news item, plus a machine-readable index, dedup ledger and per-source coverage), the collection pipeline and the index method. Records are generated; points, coverage and historical reconstructions can be revised between versions.</p><p>The index describes changes in a selected AI-news corpus. It does not measure technological progress, human anxiety, personal relevance or real-world impact. No independent validation or peer-review status is claimed.</p><p>Licensing: the dataset under <code>data/</code> is CC BY 4.0; the source code is MIT.</p><p>Latest observation: <a href=\"https://aifomoindex.com\">aifomoindex.com</a></p>",
+  "creators": [
+    { "name": "Guvencli, Mert" }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "artificial intelligence",
+    "AI news",
+    "news velocity",
+    "media analysis",
+    "index",
+    "open data",
+    "large language models"
+  ],
+  "related_identifiers": [
+    { "identifier": "https://aifomoindex.com", "relation": "isDocumentedBy", "resource_type": "other" },
+    { "identifier": "https://aifomoindex.com/methodology", "relation": "isDocumentedBy", "resource_type": "publication-other" },
+    { "identifier": "https://github.com/mertguvencli/aifomoindex", "relation": "isSupplementTo", "resource_type": "software" }
+  ]
+}
