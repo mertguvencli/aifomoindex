@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-02T02:51:27Z
 fetched_at: 2026-10-02T21:29:47.256Z
 importance: 3
-points: 333
+points: 336
 tags: [model, safety]
 ---
 

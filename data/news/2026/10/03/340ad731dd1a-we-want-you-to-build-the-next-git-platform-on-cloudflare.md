@@ -5,8 +5,8 @@ url: https://blog.cloudflare.com/next-git-platform-on-cloudflare/
 source: hackernews
 published_at: 2026-10-03T19:33:16Z
 fetched_at: 2026-10-04T03:06:28.282Z
-importance: 2
-points: 178
+importance: 3
+points: 206
 tags: []
 ---
 
