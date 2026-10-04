@@ -3,7 +3,7 @@ import { preload } from "react-dom";
 import { FeedView } from "@/components/feed/feed-view";
 import { DAY } from "@/components/feed/feed-utils";
 import { getFeed, getFomoIndex, getUpdatedAt } from "@/lib/dataset";
-import { REPO, feedJsonUrl } from "@/lib/site";
+import { DOI, REPO, feedJsonUrl } from "@/lib/site";
 import { METHOD_VERSION } from "@/lib/fomo-index";
 import { JsonLd, ORGANIZATION, absoluteUrl, pageMetadata } from "@/lib/seo";
 
@@ -52,10 +52,11 @@ export default async function HomePage() {
             `A ${items.length.toLocaleString("en")}-record corpus of AI-news headlines from lab blogs, publishers and Hacker News, with a reproducible weekly index (method v${METHOD_VERSION}) of news velocity, lab activity, community attention and topic spikes. ` +
             `As of ${day(updatedAt)} the index reads ${fomo.now.score} (${fomo.now.band.label}). Exploratory; it does not measure technological progress or sentiment.`,
           url: absoluteUrl("/"),
-          sameAs: REPO,
+          identifier: DOI,
+          sameAs: [DOI, REPO],
           version: METHOD_VERSION,
           isAccessibleForFree: true,
-          license: `${REPO}/blob/main/LICENSE`,
+          license: "https://creativecommons.org/licenses/by/4.0/",
           creator: { "@id": ORGANIZATION["@id"] },
           dateModified: new Date(updatedAt).toISOString(),
           temporalCoverage: `${day(items[items.length - 1].ts)}/${day(updatedAt)}`,

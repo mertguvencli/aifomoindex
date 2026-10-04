@@ -11,6 +11,9 @@ export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://aifomoinde
 /** GitHub repository. Renaming the repo? GitHub redirects the old URL, but update this too. */
 export const REPO = "https://github.com/mertguvencli/aifomoindex";
 
+/** Zenodo concept DOI: resolves to the latest archived release. */
+export const DOI = "https://doi.org/10.5281/zenodo.23144696";
+
 /** Set for project pages served under /<repo>; empty at a domain root. */
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
