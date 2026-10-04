@@ -1,0 +1,101 @@
+{
+  "_comment": "Sources crawled on every run. Adding a source = adding a line here (great first PR). `feeds` are RSS/Atom. `pages` are for labs without a feed: the crawler reads the news index and opens article links under `articlePath`. URLs are best-effort; fix them as sites move.",
+  "feeds": [
+    {
+      "name": "openai",
+      "url": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "name": "googleai",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "name": "huggingface",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "deepmind",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "name": "stability",
+      "url": "https://stability.ai/news-updates?format=rss"
+    },
+    {
+      "name": "midjourney",
+      "url": "https://updates.midjourney.com/rss/"
+    }
+  ],
+  "pages": [
+    {
+      "name": "anthropic",
+      "url": "https://www.anthropic.com/news",
+      "articlePath": "/news/"
+    },
+    {
+      "name": "mistral",
+      "url": "https://mistral.ai/news",
+      "articlePath": "/news/"
+    },
+    {
+      "name": "deepseek",
+      "url": "https://api-docs.deepseek.com/",
+      "articlePath": "/news/"
+    },
+    {
+      "name": "runway",
+      "url": "https://runway.com/research",
+      "articlePath": "/research/",
+      "exclude": [
+        "publications"
+      ]
+    },
+    {
+      "name": "bfl",
+      "url": "https://bfl.ai/blog",
+      "articlePath": "/blog/"
+    },
+    {
+      "name": "worldlabs",
+      "url": "https://www.worldlabs.ai/blog",
+      "articlePath": "/blog/"
+    },
+    {
+      "name": "pika",
+      "url": "https://pika.art/blog",
+      "articlePath": "/blog/"
+    },
+    {
+      "name": "suno",
+      "url": "https://suno.com/blog",
+      "articlePath": "/blog/"
+    },
+    {
+      "name": "wayve",
+      "url": "https://wayve.ai/thinking/",
+      "articlePath": "/thinking/",
+      "exclude": [
+        "press-kit"
+      ]
+    },
+    {
+      "name": "figure",
+      "url": "https://www.figure.ai/news",
+      "articlePath": "/news/"
+    },
+    {
+      "name": "bostondynamics",
+      "url": "https://bostondynamics.com/blog/",
+      "articlePath": "/blog/"
+    },
+    {
+      "name": "agility",
+      "url": "https://www.agilityrobotics.com/content",
+      "articlePath": "/content/"
+    }
+  ],
+  "_exclude": "`exclude` lists slugs under `articlePath` that are category pages, not articles.",
+  "_considered": "Checked and not crawled (2026-10): ElevenLabs, Luma (/news), Synthesia, Recraft, Higgsfield, LTX Studio, Captions and Hedra blogs are mostly SEO guides, which would count as news; Runway /news, Physical Intelligence, Decart, 1X, Skild, MiniMax, Kling, Krea, Ideogram, Odyssey render in JavaScript, rate-limit or list no articles. Their posts still arrive through Hacker News and are filed under the company (LAB_HOSTS in src/lib/taxonomy.ts).",
+  "_blocked": "Hosts whose stories must never be stored, e.g. after a publisher asks to be removed. The next run deletes their existing stories too.",
+  "blockedHosts": []
+}

@@ -1,0 +1,47 @@
+name: post
+
+# Posts the index to X and Bluesky: every Monday, and the first day it enters High
+# activity. Runs after the morning crawl has had time to deploy. Without the two
+# secrets below it does nothing, so forks stay quiet.
+#
+# Setup: add these repository secrets. A network without its secrets is skipped.
+#   X (OAuth 1.0a keys with read and write permission):
+#     X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET
+#   Bluesky (an app password from Settings → Privacy and security → App passwords):
+#     BLUESKY_HANDLE, BLUESKY_APP_PASSWORD
+on:
+  schedule:
+    - cron: "30 7 * * *" # daily 07:30 UTC; the script decides whether to post
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Post even if today is not a posting day"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 24
+      # The site's current URL: github.io today, the custom domain once attached.
+      - id: pages
+        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
+      - name: Post
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+        run: node scripts/post.mjs ${{ inputs.force && '--force' || '' }}

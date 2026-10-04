@@ -1,0 +1,18 @@
+{
+  "historyFrom": "2022-10-01",
+  "sources": {
+    "hackernews": "2022-10-01",
+    "openai": "2022-10-01",
+    "huggingface": "2022-10-01",
+    "anthropic": "2022-10-01",
+    "mistral": "2022-10-01",
+    "deepmind": "2022-10-01",
+    "stability": "2022-10-01",
+    "runway": "2022-10-01",
+    "bfl": "2022-10-01",
+    "worldlabs": "2022-10-01",
+    "wayve": "2022-10-01",
+    "bostondynamics": "2022-10-01",
+    "agility": "2022-10-01"
+  }
+}

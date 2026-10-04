@@ -1,0 +1,25 @@
+{
+  "protocol": "jev-headlines-v1",
+  "rubricSha256": "458511b04141142d9110a514e626adb9bb502d516148bbb1aed7f4fa18d3f321",
+  "datasetSha256": "56cc63faa72dcebebfffe80e67b0386a6788e66f503b82e11e51083dbecb7910",
+  "updatedAt": "2026-10-04T16:04:16.223Z",
+  "total": 14179,
+  "annotated": 14179,
+  "missing": 0,
+  "models": [
+    "typesafe/jev-1.13-20260917"
+  ],
+  "flagged": 5,
+  "relevance": {
+    "insufficient": 658,
+    "relevant": 11179,
+    "unrelated": 2342
+  },
+  "concreteChange": {
+    "commentary": 5353,
+    "insufficient": 1711,
+    "reported": 7115
+  },
+  "recordedCostUsd": 0.4479976619999786,
+  "note": "Retrospective headline annotations; no human accuracy benchmark; zero index weight. Cost excludes failed or unrecorded requests."
+}

@@ -1,0 +1,19 @@
+name: Method proposal
+description: Propose a change to sources, classification, weights or aggregation.
+labels: [method]
+body:
+  - type: markdown
+    attributes:
+      value: Please read CONTRIBUTING.md first. Proposals keep the baseline and include a reproducible comparison.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question and construct
+      description: What should the change measure better, and why?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Comparison with the baseline
+      description: Repository commit, commands, and every preselected comparison, including failures.
