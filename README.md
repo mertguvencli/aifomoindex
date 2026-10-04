@@ -125,6 +125,8 @@ Archive the JSON outputs alongside that commit. A checksum identifies an input;
 it does not replace archiving it. Each GitHub release is archived on Zenodo:
 [10.5281/zenodo.23144696](https://doi.org/10.5281/zenodo.23144696) resolves to the
 latest version, and each version has its own DOI on that page.
+The corpus is also on Hugging Face as Parquet, synced daily:
+[mertguvencli/aifomoindex](https://huggingface.co/datasets/mertguvencli/aifomoindex).
 
 ## Semantic experiment: Jev / System One
 

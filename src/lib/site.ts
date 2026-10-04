@@ -14,6 +14,9 @@ export const REPO = "https://github.com/mertguvencli/aifomoindex";
 /** Zenodo concept DOI: resolves to the latest archived release. */
 export const DOI = "https://doi.org/10.5281/zenodo.23144696";
 
+/** Hugging Face copy of the dataset, synced daily by .github/workflows/hf-sync.yml. */
+export const HF_DATASET = "https://huggingface.co/datasets/mertguvencli/aifomoindex";
+
 /** Set for project pages served under /<repo>; empty at a domain root. */
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
