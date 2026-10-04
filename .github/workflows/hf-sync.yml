@@ -1,0 +1,35 @@
+name: hf-sync
+
+# Publishes the dataset to Hugging Face (mertguvencli/aifomoindex) as Parquet
+# with a dataset card. See scripts/hf/. Needs the HF_TOKEN secret (write access).
+on:
+  schedule:
+    - cron: "30 3 * * *" # daily (UTC), between pipeline runs
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hf-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Install deps
+        run: |
+          python3 -m venv .venv
+          .venv/bin/pip install --quiet pyarrow==25.0.1 huggingface_hub==2.1.1
+
+      - name: Build
+        run: .venv/bin/python scripts/hf/build.py "$RUNNER_TEMP/hf"
+
+      - name: Upload
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: .venv/bin/python scripts/hf/push.py "$RUNNER_TEMP/hf"
