@@ -11,6 +11,52 @@
     "path": "news/2026/10/06/5357c9fb5491-agility-to-host-analyst-investor-day-on-october-6-2026.md"
   },
   {
+    "id": "2d8e70fb45ce",
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "source": "openai",
+    "publishedAt": "2026-10-05T10:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Building advertising for the way people use AI",
+    "path": "news/2026/10/05/2d8e70fb45ce-building-advertising-for-the-way-people-use-ai.md"
+  },
+  {
+    "id": "298e66590dc6",
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T05:37:40Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic reported diary entry to police, woman faces felony charge",
+    "points": 78,
+    "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
+  },
+  {
+    "id": "c92c1cce7abf",
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T01:54:08Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "points": 238,
+    "path": "news/2026/10/05/c92c1cce7abf-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitc.md"
+  },
+  {
+    "id": "ee297194aa36",
+    "title": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-ceo-peggy-johnson-selected-to-join-project-meridian",
+    "source": "agility",
+    "publishedAt": "2026-10-05T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Robotics CEO Peggy Johnson Selected to Join Project Meridian",
+    "path": "news/2026/10/05/ee297194aa36-agility-robotics-ceo-peggy-johnson-selected-to-join-project-.md"
+  },
+  {
     "id": "e5b1c9f90b67",
     "title": "Homa: The end of TCP for AI clusters [video]",
     "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
@@ -21,7 +67,7 @@
     ],
     "importance": 2,
     "summary": "Homa: The end of TCP for AI clusters [video]",
-    "points": 59,
+    "points": 78,
     "path": "news/2026/10/04/e5b1c9f90b67-homa-the-end-of-tcp-for-ai-clusters-video.md"
   },
   {
@@ -33,7 +79,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "points": 391,
+    "points": 636,
     "path": "news/2026/10/04/b0ff7ff16732-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-spa.md"
   },
   {
@@ -47,7 +93,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AI search for every photo and every frame of video on macOS",
-    "points": 142,
+    "points": 154,
     "path": "news/2026/10/04/1d9e0fedc80d-show-hn-ai-search-for-every-photo-and-every-frame-of-video-o.md"
   },
   {
@@ -59,7 +105,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to scale intent, quality, and artistry with AI [video]",
-    "points": 53,
+    "points": 92,
     "path": "news/2026/10/04/9d88c162841b-how-to-scale-intent-quality-and-artistry-with-ai-video.md"
   },
   {
@@ -73,7 +119,7 @@
     ],
     "importance": 2,
     "summary": "What's the future for pure math research in the age of AI?",
-    "points": 57,
+    "points": 62,
     "path": "news/2026/10/04/f0932d141c36-what-s-the-future-for-pure-math-research-in-the-age-of-ai.md"
   },
   {
@@ -85,7 +131,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Religious scholars met with Anthropic",
-    "points": 157,
+    "points": 163,
     "path": "news/2026/10/04/68c9cd5df8b0-religious-scholars-met-with-anthropic.md"
   },
   {
@@ -125,7 +171,7 @@
     "tags": [],
     "importance": 3,
     "summary": "We want you to build the next Git platform on Cloudflare",
-    "points": 210,
+    "points": 217,
     "path": "news/2026/10/03/340ad731dd1a-we-want-you-to-build-the-next-git-platform-on-cloudflare.md"
   },
   {
@@ -137,7 +183,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic tried to persuade Pope that AI could be conscious being",
-    "points": 57,
+    "points": 58,
     "path": "news/2026/10/03/a9710b9b2158-anthropic-tried-to-persuade-pope-that-ai-could-be-conscious-.md"
   },
   {
@@ -163,7 +209,7 @@
     ],
     "importance": 3,
     "summary": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-    "points": 232,
+    "points": 235,
     "path": "news/2026/10/03/9461f7b3268a-getting-the-most-out-of-opus-5-5-in-claude-and-claude-code.md"
   },
   {
@@ -175,7 +221,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Meta got right with Muse",
-    "points": 126,
+    "points": 143,
     "path": "news/2026/10/03/993113989136-what-meta-got-right-with-muse.md"
   },
   {
@@ -189,7 +235,7 @@
     ],
     "importance": 2,
     "summary": "Pop!_OS bans AI-generated code from much of its codebase",
-    "points": 116,
+    "points": 117,
     "path": "news/2026/10/03/4cd2857270f1-pop-os-bans-ai-generated-code-from-much-of-its-codebase.md"
   },
   {
@@ -201,7 +247,7 @@
     "tags": [],
     "importance": 3,
     "summary": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "points": 385,
+    "points": 405,
     "path": "news/2026/10/03/19c69c4646ee-lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-.md"
   },
   {
@@ -213,7 +259,7 @@
     "tags": [],
     "importance": 2,
     "summary": "City building games have a Soul Problem pt.2",
-    "points": 162,
+    "points": 166,
     "path": "news/2026/10/03/b4ad74eb5a89-city-building-games-have-a-soul-problem-pt-2.md"
   },
   {
@@ -237,7 +283,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I quit OpenAI because its culture is broken",
-    "points": 459,
+    "points": 477,
     "path": "news/2026/10/03/11404764e25f-i-quit-openai-because-its-culture-is-broken.md"
   },
   {
@@ -251,7 +297,7 @@
     ],
     "importance": 2,
     "summary": "US killer's sentence quashed because of AI video of victim shown in court",
-    "points": 73,
+    "points": 76,
     "path": "news/2026/10/03/f2d260de0be3-us-killer-s-sentence-quashed-because-of-ai-video-of-victim-s.md"
   },
   {
@@ -266,7 +312,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Germany's new sovereign AI model Kolibri",
-    "points": 417,
+    "points": 419,
     "path": "news/2026/10/03/1ef1b38c39d0-show-hn-germany-s-new-sovereign-ai-model-kolibri.md"
   },
   {
@@ -322,7 +368,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Made an open-source Lego AI generator",
-    "points": 154,
+    "points": 156,
     "path": "news/2026/10/02/16212e61438f-show-hn-made-an-open-source-lego-ai-generator.md"
   },
   {
@@ -334,7 +380,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Gadgets",
-    "points": 248,
+    "points": 250,
     "path": "news/2026/10/02/38fdff505e36-muse-gadgets.md"
   },
   {
@@ -349,7 +395,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-    "points": 113,
+    "points": 116,
     "path": "news/2026/10/02/b035a7e14d09-show-hn-pi-pod-run-your-pi-coding-agent-in-sandboxes-on-your.md"
   },
   {
@@ -391,7 +437,7 @@
     ],
     "importance": 2,
     "summary": "gpuvis: GPU Trace Visualizer",
-    "points": 71,
+    "points": 73,
     "path": "news/2026/10/02/11f369e97114-gpuvis-gpu-trace-visualizer.md"
   },
   {
@@ -454,8 +500,22 @@
     "tags": [],
     "importance": 3,
     "summary": "With most information hidden, the game Stratego had stumped AI until now",
-    "points": 286,
+    "points": 288,
     "path": "news/2026/10/02/e7998846bd78-with-most-information-hidden-the-game-stratego-had-stumped-a.md"
+  },
+  {
+    "id": "019b8d88a570",
+    "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+    "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+    "source": "hackernews",
+    "publishedAt": "2026-10-02T13:47:41Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+    "points": 97,
+    "path": "news/2026/10/02/019b8d88a570-decision-models-like-jev-don-t-beat-llm-as-a-judge-or-tradit.md"
   },
   {
     "id": "1e9d2834a5b1",
@@ -74080,6 +74140,19 @@
     "path": "news/2025/09/25/9777c3446abc-windows-ml-is-generally-available.md"
   },
   {
+    "id": "836d5378f056",
+    "title": "Introducing Suno Studio",
+    "url": "https://suno.com/blog/suno-studio",
+    "source": "suno",
+    "publishedAt": "2025-09-25T18:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Suno Studio",
+    "path": "news/2025/09/25/836d5378f056-introducing-suno-studio.md"
+  },
+  {
     "id": "40c530a3e4b2",
     "title": "Improved Gemini 2.5 Flash and Flash-Lite",
     "url": "https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/",
@@ -84615,6 +84688,17 @@
     "path": "news/2025/07/22/45b66faad922-qwen3-coder-agentic-coding-in-the-world.md"
   },
   {
+    "id": "4723b8dad71b",
+    "title": "Songs of Love Foundation",
+    "url": "https://suno.com/blog/songs-of-love-suno",
+    "source": "suno",
+    "publishedAt": "2025-07-22T13:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Songs of Love Foundation",
+    "path": "news/2025/07/22/4723b8dad71b-songs-of-love-foundation.md"
+  },
+  {
     "id": "0ae93804280b",
     "title": "Replit's CEO apologizes after its AI agent wiped a company's code base",
     "url": "https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7",
@@ -86580,6 +86664,17 @@
     "path": "news/2025/07/10/72796f7d1367-what-is-realtalk-s-relationship-to-ai-2024.md"
   },
   {
+    "id": "432d6a713544",
+    "title": "Welcome Paul",
+    "url": "https://suno.com/blog/welcome-paul",
+    "source": "suno",
+    "publishedAt": "2025-07-10T15:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Welcome Paul",
+    "path": "news/2025/07/10/432d6a713544-welcome-paul.md"
+  },
+  {
     "id": "bca94adf7ad5",
     "title": "Andrew Ng: Building Faster with AI [video]",
     "url": "https://www.youtube.com/watch?v=RNJCfif1dPY",
@@ -87963,6 +88058,19 @@
     "summary": "Developing with GitHub Copilot Agent Mode and MCP",
     "points": 93,
     "path": "news/2025/06/30/7564d1262e6d-developing-with-github-copilot-agent-mode-and-mcp.md"
+  },
+  {
+    "id": "41d29d4aa907",
+    "title": "Suno Acquires WavTool",
+    "url": "https://suno.com/blog/suno-acquires-wavtool",
+    "source": "suno",
+    "publishedAt": "2025-06-30T19:00:00.000Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Suno Acquires WavTool",
+    "path": "news/2025/06/30/41d29d4aa907-suno-acquires-wavtool.md"
   },
   {
     "id": "0a7b83f91dcb",
@@ -91629,6 +91737,17 @@
     "summary": "Show HN: Localize React apps without rewriting code",
     "points": 89,
     "path": "news/2025/06/03/76009bf9240a-show-hn-localize-react-apps-without-rewriting-code.md"
+  },
+  {
+    "id": "024d266e8b81",
+    "title": "A New Level of Creative Control",
+    "url": "https://suno.com/blog/songeditor",
+    "source": "suno",
+    "publishedAt": "2025-06-03T16:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A New Level of Creative Control",
+    "path": "news/2025/06/03/024d266e8b81-a-new-level-of-creative-control.md"
   },
   {
     "id": "126e1d260471",
@@ -96022,6 +96141,19 @@
     "summary": "Claude Integrations",
     "points": 734,
     "path": "news/2025/05/01/ad1edb39cf4a-claude-integrations.md"
+  },
+  {
+    "id": "fa87f2b3cabc",
+    "title": "Introducing v4.5",
+    "url": "https://suno.com/blog/introducing-v4-5",
+    "source": "suno",
+    "publishedAt": "2025-05-01T16:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing v4.5",
+    "path": "news/2025/05/01/fa87f2b3cabc-introducing-v4-5.md"
   },
   {
     "id": "e7906846457b",
@@ -113374,6 +113506,17 @@
     "path": "news/2024/12/05/b2a0e143c5ce-openai-confirms-new-200-monthly-subscription-chatgpt-pro.md"
   },
   {
+    "id": "9668910be5c7",
+    "title": "Android, meet Suno",
+    "url": "https://suno.com/blog/android",
+    "source": "suno",
+    "publishedAt": "2024-12-05T17:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Android, meet Suno",
+    "path": "news/2024/12/05/9668910be5c7-android-meet-suno.md"
+  },
+  {
     "id": "261162449f66",
     "title": "Exploring inference memory saturation effect: H100 vs. MI300x",
     "url": "https://dstack.ai/blog/h100-mi300x-inference-benchmark/",
@@ -114701,6 +114844,19 @@
     "path": "news/2024/11/19/05be724f2149-maintain-accurate-digital-twins-with-autonomous-reality-capt.md"
   },
   {
+    "id": "4f67911e7034",
+    "title": "Introducing v4",
+    "url": "https://suno.com/blog/v4",
+    "source": "suno",
+    "publishedAt": "2024-11-19T17:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing v4",
+    "path": "news/2024/11/19/4f67911e7034-introducing-v4.md"
+  },
+  {
     "id": "434e484634f6",
     "title": "Show HN: Fireproof – local-first database with Git-like encrypted sync",
     "url": "https://fireproof.storage/",
@@ -115321,6 +115477,17 @@
     "summary": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
     "points": 164,
     "path": "news/2024/11/13/f65c64b70664-qwen2-5-coder-32b-is-an-llm-that-can-code-well-that-runs-on-.md"
+  },
+  {
+    "id": "a33d7612dbe0",
+    "title": "Welcome Jack",
+    "url": "https://suno.com/blog/welcome-jack",
+    "source": "suno",
+    "publishedAt": "2024-11-13T05:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Welcome Jack",
+    "path": "news/2024/11/13/a33d7612dbe0-welcome-jack.md"
   },
   {
     "id": "88747408a554",
@@ -116137,6 +116304,19 @@
     "importance": 2,
     "summary": "Midjourney Idea Collection Fall 2024",
     "path": "news/2024/11/01/0f1fa2ee26dc-midjourney-idea-collection-fall-2024.md"
+  },
+  {
+    "id": "01d90a8230aa",
+    "title": "Introducing Personas",
+    "url": "https://suno.com/blog/personas",
+    "source": "suno",
+    "publishedAt": "2024-10-31T21:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Personas",
+    "path": "news/2024/10/31/01d90a8230aa-introducing-personas.md"
   },
   {
     "id": "0583b617d892",
@@ -117535,6 +117715,17 @@
     "path": "news/2024/10/18/07e9e3f99690-microsoft-bitnet-inference-framework-for-1-bit-llms.md"
   },
   {
+    "id": "632e4d6b7f9d",
+    "title": "Suno Partners with Audible Magic",
+    "url": "https://suno.com/blog/suno-partners-with-audible-magic",
+    "source": "suno",
+    "publishedAt": "2024-10-18T04:12:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Suno Partners with Audible Magic",
+    "path": "news/2024/10/18/632e4d6b7f9d-suno-partners-with-audible-magic.md"
+  },
+  {
     "id": "903f31769967",
     "title": "The Prompt() Function: Use the Power of LLMs with SQL",
     "url": "https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/",
@@ -117683,6 +117874,19 @@
     "summary": "Show HN: A fair Product Hunt alternative",
     "points": 160,
     "path": "news/2024/10/16/3064ee48dcfa-show-hn-a-fair-product-hunt-alternative.md"
+  },
+  {
+    "id": "9262d17495da",
+    "title": "Introducing Suno Scenes",
+    "url": "https://suno.com/blog/introducing-suno-scenes",
+    "source": "suno",
+    "publishedAt": "2024-10-16T15:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Suno Scenes",
+    "path": "news/2024/10/16/9262d17495da-introducing-suno-scenes.md"
   },
   {
     "id": "261bef89735a",
