@@ -17,6 +17,10 @@ data/
   tracking params stripped), so the same article from different links collapses
   to one entry.
 - **`points`** is the story's Hacker News score, when its link made Hacker News.
+- **`publishedAt`** is ISO 8601 UTC. About 2,000 lab-feed rows added before
+  2026-10-03 keep the feed's RFC 2822 string (`Fri, 02 Oct 2026 16:15:00 GMT`).
+  They are left as stored because the date string is part of the Jev request
+  hash. Parse the field as a date rather than comparing strings.
 - **`index.json`** is what apps and the website should read. The markdown files
   are the human-readable, forkable source of truth.
 
