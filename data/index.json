@@ -1,5 +1,42 @@
 [
   {
+    "id": "5357c9fb5491",
+    "title": "Agility to Host Analyst & Investor Day on October 6, 2026",
+    "url": "https://www.agilityrobotics.com/content/agility-to-host-analyst-investor-day-on-october-6-2026",
+    "source": "agility",
+    "publishedAt": "2026-10-06T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility to Host Analyst & Investor Day on October 6, 2026",
+    "path": "news/2026/10/06/5357c9fb5491-agility-to-host-analyst-investor-day-on-october-6-2026.md"
+  },
+  {
+    "id": "e5b1c9f90b67",
+    "title": "Homa: The end of TCP for AI clusters [video]",
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "source": "hackernews",
+    "publishedAt": "2026-10-04T19:42:25Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Homa: The end of TCP for AI clusters [video]",
+    "points": 59,
+    "path": "news/2026/10/04/e5b1c9f90b67-homa-the-end-of-tcp-for-ai-clusters-video.md"
+  },
+  {
+    "id": "b0ff7ff16732",
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "source": "hackernews",
+    "publishedAt": "2026-10-04T19:42:25Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "points": 391,
+    "path": "news/2026/10/04/b0ff7ff16732-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-spa.md"
+  },
+  {
     "id": "1d9e0fedc80d",
     "title": "Show HN: AI search for every photo and every frame of video on macOS",
     "url": "https://github.com/allenv0/SCM",
@@ -10,8 +47,20 @@
     ],
     "importance": 2,
     "summary": "Show HN: AI search for every photo and every frame of video on macOS",
-    "points": 113,
+    "points": 142,
     "path": "news/2026/10/04/1d9e0fedc80d-show-hn-ai-search-for-every-photo-and-every-frame-of-video-o.md"
+  },
+  {
+    "id": "9d88c162841b",
+    "title": "How to scale intent, quality, and artistry with AI [video]",
+    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+    "source": "hackernews",
+    "publishedAt": "2026-10-04T08:41:58Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How to scale intent, quality, and artistry with AI [video]",
+    "points": 53,
+    "path": "news/2026/10/04/9d88c162841b-how-to-scale-intent-quality-and-artistry-with-ai-video.md"
   },
   {
     "id": "f0932d141c36",
@@ -24,7 +73,7 @@
     ],
     "importance": 2,
     "summary": "What's the future for pure math research in the age of AI?",
-    "points": 51,
+    "points": 57,
     "path": "news/2026/10/04/f0932d141c36-what-s-the-future-for-pure-math-research-in-the-age-of-ai.md"
   },
   {
@@ -36,7 +85,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Religious scholars met with Anthropic",
-    "points": 152,
+    "points": 157,
     "path": "news/2026/10/04/68c9cd5df8b0-religious-scholars-met-with-anthropic.md"
   },
   {
@@ -76,7 +125,7 @@
     "tags": [],
     "importance": 3,
     "summary": "We want you to build the next Git platform on Cloudflare",
-    "points": 206,
+    "points": 210,
     "path": "news/2026/10/03/340ad731dd1a-we-want-you-to-build-the-next-git-platform-on-cloudflare.md"
   },
   {
@@ -114,7 +163,7 @@
     ],
     "importance": 3,
     "summary": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-    "points": 230,
+    "points": 232,
     "path": "news/2026/10/03/9461f7b3268a-getting-the-most-out-of-opus-5-5-in-claude-and-claude-code.md"
   },
   {
@@ -126,7 +175,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Meta got right with Muse",
-    "points": 120,
+    "points": 126,
     "path": "news/2026/10/03/993113989136-what-meta-got-right-with-muse.md"
   },
   {
@@ -140,7 +189,7 @@
     ],
     "importance": 2,
     "summary": "Pop!_OS bans AI-generated code from much of its codebase",
-    "points": 115,
+    "points": 116,
     "path": "news/2026/10/03/4cd2857270f1-pop-os-bans-ai-generated-code-from-much-of-its-codebase.md"
   },
   {
@@ -152,7 +201,7 @@
     "tags": [],
     "importance": 3,
     "summary": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "points": 351,
+    "points": 385,
     "path": "news/2026/10/03/19c69c4646ee-lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-.md"
   },
   {
@@ -164,7 +213,7 @@
     "tags": [],
     "importance": 2,
     "summary": "City building games have a Soul Problem pt.2",
-    "points": 157,
+    "points": 162,
     "path": "news/2026/10/03/b4ad74eb5a89-city-building-games-have-a-soul-problem-pt-2.md"
   },
   {
@@ -188,7 +237,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I quit OpenAI because its culture is broken",
-    "points": 437,
+    "points": 459,
     "path": "news/2026/10/03/11404764e25f-i-quit-openai-because-its-culture-is-broken.md"
   },
   {
@@ -202,7 +251,7 @@
     ],
     "importance": 2,
     "summary": "US killer's sentence quashed because of AI video of victim shown in court",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/10/03/f2d260de0be3-us-killer-s-sentence-quashed-because-of-ai-video-of-victim-s.md"
   },
   {
@@ -273,7 +322,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Made an open-source Lego AI generator",
-    "points": 153,
+    "points": 154,
     "path": "news/2026/10/02/16212e61438f-show-hn-made-an-open-source-lego-ai-generator.md"
   },
   {
@@ -285,7 +334,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Gadgets",
-    "points": 247,
+    "points": 248,
     "path": "news/2026/10/02/38fdff505e36-muse-gadgets.md"
   },
   {
@@ -300,7 +349,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-    "points": 112,
+    "points": 113,
     "path": "news/2026/10/02/b035a7e14d09-show-hn-pi-pod-run-your-pi-coding-agent-in-sandboxes-on-your.md"
   },
   {
@@ -315,7 +364,7 @@
     ],
     "importance": 3,
     "summary": "From the creator of Redis; run LLM locally with ds4",
-    "points": 357,
+    "points": 359,
     "path": "news/2026/10/02/599a20ac4f67-from-the-creator-of-redis-run-llm-locally-with-ds4.md"
   },
   {
@@ -342,7 +391,7 @@
     ],
     "importance": 2,
     "summary": "gpuvis: GPU Trace Visualizer",
-    "points": 67,
+    "points": 71,
     "path": "news/2026/10/02/11f369e97114-gpuvis-gpu-trace-visualizer.md"
   },
   {
@@ -405,7 +454,7 @@
     "tags": [],
     "importance": 3,
     "summary": "With most information hidden, the game Stratego had stumped AI until now",
-    "points": 284,
+    "points": 286,
     "path": "news/2026/10/02/e7998846bd78-with-most-information-hidden-the-game-stratego-had-stumped-a.md"
   },
   {
@@ -472,7 +521,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/10/02/5d63c736fb7c-show-hn-our-space-game-has-a-built-in-risc-v-emulator-that-r.md"
   },
   {
@@ -501,7 +550,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek Harness Desktop for macOS and Windows",
-    "points": 412,
+    "points": 413,
     "path": "news/2026/10/02/5629eef38fa4-deepseek-harness-desktop-for-macos-and-windows.md"
   },
   {
@@ -19567,6 +19616,17 @@
     "path": "news/2026/07/14/40a5b2ee12a7-industrial-humanoid-policy.md"
   },
   {
+    "id": "7dd0d94d00ab",
+    "title": "sad alex on songwriting, short-form, and creative autonomy",
+    "url": "https://suno.com/blog/sad-alex",
+    "source": "suno",
+    "publishedAt": "2026-07-14T20:18:47.757Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "sad alex on songwriting, short-form, and creative autonomy",
+    "path": "news/2026/07/14/7dd0d94d00ab-sad-alex-on-songwriting-short-form-and-creative-autonomy.md"
+  },
+  {
     "id": "04625b5fdd15",
     "title": "Speech Recognition and TTS in less than 500kb",
     "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
@@ -22482,6 +22542,17 @@
     "path": "news/2026/07/01/dad40c521fd7-wayve-announces-85m-employee-tender-offer.md"
   },
   {
+    "id": "a8858bef71bb",
+    "title": "How Dream Relic sees sound and gets it stuck in your head",
+    "url": "https://suno.com/blog/dream-relic",
+    "source": "suno",
+    "publishedAt": "2026-07-01T03:47:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Dream Relic sees sound and gets it stuck in your head",
+    "path": "news/2026/07/01/a8858bef71bb-how-dream-relic-sees-sound-and-gets-it-stuck-in-your-head.md"
+  },
+  {
     "id": "7ab0078f1ac2",
     "title": "Claude Fable 5 export control lifted",
     "url": "https://twitter.com/synthwavedd/status/2072103052635451559",
@@ -23407,6 +23478,17 @@
     "path": "news/2026/06/26/d6c524c67f81-u-s-government-will-decide-who-gets-to-use-gpt-5-6.md"
   },
   {
+    "id": "09bf7b84a714",
+    "title": "Matt Steffanina on owning the music behind the movement",
+    "url": "https://suno.com/blog/matt-steffanina",
+    "source": "suno",
+    "publishedAt": "2026-06-26T18:08:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Matt Steffanina on owning the music behind the movement",
+    "path": "news/2026/06/26/09bf7b84a714-matt-steffanina-on-owning-the-music-behind-the-movement.md"
+  },
+  {
     "id": "0af70dc4df45",
     "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "url": "https://github.com/workweave/router",
@@ -23421,6 +23503,17 @@
     "summary": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "points": 216,
     "path": "news/2026/06/26/0af70dc4df45-show-hn-smart-model-routing-directly-in-claude-codex-and-cur.md"
+  },
+  {
+    "id": "fd33f5cb4b1d",
+    "title": "Eric Christian on hearing the orchestra inside a melody",
+    "url": "https://suno.com/blog/eric-christian",
+    "source": "suno",
+    "publishedAt": "2026-06-26T15:39:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Eric Christian on hearing the orchestra inside a melody",
+    "path": "news/2026/06/26/fd33f5cb4b1d-eric-christian-on-hearing-the-orchestra-inside-a-melody.md"
   },
   {
     "id": "2d48e587cabe",
@@ -23630,6 +23723,19 @@
     "summary": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
     "points": 632,
     "path": "news/2026/06/25/2c66afaf9cbf-ford-ai-hiccups-push-carmaker-to-rehire-gray-beard-inspector.md"
+  },
+  {
+    "id": "845a2ebfaa3a",
+    "title": "Introducing Spark: Supporting the Next Generation of Independent Artists",
+    "url": "https://suno.com/blog/introducing-spark",
+    "source": "suno",
+    "publishedAt": "2026-06-25T14:30:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Spark: Supporting the Next Generation of Independent Artists",
+    "path": "news/2026/06/25/845a2ebfaa3a-introducing-spark-supporting-the-next-generation-of-independ.md"
   },
   {
     "id": "3569e12ac6e7",
@@ -26509,6 +26615,17 @@
     "path": "news/2026/06/11/b5fe879e0d23-how-a-new-dsl-may-survive-in-the-era-of-llms.md"
   },
   {
+    "id": "d4f268fb8577",
+    "title": "We’ve made improvements to Stem Separation",
+    "url": "https://suno.com/blog/stem-separation-updates",
+    "source": "suno",
+    "publishedAt": "2026-06-11T14:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "We’ve made improvements to Stem Separation",
+    "path": "news/2026/06/11/d4f268fb8577-we-ve-made-improvements-to-stem-separation.md"
+  },
+  {
     "id": "0784a5a64de4",
     "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
     "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
@@ -27789,6 +27906,17 @@
     "path": "news/2026/06/05/6857593cb053-hacker-news-sans-ai.md"
   },
   {
+    "id": "41a8791356b5",
+    "title": "Your Voice, Reimagined",
+    "url": "https://suno.com/blog/6-tips-for-voices",
+    "source": "suno",
+    "publishedAt": "2026-06-05T19:42:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Your Voice, Reimagined",
+    "path": "news/2026/06/05/41a8791356b5-your-voice-reimagined.md"
+  },
+  {
     "id": "67cdba8320b0",
     "title": "Transformers are inherently succinct",
     "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
@@ -28269,6 +28397,17 @@
     "summary": "How LLMs work",
     "points": 948,
     "path": "news/2026/06/03/cf3ff7852675-how-llms-work.md"
+  },
+  {
+    "id": "10a53dcbc6c5",
+    "title": "The Next Chapter for Suno",
+    "url": "https://suno.com/blog/series-d-announcement",
+    "source": "suno",
+    "publishedAt": "2026-06-03T19:14:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Next Chapter for Suno",
+    "path": "news/2026/06/03/10a53dcbc6c5-the-next-chapter-for-suno.md"
   },
   {
     "id": "13cfca4b6bcf",
@@ -43237,6 +43376,17 @@
     "path": "news/2026/03/26/6d035432da03-the-hackers-who-tracked-my-sleep-cycle.md"
   },
   {
+    "id": "445217c55c3b",
+    "title": "Suno v5.5: More Expressive. More You.",
+    "url": "https://suno.com/blog/v5-5",
+    "source": "suno",
+    "publishedAt": "2026-03-26T16:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Suno v5.5: More Expressive. More You.",
+    "path": "news/2026/03/26/445217c55c3b-suno-v5-5-more-expressive-more-you.md"
+  },
+  {
     "id": "940829b7d541",
     "title": "My minute-by-minute response to the LiteLLM malware attack",
     "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
@@ -53167,6 +53317,17 @@
     "summary": "How to effectively write quality code with AI",
     "points": 358,
     "path": "news/2026/02/06/1e68ed750426-how-to-effectively-write-quality-code-with-ai.md"
+  },
+  {
+    "id": "075104c04fff",
+    "title": "What's New in Suno Studio 1.2",
+    "url": "https://suno.com/blog/studio1_2",
+    "source": "suno",
+    "publishedAt": "2026-02-06T17:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "What's New in Suno Studio 1.2",
+    "path": "news/2026/02/06/075104c04fff-what-s-new-in-suno-studio-1-2.md"
   },
   {
     "id": "82cc378f72a8",
@@ -64252,6 +64413,17 @@
     "path": "news/2025/11/25/292f631c6a64-expanding-data-residency-access-to-business-customers-worldw.md"
   },
   {
+    "id": "413c949d5b02",
+    "title": "A new chapter in music creation",
+    "url": "https://suno.com/blog/wmg-partnership",
+    "source": "suno",
+    "publishedAt": "2025-11-25T19:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A new chapter in music creation",
+    "path": "news/2025/11/25/413c949d5b02-a-new-chapter-in-music-creation.md"
+  },
+  {
     "id": "15d80f34684d",
     "title": "Show HN: We built an open source, zero webhooks payment processor",
     "url": "https://github.com/flowglad/flowglad",
@@ -65349,6 +65521,17 @@
     "importance": 2,
     "summary": "How evals drive the next chapter in AI for businesses",
     "path": "news/2025/11/19/43cb7efd66ff-how-evals-drive-the-next-chapter-in-ai-for-businesses.md"
+  },
+  {
+    "id": "05e802b10476",
+    "title": "The Future of Music is Already Here",
+    "url": "https://suno.com/blog/series-c-announcement",
+    "source": "suno",
+    "publishedAt": "2025-11-19T07:40:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Future of Music is Already Here",
+    "path": "news/2025/11/19/05e802b10476-the-future-of-music-is-already-here.md"
   },
   {
     "id": "6e1b36b0df4f",
