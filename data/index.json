@@ -11,6 +11,123 @@
     "path": "news/2026/10/06/5357c9fb5491-agility-to-host-analyst-investor-day-on-october-6-2026.md"
   },
   {
+    "id": "48388c8501e0",
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T21:00:21Z",
+    "tags": [
+      "tool",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "points": 156,
+    "path": "news/2026/10/05/48388c8501e0-opus-5-5-agents-discover-two-room-temperature-magnetic-semic.md"
+  },
+  {
+    "id": "9657bd63f083",
+    "title": "The mental health of young men is declining. Experts warn it could get worse",
+    "url": "https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T20:07:25Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The mental health of young men is declining. Experts warn it could get worse",
+    "points": 55,
+    "path": "news/2026/10/05/9657bd63f083-the-mental-health-of-young-men-is-declining-experts-warn-it-.md"
+  },
+  {
+    "id": "b341f596451d",
+    "title": "AI Companies Are Parasites",
+    "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T19:30:10Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI Companies Are Parasites",
+    "points": 59,
+    "path": "news/2026/10/05/b341f596451d-ai-companies-are-parasites.md"
+  },
+  {
+    "id": "917ba46d3f15",
+    "title": "Beam: Reflection's 501B open-weight model",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T19:16:35Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "Beam: Reflection's 501B open-weight model",
+    "points": 253,
+    "path": "news/2026/10/05/917ba46d3f15-beam-reflection-s-501b-open-weight-model.md"
+  },
+  {
+    "id": "effec8516087",
+    "title": "5 Albums You Can't Miss",
+    "url": "https://suno.com/blog/albums-to-discover",
+    "source": "suno",
+    "publishedAt": "2026-10-05T18:53:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "5 Albums You Can't Miss",
+    "path": "news/2026/10/05/effec8516087-5-albums-you-can-t-miss.md"
+  },
+  {
+    "id": "4f685042ec2a",
+    "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+    "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T17:53:35Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+    "points": 253,
+    "path": "news/2026/10/05/4f685042ec2a-openai-rogue-agent-activities-found-on-wikimedia-projects.md"
+  },
+  {
+    "id": "d2b5b29b4c81",
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "source": "openai",
+    "publishedAt": "2026-10-05T15:00:00.000Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Our approach to EU text provenance rules",
+    "points": 60,
+    "path": "news/2026/10/05/d2b5b29b4c81-our-approach-to-eu-text-provenance-rules.md"
+  },
+  {
+    "id": "0e399df2477c",
+    "title": "Spending on AI is becoming almost impossible for businesses to budget",
+    "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T13:22:31Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Spending on AI is becoming almost impossible for businesses to budget",
+    "points": 58,
+    "path": "news/2026/10/05/0e399df2477c-spending-on-ai-is-becoming-almost-impossible-for-businesses-.md"
+  },
+  {
+    "id": "d17b9acf080e",
+    "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+    "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T12:56:18Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+    "points": 58,
+    "path": "news/2026/10/05/d17b9acf080e-accept-bad-things-in-return-for-benefits-of-ai-says-sam-altm.md"
+  },
+  {
     "id": "2d8e70fb45ce",
     "title": "Building advertising for the way people use AI",
     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
@@ -28,9 +145,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-05T05:37:40Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 78,
+    "points": 471,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {
@@ -42,7 +159,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "points": 238,
+    "points": 280,
     "path": "news/2026/10/05/c92c1cce7abf-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitc.md"
   },
   {
@@ -67,7 +184,7 @@
     ],
     "importance": 2,
     "summary": "Homa: The end of TCP for AI clusters [video]",
-    "points": 78,
+    "points": 79,
     "path": "news/2026/10/04/e5b1c9f90b67-homa-the-end-of-tcp-for-ai-clusters-video.md"
   },
   {
@@ -79,7 +196,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "points": 636,
+    "points": 754,
     "path": "news/2026/10/04/b0ff7ff16732-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-spa.md"
   },
   {
@@ -93,7 +210,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AI search for every photo and every frame of video on macOS",
-    "points": 154,
+    "points": 163,
     "path": "news/2026/10/04/1d9e0fedc80d-show-hn-ai-search-for-every-photo-and-every-frame-of-video-o.md"
   },
   {
@@ -105,7 +222,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to scale intent, quality, and artistry with AI [video]",
-    "points": 92,
+    "points": 98,
     "path": "news/2026/10/04/9d88c162841b-how-to-scale-intent-quality-and-artistry-with-ai-video.md"
   },
   {
@@ -119,7 +236,7 @@
     ],
     "importance": 2,
     "summary": "What's the future for pure math research in the age of AI?",
-    "points": 62,
+    "points": 67,
     "path": "news/2026/10/04/f0932d141c36-what-s-the-future-for-pure-math-research-in-the-age-of-ai.md"
   },
   {
@@ -131,7 +248,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Religious scholars met with Anthropic",
-    "points": 163,
+    "points": 165,
     "path": "news/2026/10/04/68c9cd5df8b0-religious-scholars-met-with-anthropic.md"
   },
   {
@@ -159,7 +276,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-    "points": 267,
+    "points": 268,
     "path": "news/2026/10/03/2abad21a6a05-openai-safety-leader-quits-warning-ai-company-s-culture-is-b.md"
   },
   {
@@ -171,7 +288,7 @@
     "tags": [],
     "importance": 3,
     "summary": "We want you to build the next Git platform on Cloudflare",
-    "points": 217,
+    "points": 225,
     "path": "news/2026/10/03/340ad731dd1a-we-want-you-to-build-the-next-git-platform-on-cloudflare.md"
   },
   {
@@ -183,7 +300,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic tried to persuade Pope that AI could be conscious being",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/10/03/a9710b9b2158-anthropic-tried-to-persuade-pope-that-ai-could-be-conscious-.md"
   },
   {
@@ -195,7 +312,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Our AI Midwife",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/10/03/c30abe5661a0-our-ai-midwife.md"
   },
   {
@@ -209,7 +326,7 @@
     ],
     "importance": 3,
     "summary": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-    "points": 235,
+    "points": 239,
     "path": "news/2026/10/03/9461f7b3268a-getting-the-most-out-of-opus-5-5-in-claude-and-claude-code.md"
   },
   {
@@ -221,7 +338,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Meta got right with Muse",
-    "points": 143,
+    "points": 145,
     "path": "news/2026/10/03/993113989136-what-meta-got-right-with-muse.md"
   },
   {
@@ -235,7 +352,7 @@
     ],
     "importance": 2,
     "summary": "Pop!_OS bans AI-generated code from much of its codebase",
-    "points": 117,
+    "points": 119,
     "path": "news/2026/10/03/4cd2857270f1-pop-os-bans-ai-generated-code-from-much-of-its-codebase.md"
   },
   {
@@ -247,7 +364,7 @@
     "tags": [],
     "importance": 3,
     "summary": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "points": 405,
+    "points": 410,
     "path": "news/2026/10/03/19c69c4646ee-lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-.md"
   },
   {
@@ -259,7 +376,7 @@
     "tags": [],
     "importance": 2,
     "summary": "City building games have a Soul Problem pt.2",
-    "points": 166,
+    "points": 167,
     "path": "news/2026/10/03/b4ad74eb5a89-city-building-games-have-a-soul-problem-pt-2.md"
   },
   {
@@ -283,7 +400,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I quit OpenAI because its culture is broken",
-    "points": 477,
+    "points": 485,
     "path": "news/2026/10/03/11404764e25f-i-quit-openai-because-its-culture-is-broken.md"
   },
   {
@@ -312,7 +429,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Germany's new sovereign AI model Kolibri",
-    "points": 419,
+    "points": 420,
     "path": "news/2026/10/03/1ef1b38c39d0-show-hn-germany-s-new-sovereign-ai-model-kolibri.md"
   },
   {
@@ -341,7 +458,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Offrun – manage every coding agent from one workspace",
-    "points": 76,
+    "points": 78,
     "path": "news/2026/10/03/a20e9d516e3a-show-hn-offrun-manage-every-coding-agent-from-one-workspace.md"
   },
   {
@@ -1772,6 +1889,19 @@
     "importance": 2,
     "summary": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
     "path": "news/2026/09/28/eb674100bb68-basis-completes-a-tax-workbook-2x-faster-with-gpt-6-astra.md"
+  },
+  {
+    "id": "eb916b5190e3",
+    "title": "Welcome RL Environments to the hub",
+    "url": "https://huggingface.co/blog/rl-environments",
+    "source": "huggingface",
+    "publishedAt": "2026-09-28T00:00:00.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Welcome RL Environments to the hub",
+    "path": "news/2026/09/28/eb916b5190e3-welcome-rl-environments-to-the-hub.md"
   },
   {
     "id": "479886072860",
@@ -120252,6 +120382,19 @@
     "path": "news/2024/09/23/3006ce343567-the-python-package-index-should-get-rid-of-its-training-whee.md"
   },
   {
+    "id": "c7c38251fb8f",
+    "title": "Introducing Sunoversity",
+    "url": "https://suno.com/blog/suno-students",
+    "source": "suno",
+    "publishedAt": "2024-09-23T17:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Sunoversity",
+    "path": "news/2024/09/23/c7c38251fb8f-introducing-sunoversity.md"
+  },
+  {
     "id": "bf7eefc31c29",
     "title": "Launch HN: Panora (YC S24) – Data Integration API for LLMs",
     "url": "https://github.com/panoratech/Panora",
@@ -121251,6 +121394,19 @@
     "path": "news/2024/09/12/f53c824cf961-openai-o1-system-card-pdf.md"
   },
   {
+    "id": "7fbcb3af72fe",
+    "title": "Introducing Covers",
+    "url": "https://suno.com/blog/covers",
+    "source": "suno",
+    "publishedAt": "2024-09-12T17:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Covers",
+    "path": "news/2024/09/12/7fbcb3af72fe-introducing-covers.md"
+  },
+  {
     "id": "9c890996d380",
     "title": "Buy-it-for-Life E-Bike Battery",
     "url": "https://get.gouach.com",
@@ -121491,6 +121647,17 @@
     "summary": "Possibly all the ways to get loop-finding in graphs wrong",
     "points": 230,
     "path": "news/2024/09/11/03684866aaa5-possibly-all-the-ways-to-get-loop-finding-in-graphs-wrong.md"
+  },
+  {
+    "id": "09e485e9adc7",
+    "title": "Suno Remix Contest (feat. Flosstradamus)",
+    "url": "https://suno.com/blog/floss",
+    "source": "suno",
+    "publishedAt": "2024-09-10T17:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Suno Remix Contest (feat. Flosstradamus)",
+    "path": "news/2024/09/10/09e485e9adc7-suno-remix-contest-feat-flosstradamus.md"
   },
   {
     "id": "072059b969d0",
@@ -122742,6 +122909,17 @@
     "summary": "Many FDA-approved AI medical devices are not trained on real patient data",
     "points": 82,
     "path": "news/2024/08/26/ed1cae05341f-many-fda-approved-ai-medical-devices-are-not-trained-on-real.md"
+  },
+  {
+    "id": "593fe1fd2a21",
+    "title": "Summer of Suno, Vol. 2 Winners",
+    "url": "https://suno.com/blog/community",
+    "source": "suno",
+    "publishedAt": "2024-08-26T19:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Summer of Suno, Vol. 2 Winners",
+    "path": "news/2024/08/26/593fe1fd2a21-summer-of-suno-vol-2-winners.md"
   },
   {
     "id": "8ecd2a7dba76",
@@ -124888,6 +125066,17 @@
     "path": "news/2024/08/01/01707a78032c-google-uses-ai-to-reduce-stop-and-go-traffic-on-your-route.md"
   },
   {
+    "id": "ae201632de0d",
+    "title": "The Future of Music",
+    "url": "https://suno.com/blog/future-of-music",
+    "source": "suno",
+    "publishedAt": "2024-08-01T14:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Future of Music",
+    "path": "news/2024/08/01/ae201632de0d-the-future-of-music.md"
+  },
+  {
     "id": "4111ae7f93d0",
     "title": "Study: Consumers Actively Turned Off by AI",
     "url": "https://futurism.com/the-byte/study-consumers-turned-off-products-ai",
@@ -126521,6 +126710,17 @@
     "path": "news/2024/07/16/3b961c2da655-how-we-leveraged-distilabel-to-create-an-argilla-2-0-chatbot.md"
   },
   {
+    "id": "4977f546e0d2",
+    "title": "The Summer of Suno, Vol. 2",
+    "url": "https://suno.com/blog/sos-vol-2",
+    "source": "suno",
+    "publishedAt": "2024-07-15T16:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Summer of Suno, Vol. 2",
+    "path": "news/2024/07/15/4977f546e0d2-the-summer-of-suno-vol-2.md"
+  },
+  {
     "id": "86c27a50b847",
     "title": "The AMD Zen 5 Microarcitecure",
     "url": "https://www.anandtech.com/show/21469/amd-details-ryzen-ai-300-series-for-mobile-strix-point-with-rdna-35-igpu-xdna-2-npu",
@@ -127773,6 +127973,19 @@
     "summary": "Show HN: I Made an Open Source Platform for Structuring Any Unstructured Data",
     "points": 88,
     "path": "news/2024/07/02/46d9f0a57b30-show-hn-i-made-an-open-source-platform-for-structuring-any-u.md"
+  },
+  {
+    "id": "7d1fc20a1077",
+    "title": "Introducing Suno for Mobile",
+    "url": "https://suno.com/blog/suno-for-mobile",
+    "source": "suno",
+    "publishedAt": "2024-07-01T20:01:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Suno for Mobile",
+    "path": "news/2024/07/01/7d1fc20a1077-introducing-suno-for-mobile.md"
   },
   {
     "id": "b0c59816d699",
@@ -129889,6 +130102,17 @@
     "path": "news/2024/06/12/fd5b9417984d-how-alexa-dropped-the-ball-on-being-the-top-conversational-s.md"
   },
   {
+    "id": "75001c6eeb6e",
+    "title": "Audio Inputs",
+    "url": "https://suno.com/blog/audio-inputs",
+    "source": "suno",
+    "publishedAt": "2024-06-12T15:30:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Audio Inputs",
+    "path": "news/2024/06/12/75001c6eeb6e-audio-inputs.md"
+  },
+  {
     "id": "6b80cdf7d283",
     "title": "Announcing the Open Release of Stable Diffusion 3 Medium",
     "url": "https://stability.ai/news/stable-diffusion-3-medium",
@@ -131429,6 +131653,17 @@
     "path": "news/2024/05/31/b6c782fd8c41-man-scammed-after-ai-told-him-fake-facebook-customer-support.md"
   },
   {
+    "id": "e0faef9c1464",
+    "title": "The Summer of Suno, Vol. 1",
+    "url": "https://suno.com/blog/sos-vol-1",
+    "source": "suno",
+    "publishedAt": "2024-05-31T14:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Summer of Suno, Vol. 1",
+    "path": "news/2024/05/31/e0faef9c1464-the-summer-of-suno-vol-1.md"
+  },
+  {
     "id": "e258443b04f5",
     "title": "What we've learned from a year of building with LLMs",
     "url": "https://eugeneyan.com/writing/llm-lessons/",
@@ -132861,6 +133096,19 @@
     "summary": "University Suspends Students for AI Tool It Gave Them $10k Prize to Make",
     "points": 68,
     "path": "news/2024/05/21/00310146f9b8-university-suspends-students-for-ai-tool-it-gave-them-10k-pr.md"
+  },
+  {
+    "id": "d689374ebbee",
+    "title": "Suno has raised $125 million",
+    "url": "https://suno.com/blog/fundraising-announcement-may-2024",
+    "source": "suno",
+    "publishedAt": "2024-05-21T14:00:00.000Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Suno has raised $125 million",
+    "path": "news/2024/05/21/d689374ebbee-suno-has-raised-125-million.md"
   },
   {
     "id": "6bd28f702a32",
@@ -140186,6 +140434,19 @@
     "summary": "Launch HN: Soundry AI (YC W24) – Music sample generator for music creators",
     "points": 171,
     "path": "news/2024/03/21/43f98d5555fe-launch-hn-soundry-ai-yc-w24-music-sample-generator-for-music.md"
+  },
+  {
+    "id": "713db85e3436",
+    "title": "Introducing v3",
+    "url": "https://suno.com/blog/v3",
+    "source": "suno",
+    "publishedAt": "2024-03-21T16:30:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing v3",
+    "path": "news/2024/03/21/713db85e3436-introducing-v3.md"
   },
   {
     "id": "27c5c4f988fe",

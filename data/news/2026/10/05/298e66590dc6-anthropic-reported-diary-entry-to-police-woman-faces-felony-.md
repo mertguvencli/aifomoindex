@@ -5,8 +5,8 @@ url: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthro
 source: hackernews
 published_at: 2026-10-05T05:37:40Z
 fetched_at: 2026-10-05T12:50:23.816Z
-importance: 2
-points: 78
+importance: 3
+points: 471
 tags: []
 ---
 
