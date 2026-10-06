@@ -1,5 +1,146 @@
 [
   {
+    "id": "2ee55c894d54",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "source": "deepmind",
+    "publishedAt": "2026-10-06T19:57:04.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "path": "news/2026/10/06/2ee55c894d54-embeddinggemma-2-an-open-lightweight-multimodal-embedding-mo.md"
+  },
+  {
+    "id": "dedfd77a2ec2",
+    "title": "Expanding the Cyber Verification Program",
+    "url": "https://www.anthropic.com/news/cyber-verification-program",
+    "source": "anthropic",
+    "publishedAt": "2026-10-06T19:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Expanding the Cyber Verification Program",
+    "path": "news/2026/10/06/dedfd77a2ec2-expanding-the-cyber-verification-program.md"
+  },
+  {
+    "id": "576ded508c0b",
+    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+    "url": "https://github.com/FeSens/openTPU",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T16:23:25Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
+    "points": 179,
+    "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
+  },
+  {
+    "id": "651d5d4131fc",
+    "title": "EmbeddingGemma 2",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T16:03:49Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "EmbeddingGemma 2",
+    "points": 127,
+    "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
+  },
+  {
+    "id": "2896758265ce",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "source": "openai",
+    "publishedAt": "2026-10-06T16:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "path": "news/2026/10/06/2896758265ce-atlassian-and-openai-expand-partnership-to-turn-enterprise-k.md"
+  },
+  {
+    "id": "1ef243007176",
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T13:15:49Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Mistral Large 4",
+    "points": 1444,
+    "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
+  },
+  {
+    "id": "b8b679815896",
+    "title": "Mistral Large 4",
+    "url": "https://twitter.com/MistralAI/status/2107456586813730854",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T13:06:16Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Mistral Large 4",
+    "points": 69,
+    "path": "news/2026/10/06/b8b679815896-mistral-large-4.md"
+  },
+  {
+    "id": "5198dea101ca",
+    "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+    "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T12:53:58Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
+    "points": 64,
+    "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
+  },
+  {
+    "id": "01f60ae7b332",
+    "title": "Show HN: MailAccess – the true Email OSINT framework",
+    "url": "https://mailaccess.pro",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T12:24:18Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: MailAccess – the true Email OSINT framework",
+    "points": 65,
+    "path": "news/2026/10/06/01f60ae7b332-show-hn-mailaccess-the-true-email-osint-framework.md"
+  },
+  {
+    "id": "6f131bbed5e7",
+    "title": "Introducing Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "source": "mistral",
+    "publishedAt": "2026-10-06T12:00:27.000Z",
+    "tags": [
+      "model",
+      "product"
+    ],
+    "importance": 3,
+    "summary": "Introducing Mistral Large 4",
+    "points": 517,
+    "path": "news/2026/10/06/6f131bbed5e7-introducing-mistral-large-4.md"
+  },
+  {
+    "id": "f57eff9c23a4",
+    "title": "Advancing computer use with Ironclad",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "source": "openai",
+    "publishedAt": "2026-10-06T10:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Advancing computer use with Ironclad",
+    "path": "news/2026/10/06/f57eff9c23a4-advancing-computer-use-with-ironclad.md"
+  },
+  {
     "id": "8553a0f4eb74",
     "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
     "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
@@ -8,7 +149,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-    "points": 62,
+    "points": 78,
     "path": "news/2026/10/06/8553a0f4eb74-anthropic-subscriptions-offer-5x-more-value-than-openai.md"
   },
   {
@@ -34,7 +175,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI tutoring with Khanmigo in a two-year school experiment",
-    "points": 67,
+    "points": 70,
     "path": "news/2026/10/06/df9e799a874b-ai-tutoring-with-khanmigo-in-a-two-year-school-experiment.md"
   },
   {
@@ -70,7 +211,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "points": 478,
+    "points": 535,
     "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
   },
   {
@@ -84,7 +225,7 @@
     ],
     "importance": 2,
     "summary": "Engineer says Claude Code has made his job \"soul-sucking\"",
-    "points": 57,
+    "points": 60,
     "path": "news/2026/10/05/f4d9d24d19fe-engineer-says-claude-code-has-made-his-job-soul-sucking.md"
   },
   {
@@ -99,7 +240,7 @@
     ],
     "importance": 3,
     "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "points": 384,
+    "points": 482,
     "path": "news/2026/10/05/48388c8501e0-opus-5-5-agents-discover-two-room-temperature-magnetic-semic.md"
   },
   {
@@ -111,7 +252,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The mental health of young men is declining. Experts warn it could get worse",
-    "points": 72,
+    "points": 79,
     "path": "news/2026/10/05/9657bd63f083-the-mental-health-of-young-men-is-declining-experts-warn-it-.md"
   },
   {
@@ -123,7 +264,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI Companies Are Parasites",
-    "points": 66,
+    "points": 70,
     "path": "news/2026/10/05/b341f596451d-ai-companies-are-parasites.md"
   },
   {
@@ -138,7 +279,7 @@
     ],
     "importance": 3,
     "summary": "Beam: Reflection's 501B open-weight model",
-    "points": 478,
+    "points": 536,
     "path": "news/2026/10/05/917ba46d3f15-beam-reflection-s-501b-open-weight-model.md"
   },
   {
@@ -163,7 +304,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "points": 285,
+    "points": 299,
     "path": "news/2026/10/05/4f685042ec2a-openai-rogue-agent-activities-found-on-wikimedia-projects.md"
   },
   {
@@ -177,7 +318,7 @@
     ],
     "importance": 2,
     "summary": "People are asking ChatGPT to help them decide how to vote in the midterms",
-    "points": 52,
+    "points": 53,
     "path": "news/2026/10/05/faf658a24d7c-people-are-asking-chatgpt-to-help-them-decide-how-to-vote-in.md"
   },
   {
@@ -191,7 +332,7 @@
     ],
     "importance": 2,
     "summary": "Our approach to EU text provenance rules",
-    "points": 68,
+    "points": 69,
     "path": "news/2026/10/05/d2b5b29b4c81-our-approach-to-eu-text-provenance-rules.md"
   },
   {
@@ -215,7 +356,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-    "points": 61,
+    "points": 63,
     "path": "news/2026/10/05/d17b9acf080e-accept-bad-things-in-return-for-benefits-of-ai-says-sam-altm.md"
   },
   {
@@ -238,7 +379,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 749,
+    "points": 800,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {
@@ -250,7 +391,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "points": 286,
+    "points": 288,
     "path": "news/2026/10/05/c92c1cce7abf-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitc.md"
   },
   {
@@ -287,7 +428,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "points": 761,
+    "points": 766,
     "path": "news/2026/10/04/b0ff7ff16732-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-spa.md"
   },
   {
@@ -301,7 +442,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AI search for every photo and every frame of video on macOS",
-    "points": 167,
+    "points": 174,
     "path": "news/2026/10/04/1d9e0fedc80d-show-hn-ai-search-for-every-photo-and-every-frame-of-video-o.md"
   },
   {
@@ -313,7 +454,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to scale intent, quality, and artistry with AI [video]",
-    "points": 100,
+    "points": 101,
     "path": "news/2026/10/04/9d88c162841b-how-to-scale-intent-quality-and-artistry-with-ai-video.md"
   },
   {
@@ -327,7 +468,7 @@
     ],
     "importance": 2,
     "summary": "What's the future for pure math research in the age of AI?",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/10/04/f0932d141c36-what-s-the-future-for-pure-math-research-in-the-age-of-ai.md"
   },
   {
