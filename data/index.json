@@ -11,6 +11,20 @@
     "path": "news/2026/10/06/5357c9fb5491-agility-to-host-analyst-investor-day-on-october-6-2026.md"
   },
   {
+    "id": "8aeeea4da45a",
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T22:46:45Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 3,
+    "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "points": 324,
+    "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
+  },
+  {
     "id": "48388c8501e0",
     "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
     "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
@@ -20,9 +34,9 @@
       "tool",
       "infra"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "points": 156,
+    "points": 240,
     "path": "news/2026/10/05/48388c8501e0-opus-5-5-agents-discover-two-room-temperature-magnetic-semic.md"
   },
   {
@@ -34,7 +48,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The mental health of young men is declining. Experts warn it could get worse",
-    "points": 55,
+    "points": 63,
     "path": "news/2026/10/05/9657bd63f083-the-mental-health-of-young-men-is-declining-experts-warn-it-.md"
   },
   {
@@ -46,7 +60,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI Companies Are Parasites",
-    "points": 59,
+    "points": 62,
     "path": "news/2026/10/05/b341f596451d-ai-companies-are-parasites.md"
   },
   {
@@ -61,7 +75,7 @@
     ],
     "importance": 3,
     "summary": "Beam: Reflection's 501B open-weight model",
-    "points": 253,
+    "points": 347,
     "path": "news/2026/10/05/917ba46d3f15-beam-reflection-s-501b-open-weight-model.md"
   },
   {
@@ -86,7 +100,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "points": 253,
+    "points": 262,
     "path": "news/2026/10/05/4f685042ec2a-openai-rogue-agent-activities-found-on-wikimedia-projects.md"
   },
   {
@@ -100,7 +114,7 @@
     ],
     "importance": 2,
     "summary": "Our approach to EU text provenance rules",
-    "points": 60,
+    "points": 63,
     "path": "news/2026/10/05/d2b5b29b4c81-our-approach-to-eu-text-provenance-rules.md"
   },
   {
@@ -124,7 +138,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-    "points": 58,
+    "points": 60,
     "path": "news/2026/10/05/d17b9acf080e-accept-bad-things-in-return-for-benefits-of-ai-says-sam-altm.md"
   },
   {
@@ -147,7 +161,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 471,
+    "points": 589,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {
@@ -159,7 +173,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "points": 280,
+    "points": 283,
     "path": "news/2026/10/05/c92c1cce7abf-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitc.md"
   },
   {
@@ -184,7 +198,7 @@
     ],
     "importance": 2,
     "summary": "Homa: The end of TCP for AI clusters [video]",
-    "points": 79,
+    "points": 80,
     "path": "news/2026/10/04/e5b1c9f90b67-homa-the-end-of-tcp-for-ai-clusters-video.md"
   },
   {
@@ -196,7 +210,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "points": 754,
+    "points": 758,
     "path": "news/2026/10/04/b0ff7ff16732-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-spa.md"
   },
   {
@@ -222,7 +236,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to scale intent, quality, and artistry with AI [video]",
-    "points": 98,
+    "points": 99,
     "path": "news/2026/10/04/9d88c162841b-how-to-scale-intent-quality-and-artistry-with-ai-video.md"
   },
   {
@@ -326,7 +340,7 @@
     ],
     "importance": 3,
     "summary": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-    "points": 239,
+    "points": 240,
     "path": "news/2026/10/03/9461f7b3268a-getting-the-most-out-of-opus-5-5-in-claude-and-claude-code.md"
   },
   {
@@ -338,7 +352,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Meta got right with Muse",
-    "points": 145,
+    "points": 146,
     "path": "news/2026/10/03/993113989136-what-meta-got-right-with-muse.md"
   },
   {
@@ -352,7 +366,7 @@
     ],
     "importance": 2,
     "summary": "Pop!_OS bans AI-generated code from much of its codebase",
-    "points": 119,
+    "points": 120,
     "path": "news/2026/10/03/4cd2857270f1-pop-os-bans-ai-generated-code-from-much-of-its-codebase.md"
   },
   {
@@ -364,7 +378,7 @@
     "tags": [],
     "importance": 3,
     "summary": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "points": 410,
+    "points": 411,
     "path": "news/2026/10/03/19c69c4646ee-lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-.md"
   },
   {
@@ -376,7 +390,7 @@
     "tags": [],
     "importance": 2,
     "summary": "City building games have a Soul Problem pt.2",
-    "points": 167,
+    "points": 168,
     "path": "news/2026/10/03/b4ad74eb5a89-city-building-games-have-a-soul-problem-pt-2.md"
   },
   {
@@ -400,7 +414,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I quit OpenAI because its culture is broken",
-    "points": 485,
+    "points": 486,
     "path": "news/2026/10/03/11404764e25f-i-quit-openai-because-its-culture-is-broken.md"
   },
   {
@@ -414,7 +428,7 @@
     ],
     "importance": 2,
     "summary": "US killer's sentence quashed because of AI video of victim shown in court",
-    "points": 76,
+    "points": 78,
     "path": "news/2026/10/03/f2d260de0be3-us-killer-s-sentence-quashed-because-of-ai-video-of-victim-s.md"
   },
   {
@@ -145854,6 +145868,19 @@
     "summary": "Thermodynamic AI is getting hotter",
     "points": 51,
     "path": "news/2024/02/08/9bb230884572-thermodynamic-ai-is-getting-hotter.md"
+  },
+  {
+    "id": "f94cab59f022",
+    "title": "Introducing the Suno Valentine's Day Experience",
+    "url": "https://suno.com/blog/v-day",
+    "source": "suno",
+    "publishedAt": "2024-02-08T08:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing the Suno Valentine's Day Experience",
+    "path": "news/2024/02/08/f94cab59f022-introducing-the-suno-valentine-s-day-experience.md"
   },
   {
     "id": "c5c6eb84fd42",

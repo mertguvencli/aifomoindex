@@ -5,8 +5,8 @@ url: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
 source: hackernews
 published_at: 2026-10-05T21:00:21Z
 fetched_at: 2026-10-05T23:24:52.304Z
-importance: 2
-points: 156
+importance: 3
+points: 240
 tags: [tool, infra]
 ---
 
