@@ -6,7 +6,7 @@ source: openai
 published_at: 2026-10-05T15:00:00.000Z
 fetched_at: 2026-10-05T23:24:52.304Z
 importance: 2
-points: 63
+points: 68
 tags: [policy]
 ---
 

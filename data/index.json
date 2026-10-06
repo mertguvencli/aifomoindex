@@ -1,5 +1,43 @@
 [
   {
+    "id": "8553a0f4eb74",
+    "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+    "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T07:29:50Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+    "points": 62,
+    "path": "news/2026/10/06/8553a0f4eb74-anthropic-subscriptions-offer-5x-more-value-than-openai.md"
+  },
+  {
+    "id": "fe424883c3ca",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "source": "huggingface",
+    "publishedAt": "2026-10-06T06:44:39.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "path": "news/2026/10/06/fe424883c3ca-falcon-emirati-when-an-llm-learns-the-dialect-the-culture-an.md"
+  },
+  {
+    "id": "df9e799a874b",
+    "title": "AI tutoring with Khanmigo in a two-year school experiment",
+    "url": "https://edworkingpapers.com/ai26-1551",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T00:00:45Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI tutoring with Khanmigo in a two-year school experiment",
+    "points": 67,
+    "path": "news/2026/10/06/df9e799a874b-ai-tutoring-with-khanmigo-in-a-two-year-school-experiment.md"
+  },
+  {
     "id": "5357c9fb5491",
     "title": "Agility to Host Analyst & Investor Day on October 6, 2026",
     "url": "https://www.agilityrobotics.com/content/agility-to-host-analyst-investor-day-on-october-6-2026",
@@ -9,6 +47,17 @@
     "importance": 2,
     "summary": "Agility to Host Analyst & Investor Day on October 6, 2026",
     "path": "news/2026/10/06/5357c9fb5491-agility-to-host-analyst-investor-day-on-october-6-2026.md"
+  },
+  {
+    "id": "ea66f1c57384",
+    "title": "Agility Robotics to Livestream Analyst & Investor Day Today",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-to-livestream-analyst-investor-day-today",
+    "source": "agility",
+    "publishedAt": "2026-10-06T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Robotics to Livestream Analyst & Investor Day Today",
+    "path": "news/2026/10/06/ea66f1c57384-agility-robotics-to-livestream-analyst-investor-day-today.md"
   },
   {
     "id": "8aeeea4da45a",
@@ -21,8 +70,22 @@
     ],
     "importance": 3,
     "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "points": 324,
+    "points": 478,
     "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
+  },
+  {
+    "id": "f4d9d24d19fe",
+    "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+    "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T22:01:35Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Engineer says Claude Code has made his job \"soul-sucking\"",
+    "points": 57,
+    "path": "news/2026/10/05/f4d9d24d19fe-engineer-says-claude-code-has-made-his-job-soul-sucking.md"
   },
   {
     "id": "48388c8501e0",
@@ -36,7 +99,7 @@
     ],
     "importance": 3,
     "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "points": 240,
+    "points": 384,
     "path": "news/2026/10/05/48388c8501e0-opus-5-5-agents-discover-two-room-temperature-magnetic-semic.md"
   },
   {
@@ -48,7 +111,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The mental health of young men is declining. Experts warn it could get worse",
-    "points": 63,
+    "points": 72,
     "path": "news/2026/10/05/9657bd63f083-the-mental-health-of-young-men-is-declining-experts-warn-it-.md"
   },
   {
@@ -60,7 +123,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI Companies Are Parasites",
-    "points": 62,
+    "points": 66,
     "path": "news/2026/10/05/b341f596451d-ai-companies-are-parasites.md"
   },
   {
@@ -75,7 +138,7 @@
     ],
     "importance": 3,
     "summary": "Beam: Reflection's 501B open-weight model",
-    "points": 347,
+    "points": 478,
     "path": "news/2026/10/05/917ba46d3f15-beam-reflection-s-501b-open-weight-model.md"
   },
   {
@@ -100,8 +163,22 @@
     ],
     "importance": 3,
     "summary": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "points": 262,
+    "points": 285,
     "path": "news/2026/10/05/4f685042ec2a-openai-rogue-agent-activities-found-on-wikimedia-projects.md"
+  },
+  {
+    "id": "faf658a24d7c",
+    "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+    "source": "hackernews",
+    "publishedAt": "2026-10-05T15:06:27Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "People are asking ChatGPT to help them decide how to vote in the midterms",
+    "points": 52,
+    "path": "news/2026/10/05/faf658a24d7c-people-are-asking-chatgpt-to-help-them-decide-how-to-vote-in.md"
   },
   {
     "id": "d2b5b29b4c81",
@@ -114,7 +191,7 @@
     ],
     "importance": 2,
     "summary": "Our approach to EU text provenance rules",
-    "points": 63,
+    "points": 68,
     "path": "news/2026/10/05/d2b5b29b4c81-our-approach-to-eu-text-provenance-rules.md"
   },
   {
@@ -126,7 +203,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Spending on AI is becoming almost impossible for businesses to budget",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/10/05/0e399df2477c-spending-on-ai-is-becoming-almost-impossible-for-businesses-.md"
   },
   {
@@ -138,7 +215,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/10/05/d17b9acf080e-accept-bad-things-in-return-for-benefits-of-ai-says-sam-altm.md"
   },
   {
@@ -161,7 +238,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 589,
+    "points": 749,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {
@@ -173,7 +250,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "points": 283,
+    "points": 286,
     "path": "news/2026/10/05/c92c1cce7abf-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitc.md"
   },
   {
@@ -210,7 +287,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "points": 758,
+    "points": 761,
     "path": "news/2026/10/04/b0ff7ff16732-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-spa.md"
   },
   {
@@ -224,7 +301,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AI search for every photo and every frame of video on macOS",
-    "points": 163,
+    "points": 167,
     "path": "news/2026/10/04/1d9e0fedc80d-show-hn-ai-search-for-every-photo-and-every-frame-of-video-o.md"
   },
   {
@@ -236,7 +313,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to scale intent, quality, and artistry with AI [video]",
-    "points": 99,
+    "points": 100,
     "path": "news/2026/10/04/9d88c162841b-how-to-scale-intent-quality-and-artistry-with-ai-video.md"
   },
   {
@@ -340,7 +417,7 @@
     ],
     "importance": 3,
     "summary": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-    "points": 240,
+    "points": 241,
     "path": "news/2026/10/03/9461f7b3268a-getting-the-most-out-of-opus-5-5-in-claude-and-claude-code.md"
   },
   {
@@ -352,7 +429,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Meta got right with Muse",
-    "points": 146,
+    "points": 148,
     "path": "news/2026/10/03/993113989136-what-meta-got-right-with-muse.md"
   },
   {
@@ -378,7 +455,7 @@
     "tags": [],
     "importance": 3,
     "summary": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "points": 411,
+    "points": 412,
     "path": "news/2026/10/03/19c69c4646ee-lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-.md"
   },
   {
@@ -390,7 +467,7 @@
     "tags": [],
     "importance": 2,
     "summary": "City building games have a Soul Problem pt.2",
-    "points": 168,
+    "points": 169,
     "path": "news/2026/10/03/b4ad74eb5a89-city-building-games-have-a-soul-problem-pt-2.md"
   },
   {
@@ -414,7 +491,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I quit OpenAI because its culture is broken",
-    "points": 486,
+    "points": 487,
     "path": "news/2026/10/03/11404764e25f-i-quit-openai-because-its-culture-is-broken.md"
   },
   {
