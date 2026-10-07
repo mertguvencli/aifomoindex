@@ -1,5 +1,45 @@
 [
   {
+    "id": "0ee69fe6ea48",
+    "title": "Integer multiplication below n log n",
+    "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T23:14:52Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Integer multiplication below n log n",
+    "points": 70,
+    "path": "news/2026/10/06/0ee69fe6ea48-integer-multiplication-below-n-log-n.md"
+  },
+  {
+    "id": "1c499c21c90a",
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "url": "https://penguin-mail.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T21:59:43Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "points": 86,
+    "path": "news/2026/10/06/1c499c21c90a-penguin-mail-open-source-rust-email-client-for-linux-with-ai.md"
+  },
+  {
+    "id": "f6e419d4eb70",
+    "title": "Decisions API is in public beta",
+    "url": "https://developers.openai.com/api/docs/guides/decisions",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T20:57:25Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Decisions API is in public beta",
+    "points": 166,
+    "path": "news/2026/10/06/f6e419d4eb70-decisions-api-is-in-public-beta.md"
+  },
+  {
     "id": "2ee55c894d54",
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -24,6 +64,32 @@
     "path": "news/2026/10/06/dedfd77a2ec2-expanding-the-cyber-verification-program.md"
   },
   {
+    "id": "33855b8c9c91",
+    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T18:00:34Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude Code’s suggested message feature: I think the real customer is the model",
+    "points": 114,
+    "path": "news/2026/10/06/33855b8c9c91-claude-code-s-suggested-message-feature-i-think-the-real-cus.md"
+  },
+  {
+    "id": "6cb87f094505",
+    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T17:01:52Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "points": 86,
+    "path": "news/2026/10/06/6cb87f094505-utah-to-let-ai-examine-patients-and-prescribe-medication-wit.md"
+  },
+  {
     "id": "576ded508c0b",
     "title": "OpenTPU – An open-source AI accelerator, developed by AI",
     "url": "https://github.com/FeSens/openTPU",
@@ -32,9 +98,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 179,
+    "points": 243,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -44,9 +110,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-06T16:03:49Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "EmbeddingGemma 2",
-    "points": 127,
+    "points": 232,
     "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
   },
   {
@@ -71,7 +137,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 1444,
+    "points": 1616,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -85,7 +151,7 @@
     ],
     "importance": 2,
     "summary": "Mistral Large 4",
-    "points": 69,
+    "points": 70,
     "path": "news/2026/10/06/b8b679815896-mistral-large-4.md"
   },
   {
@@ -97,7 +163,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "points": 64,
+    "points": 95,
     "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
   },
   {
@@ -111,7 +177,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: MailAccess – the true Email OSINT framework",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/06/01f60ae7b332-show-hn-mailaccess-the-true-email-osint-framework.md"
   },
   {
@@ -126,8 +192,34 @@
     ],
     "importance": 3,
     "summary": "Introducing Mistral Large 4",
-    "points": 517,
+    "points": 518,
     "path": "news/2026/10/06/6f131bbed5e7-introducing-mistral-large-4.md"
+  },
+  {
+    "id": "ebb413cc5359",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "source": "openai",
+    "publishedAt": "2026-10-06T12:00:00.000Z",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "How Jump Trading is scaling quant research with ChatGPT",
+    "path": "news/2026/10/06/ebb413cc5359-how-jump-trading-is-scaling-quant-research-with-chatgpt.md"
+  },
+  {
+    "id": "00427e47df5e",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "source": "openai",
+    "publishedAt": "2026-10-06T12:00:00.000Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Sharing AI progress in mathematics",
+    "points": 494,
+    "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
     "id": "f57eff9c23a4",
@@ -149,7 +241,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-    "points": 78,
+    "points": 79,
     "path": "news/2026/10/06/8553a0f4eb74-anthropic-subscriptions-offer-5x-more-value-than-openai.md"
   },
   {
@@ -175,7 +267,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI tutoring with Khanmigo in a two-year school experiment",
-    "points": 70,
+    "points": 71,
     "path": "news/2026/10/06/df9e799a874b-ai-tutoring-with-khanmigo-in-a-two-year-school-experiment.md"
   },
   {
@@ -211,7 +303,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "points": 535,
+    "points": 545,
     "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
   },
   {
@@ -225,7 +317,7 @@
     ],
     "importance": 2,
     "summary": "Engineer says Claude Code has made his job \"soul-sucking\"",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/10/05/f4d9d24d19fe-engineer-says-claude-code-has-made-his-job-soul-sucking.md"
   },
   {
@@ -264,7 +356,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI Companies Are Parasites",
-    "points": 70,
+    "points": 71,
     "path": "news/2026/10/05/b341f596451d-ai-companies-are-parasites.md"
   },
   {
@@ -279,7 +371,7 @@
     ],
     "importance": 3,
     "summary": "Beam: Reflection's 501B open-weight model",
-    "points": 536,
+    "points": 542,
     "path": "news/2026/10/05/917ba46d3f15-beam-reflection-s-501b-open-weight-model.md"
   },
   {
@@ -318,7 +410,7 @@
     ],
     "importance": 2,
     "summary": "People are asking ChatGPT to help them decide how to vote in the midterms",
-    "points": 53,
+    "points": 54,
     "path": "news/2026/10/05/faf658a24d7c-people-are-asking-chatgpt-to-help-them-decide-how-to-vote-in.md"
   },
   {
@@ -332,7 +424,7 @@
     ],
     "importance": 2,
     "summary": "Our approach to EU text provenance rules",
-    "points": 69,
+    "points": 70,
     "path": "news/2026/10/05/d2b5b29b4c81-our-approach-to-eu-text-provenance-rules.md"
   },
   {
@@ -379,7 +471,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 800,
+    "points": 813,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {
@@ -428,7 +520,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "points": 766,
+    "points": 767,
     "path": "news/2026/10/04/b0ff7ff16732-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-spa.md"
   },
   {
@@ -442,7 +534,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AI search for every photo and every frame of video on macOS",
-    "points": 174,
+    "points": 175,
     "path": "news/2026/10/04/1d9e0fedc80d-show-hn-ai-search-for-every-photo-and-every-frame-of-video-o.md"
   },
   {
@@ -468,7 +560,7 @@
     ],
     "importance": 2,
     "summary": "What's the future for pure math research in the age of AI?",
-    "points": 68,
+    "points": 69,
     "path": "news/2026/10/04/f0932d141c36-what-s-the-future-for-pure-math-research-in-the-age-of-ai.md"
   },
   {

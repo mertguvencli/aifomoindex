@@ -5,8 +5,8 @@ url: https://github.com/FeSens/openTPU
 source: hackernews
 published_at: 2026-10-06T16:23:25Z
 fetched_at: 2026-10-06T21:56:49.095Z
-importance: 2
-points: 179
+importance: 3
+points: 243
 tags: [opensource]
 ---
 

@@ -5,8 +5,8 @@ url: https://blog.google/innovation-and-ai/technology/developers-tools/embedding
 source: hackernews
 published_at: 2026-10-06T16:03:49Z
 fetched_at: 2026-10-06T21:56:49.095Z
-importance: 2
-points: 127
+importance: 3
+points: 232
 tags: []
 ---
 
