@@ -1,5 +1,127 @@
 [
   {
+    "id": "1baae7f6e5e8",
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T18:49:40Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "points": 194,
+    "path": "news/2026/10/07/1baae7f6e5e8-meta-and-microsoft-take-steps-to-reduce-employee-usage-of-cl.md"
+  },
+  {
+    "id": "6b1b69f74c1f",
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T18:01:32Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Claude Haiku 5.5",
+    "points": 546,
+    "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
+  },
+  {
+    "id": "88e871d5a8d2",
+    "title": "Multimodal open d1 decision models for the edge",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "source": "huggingface",
+    "publishedAt": "2026-10-07T16:54:33.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Multimodal open d1 decision models for the edge",
+    "path": "news/2026/10/07/88e871d5a8d2-multimodal-open-d1-decision-models-for-the-edge.md"
+  },
+  {
+    "id": "3e30f3c3fd69",
+    "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T16:07:08Z",
+    "tags": [
+      "model",
+      "research",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+    "points": 85,
+    "path": "news/2026/10/07/3e30f3c3fd69-study-claude-chatgpt-offer-different-shopping-prices-based-o.md"
+  },
+  {
+    "id": "f0f3cc58469b",
+    "title": "Incident with Git Operations, Pull Requests and Actions – Resolved",
+    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T15:17:23Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Incident with Git Operations, Pull Requests and Actions – Resolved",
+    "points": 223,
+    "path": "news/2026/10/07/f0f3cc58469b-incident-with-git-operations-pull-requests-and-actions-resol.md"
+  },
+  {
+    "id": "7cd2c9633544",
+    "title": "SynthID Detector",
+    "url": "https://synthid.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T14:16:44Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "SynthID Detector",
+    "points": 77,
+    "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
+  },
+  {
+    "id": "d5683ffff7ec",
+    "title": "AI-assisted proof of optimal packing for 11 squares",
+    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T14:10:55Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI-assisted proof of optimal packing for 11 squares",
+    "points": 99,
+    "path": "news/2026/10/07/d5683ffff7ec-ai-assisted-proof-of-optimal-packing-for-11-squares.md"
+  },
+  {
+    "id": "67f5f61696a2",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "source": "huggingface",
+    "publishedAt": "2026-10-07T12:45:31.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "path": "news/2026/10/07/67f5f61696a2-one-model-family-two-gold-level-results-fine-tuning-nemotron.md"
+  },
+  {
+    "id": "6548d458a2ed",
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T12:04:36Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "points": 82,
+    "path": "news/2026/10/07/6548d458a2ed-write-like-it-s-1866-llms-relearn-telegraphese.md"
+  },
+  {
     "id": "e04d1da69350",
     "title": "Introducing Playground: Create and play custom games",
     "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -10,7 +132,85 @@
     ],
     "importance": 2,
     "summary": "Introducing Playground: Create and play custom games",
-    "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md"
+    "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md",
+    "points": 98
+  },
+  {
+    "id": "661f64ddb5f4",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "source": "openai",
+    "publishedAt": "2026-10-07T12:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Helping teens learn, plan, and shape the future of AI",
+    "path": "news/2026/10/07/661f64ddb5f4-helping-teens-learn-plan-and-shape-the-future-of-ai.md"
+  },
+  {
+    "id": "057aea97b0c9",
+    "title": "Reasons to Dislike AI Coding",
+    "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T09:15:00Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Reasons to Dislike AI Coding",
+    "points": 56,
+    "path": "news/2026/10/07/057aea97b0c9-reasons-to-dislike-ai-coding.md"
+  },
+  {
+    "id": "5eda42e998eb",
+    "title": "Forever junior: Skills AI can't develop for you",
+    "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T08:00:06Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Forever junior: Skills AI can't develop for you",
+    "points": 62,
+    "path": "news/2026/10/07/5eda42e998eb-forever-junior-skills-ai-can-t-develop-for-you.md"
+  },
+  {
+    "id": "4e324623ab7c",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "source": "openai",
+    "publishedAt": "2026-10-07T07:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "path": "news/2026/10/07/4e324623ab7c-radisson-hotel-group-brings-hotel-discovery-into-chatgpt.md"
+  },
+  {
+    "id": "ee4f657a56bd",
+    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+    "url": "https://github.com/nano-muse/nanoMuse",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T03:30:44Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+    "points": 54,
+    "path": "news/2026/10/07/ee4f657a56bd-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-.md"
+  },
+  {
+    "id": "a097ef0d441a",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "source": "openai",
+    "publishedAt": "2026-10-07T00:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "GPT-6 and Intelligent UI for everyone",
+    "points": 391,
+    "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
     "id": "a8ede1b2b9a2",
@@ -23,7 +223,7 @@
     ],
     "importance": 2,
     "summary": "South Korea says AI agents appear to have been used to hack the country's banks",
-    "points": 83,
+    "points": 97,
     "path": "news/2026/10/06/a8ede1b2b9a2-south-korea-says-ai-agents-appear-to-have-been-used-to-hack-.md"
   },
   {
@@ -35,7 +235,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Integer multiplication below n log n",
-    "points": 101,
+    "points": 109,
     "path": "news/2026/10/06/0ee69fe6ea48-integer-multiplication-below-n-log-n.md"
   },
   {
@@ -49,7 +249,7 @@
     ],
     "importance": 3,
     "summary": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "points": 203,
+    "points": 230,
     "path": "news/2026/10/06/1c499c21c90a-penguin-mail-open-source-rust-email-client-for-linux-with-ai.md"
   },
   {
@@ -63,7 +263,7 @@
     ],
     "importance": 3,
     "summary": "Decisions API is in public beta",
-    "points": 328,
+    "points": 382,
     "path": "news/2026/10/06/f6e419d4eb70-decisions-api-is-in-public-beta.md"
   },
   {
@@ -101,7 +301,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "points": 223,
+    "points": 261,
     "path": "news/2026/10/06/33855b8c9c91-claude-code-s-suggested-message-feature-i-think-the-real-cus.md"
   },
   {
@@ -113,7 +313,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Utah to let AI examine patients and prescribe medication without human oversight",
-    "points": 128,
+    "points": 135,
     "path": "news/2026/10/06/6cb87f094505-utah-to-let-ai-examine-patients-and-prescribe-medication-wit.md"
   },
   {
@@ -127,7 +327,7 @@
     ],
     "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 302,
+    "points": 334,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -139,7 +339,7 @@
     "tags": [],
     "importance": 3,
     "summary": "EmbeddingGemma 2",
-    "points": 353,
+    "points": 413,
     "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
   },
   {
@@ -164,7 +364,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 1873,
+    "points": 1989,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -190,7 +390,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "points": 105,
+    "points": 115,
     "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
   },
   {
@@ -219,7 +419,7 @@
     ],
     "importance": 3,
     "summary": "Introducing Mistral Large 4",
-    "points": 519,
+    "points": 521,
     "path": "news/2026/10/06/6f131bbed5e7-introducing-mistral-large-4.md"
   },
   {
@@ -245,7 +445,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 985,
+    "points": 1206,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
@@ -268,7 +468,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-    "points": 79,
+    "points": 80,
     "path": "news/2026/10/06/8553a0f4eb74-anthropic-subscriptions-offer-5x-more-value-than-openai.md"
   },
   {
@@ -296,7 +496,7 @@
     ],
     "importance": 2,
     "summary": "LLMs may have helped my RSI",
-    "points": 96,
+    "points": 102,
     "path": "news/2026/10/06/abd0a7583c19-llms-may-have-helped-my-rsi.md"
   },
   {
@@ -344,7 +544,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "points": 549,
+    "points": 553,
     "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
   },
   {
@@ -373,7 +573,7 @@
     ],
     "importance": 3,
     "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "points": 485,
+    "points": 488,
     "path": "news/2026/10/05/48388c8501e0-opus-5-5-agents-discover-two-room-temperature-magnetic-semic.md"
   },
   {
@@ -412,7 +612,7 @@
     ],
     "importance": 3,
     "summary": "Beam: Reflection's 501B open-weight model",
-    "points": 546,
+    "points": 549,
     "path": "news/2026/10/05/917ba46d3f15-beam-reflection-s-501b-open-weight-model.md"
   },
   {
@@ -437,7 +637,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "points": 299,
+    "points": 300,
     "path": "news/2026/10/05/4f685042ec2a-openai-rogue-agent-activities-found-on-wikimedia-projects.md"
   },
   {
@@ -512,7 +712,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 818,
+    "points": 824,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {
