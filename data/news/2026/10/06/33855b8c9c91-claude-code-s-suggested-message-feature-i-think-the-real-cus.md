@@ -5,8 +5,8 @@ url: https://www.zohaib.cc/blog/smartest-claude-code-feature
 source: hackernews
 published_at: 2026-10-06T18:00:34Z
 fetched_at: 2026-10-07T02:58:05.591Z
-importance: 2
-points: 114
+importance: 3
+points: 223
 tags: [model]
 ---
 

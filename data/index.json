@@ -1,5 +1,32 @@
 [
   {
+    "id": "e04d1da69350",
+    "title": "Introducing Playground: Create and play custom games",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "googleai",
+    "publishedAt": "2026-10-07T12:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Playground: Create and play custom games",
+    "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md"
+  },
+  {
+    "id": "a8ede1b2b9a2",
+    "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+    "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T23:50:33Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "South Korea says AI agents appear to have been used to hack the country's banks",
+    "points": 83,
+    "path": "news/2026/10/06/a8ede1b2b9a2-south-korea-says-ai-agents-appear-to-have-been-used-to-hack-.md"
+  },
+  {
     "id": "0ee69fe6ea48",
     "title": "Integer multiplication below n log n",
     "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
@@ -8,7 +35,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Integer multiplication below n log n",
-    "points": 70,
+    "points": 101,
     "path": "news/2026/10/06/0ee69fe6ea48-integer-multiplication-below-n-log-n.md"
   },
   {
@@ -20,9 +47,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "points": 86,
+    "points": 203,
     "path": "news/2026/10/06/1c499c21c90a-penguin-mail-open-source-rust-email-client-for-linux-with-ai.md"
   },
   {
@@ -34,9 +61,9 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Decisions API is in public beta",
-    "points": 166,
+    "points": 328,
     "path": "news/2026/10/06/f6e419d4eb70-decisions-api-is-in-public-beta.md"
   },
   {
@@ -72,9 +99,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "points": 114,
+    "points": 223,
     "path": "news/2026/10/06/33855b8c9c91-claude-code-s-suggested-message-feature-i-think-the-real-cus.md"
   },
   {
@@ -86,7 +113,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Utah to let AI examine patients and prescribe medication without human oversight",
-    "points": 86,
+    "points": 128,
     "path": "news/2026/10/06/6cb87f094505-utah-to-let-ai-examine-patients-and-prescribe-medication-wit.md"
   },
   {
@@ -100,7 +127,7 @@
     ],
     "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 243,
+    "points": 302,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -112,7 +139,7 @@
     "tags": [],
     "importance": 3,
     "summary": "EmbeddingGemma 2",
-    "points": 232,
+    "points": 353,
     "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
   },
   {
@@ -137,7 +164,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 1616,
+    "points": 1873,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -163,7 +190,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "points": 95,
+    "points": 105,
     "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
   },
   {
@@ -177,7 +204,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: MailAccess – the true Email OSINT framework",
-    "points": 66,
+    "points": 75,
     "path": "news/2026/10/06/01f60ae7b332-show-hn-mailaccess-the-true-email-osint-framework.md"
   },
   {
@@ -192,7 +219,7 @@
     ],
     "importance": 3,
     "summary": "Introducing Mistral Large 4",
-    "points": 518,
+    "points": 519,
     "path": "news/2026/10/06/6f131bbed5e7-introducing-mistral-large-4.md"
   },
   {
@@ -218,7 +245,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 494,
+    "points": 985,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
@@ -259,6 +286,20 @@
     "path": "news/2026/10/06/fe424883c3ca-falcon-emirati-when-an-llm-learns-the-dialect-the-culture-an.md"
   },
   {
+    "id": "abd0a7583c19",
+    "title": "LLMs may have helped my RSI",
+    "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-06T03:01:04Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "LLMs may have helped my RSI",
+    "points": 96,
+    "path": "news/2026/10/06/abd0a7583c19-llms-may-have-helped-my-rsi.md"
+  },
+  {
     "id": "df9e799a874b",
     "title": "AI tutoring with Khanmigo in a two-year school experiment",
     "url": "https://edworkingpapers.com/ai26-1551",
@@ -267,7 +308,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI tutoring with Khanmigo in a two-year school experiment",
-    "points": 71,
+    "points": 73,
     "path": "news/2026/10/06/df9e799a874b-ai-tutoring-with-khanmigo-in-a-two-year-school-experiment.md"
   },
   {
@@ -303,7 +344,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "points": 545,
+    "points": 549,
     "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
   },
   {
@@ -332,7 +373,7 @@
     ],
     "importance": 3,
     "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "points": 482,
+    "points": 485,
     "path": "news/2026/10/05/48388c8501e0-opus-5-5-agents-discover-two-room-temperature-magnetic-semic.md"
   },
   {
@@ -371,7 +412,7 @@
     ],
     "importance": 3,
     "summary": "Beam: Reflection's 501B open-weight model",
-    "points": 542,
+    "points": 546,
     "path": "news/2026/10/05/917ba46d3f15-beam-reflection-s-501b-open-weight-model.md"
   },
   {
@@ -471,7 +512,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 813,
+    "points": 818,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {
@@ -483,7 +524,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "points": 288,
+    "points": 290,
     "path": "news/2026/10/05/c92c1cce7abf-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitc.md"
   },
   {

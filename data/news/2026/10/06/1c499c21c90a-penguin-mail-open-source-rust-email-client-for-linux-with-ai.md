@@ -5,8 +5,8 @@ url: https://penguin-mail.com/
 source: hackernews
 published_at: 2026-10-06T21:59:43Z
 fetched_at: 2026-10-07T02:58:05.591Z
-importance: 2
-points: 86
+importance: 3
+points: 203
 tags: [opensource]
 ---
 
