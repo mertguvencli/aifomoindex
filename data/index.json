@@ -1,15 +1,178 @@
 [
   {
+    "id": "56e97c0b57a8",
+    "title": "Testing Thinking Mode",
+    "url": "https://updates.midjourney.com/testing-thinking-mode/",
+    "source": "midjourney",
+    "publishedAt": "2026-10-08T21:17:13.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Testing Thinking Mode",
+    "path": "news/2026/10/08/56e97c0b57a8-testing-thinking-mode.md"
+  },
+  {
+    "id": "680e979d5b84",
+    "title": "Alpha Changelog - 10/7/26",
+    "url": "https://updates.midjourney.com/alpha-changelog-10-7-26/",
+    "source": "midjourney",
+    "publishedAt": "2026-10-08T21:16:55.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Alpha Changelog - 10/7/26",
+    "path": "news/2026/10/08/680e979d5b84-alpha-changelog-10-7-26.md"
+  },
+  {
+    "id": "6bc82994d692",
+    "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+    "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T19:17:51Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+    "points": 53,
+    "path": "news/2026/10/08/6bc82994d692-vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-.md"
+  },
+  {
+    "id": "8d2d84fbc739",
+    "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T17:08:02Z",
+    "tags": [
+      "model",
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+    "points": 60,
+    "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
+  },
+  {
+    "id": "d0113c0cdfc8",
+    "title": "2026 Usage Policy update",
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "source": "anthropic",
+    "publishedAt": "2026-10-08T17:00:00.000Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "2026 Usage Policy update",
+    "path": "news/2026/10/08/d0113c0cdfc8-2026-usage-policy-update.md"
+  },
+  {
+    "id": "5601af0cee33",
+    "title": "OpenAI annualised revenues $20B less than previously signalled",
+    "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T16:45:58Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "OpenAI annualised revenues $20B less than previously signalled",
+    "points": 341,
+    "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
+  },
+  {
+    "id": "fb3c354fbfe3",
+    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+    "url": "https://openrouter.ai/stepfun/step-5-preview",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T16:20:20Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+    "points": 75,
+    "path": "news/2026/10/08/fb3c354fbfe3-step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-ope.md"
+  },
+  {
+    "id": "db7b9e6fe248",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "url": "https://openai.com/index/oracle",
+    "source": "openai",
+    "publishedAt": "2026-10-08T16:00:00.000Z",
+    "tags": [
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "path": "news/2026/10/08/db7b9e6fe248-how-oracle-turns-days-of-work-into-minutes-with-chatgpt-and-.md"
+  },
+  {
+    "id": "dea3f2aab79d",
+    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+    "url": "https://github.com/SamsungLabs/LittleBit",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T13:29:46Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Sub-1-Bit LLM Compression via Latent Factorization",
+    "points": 77,
+    "path": "news/2026/10/08/dea3f2aab79d-sub-1-bit-llm-compression-via-latent-factorization.md"
+  },
+  {
+    "id": "fd0dc27ca8ea",
+    "title": "Building on our commitment to American scientific discovery",
+    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "source": "anthropic",
+    "publishedAt": "2026-10-08T13:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Building on our commitment to American scientific discovery",
+    "path": "news/2026/10/08/fd0dc27ca8ea-building-on-our-commitment-to-american-scientific-discovery.md"
+  },
+  {
+    "id": "855092fba1df",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "source": "openai",
+    "publishedAt": "2026-10-08T12:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "path": "news/2026/10/08/855092fba1df-pollo-ai-turns-creative-ideas-into-campaigns-with-openai.md"
+  },
+  {
+    "id": "db9affcbdb97",
+    "title": "Introducing the Anthropic Cyber Mission",
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "source": "anthropic",
+    "publishedAt": "2026-10-08T09:04:16.632Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing the Anthropic Cyber Mission",
+    "path": "news/2026/10/08/db9affcbdb97-introducing-the-anthropic-cyber-mission.md"
+  },
+  {
     "id": "8fdb962b6a49",
     "title": "OpenAI Withdraws 3 Math Papers",
     "url": "https://github.com/openai/math/blob/main/history.md",
     "source": "hackernews",
     "publishedAt": "2026-10-08T08:08:37Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenAI Withdraws 3 Math Papers",
-    "points": 62,
+    "points": 338,
     "path": "news/2026/10/08/8fdb962b6a49-openai-withdraws-3-math-papers.md"
+  },
+  {
+    "id": "d5717ee6bdba",
+    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T07:07:34Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "points": 95,
+    "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
     "id": "cb64f35a0509",
@@ -18,9 +181,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-08T07:05:40Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenAI withdraws three mathematical results",
-    "points": 81,
+    "points": 237,
     "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
   },
   {
@@ -34,8 +197,47 @@
     ],
     "importance": 2,
     "summary": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "points": 75,
+    "points": 108,
     "path": "news/2026/10/08/dc50683096de-port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l.md"
+  },
+  {
+    "id": "ee337b341c53",
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T00:14:48Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "points": 270,
+    "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
+  },
+  {
+    "id": "d9e485b409fe",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "source": "openai",
+    "publishedAt": "2026-10-08T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Disrupting AI-enabled “false front” operations",
+    "path": "news/2026/10/08/d9e485b409fe-disrupting-ai-enabled-false-front-operations.md"
+  },
+  {
+    "id": "ffd281819637",
+    "title": "The model that didn't exist, so you made it yourself",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "source": "huggingface",
+    "publishedAt": "2026-10-08T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "The model that didn't exist, so you made it yourself",
+    "path": "news/2026/10/08/ffd281819637-the-model-that-didn-t-exist-so-you-made-it-yourself.md"
   },
   {
     "id": "1baae7f6e5e8",
@@ -48,7 +250,7 @@
     ],
     "importance": 3,
     "summary": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "points": 345,
+    "points": 367,
     "path": "news/2026/10/07/1baae7f6e5e8-meta-and-microsoft-take-steps-to-reduce-employee-usage-of-cl.md"
   },
   {
@@ -62,7 +264,7 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 929,
+    "points": 1030,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
   },
   {
@@ -77,7 +279,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-    "points": 62,
+    "points": 67,
     "path": "news/2026/10/07/92066f2db79f-show-hn-agent-reviews-where-ai-agents-read-and-write-reviews.md"
   },
   {
@@ -107,7 +309,7 @@
     ],
     "importance": 2,
     "summary": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-    "points": 96,
+    "points": 97,
     "path": "news/2026/10/07/3e30f3c3fd69-study-claude-chatgpt-offer-different-shopping-prices-based-o.md"
   },
   {
@@ -131,7 +333,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 119,
+    "points": 123,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -143,8 +345,22 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-assisted proof of optimal packing for 11 squares",
-    "points": 115,
+    "points": 117,
     "path": "news/2026/10/07/d5683ffff7ec-ai-assisted-proof-of-optimal-packing-for-11-squares.md"
+  },
+  {
+    "id": "16b7810afb00",
+    "title": "Introducing Falcon ASR",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "source": "huggingface",
+    "publishedAt": "2026-10-07T13:21:03.000Z",
+    "tags": [
+      "product",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Introducing Falcon ASR",
+    "path": "news/2026/10/07/16b7810afb00-introducing-falcon-asr.md"
   },
   {
     "id": "67f5f61696a2",
@@ -171,7 +387,7 @@
     ],
     "importance": 2,
     "summary": "Write Like It's 1866: LLMs Relearn Telegraphese",
-    "points": 91,
+    "points": 93,
     "path": "news/2026/10/07/6548d458a2ed-write-like-it-s-1866-llms-relearn-telegraphese.md"
   },
   {
@@ -186,7 +402,7 @@
     "importance": 2,
     "summary": "Introducing Playground: Create and play custom games",
     "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md",
-    "points": 150
+    "points": 158
   },
   {
     "id": "661f64ddb5f4",
@@ -208,7 +424,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reasons to Dislike AI Coding",
-    "points": 73,
+    "points": 77,
     "path": "news/2026/10/07/057aea97b0c9-reasons-to-dislike-ai-coding.md"
   },
   {
@@ -220,7 +436,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Forever junior: Skills AI can't develop for you",
-    "points": 76,
+    "points": 79,
     "path": "news/2026/10/07/5eda42e998eb-forever-junior-skills-ai-can-t-develop-for-you.md"
   },
   {
@@ -248,7 +464,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "points": 58,
+    "points": 60,
     "path": "news/2026/10/07/ee4f657a56bd-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-.md"
   },
   {
@@ -262,7 +478,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 and Intelligent UI for everyone",
-    "points": 670,
+    "points": 740,
     "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
@@ -276,7 +492,7 @@
     ],
     "importance": 2,
     "summary": "South Korea says AI agents appear to have been used to hack the country's banks",
-    "points": 98,
+    "points": 100,
     "path": "news/2026/10/06/a8ede1b2b9a2-south-korea-says-ai-agents-appear-to-have-been-used-to-hack-.md"
   },
   {
@@ -302,7 +518,7 @@
     ],
     "importance": 3,
     "summary": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "points": 234,
+    "points": 238,
     "path": "news/2026/10/06/1c499c21c90a-penguin-mail-open-source-rust-email-client-for-linux-with-ai.md"
   },
   {
@@ -316,7 +532,7 @@
     ],
     "importance": 3,
     "summary": "Decisions API is in public beta",
-    "points": 386,
+    "points": 389,
     "path": "news/2026/10/06/f6e419d4eb70-decisions-api-is-in-public-beta.md"
   },
   {
@@ -354,7 +570,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "points": 265,
+    "points": 266,
     "path": "news/2026/10/06/33855b8c9c91-claude-code-s-suggested-message-feature-i-think-the-real-cus.md"
   },
   {
@@ -366,7 +582,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Utah to let AI examine patients and prescribe medication without human oversight",
-    "points": 138,
+    "points": 140,
     "path": "news/2026/10/06/6cb87f094505-utah-to-let-ai-examine-patients-and-prescribe-medication-wit.md"
   },
   {
@@ -380,7 +596,7 @@
     ],
     "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 339,
+    "points": 341,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -392,7 +608,7 @@
     "tags": [],
     "importance": 3,
     "summary": "EmbeddingGemma 2",
-    "points": 423,
+    "points": 429,
     "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
   },
   {
@@ -417,7 +633,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 2017,
+    "points": 2026,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -498,7 +714,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 1287,
+    "points": 1320,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
@@ -521,7 +737,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-    "points": 81,
+    "points": 82,
     "path": "news/2026/10/06/8553a0f4eb74-anthropic-subscriptions-offer-5x-more-value-than-openai.md"
   },
   {
@@ -597,7 +813,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "points": 555,
+    "points": 556,
     "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
   },
   {
