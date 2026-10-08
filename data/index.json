@@ -8,9 +8,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "points": 194,
+    "points": 296,
     "path": "news/2026/10/07/1baae7f6e5e8-meta-and-microsoft-take-steps-to-reduce-employee-usage-of-cl.md"
   },
   {
@@ -24,7 +24,7 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 546,
+    "points": 722,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
   },
   {
@@ -54,7 +54,7 @@
     ],
     "importance": 2,
     "summary": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-    "points": 85,
+    "points": 93,
     "path": "news/2026/10/07/3e30f3c3fd69-study-claude-chatgpt-offer-different-shopping-prices-based-o.md"
   },
   {
@@ -66,7 +66,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Incident with Git Operations, Pull Requests and Actions – Resolved",
-    "points": 223,
+    "points": 224,
     "path": "news/2026/10/07/f0f3cc58469b-incident-with-git-operations-pull-requests-and-actions-resol.md"
   },
   {
@@ -78,7 +78,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 77,
+    "points": 97,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -90,7 +90,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-assisted proof of optimal packing for 11 squares",
-    "points": 99,
+    "points": 109,
     "path": "news/2026/10/07/d5683ffff7ec-ai-assisted-proof-of-optimal-packing-for-11-squares.md"
   },
   {
@@ -118,7 +118,7 @@
     ],
     "importance": 2,
     "summary": "Write Like It's 1866: LLMs Relearn Telegraphese",
-    "points": 82,
+    "points": 86,
     "path": "news/2026/10/07/6548d458a2ed-write-like-it-s-1866-llms-relearn-telegraphese.md"
   },
   {
@@ -133,7 +133,7 @@
     "importance": 2,
     "summary": "Introducing Playground: Create and play custom games",
     "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md",
-    "points": 98
+    "points": 125
   },
   {
     "id": "661f64ddb5f4",
@@ -155,7 +155,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reasons to Dislike AI Coding",
-    "points": 56,
+    "points": 62,
     "path": "news/2026/10/07/057aea97b0c9-reasons-to-dislike-ai-coding.md"
   },
   {
@@ -167,7 +167,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Forever junior: Skills AI can't develop for you",
-    "points": 62,
+    "points": 69,
     "path": "news/2026/10/07/5eda42e998eb-forever-junior-skills-ai-can-t-develop-for-you.md"
   },
   {
@@ -195,7 +195,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "points": 54,
+    "points": 56,
     "path": "news/2026/10/07/ee4f657a56bd-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-.md"
   },
   {
@@ -209,7 +209,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 and Intelligent UI for everyone",
-    "points": 391,
+    "points": 527,
     "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
@@ -263,7 +263,7 @@
     ],
     "importance": 3,
     "summary": "Decisions API is in public beta",
-    "points": 382,
+    "points": 386,
     "path": "news/2026/10/06/f6e419d4eb70-decisions-api-is-in-public-beta.md"
   },
   {
@@ -301,7 +301,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "points": 261,
+    "points": 263,
     "path": "news/2026/10/06/33855b8c9c91-claude-code-s-suggested-message-feature-i-think-the-real-cus.md"
   },
   {
@@ -313,7 +313,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Utah to let AI examine patients and prescribe medication without human oversight",
-    "points": 135,
+    "points": 138,
     "path": "news/2026/10/06/6cb87f094505-utah-to-let-ai-examine-patients-and-prescribe-medication-wit.md"
   },
   {
@@ -327,7 +327,7 @@
     ],
     "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 334,
+    "points": 337,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -339,7 +339,7 @@
     "tags": [],
     "importance": 3,
     "summary": "EmbeddingGemma 2",
-    "points": 413,
+    "points": 416,
     "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
   },
   {
@@ -364,7 +364,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 1989,
+    "points": 1999,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -390,7 +390,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "points": 115,
+    "points": 116,
     "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
   },
   {
@@ -445,7 +445,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 1206,
+    "points": 1243,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
@@ -544,7 +544,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "points": 553,
+    "points": 555,
     "path": "news/2026/10/05/8aeeea4da45a-chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yo.md"
   },
   {
@@ -637,7 +637,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "points": 300,
+    "points": 301,
     "path": "news/2026/10/05/4f685042ec2a-openai-rogue-agent-activities-found-on-wikimedia-projects.md"
   },
   {
@@ -712,7 +712,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reported diary entry to police, woman faces felony charge",
-    "points": 824,
+    "points": 825,
     "path": "news/2026/10/05/298e66590dc6-anthropic-reported-diary-entry-to-police-woman-faces-felony-.md"
   },
   {

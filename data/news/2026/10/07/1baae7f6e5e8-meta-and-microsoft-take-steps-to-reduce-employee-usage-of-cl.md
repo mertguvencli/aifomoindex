@@ -5,8 +5,8 @@ url: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-empl
 source: hackernews
 published_at: 2026-10-07T18:49:40Z
 fetched_at: 2026-10-07T22:21:15.355Z
-importance: 2
-points: 194
+importance: 3
+points: 296
 tags: [model]
 ---
 
