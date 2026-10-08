@@ -1,5 +1,43 @@
 [
   {
+    "id": "8fdb962b6a49",
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "url": "https://github.com/openai/math/blob/main/history.md",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T08:08:37Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI Withdraws 3 Math Papers",
+    "points": 62,
+    "path": "news/2026/10/08/8fdb962b6a49-openai-withdraws-3-math-papers.md"
+  },
+  {
+    "id": "cb64f35a0509",
+    "title": "OpenAI withdraws three mathematical results",
+    "url": "https://twitter.com/danintheory/status/2108065033070789090",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T07:05:40Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI withdraws three mathematical results",
+    "points": 81,
+    "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
+  },
+  {
+    "id": "dc50683096de",
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T00:46:00Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "points": 75,
+    "path": "news/2026/10/08/dc50683096de-port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l.md"
+  },
+  {
     "id": "1baae7f6e5e8",
     "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
     "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
@@ -10,7 +48,7 @@
     ],
     "importance": 3,
     "summary": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "points": 296,
+    "points": 345,
     "path": "news/2026/10/07/1baae7f6e5e8-meta-and-microsoft-take-steps-to-reduce-employee-usage-of-cl.md"
   },
   {
@@ -24,8 +62,23 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 722,
+    "points": 929,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
+  },
+  {
+    "id": "92066f2db79f",
+    "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+    "url": "https://agent.reviews/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T16:59:11Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+    "points": 62,
+    "path": "news/2026/10/07/92066f2db79f-show-hn-agent-reviews-where-ai-agents-read-and-write-reviews.md"
   },
   {
     "id": "88e871d5a8d2",
@@ -54,7 +107,7 @@
     ],
     "importance": 2,
     "summary": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-    "points": 93,
+    "points": 96,
     "path": "news/2026/10/07/3e30f3c3fd69-study-claude-chatgpt-offer-different-shopping-prices-based-o.md"
   },
   {
@@ -66,7 +119,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Incident with Git Operations, Pull Requests and Actions – Resolved",
-    "points": 224,
+    "points": 226,
     "path": "news/2026/10/07/f0f3cc58469b-incident-with-git-operations-pull-requests-and-actions-resol.md"
   },
   {
@@ -78,7 +131,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 97,
+    "points": 119,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -90,7 +143,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-assisted proof of optimal packing for 11 squares",
-    "points": 109,
+    "points": 115,
     "path": "news/2026/10/07/d5683ffff7ec-ai-assisted-proof-of-optimal-packing-for-11-squares.md"
   },
   {
@@ -118,7 +171,7 @@
     ],
     "importance": 2,
     "summary": "Write Like It's 1866: LLMs Relearn Telegraphese",
-    "points": 86,
+    "points": 91,
     "path": "news/2026/10/07/6548d458a2ed-write-like-it-s-1866-llms-relearn-telegraphese.md"
   },
   {
@@ -133,7 +186,7 @@
     "importance": 2,
     "summary": "Introducing Playground: Create and play custom games",
     "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md",
-    "points": 125
+    "points": 150
   },
   {
     "id": "661f64ddb5f4",
@@ -155,7 +208,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reasons to Dislike AI Coding",
-    "points": 62,
+    "points": 73,
     "path": "news/2026/10/07/057aea97b0c9-reasons-to-dislike-ai-coding.md"
   },
   {
@@ -167,7 +220,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Forever junior: Skills AI can't develop for you",
-    "points": 69,
+    "points": 76,
     "path": "news/2026/10/07/5eda42e998eb-forever-junior-skills-ai-can-t-develop-for-you.md"
   },
   {
@@ -195,7 +248,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "points": 56,
+    "points": 58,
     "path": "news/2026/10/07/ee4f657a56bd-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-.md"
   },
   {
@@ -209,7 +262,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 and Intelligent UI for everyone",
-    "points": 527,
+    "points": 670,
     "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
@@ -223,7 +276,7 @@
     ],
     "importance": 2,
     "summary": "South Korea says AI agents appear to have been used to hack the country's banks",
-    "points": 97,
+    "points": 98,
     "path": "news/2026/10/06/a8ede1b2b9a2-south-korea-says-ai-agents-appear-to-have-been-used-to-hack-.md"
   },
   {
@@ -235,7 +288,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Integer multiplication below n log n",
-    "points": 109,
+    "points": 110,
     "path": "news/2026/10/06/0ee69fe6ea48-integer-multiplication-below-n-log-n.md"
   },
   {
@@ -249,7 +302,7 @@
     ],
     "importance": 3,
     "summary": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "points": 230,
+    "points": 234,
     "path": "news/2026/10/06/1c499c21c90a-penguin-mail-open-source-rust-email-client-for-linux-with-ai.md"
   },
   {
@@ -301,7 +354,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "points": 263,
+    "points": 265,
     "path": "news/2026/10/06/33855b8c9c91-claude-code-s-suggested-message-feature-i-think-the-real-cus.md"
   },
   {
@@ -327,7 +380,7 @@
     ],
     "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 337,
+    "points": 339,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -339,7 +392,7 @@
     "tags": [],
     "importance": 3,
     "summary": "EmbeddingGemma 2",
-    "points": 416,
+    "points": 423,
     "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
   },
   {
@@ -364,7 +417,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 1999,
+    "points": 2017,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -390,7 +443,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "points": 116,
+    "points": 118,
     "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
   },
   {
@@ -419,7 +472,7 @@
     ],
     "importance": 3,
     "summary": "Introducing Mistral Large 4",
-    "points": 521,
+    "points": 522,
     "path": "news/2026/10/06/6f131bbed5e7-introducing-mistral-large-4.md"
   },
   {
@@ -445,7 +498,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 1243,
+    "points": 1287,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
@@ -468,7 +521,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-    "points": 80,
+    "points": 81,
     "path": "news/2026/10/06/8553a0f4eb74-anthropic-subscriptions-offer-5x-more-value-than-openai.md"
   },
   {
@@ -573,7 +626,7 @@
     ],
     "importance": 3,
     "summary": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "points": 488,
+    "points": 490,
     "path": "news/2026/10/05/48388c8501e0-opus-5-5-agents-discover-two-room-temperature-magnetic-semic.md"
   },
   {
@@ -637,7 +690,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "points": 301,
+    "points": 302,
     "path": "news/2026/10/05/4f685042ec2a-openai-rogue-agent-activities-found-on-wikimedia-projects.md"
   },
   {
