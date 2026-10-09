@@ -1,5 +1,30 @@
 [
   {
+    "id": "bf2149b8045e",
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T11:03:48Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "points": 71,
+    "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
+  },
+  {
+    "id": "570fe3204556",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "source": "openai",
+    "publishedAt": "2026-10-09T07:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "path": "news/2026/10/09/570fe3204556-sophos-cuts-threat-investigation-time-by-96-with-openai-dayb.md"
+  },
+  {
     "id": "ec03ebde4302",
     "title": "OpenAI, the Partition Principle, and Mathematics",
     "url": "https://karagila.org/2026/openai-pp/",
@@ -8,7 +33,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 86,
+    "points": 137,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -42,7 +67,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-ready biological data: $1.8B global commitment",
-    "points": 83,
+    "points": 132,
     "path": "news/2026/10/08/b9e07fcd88c0-ai-ready-biological-data-1-8b-global-commitment.md"
   },
   {
@@ -54,7 +79,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-    "points": 60,
+    "points": 62,
     "path": "news/2026/10/08/6bc82994d692-vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-.md"
   },
   {
@@ -69,7 +94,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "points": 66,
+    "points": 73,
     "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
   },
   {
@@ -94,8 +119,23 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI annualised revenues $20B less than previously signalled",
-    "points": 360,
+    "points": 400,
     "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
+  },
+  {
+    "id": "72b6bc9a217a",
+    "title": "Show HN: Jevman – AI decision models play Pac-Man",
+    "url": "https://opper.ai/jevman-benchmark/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T16:34:13Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Jevman – AI decision models play Pac-Man",
+    "points": 65,
+    "path": "news/2026/10/08/72b6bc9a217a-show-hn-jevman-ai-decision-models-play-pac-man.md"
   },
   {
     "id": "fb3c354fbfe3",
@@ -106,7 +146,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "points": 113,
+    "points": 131,
     "path": "news/2026/10/08/fb3c354fbfe3-step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-ope.md"
   },
   {
@@ -134,7 +174,7 @@
     ],
     "importance": 2,
     "summary": "Sub-1-Bit LLM Compression via Latent Factorization",
-    "points": 77,
+    "points": 86,
     "path": "news/2026/10/08/dea3f2aab79d-sub-1-bit-llm-compression-via-latent-factorization.md"
   },
   {
@@ -194,7 +234,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI Withdraws 3 Math Papers",
-    "points": 338,
+    "points": 341,
     "path": "news/2026/10/08/8fdb962b6a49-openai-withdraws-3-math-papers.md"
   },
   {
@@ -206,9 +246,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 118,
+    "points": 206,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -220,7 +260,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI withdraws three mathematical results",
-    "points": 252,
+    "points": 329,
     "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
   },
   {
@@ -234,7 +274,7 @@
     ],
     "importance": 2,
     "summary": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "points": 109,
+    "points": 111,
     "path": "news/2026/10/08/dc50683096de-port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l.md"
   },
   {
@@ -248,7 +288,7 @@
     ],
     "importance": 3,
     "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "points": 468,
+    "points": 832,
     "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
   },
   {
@@ -287,7 +327,7 @@
     ],
     "importance": 3,
     "summary": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "points": 367,
+    "points": 369,
     "path": "news/2026/10/07/1baae7f6e5e8-meta-and-microsoft-take-steps-to-reduce-employee-usage-of-cl.md"
   },
   {
@@ -301,7 +341,7 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 1034,
+    "points": 1039,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
   },
   {
@@ -316,7 +356,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/10/07/92066f2db79f-show-hn-agent-reviews-where-ai-agents-read-and-write-reviews.md"
   },
   {
@@ -370,7 +410,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 124,
+    "points": 126,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -382,7 +422,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-assisted proof of optimal packing for 11 squares",
-    "points": 117,
+    "points": 118,
     "path": "news/2026/10/07/d5683ffff7ec-ai-assisted-proof-of-optimal-packing-for-11-squares.md"
   },
   {
@@ -439,7 +479,7 @@
     "importance": 2,
     "summary": "Introducing Playground: Create and play custom games",
     "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md",
-    "points": 158
+    "points": 160
   },
   {
     "id": "661f64ddb5f4",
@@ -461,7 +501,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reasons to Dislike AI Coding",
-    "points": 77,
+    "points": 78,
     "path": "news/2026/10/07/057aea97b0c9-reasons-to-dislike-ai-coding.md"
   },
   {
@@ -473,7 +513,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Forever junior: Skills AI can't develop for you",
-    "points": 79,
+    "points": 80,
     "path": "news/2026/10/07/5eda42e998eb-forever-junior-skills-ai-can-t-develop-for-you.md"
   },
   {
@@ -501,7 +541,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "points": 62,
+    "points": 63,
     "path": "news/2026/10/07/ee4f657a56bd-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-.md"
   },
   {
@@ -515,7 +555,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 and Intelligent UI for everyone",
-    "points": 746,
+    "points": 749,
     "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
@@ -555,7 +595,7 @@
     ],
     "importance": 3,
     "summary": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "points": 238,
+    "points": 239,
     "path": "news/2026/10/06/1c499c21c90a-penguin-mail-open-source-rust-email-client-for-linux-with-ai.md"
   },
   {
@@ -607,7 +647,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "points": 266,
+    "points": 267,
     "path": "news/2026/10/06/33855b8c9c91-claude-code-s-suggested-message-feature-i-think-the-real-cus.md"
   },
   {
@@ -633,7 +673,7 @@
     ],
     "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 342,
+    "points": 343,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -645,7 +685,7 @@
     "tags": [],
     "importance": 3,
     "summary": "EmbeddingGemma 2",
-    "points": 429,
+    "points": 433,
     "path": "news/2026/10/06/651d5d4131fc-embeddinggemma-2.md"
   },
   {
@@ -670,7 +710,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 2028,
+    "points": 2033,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -696,7 +736,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "points": 119,
+    "points": 120,
     "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
   },
   {
@@ -751,7 +791,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 1321,
+    "points": 1328,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
