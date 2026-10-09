@@ -1,5 +1,17 @@
 [
   {
+    "id": "ec03ebde4302",
+    "title": "OpenAI, the Partition Principle, and Mathematics",
+    "url": "https://karagila.org/2026/openai-pp/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T23:29:43Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI, the Partition Principle, and Mathematics",
+    "points": 86,
+    "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
+  },
+  {
     "id": "56e97c0b57a8",
     "title": "Testing Thinking Mode",
     "url": "https://updates.midjourney.com/testing-thinking-mode/",
@@ -22,6 +34,18 @@
     "path": "news/2026/10/08/680e979d5b84-alpha-changelog-10-7-26.md"
   },
   {
+    "id": "b9e07fcd88c0",
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T20:46:25Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI-ready biological data: $1.8B global commitment",
+    "points": 83,
+    "path": "news/2026/10/08/b9e07fcd88c0-ai-ready-biological-data-1-8b-global-commitment.md"
+  },
+  {
     "id": "6bc82994d692",
     "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
     "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
@@ -30,7 +54,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-    "points": 53,
+    "points": 60,
     "path": "news/2026/10/08/6bc82994d692-vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-.md"
   },
   {
@@ -45,7 +69,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "points": 60,
+    "points": 66,
     "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
   },
   {
@@ -70,7 +94,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI annualised revenues $20B less than previously signalled",
-    "points": 341,
+    "points": 360,
     "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
   },
   {
@@ -82,7 +106,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "points": 75,
+    "points": 113,
     "path": "news/2026/10/08/fb3c354fbfe3-step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-ope.md"
   },
   {
@@ -136,6 +160,19 @@
     "path": "news/2026/10/08/855092fba1df-pollo-ai-turns-creative-ideas-into-campaigns-with-openai.md"
   },
   {
+    "id": "45d6a2b79938",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "url": "https://openai.com/index/legalon-halves-codex-costs",
+    "source": "openai",
+    "publishedAt": "2026-10-08T12:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "LegalOn halves Codex costs while maintaining development speed",
+    "path": "news/2026/10/08/45d6a2b79938-legalon-halves-codex-costs-while-maintaining-development-spe.md"
+  },
+  {
     "id": "db9affcbdb97",
     "title": "Introducing the Anthropic Cyber Mission",
     "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
@@ -171,7 +208,7 @@
     ],
     "importance": 2,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 95,
+    "points": 118,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -183,7 +220,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI withdraws three mathematical results",
-    "points": 237,
+    "points": 252,
     "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
   },
   {
@@ -197,7 +234,7 @@
     ],
     "importance": 2,
     "summary": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "points": 108,
+    "points": 109,
     "path": "news/2026/10/08/dc50683096de-port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l.md"
   },
   {
@@ -211,7 +248,7 @@
     ],
     "importance": 3,
     "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "points": 270,
+    "points": 468,
     "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
   },
   {
@@ -264,7 +301,7 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 1030,
+    "points": 1034,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
   },
   {
@@ -321,7 +358,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Incident with Git Operations, Pull Requests and Actions – Resolved",
-    "points": 226,
+    "points": 227,
     "path": "news/2026/10/07/f0f3cc58469b-incident-with-git-operations-pull-requests-and-actions-resol.md"
   },
   {
@@ -333,7 +370,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 123,
+    "points": 124,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -464,7 +501,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "points": 60,
+    "points": 62,
     "path": "news/2026/10/07/ee4f657a56bd-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-.md"
   },
   {
@@ -478,7 +515,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 and Intelligent UI for everyone",
-    "points": 740,
+    "points": 746,
     "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
@@ -596,7 +633,7 @@
     ],
     "importance": 3,
     "summary": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "points": 341,
+    "points": 342,
     "path": "news/2026/10/06/576ded508c0b-opentpu-an-open-source-ai-accelerator-developed-by-ai.md"
   },
   {
@@ -633,7 +670,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4",
-    "points": 2026,
+    "points": 2028,
     "path": "news/2026/10/06/1ef243007176-mistral-large-4.md"
   },
   {
@@ -659,7 +696,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "points": 118,
+    "points": 119,
     "path": "news/2026/10/06/5198dea101ca-erdosproblems-com-succumbs-to-the-ai-onslaught.md"
   },
   {
@@ -714,7 +751,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 1320,
+    "points": 1321,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
