@@ -1,5 +1,85 @@
 [
   {
+    "id": "917825c03153",
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T17:02:31Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Typesafe AI raises $870M at $7.5B",
+    "points": 197,
+    "path": "news/2026/10/09/917825c03153-typesafe-ai-raises-870m-at-7-5b.md"
+  },
+  {
+    "id": "e05551817b22",
+    "title": "Impactful scheduling for GPU clusters",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "source": "huggingface",
+    "publishedAt": "2026-10-09T15:20:29.000Z",
+    "tags": [
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Impactful scheduling for GPU clusters",
+    "path": "news/2026/10/09/e05551817b22-impactful-scheduling-for-gpu-clusters.md"
+  },
+  {
+    "id": "213f0ac7c016",
+    "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+    "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T15:18:59Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The super intelligence shit is a humiliation ritual for OpenAI",
+    "points": 84,
+    "path": "news/2026/10/09/213f0ac7c016-the-super-intelligence-shit-is-a-humiliation-ritual-for-open.md"
+  },
+  {
+    "id": "cdc5ab06dab3",
+    "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+    "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T14:14:08Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Court throws out killer's sentence after judge said he loved AI video of victim",
+    "points": 67,
+    "path": "news/2026/10/09/cdc5ab06dab3-court-throws-out-killer-s-sentence-after-judge-said-he-loved.md"
+  },
+  {
+    "id": "ffbcf6d4e738",
+    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+    "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T12:21:24Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+    "points": 172,
+    "path": "news/2026/10/09/ffbcf6d4e738-iranian-campaign-planted-fake-articles-in-real-u-s-publicati.md"
+  },
+  {
+    "id": "5e77b21fc866",
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T11:36:20Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "points": 74,
+    "path": "news/2026/10/09/5e77b21fc866-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhi.md"
+  },
+  {
     "id": "bf2149b8045e",
     "title": "Let your AI agents paint big arrows, boxes and text on your screen",
     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
@@ -8,10 +88,39 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "points": 71,
+    "points": 350,
     "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
+  },
+  {
+    "id": "f3da56c9d020",
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T10:00:26Z",
+    "tags": [
+      "research",
+      "safety"
+    ],
+    "importance": 3,
+    "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "points": 285,
+    "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
+  },
+  {
+    "id": "ad986333f66a",
+    "title": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
+    "url": "https://github.com/darshi1337/apogee",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T07:36:19Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
+    "points": 52,
+    "path": "news/2026/10/09/ad986333f66a-show-hn-apogee-rebuilding-mozilla-s-orbit-fully-local-and-pr.md"
   },
   {
     "id": "570fe3204556",
@@ -25,6 +134,19 @@
     "path": "news/2026/10/09/570fe3204556-sophos-cuts-threat-investigation-time-by-96-with-openai-dayb.md"
   },
   {
+    "id": "9bf93d58cc35",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "source": "openai",
+    "publishedAt": "2026-10-09T07:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "path": "news/2026/10/09/9bf93d58cc35-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol.md"
+  },
+  {
     "id": "ec03ebde4302",
     "title": "OpenAI, the Partition Principle, and Mathematics",
     "url": "https://karagila.org/2026/openai-pp/",
@@ -33,7 +155,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 137,
+    "points": 193,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -67,7 +189,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-ready biological data: $1.8B global commitment",
-    "points": 132,
+    "points": 142,
     "path": "news/2026/10/08/b9e07fcd88c0-ai-ready-biological-data-1-8b-global-commitment.md"
   },
   {
@@ -79,8 +201,22 @@
     "tags": [],
     "importance": 2,
     "summary": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-    "points": 62,
+    "points": 64,
     "path": "news/2026/10/08/6bc82994d692-vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-.md"
+  },
+  {
+    "id": "3d77d94ceb84",
+    "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+    "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T18:55:18Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+    "points": 52,
+    "path": "news/2026/10/08/3d77d94ceb84-lgtm-looks-good-to-me-claude-opus-5-5-music-video.md"
   },
   {
     "id": "8d2d84fbc739",
@@ -94,7 +230,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "points": 73,
+    "points": 84,
     "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
   },
   {
@@ -119,7 +255,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI annualised revenues $20B less than previously signalled",
-    "points": 400,
+    "points": 421,
     "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
   },
   {
@@ -134,7 +270,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jevman – AI decision models play Pac-Man",
-    "points": 65,
+    "points": 70,
     "path": "news/2026/10/08/72b6bc9a217a-show-hn-jevman-ai-decision-models-play-pac-man.md"
   },
   {
@@ -146,7 +282,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "points": 131,
+    "points": 141,
     "path": "news/2026/10/08/fb3c354fbfe3-step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-ope.md"
   },
   {
@@ -174,7 +310,7 @@
     ],
     "importance": 2,
     "summary": "Sub-1-Bit LLM Compression via Latent Factorization",
-    "points": 86,
+    "points": 87,
     "path": "news/2026/10/08/dea3f2aab79d-sub-1-bit-llm-compression-via-latent-factorization.md"
   },
   {
@@ -234,7 +370,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI Withdraws 3 Math Papers",
-    "points": 341,
+    "points": 342,
     "path": "news/2026/10/08/8fdb962b6a49-openai-withdraws-3-math-papers.md"
   },
   {
@@ -248,7 +384,7 @@
     ],
     "importance": 3,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 206,
+    "points": 261,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -260,7 +396,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI withdraws three mathematical results",
-    "points": 329,
+    "points": 368,
     "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
   },
   {
@@ -274,7 +410,7 @@
     ],
     "importance": 2,
     "summary": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "points": 111,
+    "points": 112,
     "path": "news/2026/10/08/dc50683096de-port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l.md"
   },
   {
@@ -288,7 +424,7 @@
     ],
     "importance": 3,
     "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "points": 832,
+    "points": 1066,
     "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
   },
   {
@@ -327,8 +463,24 @@
     ],
     "importance": 3,
     "summary": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "points": 369,
+    "points": 375,
     "path": "news/2026/10/07/1baae7f6e5e8-meta-and-microsoft-take-steps-to-reduce-employee-usage-of-cl.md"
+  },
+  {
+    "id": "fadf159da850",
+    "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+    "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T18:19:03Z",
+    "tags": [
+      "model",
+      "opensource",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+    "points": 51,
+    "path": "news/2026/10/07/fadf159da850-i-m-not-paying-20-for-chatgpt-or-claude-because-a-free-local.md"
   },
   {
     "id": "6b1b69f74c1f",
@@ -341,7 +493,7 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 1039,
+    "points": 1043,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
   },
   {
@@ -356,7 +508,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-    "points": 68,
+    "points": 71,
     "path": "news/2026/10/07/92066f2db79f-show-hn-agent-reviews-where-ai-agents-read-and-write-reviews.md"
   },
   {
@@ -410,7 +562,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 126,
+    "points": 127,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -464,7 +616,7 @@
     ],
     "importance": 2,
     "summary": "Write Like It's 1866: LLMs Relearn Telegraphese",
-    "points": 93,
+    "points": 94,
     "path": "news/2026/10/07/6548d458a2ed-write-like-it-s-1866-llms-relearn-telegraphese.md"
   },
   {
@@ -479,7 +631,7 @@
     "importance": 2,
     "summary": "Introducing Playground: Create and play custom games",
     "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md",
-    "points": 160
+    "points": 162
   },
   {
     "id": "661f64ddb5f4",
@@ -501,7 +653,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reasons to Dislike AI Coding",
-    "points": 78,
+    "points": 80,
     "path": "news/2026/10/07/057aea97b0c9-reasons-to-dislike-ai-coding.md"
   },
   {
@@ -513,7 +665,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Forever junior: Skills AI can't develop for you",
-    "points": 80,
+    "points": 81,
     "path": "news/2026/10/07/5eda42e998eb-forever-junior-skills-ai-can-t-develop-for-you.md"
   },
   {
@@ -530,6 +682,21 @@
     "path": "news/2026/10/07/4e324623ab7c-radisson-hotel-group-brings-hotel-discovery-into-chatgpt.md"
   },
   {
+    "id": "47f52aa565d8",
+    "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+    "url": "https://github.com/ymcrcat/rgpu",
+    "source": "hackernews",
+    "publishedAt": "2026-10-07T05:15:44Z",
+    "tags": [
+      "opensource",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+    "points": 55,
+    "path": "news/2026/10/07/47f52aa565d8-show-hn-rgpu-a-pytorch-device-whose-tensors-live-on-a-remote.md"
+  },
+  {
     "id": "ee4f657a56bd",
     "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
     "url": "https://github.com/nano-muse/nanoMuse",
@@ -541,7 +708,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "points": 63,
+    "points": 65,
     "path": "news/2026/10/07/ee4f657a56bd-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-.md"
   },
   {
@@ -555,7 +722,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 and Intelligent UI for everyone",
-    "points": 749,
+    "points": 753,
     "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
@@ -595,7 +762,7 @@
     ],
     "importance": 3,
     "summary": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "points": 239,
+    "points": 240,
     "path": "news/2026/10/06/1c499c21c90a-penguin-mail-open-source-rust-email-client-for-linux-with-ai.md"
   },
   {
@@ -791,7 +958,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Sharing AI progress in mathematics",
-    "points": 1328,
+    "points": 1334,
     "path": "news/2026/10/06/00427e47df5e-sharing-ai-progress-in-mathematics.md"
   },
   {
