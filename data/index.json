@@ -1,5 +1,49 @@
 [
   {
+    "id": "37fe306f80ef",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "source": "hackernews",
+    "publishedAt": "2026-10-10T18:48:35Z",
+    "tags": [
+      "model",
+      "funding",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "points": 64,
+    "path": "news/2026/10/10/37fe306f80ef-nvidia-in-talks-to-acquire-us-open-model-startup-reflection-.md"
+  },
+  {
+    "id": "d3eeb0753ebb",
+    "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
+    "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+    "source": "hackernews",
+    "publishedAt": "2026-10-10T15:04:38Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
+    "points": 108,
+    "path": "news/2026/10/10/d3eeb0753ebb-tom-brown-used-gop-ties-to-broker-a-1-25b-month-spacex-compu.md"
+  },
+  {
+    "id": "b451cad28797",
+    "title": "My personal AI agent posted my bank details on company Slack",
+    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+    "source": "hackernews",
+    "publishedAt": "2026-10-10T14:46:16Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "My personal AI agent posted my bank details on company Slack",
+    "points": 54,
+    "path": "news/2026/10/10/b451cad28797-my-personal-ai-agent-posted-my-bank-details-on-company-slack.md"
+  },
+  {
     "id": "5c1db9239c15",
     "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
     "url": "https://github.com/rociiu/talorys",
@@ -9,9 +53,9 @@
       "tool",
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "points": 131,
+    "points": 208,
     "path": "news/2026/10/10/5c1db9239c15-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free.md"
   },
   {
@@ -25,7 +69,7 @@
     ],
     "importance": 2,
     "summary": "Rewriting Prime Agent in Rust",
-    "points": 59,
+    "points": 62,
     "path": "news/2026/10/09/f4cb4a907361-rewriting-prime-agent-in-rust.md"
   },
   {
@@ -37,9 +81,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "points": 195,
+    "points": 204,
     "path": "news/2026/10/09/3bbfce9cd0c5-anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd.md"
   },
   {
@@ -63,7 +107,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "points": 165,
+    "points": 185,
     "path": "news/2026/10/09/ad0231bd8e73-what-mathematicians-should-know-about-the-lean-theorem-prove.md"
   },
   {
@@ -77,7 +121,7 @@
     ],
     "importance": 3,
     "summary": "Typesafe AI raises $870M at $7.5B",
-    "points": 413,
+    "points": 424,
     "path": "news/2026/10/09/917825c03153-typesafe-ai-raises-870m-at-7-5b.md"
   },
   {
@@ -131,7 +175,7 @@
     ],
     "importance": 2,
     "summary": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "points": 187,
+    "points": 190,
     "path": "news/2026/10/09/ffbcf6d4e738-iranian-campaign-planted-fake-articles-in-real-u-s-publicati.md"
   },
   {
@@ -143,7 +187,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "points": 175,
+    "points": 179,
     "path": "news/2026/10/09/5e77b21fc866-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhi.md"
   },
   {
@@ -157,7 +201,7 @@
     ],
     "importance": 3,
     "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "points": 403,
+    "points": 410,
     "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
   },
   {
@@ -172,7 +216,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "points": 347,
+    "points": 353,
     "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
   },
   {
@@ -186,7 +230,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/09/ad986333f66a-show-hn-apogee-rebuilding-mozilla-s-orbit-fully-local-and-pr.md"
   },
   {
@@ -214,6 +258,18 @@
     "path": "news/2026/10/09/9bf93d58cc35-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol.md"
   },
   {
+    "id": "75169c2e34ac",
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T06:52:49Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "points": 126,
+    "path": "news/2026/10/09/75169c2e34ac-mxc-microsoft-execution-containers-version-1-0-0.md"
+  },
+  {
     "id": "ec03ebde4302",
     "title": "OpenAI, the Partition Principle, and Mathematics",
     "url": "https://karagila.org/2026/openai-pp/",
@@ -222,7 +278,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 204,
+    "points": 205,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -256,7 +312,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-ready biological data: $1.8B global commitment",
-    "points": 146,
+    "points": 147,
     "path": "news/2026/10/08/b9e07fcd88c0-ai-ready-biological-data-1-8b-global-commitment.md"
   },
   {
@@ -322,7 +378,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI annualised revenues $20B less than previously signalled",
-    "points": 426,
+    "points": 429,
     "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
   },
   {
@@ -426,7 +482,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Proton Drive for Linux",
-    "points": 110,
+    "points": 115,
     "path": "news/2026/10/08/26a2f7df0c9d-show-hn-proton-drive-for-linux.md"
   },
   {
@@ -465,7 +521,7 @@
     ],
     "importance": 3,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 282,
+    "points": 286,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -491,7 +547,7 @@
     ],
     "importance": 2,
     "summary": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "points": 112,
+    "points": 114,
     "path": "news/2026/10/08/dc50683096de-port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-l.md"
   },
   {
@@ -505,7 +561,7 @@
     ],
     "importance": 3,
     "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "points": 1105,
+    "points": 1109,
     "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
   },
   {
