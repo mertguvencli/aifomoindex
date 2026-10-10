@@ -1,5 +1,20 @@
 [
   {
+    "id": "5c1db9239c15",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "source": "hackernews",
+    "publishedAt": "2026-10-10T10:52:09Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "points": 131,
+    "path": "news/2026/10/10/5c1db9239c15-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free.md"
+  },
+  {
     "id": "f4cb4a907361",
     "title": "Rewriting Prime Agent in Rust",
     "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
@@ -10,7 +25,7 @@
     ],
     "importance": 2,
     "summary": "Rewriting Prime Agent in Rust",
-    "points": 53,
+    "points": 59,
     "path": "news/2026/10/09/f4cb4a907361-rewriting-prime-agent-in-rust.md"
   },
   {
@@ -24,7 +39,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "points": 169,
+    "points": 195,
     "path": "news/2026/10/09/3bbfce9cd0c5-anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd.md"
   },
   {
@@ -48,7 +63,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "points": 129,
+    "points": 165,
     "path": "news/2026/10/09/ad0231bd8e73-what-mathematicians-should-know-about-the-lean-theorem-prove.md"
   },
   {
@@ -62,7 +77,7 @@
     ],
     "importance": 3,
     "summary": "Typesafe AI raises $870M at $7.5B",
-    "points": 379,
+    "points": 413,
     "path": "news/2026/10/09/917825c03153-typesafe-ai-raises-870m-at-7-5b.md"
   },
   {
@@ -88,7 +103,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The super intelligence shit is a humiliation ritual for OpenAI",
-    "points": 93,
+    "points": 94,
     "path": "news/2026/10/09/213f0ac7c016-the-super-intelligence-shit-is-a-humiliation-ritual-for-open.md"
   },
   {
@@ -102,7 +117,7 @@
     ],
     "importance": 2,
     "summary": "Court throws out killer's sentence after judge said he loved AI video of victim",
-    "points": 71,
+    "points": 72,
     "path": "news/2026/10/09/cdc5ab06dab3-court-throws-out-killer-s-sentence-after-judge-said-he-loved.md"
   },
   {
@@ -128,7 +143,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "points": 151,
+    "points": 175,
     "path": "news/2026/10/09/5e77b21fc866-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhi.md"
   },
   {
@@ -142,7 +157,7 @@
     ],
     "importance": 3,
     "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "points": 400,
+    "points": 403,
     "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
   },
   {
@@ -157,7 +172,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "points": 340,
+    "points": 347,
     "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
   },
   {
@@ -171,7 +186,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/10/09/ad986333f66a-show-hn-apogee-rebuilding-mozilla-s-orbit-fully-local-and-pr.md"
   },
   {
@@ -207,7 +222,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 203,
+    "points": 204,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -253,7 +268,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/10/08/6bc82994d692-vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-.md"
   },
   {
@@ -267,7 +282,7 @@
     ],
     "importance": 2,
     "summary": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/10/08/3d77d94ceb84-lgtm-looks-good-to-me-claude-opus-5-5-music-video.md"
   },
   {
@@ -282,7 +297,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
   },
   {
@@ -307,7 +322,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI annualised revenues $20B less than previously signalled",
-    "points": 424,
+    "points": 426,
     "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
   },
   {
@@ -322,7 +337,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jevman – AI decision models play Pac-Man",
-    "points": 74,
+    "points": 76,
     "path": "news/2026/10/08/72b6bc9a217a-show-hn-jevman-ai-decision-models-play-pac-man.md"
   },
   {
@@ -334,7 +349,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "points": 143,
+    "points": 144,
     "path": "news/2026/10/08/fb3c354fbfe3-step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-ope.md"
   },
   {
@@ -411,7 +426,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Proton Drive for Linux",
-    "points": 91,
+    "points": 110,
     "path": "news/2026/10/08/26a2f7df0c9d-show-hn-proton-drive-for-linux.md"
   },
   {
@@ -450,7 +465,7 @@
     ],
     "importance": 3,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 279,
+    "points": 282,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -490,7 +505,7 @@
     ],
     "importance": 3,
     "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "points": 1098,
+    "points": 1105,
     "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
   },
   {
@@ -559,7 +574,7 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 1044,
+    "points": 1045,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
   },
   {
@@ -574,7 +589,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-    "points": 71,
+    "points": 72,
     "path": "news/2026/10/07/92066f2db79f-show-hn-agent-reviews-where-ai-agents-read-and-write-reviews.md"
   },
   {
