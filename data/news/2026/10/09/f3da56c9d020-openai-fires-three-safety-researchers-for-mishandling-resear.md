@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-09T10:00:26Z
 fetched_at: 2026-10-09T21:56:09.779Z
 importance: 3
-points: 318
+points: 340
 tags: [research, safety]
 ---
 

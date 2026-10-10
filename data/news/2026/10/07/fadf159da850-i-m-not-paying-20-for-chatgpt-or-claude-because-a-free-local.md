@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-07T18:19:03Z
 fetched_at: 2026-10-09T21:56:09.779Z
 importance: 2
-points: 51
+points: 52
 tags: [model, opensource, product]
 ---
 

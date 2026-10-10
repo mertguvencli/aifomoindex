@@ -1,5 +1,19 @@
 [
   {
+    "id": "f4cb4a907361",
+    "title": "Rewriting Prime Agent in Rust",
+    "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T23:06:25Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Rewriting Prime Agent in Rust",
+    "points": 53,
+    "path": "news/2026/10/09/f4cb4a907361-rewriting-prime-agent-in-rust.md"
+  },
+  {
     "id": "3bbfce9cd0c5",
     "title": "Anthropic AI model submits false tip on unsolved Philly murder",
     "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
@@ -10,7 +24,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "points": 84,
+    "points": 169,
     "path": "news/2026/10/09/3bbfce9cd0c5-anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd.md"
   },
   {
@@ -22,8 +36,20 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/09/3d09bfad3940-openai-mistranslated-mathematics-into-code-for-its-navier-st.md"
+  },
+  {
+    "id": "ad0231bd8e73",
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T17:42:12Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "points": 129,
+    "path": "news/2026/10/09/ad0231bd8e73-what-mathematicians-should-know-about-the-lean-theorem-prove.md"
   },
   {
     "id": "917825c03153",
@@ -36,7 +62,7 @@
     ],
     "importance": 3,
     "summary": "Typesafe AI raises $870M at $7.5B",
-    "points": 286,
+    "points": 379,
     "path": "news/2026/10/09/917825c03153-typesafe-ai-raises-870m-at-7-5b.md"
   },
   {
@@ -76,7 +102,7 @@
     ],
     "importance": 2,
     "summary": "Court throws out killer's sentence after judge said he loved AI video of victim",
-    "points": 69,
+    "points": 71,
     "path": "news/2026/10/09/cdc5ab06dab3-court-throws-out-killer-s-sentence-after-judge-said-he-loved.md"
   },
   {
@@ -90,7 +116,7 @@
     ],
     "importance": 2,
     "summary": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "points": 180,
+    "points": 187,
     "path": "news/2026/10/09/ffbcf6d4e738-iranian-campaign-planted-fake-articles-in-real-u-s-publicati.md"
   },
   {
@@ -102,7 +128,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "points": 110,
+    "points": 151,
     "path": "news/2026/10/09/5e77b21fc866-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhi.md"
   },
   {
@@ -116,7 +142,7 @@
     ],
     "importance": 3,
     "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "points": 385,
+    "points": 400,
     "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
   },
   {
@@ -131,7 +157,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "points": 318,
+    "points": 340,
     "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
   },
   {
@@ -179,9 +205,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-08T23:29:43Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 196,
+    "points": 203,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -215,7 +241,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-ready biological data: $1.8B global commitment",
-    "points": 142,
+    "points": 146,
     "path": "news/2026/10/08/b9e07fcd88c0-ai-ready-biological-data-1-8b-global-commitment.md"
   },
   {
@@ -241,7 +267,7 @@
     ],
     "importance": 2,
     "summary": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
-    "points": 55,
+    "points": 58,
     "path": "news/2026/10/08/3d77d94ceb84-lgtm-looks-good-to-me-claude-opus-5-5-music-video.md"
   },
   {
@@ -256,7 +282,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "points": 85,
+    "points": 87,
     "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
   },
   {
@@ -281,7 +307,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI annualised revenues $20B less than previously signalled",
-    "points": 422,
+    "points": 424,
     "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
   },
   {
@@ -296,7 +322,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jevman – AI decision models play Pac-Man",
-    "points": 72,
+    "points": 74,
     "path": "news/2026/10/08/72b6bc9a217a-show-hn-jevman-ai-decision-models-play-pac-man.md"
   },
   {
@@ -308,7 +334,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "points": 141,
+    "points": 143,
     "path": "news/2026/10/08/fb3c354fbfe3-step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-ope.md"
   },
   {
@@ -375,6 +401,20 @@
     "path": "news/2026/10/08/45d6a2b79938-legalon-halves-codex-costs-while-maintaining-development-spe.md"
   },
   {
+    "id": "26a2f7df0c9d",
+    "title": "Show HN: Proton Drive for Linux",
+    "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-08T09:10:42Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Proton Drive for Linux",
+    "points": 91,
+    "path": "news/2026/10/08/26a2f7df0c9d-show-hn-proton-drive-for-linux.md"
+  },
+  {
     "id": "db9affcbdb97",
     "title": "Introducing the Anthropic Cyber Mission",
     "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
@@ -410,7 +450,7 @@
     ],
     "importance": 3,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 267,
+    "points": 279,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -422,7 +462,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI withdraws three mathematical results",
-    "points": 373,
+    "points": 376,
     "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
   },
   {
@@ -450,7 +490,7 @@
     ],
     "importance": 3,
     "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "points": 1086,
+    "points": 1098,
     "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
   },
   {
@@ -505,7 +545,7 @@
     ],
     "importance": 2,
     "summary": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-    "points": 51,
+    "points": 52,
     "path": "news/2026/10/07/fadf159da850-i-m-not-paying-20-for-chatgpt-or-claude-because-a-free-local.md"
   },
   {
@@ -519,7 +559,7 @@
     ],
     "importance": 3,
     "summary": "Claude Haiku 5.5",
-    "points": 1043,
+    "points": 1044,
     "path": "news/2026/10/07/6b1b69f74c1f-claude-haiku-5-5.md"
   },
   {
@@ -588,7 +628,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 128,
+    "points": 129,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -657,7 +697,7 @@
     "importance": 2,
     "summary": "Introducing Playground: Create and play custom games",
     "path": "news/2026/10/07/e04d1da69350-introducing-playground-create-and-play-custom-games.md",
-    "points": 162
+    "points": 163
   },
   {
     "id": "661f64ddb5f4",
@@ -748,7 +788,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 and Intelligent UI for everyone",
-    "points": 753,
+    "points": 755,
     "path": "news/2026/10/07/a097ef0d441a-gpt-6-and-intelligent-ui-for-everyone.md"
   },
   {
