@@ -1,5 +1,31 @@
 [
   {
+    "id": "3bbfce9cd0c5",
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T22:00:35Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Anthropic AI model submits false tip on unsolved Philly murder",
+    "points": 84,
+    "path": "news/2026/10/09/3bbfce9cd0c5-anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd.md"
+  },
+  {
+    "id": "3d09bfad3940",
+    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+    "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T21:25:09Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+    "points": 55,
+    "path": "news/2026/10/09/3d09bfad3940-openai-mistranslated-mathematics-into-code-for-its-navier-st.md"
+  },
+  {
     "id": "917825c03153",
     "title": "Typesafe AI raises $870M at $7.5B",
     "url": "https://typesafe.ai/blog/series-ai",
@@ -8,9 +34,9 @@
     "tags": [
       "funding"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Typesafe AI raises $870M at $7.5B",
-    "points": 197,
+    "points": 286,
     "path": "news/2026/10/09/917825c03153-typesafe-ai-raises-870m-at-7-5b.md"
   },
   {
@@ -36,7 +62,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The super intelligence shit is a humiliation ritual for OpenAI",
-    "points": 84,
+    "points": 93,
     "path": "news/2026/10/09/213f0ac7c016-the-super-intelligence-shit-is-a-humiliation-ritual-for-open.md"
   },
   {
@@ -50,7 +76,7 @@
     ],
     "importance": 2,
     "summary": "Court throws out killer's sentence after judge said he loved AI video of victim",
-    "points": 67,
+    "points": 69,
     "path": "news/2026/10/09/cdc5ab06dab3-court-throws-out-killer-s-sentence-after-judge-said-he-loved.md"
   },
   {
@@ -64,7 +90,7 @@
     ],
     "importance": 2,
     "summary": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "points": 172,
+    "points": 180,
     "path": "news/2026/10/09/ffbcf6d4e738-iranian-campaign-planted-fake-articles-in-real-u-s-publicati.md"
   },
   {
@@ -76,7 +102,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "points": 74,
+    "points": 110,
     "path": "news/2026/10/09/5e77b21fc866-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhi.md"
   },
   {
@@ -90,7 +116,7 @@
     ],
     "importance": 3,
     "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "points": 350,
+    "points": 385,
     "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
   },
   {
@@ -105,7 +131,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "points": 285,
+    "points": 318,
     "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
   },
   {
@@ -119,7 +145,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
-    "points": 52,
+    "points": 64,
     "path": "news/2026/10/09/ad986333f66a-show-hn-apogee-rebuilding-mozilla-s-orbit-fully-local-and-pr.md"
   },
   {
@@ -155,7 +181,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 193,
+    "points": 196,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -215,7 +241,7 @@
     ],
     "importance": 2,
     "summary": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
-    "points": 52,
+    "points": 55,
     "path": "news/2026/10/08/3d77d94ceb84-lgtm-looks-good-to-me-claude-opus-5-5-music-video.md"
   },
   {
@@ -230,7 +256,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "points": 84,
+    "points": 85,
     "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
   },
   {
@@ -255,7 +281,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI annualised revenues $20B less than previously signalled",
-    "points": 421,
+    "points": 422,
     "path": "news/2026/10/08/5601af0cee33-openai-annualised-revenues-20b-less-than-previously-signalle.md"
   },
   {
@@ -270,7 +296,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jevman – AI decision models play Pac-Man",
-    "points": 70,
+    "points": 72,
     "path": "news/2026/10/08/72b6bc9a217a-show-hn-jevman-ai-decision-models-play-pac-man.md"
   },
   {
@@ -310,7 +336,7 @@
     ],
     "importance": 2,
     "summary": "Sub-1-Bit LLM Compression via Latent Factorization",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/10/08/dea3f2aab79d-sub-1-bit-llm-compression-via-latent-factorization.md"
   },
   {
@@ -384,7 +410,7 @@
     ],
     "importance": 3,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 261,
+    "points": 267,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -396,7 +422,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI withdraws three mathematical results",
-    "points": 368,
+    "points": 373,
     "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
   },
   {
@@ -424,7 +450,7 @@
     ],
     "importance": 3,
     "summary": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "points": 1066,
+    "points": 1086,
     "path": "news/2026/10/08/ee337b341c53-why-isn-t-the-industry-freaking-out-about-deepseek-4-1-flash.md"
   },
   {
@@ -562,7 +588,7 @@
     "tags": [],
     "importance": 2,
     "summary": "SynthID Detector",
-    "points": 127,
+    "points": 128,
     "path": "news/2026/10/07/7cd2c9633544-synthid-detector.md"
   },
   {
@@ -653,7 +679,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reasons to Dislike AI Coding",
-    "points": 80,
+    "points": 81,
     "path": "news/2026/10/07/057aea97b0c9-reasons-to-dislike-ai-coding.md"
   },
   {
@@ -665,7 +691,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Forever junior: Skills AI can't develop for you",
-    "points": 81,
+    "points": 82,
     "path": "news/2026/10/07/5eda42e998eb-forever-junior-skills-ai-can-t-develop-for-you.md"
   },
   {

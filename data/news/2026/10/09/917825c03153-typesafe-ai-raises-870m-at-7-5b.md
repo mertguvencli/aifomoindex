@@ -5,8 +5,8 @@ url: https://typesafe.ai/blog/series-ai
 source: hackernews
 published_at: 2026-10-09T17:02:31Z
 fetched_at: 2026-10-09T21:56:09.779Z
-importance: 2
-points: 197
+importance: 3
+points: 286
 tags: [funding]
 ---
 
