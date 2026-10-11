@@ -12,7 +12,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "points": 64,
+    "points": 127,
     "path": "news/2026/10/10/37fe306f80ef-nvidia-in-talks-to-acquire-us-open-model-startup-reflection-.md"
   },
   {
@@ -26,7 +26,7 @@
     ],
     "importance": 2,
     "summary": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
-    "points": 108,
+    "points": 127,
     "path": "news/2026/10/10/d3eeb0753ebb-tom-brown-used-gop-ties-to-broker-a-1-25b-month-spacex-compu.md"
   },
   {
@@ -40,7 +40,7 @@
     ],
     "importance": 2,
     "summary": "My personal AI agent posted my bank details on company Slack",
-    "points": 54,
+    "points": 60,
     "path": "news/2026/10/10/b451cad28797-my-personal-ai-agent-posted-my-bank-details-on-company-slack.md"
   },
   {
@@ -55,8 +55,22 @@
     ],
     "importance": 3,
     "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "points": 208,
+    "points": 258,
     "path": "news/2026/10/10/5c1db9239c15-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free.md"
+  },
+  {
+    "id": "fb14a27553fd",
+    "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+    "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-10T09:30:03Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+    "points": 55,
+    "path": "news/2026/10/10/fb14a27553fd-ai-data-centers-not-paying-their-costs-will-keep-using-ndas-.md"
   },
   {
     "id": "f4cb4a907361",
@@ -69,8 +83,22 @@
     ],
     "importance": 2,
     "summary": "Rewriting Prime Agent in Rust",
-    "points": 62,
+    "points": 63,
     "path": "news/2026/10/09/f4cb4a907361-rewriting-prime-agent-in-rust.md"
+  },
+  {
+    "id": "25a145f4bcfe",
+    "title": "Recent AI models struggled to match a human algorithmic innovation",
+    "url": "https://epoch.ai/publications/innovationeval",
+    "source": "hackernews",
+    "publishedAt": "2026-10-09T22:14:40Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Recent AI models struggled to match a human algorithmic innovation",
+    "points": 79,
+    "path": "news/2026/10/09/25a145f4bcfe-recent-ai-models-struggled-to-match-a-human-algorithmic-inno.md"
   },
   {
     "id": "3bbfce9cd0c5",
@@ -83,7 +111,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "points": 204,
+    "points": 208,
     "path": "news/2026/10/09/3bbfce9cd0c5-anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd.md"
   },
   {
@@ -107,7 +135,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "points": 185,
+    "points": 195,
     "path": "news/2026/10/09/ad0231bd8e73-what-mathematicians-should-know-about-the-lean-theorem-prove.md"
   },
   {
@@ -121,7 +149,7 @@
     ],
     "importance": 3,
     "summary": "Typesafe AI raises $870M at $7.5B",
-    "points": 424,
+    "points": 431,
     "path": "news/2026/10/09/917825c03153-typesafe-ai-raises-870m-at-7-5b.md"
   },
   {
@@ -175,7 +203,7 @@
     ],
     "importance": 2,
     "summary": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "points": 190,
+    "points": 191,
     "path": "news/2026/10/09/ffbcf6d4e738-iranian-campaign-planted-fake-articles-in-real-u-s-publicati.md"
   },
   {
@@ -201,7 +229,7 @@
     ],
     "importance": 3,
     "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "points": 410,
+    "points": 412,
     "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
   },
   {
@@ -216,7 +244,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "points": 353,
+    "points": 357,
     "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
   },
   {
@@ -266,7 +294,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Mxc: Microsoft Execution Containers version 1.0.0",
-    "points": 126,
+    "points": 165,
     "path": "news/2026/10/09/75169c2e34ac-mxc-microsoft-execution-containers-version-1-0-0.md"
   },
   {
@@ -278,7 +306,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 205,
+    "points": 207,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -312,7 +340,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-ready biological data: $1.8B global commitment",
-    "points": 147,
+    "points": 148,
     "path": "news/2026/10/08/b9e07fcd88c0-ai-ready-biological-data-1-8b-global-commitment.md"
   },
   {
@@ -338,7 +366,7 @@
     ],
     "importance": 2,
     "summary": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
-    "points": 59,
+    "points": 60,
     "path": "news/2026/10/08/3d77d94ceb84-lgtm-looks-good-to-me-claude-opus-5-5-music-video.md"
   },
   {
@@ -405,7 +433,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "points": 144,
+    "points": 146,
     "path": "news/2026/10/08/fb3c354fbfe3-step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-ope.md"
   },
   {
@@ -521,7 +549,7 @@
     ],
     "importance": 3,
     "summary": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "points": 286,
+    "points": 292,
     "path": "news/2026/10/08/d5717ee6bdba-i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-c.md"
   },
   {
@@ -533,7 +561,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI withdraws three mathematical results",
-    "points": 376,
+    "points": 377,
     "path": "news/2026/10/08/cb64f35a0509-openai-withdraws-three-mathematical-results.md"
   },
   {
