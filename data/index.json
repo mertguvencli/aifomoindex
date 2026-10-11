@@ -1,5 +1,48 @@
 [
   {
+    "id": "7e7448367783",
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-11T02:02:38Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "points": 105,
+    "path": "news/2026/10/11/7e7448367783-500b-tokens-later-letting-ai-agents-decompile-a-first-person.md"
+  },
+  {
+    "id": "7656d74f8e72",
+    "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+    "url": "https://wallhop.io/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-11T00:46:48Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+    "points": 253,
+    "path": "news/2026/10/11/7656d74f8e72-show-hn-wallhop-12ft-io-is-gone-so-i-built-a-replacement.md"
+  },
+  {
+    "id": "06088e137761",
+    "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+    "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+    "source": "hackernews",
+    "publishedAt": "2026-10-11T00:08:31Z",
+    "tags": [
+      "model",
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+    "points": 62,
+    "path": "news/2026/10/11/06088e137761-anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro.md"
+  },
+  {
     "id": "37fe306f80ef",
     "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
     "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
@@ -12,7 +55,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "points": 127,
+    "points": 165,
     "path": "news/2026/10/10/37fe306f80ef-nvidia-in-talks-to-acquire-us-open-model-startup-reflection-.md"
   },
   {
@@ -26,7 +69,7 @@
     ],
     "importance": 2,
     "summary": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
-    "points": 127,
+    "points": 134,
     "path": "news/2026/10/10/d3eeb0753ebb-tom-brown-used-gop-ties-to-broker-a-1-25b-month-spacex-compu.md"
   },
   {
@@ -40,7 +83,7 @@
     ],
     "importance": 2,
     "summary": "My personal AI agent posted my bank details on company Slack",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/10/10/b451cad28797-my-personal-ai-agent-posted-my-bank-details-on-company-slack.md"
   },
   {
@@ -55,7 +98,7 @@
     ],
     "importance": 3,
     "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "points": 258,
+    "points": 300,
     "path": "news/2026/10/10/5c1db9239c15-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free.md"
   },
   {
@@ -69,7 +112,7 @@
     ],
     "importance": 2,
     "summary": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/10/fb14a27553fd-ai-data-centers-not-paying-their-costs-will-keep-using-ndas-.md"
   },
   {
@@ -83,7 +126,7 @@
     ],
     "importance": 2,
     "summary": "Rewriting Prime Agent in Rust",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/10/09/f4cb4a907361-rewriting-prime-agent-in-rust.md"
   },
   {
@@ -97,7 +140,7 @@
     ],
     "importance": 2,
     "summary": "Recent AI models struggled to match a human algorithmic innovation",
-    "points": 79,
+    "points": 88,
     "path": "news/2026/10/09/25a145f4bcfe-recent-ai-models-struggled-to-match-a-human-algorithmic-inno.md"
   },
   {
@@ -111,7 +154,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "points": 208,
+    "points": 209,
     "path": "news/2026/10/09/3bbfce9cd0c5-anthropic-ai-model-submits-false-tip-on-unsolved-philly-murd.md"
   },
   {
@@ -135,7 +178,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "points": 195,
+    "points": 198,
     "path": "news/2026/10/09/ad0231bd8e73-what-mathematicians-should-know-about-the-lean-theorem-prove.md"
   },
   {
@@ -149,7 +192,7 @@
     ],
     "importance": 3,
     "summary": "Typesafe AI raises $870M at $7.5B",
-    "points": 431,
+    "points": 438,
     "path": "news/2026/10/09/917825c03153-typesafe-ai-raises-870m-at-7-5b.md"
   },
   {
@@ -175,7 +218,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The super intelligence shit is a humiliation ritual for OpenAI",
-    "points": 94,
+    "points": 95,
     "path": "news/2026/10/09/213f0ac7c016-the-super-intelligence-shit-is-a-humiliation-ritual-for-open.md"
   },
   {
@@ -189,7 +232,7 @@
     ],
     "importance": 2,
     "summary": "Court throws out killer's sentence after judge said he loved AI video of victim",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/10/09/cdc5ab06dab3-court-throws-out-killer-s-sentence-after-judge-said-he-loved.md"
   },
   {
@@ -203,7 +246,7 @@
     ],
     "importance": 2,
     "summary": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "points": 191,
+    "points": 193,
     "path": "news/2026/10/09/ffbcf6d4e738-iranian-campaign-planted-fake-articles-in-real-u-s-publicati.md"
   },
   {
@@ -215,7 +258,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "points": 179,
+    "points": 183,
     "path": "news/2026/10/09/5e77b21fc866-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhi.md"
   },
   {
@@ -229,7 +272,7 @@
     ],
     "importance": 3,
     "summary": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "points": 412,
+    "points": 413,
     "path": "news/2026/10/09/bf2149b8045e-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-s.md"
   },
   {
@@ -244,7 +287,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "points": 357,
+    "points": 361,
     "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
   },
   {
@@ -294,7 +337,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Mxc: Microsoft Execution Containers version 1.0.0",
-    "points": 165,
+    "points": 194,
     "path": "news/2026/10/09/75169c2e34ac-mxc-microsoft-execution-containers-version-1-0-0.md"
   },
   {
@@ -306,7 +349,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI, the Partition Principle, and Mathematics",
-    "points": 207,
+    "points": 208,
     "path": "news/2026/10/08/ec03ebde4302-openai-the-partition-principle-and-mathematics.md"
   },
   {
@@ -352,7 +395,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/08/6bc82994d692-vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-.md"
   },
   {
@@ -366,7 +409,7 @@
     ],
     "importance": 2,
     "summary": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/10/08/3d77d94ceb84-lgtm-looks-good-to-me-claude-opus-5-5-music-video.md"
   },
   {
@@ -381,7 +424,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-    "points": 88,
+    "points": 90,
     "path": "news/2026/10/08/8d2d84fbc739-anthropic-bans-abusive-or-cruel-behavior-towards-claude.md"
   },
   {
@@ -421,7 +464,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jevman – AI decision models play Pac-Man",
-    "points": 76,
+    "points": 78,
     "path": "news/2026/10/08/72b6bc9a217a-show-hn-jevman-ai-decision-models-play-pac-man.md"
   },
   {
