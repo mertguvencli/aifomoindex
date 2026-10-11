@@ -5,8 +5,8 @@ url: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-c
 source: hackernews
 published_at: 2026-10-09T06:52:49Z
 fetched_at: 2026-10-10T20:47:15.421Z
-importance: 2
-points: 194
+importance: 3
+points: 216
 tags: []
 ---
 
