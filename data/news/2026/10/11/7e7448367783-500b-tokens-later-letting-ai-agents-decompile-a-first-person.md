@@ -5,8 +5,8 @@ url: https://momo5502.com/posts/2026-10-09-game-decompilation/
 source: hackernews
 published_at: 2026-10-11T02:02:38Z
 fetched_at: 2026-10-11T11:42:07.275Z
-importance: 2
-points: 172
+importance: 3
+points: 200
 tags: [tool]
 ---
 
