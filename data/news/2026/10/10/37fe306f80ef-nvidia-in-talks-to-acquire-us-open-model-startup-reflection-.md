@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-10T18:48:35Z
 fetched_at: 2026-10-10T20:47:15.421Z
 importance: 2
-points: 175
+points: 176
 tags: [model, funding, infra]
 ---
 

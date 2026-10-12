@@ -1,5 +1,31 @@
 [
   {
+    "id": "e5252a77dc0d",
+    "title": "Recursive self-improvement through collective intelligence",
+    "url": "https://pub.sakana.ai/mass/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-11T22:22:10Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Recursive self-improvement through collective intelligence",
+    "points": 74,
+    "path": "news/2026/10/11/e5252a77dc0d-recursive-self-improvement-through-collective-intelligence.md"
+  },
+  {
+    "id": "d16bd93ff857",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "source": "hackernews",
+    "publishedAt": "2026-10-11T20:20:52Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "The gap in shared understanding of LLM capability is widening",
+    "points": 276,
+    "path": "news/2026/10/11/d16bd93ff857-the-gap-in-shared-understanding-of-llm-capability-is-widenin.md"
+  },
+  {
     "id": "6d0e5e57d2db",
     "title": "AI is creating a 'human premium' for art created by people",
     "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
@@ -8,7 +34,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is creating a 'human premium' for art created by people",
-    "points": 68,
+    "points": 70,
     "path": "news/2026/10/11/6d0e5e57d2db-ai-is-creating-a-human-premium-for-art-created-by-people.md"
   },
   {
@@ -20,7 +46,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-    "points": 71,
+    "points": 86,
     "path": "news/2026/10/11/9b834e7e0f6f-nicolas-cage-says-he-won-t-work-with-amazon-again-over-ai-di.md"
   },
   {
@@ -32,7 +58,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-    "points": 60,
+    "points": 79,
     "path": "news/2026/10/11/466960da748f-using-ai-for-just-10-minutes-erodes-your-ability-to-persist-.md"
   },
   {
@@ -46,7 +72,7 @@
     ],
     "importance": 2,
     "summary": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "points": 126,
+    "points": 172,
     "path": "news/2026/10/11/7e7448367783-500b-tokens-later-letting-ai-agents-decompile-a-first-person.md"
   },
   {
@@ -74,7 +100,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-    "points": 267,
+    "points": 271,
     "path": "news/2026/10/11/7656d74f8e72-show-hn-wallhop-12ft-io-is-gone-so-i-built-a-replacement.md"
   },
   {
@@ -105,7 +131,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "points": 175,
+    "points": 176,
     "path": "news/2026/10/10/37fe306f80ef-nvidia-in-talks-to-acquire-us-open-model-startup-reflection-.md"
   },
   {
@@ -133,7 +159,7 @@
     ],
     "importance": 2,
     "summary": "My personal AI agent posted my bank details on company Slack",
-    "points": 62,
+    "points": 63,
     "path": "news/2026/10/10/b451cad28797-my-personal-ai-agent-posted-my-bank-details-on-company-slack.md"
   },
   {
@@ -148,7 +174,7 @@
     ],
     "importance": 3,
     "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "points": 320,
+    "points": 322,
     "path": "news/2026/10/10/5c1db9239c15-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free.md"
   },
   {
@@ -190,7 +216,7 @@
     ],
     "importance": 2,
     "summary": "Recent AI models struggled to match a human algorithmic innovation",
-    "points": 89,
+    "points": 90,
     "path": "news/2026/10/09/25a145f4bcfe-recent-ai-models-struggled-to-match-a-human-algorithmic-inno.md"
   },
   {
@@ -228,7 +254,7 @@
     "tags": [],
     "importance": 3,
     "summary": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "points": 204,
+    "points": 205,
     "path": "news/2026/10/09/ad0231bd8e73-what-mathematicians-should-know-about-the-lean-theorem-prove.md"
   },
   {
@@ -337,7 +363,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "points": 364,
+    "points": 365,
     "path": "news/2026/10/09/f3da56c9d020-openai-fires-three-safety-researchers-for-mishandling-resear.md"
   },
   {
@@ -349,7 +375,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How big is a Git commit?",
-    "points": 79,
+    "points": 82,
     "path": "news/2026/10/09/9912b86ad745-how-big-is-a-git-commit.md"
   },
   {
@@ -399,7 +425,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Mxc: Microsoft Execution Containers version 1.0.0",
-    "points": 221,
+    "points": 223,
     "path": "news/2026/10/09/75169c2e34ac-mxc-microsoft-execution-containers-version-1-0-0.md"
   },
   {
