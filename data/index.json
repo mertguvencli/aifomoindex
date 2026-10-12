@@ -1,5 +1,201 @@
 [
   {
+    "id": "f4c98356fbd1",
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T21:40:18Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "AI is a tool and using it well takes skill",
+    "points": 173,
+    "path": "news/2026/10/12/f4c98356fbd1-ai-is-a-tool-and-using-it-well-takes-skill.md"
+  },
+  {
+    "id": "e58497308ea5",
+    "title": "Epic Games tells employees to use AI to get Disney game done",
+    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T20:07:42Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Epic Games tells employees to use AI to get Disney game done",
+    "points": 72,
+    "path": "news/2026/10/12/e58497308ea5-epic-games-tells-employees-to-use-ai-to-get-disney-game-done.md"
+  },
+  {
+    "id": "bd039d8a938b",
+    "title": "AI models may be capable of self-replicating without access to a datacenter",
+    "url": "https://www.anthropic.com/research/self-replicating-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T19:25:29Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "AI models may be capable of self-replicating without access to a datacenter",
+    "points": 72,
+    "path": "news/2026/10/12/bd039d8a938b-ai-models-may-be-capable-of-self-replicating-without-access-.md"
+  },
+  {
+    "id": "395f474ddb85",
+    "title": "OpenFatigue™ – Open is the new closed",
+    "url": "https://openfatigue.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T19:08:21Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenFatigue™ – Open is the new closed",
+    "points": 190,
+    "path": "news/2026/10/12/395f474ddb85-openfatigue-open-is-the-new-closed.md"
+  },
+  {
+    "id": "99e810c974b3",
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T18:29:04Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "points": 418,
+    "path": "news/2026/10/12/99e810c974b3-codex-cli-installs-a-persistent-self-updating-background-dae.md"
+  },
+  {
+    "id": "5d1e3924df39",
+    "title": "Just say no to OpenAI and Anthropic",
+    "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T18:17:29Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Just say no to OpenAI and Anthropic",
+    "points": 152,
+    "path": "news/2026/10/12/5d1e3924df39-just-say-no-to-openai-and-anthropic.md"
+  },
+  {
+    "id": "ddb86101e711",
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T18:00:25Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "'AI' Is Not a Tool by Rich Hickey",
+    "points": 169,
+    "path": "news/2026/10/12/ddb86101e711-ai-is-not-a-tool-by-rich-hickey.md"
+  },
+  {
+    "id": "0c1c0b395051",
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T17:14:01Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "AI coding agents generate more code, but not more software",
+    "points": 293,
+    "path": "news/2026/10/12/0c1c0b395051-ai-coding-agents-generate-more-code-but-not-more-software.md"
+  },
+  {
+    "id": "adbb8d5b8893",
+    "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+    "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T17:08:16Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+    "points": 136,
+    "path": "news/2026/10/12/adbb8d5b8893-feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-l.md"
+  },
+  {
+    "id": "7758c02a15e3",
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T16:48:01Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Muse Wonder",
+    "points": 497,
+    "path": "news/2026/10/12/7758c02a15e3-muse-wonder.md"
+  },
+  {
+    "id": "ab91ee9162f4",
+    "title": "GLM-Legal",
+    "url": "https://z.ai/blog/glm-legal",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T16:11:45Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "GLM-Legal",
+    "points": 397,
+    "path": "news/2026/10/12/ab91ee9162f4-glm-legal.md"
+  },
+  {
+    "id": "c56e71953c1a",
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "url": "https://taylor.town/kk-ai-2026",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T15:16:45Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "points": 117,
+    "path": "news/2026/10/12/c56e71953c1a-kevin-kelly-s-2016-ai-predictions-10-years-later.md"
+  },
+  {
+    "id": "84b7a03f2e99",
+    "title": "Why aren't AI companies being charged for hacking?",
+    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T14:52:37Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Why aren't AI companies being charged for hacking?",
+    "points": 308,
+    "path": "news/2026/10/12/84b7a03f2e99-why-aren-t-ai-companies-being-charged-for-hacking.md"
+  },
+  {
+    "id": "df08a10f1c05",
+    "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+    "url": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T13:20:04Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+    "points": 53,
+    "path": "news/2026/10/12/df08a10f1c05-just-ask-claude-is-a-rare-and-valuable-skill.md"
+  },
+  {
+    "id": "17d3cbe685fd",
+    "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+    "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T12:46:52Z",
+    "tags": [
+      "policy",
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "AI less regulated than milk, Microsoft president says in warning over safety",
+    "points": 65,
+    "path": "news/2026/10/12/17d3cbe685fd-ai-less-regulated-than-milk-microsoft-president-says-in-warn.md"
+  },
+  {
     "id": "b7a40a9ea7f0",
     "title": "QGIS bans AI assisted contributions",
     "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
@@ -8,9 +204,9 @@
     "tags": [
       "policy"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "QGIS bans AI assisted contributions",
-    "points": 196,
+    "points": 362,
     "path": "news/2026/10/12/b7a40a9ea7f0-qgis-bans-ai-assisted-contributions.md"
   },
   {
@@ -23,10 +219,25 @@
       "research",
       "funding"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-    "points": 176,
+    "points": 238,
     "path": "news/2026/10/12/0e84364842a6-research-firm-calls-anthropic-s-ipo-unprecedented-test-of-in.md"
+  },
+  {
+    "id": "702c3f24c909",
+    "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "url": "https://github.com/SaarthurR/atticus-mac",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T00:15:12Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "points": 54,
+    "path": "news/2026/10/12/702c3f24c909-show-hn-atticus-hold-to-talk-voice-assistant-for-macos-that-.md"
   },
   {
     "id": "e5252a77dc0d",
@@ -37,7 +248,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Recursive self-improvement through collective intelligence",
-    "points": 120,
+    "points": 135,
     "path": "news/2026/10/11/e5252a77dc0d-recursive-self-improvement-through-collective-intelligence.md"
   },
   {
@@ -51,7 +262,7 @@
     ],
     "importance": 3,
     "summary": "The gap in shared understanding of LLM capability is widening",
-    "points": 535,
+    "points": 676,
     "path": "news/2026/10/11/d16bd93ff857-the-gap-in-shared-understanding-of-llm-capability-is-widenin.md"
   },
   {
@@ -63,7 +274,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
-    "points": 54,
+    "points": 56,
     "path": "news/2026/10/11/fad86847fac2-what-driving-across-europe-costs-in-tolls-vignettes-bridges-.md"
   },
   {
@@ -87,7 +298,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-    "points": 92,
+    "points": 96,
     "path": "news/2026/10/11/9b834e7e0f6f-nicolas-cage-says-he-won-t-work-with-amazon-again-over-ai-di.md"
   },
   {
@@ -99,7 +310,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-    "points": 124,
+    "points": 165,
     "path": "news/2026/10/11/466960da748f-using-ai-for-just-10-minutes-erodes-your-ability-to-persist-.md"
   },
   {
@@ -113,7 +324,7 @@
     ],
     "importance": 3,
     "summary": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "points": 200,
+    "points": 207,
     "path": "news/2026/10/11/7e7448367783-500b-tokens-later-letting-ai-agents-decompile-a-first-person.md"
   },
   {
@@ -127,7 +338,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic asks users to stop being mean to Claude",
-    "points": 54,
+    "points": 55,
     "path": "news/2026/10/11/9bfb7f953846-anthropic-asks-users-to-stop-being-mean-to-claude.md"
   },
   {
@@ -141,7 +352,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-    "points": 276,
+    "points": 282,
     "path": "news/2026/10/11/7656d74f8e72-show-hn-wallhop-12ft-io-is-gone-so-i-built-a-replacement.md"
   },
   {
@@ -215,7 +426,7 @@
     ],
     "importance": 3,
     "summary": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "points": 324,
+    "points": 327,
     "path": "news/2026/10/10/5c1db9239c15-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free.md"
   },
   {

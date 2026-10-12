@@ -5,8 +5,8 @@ url: https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-ye
 source: hackernews
 published_at: 2026-10-12T05:03:47Z
 fetched_at: 2026-10-12T13:41:44.383Z
-importance: 2
-points: 176
+importance: 3
+points: 238
 tags: [research, funding]
 ---
 
