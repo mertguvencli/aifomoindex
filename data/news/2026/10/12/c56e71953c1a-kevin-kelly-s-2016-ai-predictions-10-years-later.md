@@ -5,8 +5,8 @@ url: https://taylor.town/kk-ai-2026
 source: hackernews
 published_at: 2026-10-12T15:16:45Z
 fetched_at: 2026-10-12T23:52:41.867Z
-importance: 2
-points: 198
+importance: 3
+points: 214
 tags: []
 ---
 

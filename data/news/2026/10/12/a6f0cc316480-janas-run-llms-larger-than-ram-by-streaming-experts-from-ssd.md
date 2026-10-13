@@ -5,8 +5,8 @@ url: https://github.com/prabanta-dev/janas
 source: hackernews
 published_at: 2026-10-12T22:05:43Z
 fetched_at: 2026-10-13T04:10:42.087Z
-importance: 2
-points: 179
+importance: 3
+points: 212
 tags: [model]
 ---
 
