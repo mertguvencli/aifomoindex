@@ -5,8 +5,8 @@ url: https://yyhh.org/blog/2026/10/ai-is-a-tool/
 source: hackernews
 published_at: 2026-10-12T21:40:18Z
 fetched_at: 2026-10-12T23:52:41.867Z
-importance: 2
-points: 173
+importance: 3
+points: 275
 tags: [tool]
 ---
 

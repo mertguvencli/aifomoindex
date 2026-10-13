@@ -1,5 +1,45 @@
 [
   {
+    "id": "e71895561593",
+    "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+    "url": "https://doi.org/10.1111/acel.70751",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T23:34:22Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+    "points": 123,
+    "path": "news/2026/10/12/e71895561593-blood-cells-from-80-year-old-donor-become-stem-cells-with-mo.md"
+  },
+  {
+    "id": "6bc12f2b5da9",
+    "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+    "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T23:07:25Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+    "points": 133,
+    "path": "news/2026/10/12/6bc12f2b5da9-i-turned-my-unused-kindle-into-a-photo-frame-with-gpt-6-astr.md"
+  },
+  {
+    "id": "a6f0cc316480",
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "url": "https://github.com/prabanta-dev/janas",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T22:05:43Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "points": 64,
+    "path": "news/2026/10/12/a6f0cc316480-janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd.md"
+  },
+  {
     "id": "f4c98356fbd1",
     "title": "AI is a tool and using it well takes skill",
     "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
@@ -8,10 +48,24 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "AI is a tool and using it well takes skill",
-    "points": 173,
+    "points": 275,
     "path": "news/2026/10/12/f4c98356fbd1-ai-is-a-tool-and-using-it-well-takes-skill.md"
+  },
+  {
+    "id": "1c3c21f1e840",
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T21:35:35Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "points": 109,
+    "path": "news/2026/10/12/1c3c21f1e840-intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.md"
   },
   {
     "id": "e58497308ea5",
@@ -22,7 +76,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Epic Games tells employees to use AI to get Disney game done",
-    "points": 72,
+    "points": 80,
     "path": "news/2026/10/12/e58497308ea5-epic-games-tells-employees-to-use-ai-to-get-disney-game-done.md"
   },
   {
@@ -37,7 +91,7 @@
     ],
     "importance": 2,
     "summary": "AI models may be capable of self-replicating without access to a datacenter",
-    "points": 72,
+    "points": 81,
     "path": "news/2026/10/12/bd039d8a938b-ai-models-may-be-capable-of-self-replicating-without-access-.md"
   },
   {
@@ -47,9 +101,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-12T19:08:21Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenFatigue™ – Open is the new closed",
-    "points": 190,
+    "points": 205,
     "path": "news/2026/10/12/395f474ddb85-openfatigue-open-is-the-new-closed.md"
   },
   {
@@ -63,7 +117,7 @@
     ],
     "importance": 3,
     "summary": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "points": 418,
+    "points": 493,
     "path": "news/2026/10/12/99e810c974b3-codex-cli-installs-a-persistent-self-updating-background-dae.md"
   },
   {
@@ -75,7 +129,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Just say no to OpenAI and Anthropic",
-    "points": 152,
+    "points": 156,
     "path": "news/2026/10/12/5d1e3924df39-just-say-no-to-openai-and-anthropic.md"
   },
   {
@@ -87,9 +141,9 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "'AI' Is Not a Tool by Rich Hickey",
-    "points": 169,
+    "points": 239,
     "path": "news/2026/10/12/ddb86101e711-ai-is-not-a-tool-by-rich-hickey.md"
   },
   {
@@ -103,7 +157,7 @@
     ],
     "importance": 3,
     "summary": "AI coding agents generate more code, but not more software",
-    "points": 293,
+    "points": 319,
     "path": "news/2026/10/12/0c1c0b395051-ai-coding-agents-generate-more-code-but-not-more-software.md"
   },
   {
@@ -115,7 +169,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
-    "points": 136,
+    "points": 158,
     "path": "news/2026/10/12/adbb8d5b8893-feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-l.md"
   },
   {
@@ -127,7 +181,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Wonder",
-    "points": 497,
+    "points": 565,
     "path": "news/2026/10/12/7758c02a15e3-muse-wonder.md"
   },
   {
@@ -139,7 +193,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GLM-Legal",
-    "points": 397,
+    "points": 475,
     "path": "news/2026/10/12/ab91ee9162f4-glm-legal.md"
   },
   {
@@ -151,7 +205,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "points": 117,
+    "points": 155,
     "path": "news/2026/10/12/c56e71953c1a-kevin-kelly-s-2016-ai-predictions-10-years-later.md"
   },
   {
@@ -163,7 +217,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why aren't AI companies being charged for hacking?",
-    "points": 308,
+    "points": 314,
     "path": "news/2026/10/12/84b7a03f2e99-why-aren-t-ai-companies-being-charged-for-hacking.md"
   },
   {
@@ -192,7 +246,7 @@
     ],
     "importance": 2,
     "summary": "AI less regulated than milk, Microsoft president says in warning over safety",
-    "points": 65,
+    "points": 69,
     "path": "news/2026/10/12/17d3cbe685fd-ai-less-regulated-than-milk-microsoft-president-says-in-warn.md"
   },
   {
@@ -206,7 +260,7 @@
     ],
     "importance": 3,
     "summary": "QGIS bans AI assisted contributions",
-    "points": 362,
+    "points": 369,
     "path": "news/2026/10/12/b7a40a9ea7f0-qgis-bans-ai-assisted-contributions.md"
   },
   {
@@ -236,7 +290,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-    "points": 54,
+    "points": 85,
     "path": "news/2026/10/12/702c3f24c909-show-hn-atticus-hold-to-talk-voice-assistant-for-macos-that-.md"
   },
   {
@@ -262,7 +316,7 @@
     ],
     "importance": 3,
     "summary": "The gap in shared understanding of LLM capability is widening",
-    "points": 676,
+    "points": 681,
     "path": "news/2026/10/11/d16bd93ff857-the-gap-in-shared-understanding-of-llm-capability-is-widenin.md"
   },
   {
@@ -274,7 +328,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
-    "points": 56,
+    "points": 57,
     "path": "news/2026/10/11/fad86847fac2-what-driving-across-europe-costs-in-tolls-vignettes-bridges-.md"
   },
   {
@@ -298,7 +352,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-    "points": 96,
+    "points": 97,
     "path": "news/2026/10/11/9b834e7e0f6f-nicolas-cage-says-he-won-t-work-with-amazon-again-over-ai-di.md"
   },
   {
@@ -310,7 +364,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-    "points": 165,
+    "points": 174,
     "path": "news/2026/10/11/466960da748f-using-ai-for-just-10-minutes-erodes-your-ability-to-persist-.md"
   },
   {
@@ -324,7 +378,7 @@
     ],
     "importance": 3,
     "summary": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "points": 207,
+    "points": 209,
     "path": "news/2026/10/11/7e7448367783-500b-tokens-later-letting-ai-agents-decompile-a-first-person.md"
   },
   {
@@ -352,7 +406,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
-    "points": 282,
+    "points": 283,
     "path": "news/2026/10/11/7656d74f8e72-show-hn-wallhop-12ft-io-is-gone-so-i-built-a-replacement.md"
   },
   {
@@ -383,7 +437,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "points": 176,
+    "points": 177,
     "path": "news/2026/10/10/37fe306f80ef-nvidia-in-talks-to-acquire-us-open-model-startup-reflection-.md"
   },
   {
