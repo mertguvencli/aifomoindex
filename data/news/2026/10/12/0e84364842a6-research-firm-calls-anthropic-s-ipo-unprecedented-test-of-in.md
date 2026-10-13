@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-12T05:03:47Z
 fetched_at: 2026-10-12T13:41:44.383Z
 importance: 3
-points: 238
+points: 241
 tags: [research, funding]
 ---
 

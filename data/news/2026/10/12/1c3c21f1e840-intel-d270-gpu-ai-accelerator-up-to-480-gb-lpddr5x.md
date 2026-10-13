@@ -5,8 +5,8 @@ url: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data
 source: hackernews
 published_at: 2026-10-12T21:35:35Z
 fetched_at: 2026-10-13T04:10:42.087Z
-importance: 2
-points: 109
+importance: 3
+points: 263
 tags: [infra]
 ---
 
