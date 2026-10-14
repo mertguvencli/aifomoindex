@@ -1,5 +1,59 @@
 [
   {
+    "id": "fa9bd89576a0",
+    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T14:38:55Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "ASML's strong orders ease fears AI spending boom is running out of steam",
+    "points": 76,
+    "path": "news/2026/10/14/fa9bd89576a0-asml-s-strong-orders-ease-fears-ai-spending-boom-is-running-.md"
+  },
+  {
+    "id": "9c8e0559bae9",
+    "title": "TV4 postpones show after AI agent erases edited material",
+    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T10:28:26Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "TV4 postpones show after AI agent erases edited material",
+    "points": 88,
+    "path": "news/2026/10/14/9c8e0559bae9-tv4-postpones-show-after-ai-agent-erases-edited-material.md"
+  },
+  {
+    "id": "150cdbf7fb33",
+    "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+    "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T10:21:13Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+    "points": 53,
+    "path": "news/2026/10/14/150cdbf7fb33-agent-erased-full-season-of-the-challenge-swe-hundreds-of-da.md"
+  },
+  {
+    "id": "80b17e5ba2ac",
+    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+    "url": "https://museumofages.org/w/vinci",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T10:00:24Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+    "points": 60,
+    "path": "news/2026/10/14/80b17e5ba2ac-show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.md"
+  },
+  {
     "id": "e9e144fc152f",
     "title": "Singapore office and government MOU",
     "url": "https://www.anthropic.com/news/singapore-office-opening",
@@ -13,6 +67,20 @@
     "path": "news/2026/10/14/e9e144fc152f-singapore-office-and-government-mou.md"
   },
   {
+    "id": "a8b8c31de898",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "source": "openai",
+    "publishedAt": "2026-10-14T07:00:00.000Z",
+    "tags": [
+      "tool",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "path": "news/2026/10/14/a8b8c31de898-how-third-moment-research-runs-10-000-agents-for-36-hours.md"
+  },
+  {
     "id": "9fb3a1527c69",
     "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
     "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
@@ -21,7 +89,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-    "points": 64,
+    "points": 69,
     "path": "news/2026/10/14/9fb3a1527c69-anthropic-conjures-threat-that-doesn-t-exist-yet-to-stoke-fe.md"
   },
   {
@@ -50,7 +118,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a tool to track what AI leaders say and how their views change",
-    "points": 102,
+    "points": 113,
     "path": "news/2026/10/14/56c0690ddc7d-show-hn-i-built-a-tool-to-track-what-ai-leaders-say-and-how-.md"
   },
   {
@@ -80,7 +148,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "points": 106,
+    "points": 109,
     "path": "news/2026/10/13/9b21fa9a4490-show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-.md"
   },
   {
@@ -92,7 +160,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI engineer arrested in bugging of executive conference room",
-    "points": 597,
+    "points": 621,
     "path": "news/2026/10/13/020dc58f2fcb-openai-engineer-arrested-in-bugging-of-executive-conference-.md"
   },
   {
@@ -104,7 +172,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI finds recording device in one of their offices",
-    "points": 84,
+    "points": 85,
     "path": "news/2026/10/13/71c4fcc4657d-openai-finds-recording-device-in-one-of-their-offices.md"
   },
   {
@@ -119,7 +187,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-    "points": 69,
+    "points": 72,
     "path": "news/2026/10/13/e53ddf16cb30-show-hn-parsimony-an-open-source-benchmark-for-how-much-code.md"
   },
   {
@@ -171,7 +239,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon for Robotics",
-    "points": 220,
+    "points": 226,
     "path": "news/2026/10/13/88bebe9674d4-gemini-4-argon-for-robotics.md"
   },
   {
@@ -185,7 +253,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon",
-    "points": 1326,
+    "points": 1394,
     "path": "news/2026/10/13/1b45a4f87bd4-gemini-4-argon.md"
   },
   {
@@ -236,7 +304,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Redesigning source control at Anthropic",
-    "points": 784,
+    "points": 838,
     "path": "news/2026/10/13/b21e647b1aee-redesigning-source-control-at-anthropic.md"
   },
   {
@@ -248,7 +316,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "points": 326,
+    "points": 334,
     "path": "news/2026/10/13/7f9c2671e51f-i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-t.md"
   },
   {
@@ -260,7 +328,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to engineer an AI harness for game development",
-    "points": 152,
+    "points": 160,
     "path": "news/2026/10/13/6b5ca3d8f464-how-to-engineer-an-ai-harness-for-game-development.md"
   },
   {
@@ -300,7 +368,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "points": 76,
+    "points": 80,
     "path": "news/2026/10/13/956aacf86719-show-hn-spotatui-a-spotify-tui-gui-without-web-api-rate-limi.md"
   },
   {
@@ -326,7 +394,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Use your OpenAI subscription to create audiobooks",
-    "points": 164,
+    "points": 168,
     "path": "news/2026/10/13/d055b625ae40-show-hn-use-your-openai-subscription-to-create-audiobooks.md"
   },
   {
@@ -352,7 +420,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "points": 324,
+    "points": 328,
     "path": "news/2026/10/13/4b016f5706dc-character-ai-has-initiated-voluntary-chapter-11-bankruptcy.md"
   },
   {
@@ -378,7 +446,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A look at the math that OpenAI claims computes faster Fourier transforms",
-    "points": 241,
+    "points": 242,
     "path": "news/2026/10/13/dadbbc0cd411-a-look-at-the-math-that-openai-claims-computes-faster-fourie.md"
   },
   {
@@ -392,7 +460,7 @@
     ],
     "importance": 3,
     "summary": "AI models can provably hide arbitrary capabilities",
-    "points": 275,
+    "points": 276,
     "path": "news/2026/10/13/b693a6e80e75-ai-models-can-provably-hide-arbitrary-capabilities.md"
   },
   {
@@ -432,7 +500,7 @@
     ],
     "importance": 3,
     "summary": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-    "points": 218,
+    "points": 219,
     "path": "news/2026/10/12/a6f0cc316480-janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd.md"
   },
   {
@@ -446,7 +514,7 @@
     ],
     "importance": 3,
     "summary": "AI is a tool and using it well takes skill",
-    "points": 702,
+    "points": 747,
     "path": "news/2026/10/12/f4c98356fbd1-ai-is-a-tool-and-using-it-well-takes-skill.md"
   },
   {
@@ -460,7 +528,7 @@
     ],
     "importance": 3,
     "summary": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "points": 304,
+    "points": 306,
     "path": "news/2026/10/12/1c3c21f1e840-intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.md"
   },
   {
@@ -487,7 +555,7 @@
     ],
     "importance": 2,
     "summary": "AI models may be capable of self-replicating without access to a datacenter",
-    "points": 109,
+    "points": 110,
     "path": "news/2026/10/12/bd039d8a938b-ai-models-may-be-capable-of-self-replicating-without-access-.md"
   },
   {
@@ -499,7 +567,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenFatigue™ – Open is the new closed",
-    "points": 237,
+    "points": 239,
     "path": "news/2026/10/12/395f474ddb85-openfatigue-open-is-the-new-closed.md"
   },
   {
@@ -513,7 +581,7 @@
     ],
     "importance": 3,
     "summary": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "points": 600,
+    "points": 603,
     "path": "news/2026/10/12/99e810c974b3-codex-cli-installs-a-persistent-self-updating-background-dae.md"
   },
   {
@@ -525,7 +593,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Just say no to OpenAI and Anthropic",
-    "points": 170,
+    "points": 171,
     "path": "news/2026/10/12/5d1e3924df39-just-say-no-to-openai-and-anthropic.md"
   },
   {
@@ -539,7 +607,7 @@
     ],
     "importance": 3,
     "summary": "'AI' Is Not a Tool by Rich Hickey",
-    "points": 304,
+    "points": 308,
     "path": "news/2026/10/12/ddb86101e711-ai-is-not-a-tool-by-rich-hickey.md"
   },
   {
@@ -553,7 +621,7 @@
     ],
     "importance": 3,
     "summary": "AI coding agents generate more code, but not more software",
-    "points": 361,
+    "points": 363,
     "path": "news/2026/10/12/0c1c0b395051-ai-coding-agents-generate-more-code-but-not-more-software.md"
   },
   {
@@ -577,7 +645,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Wonder",
-    "points": 665,
+    "points": 666,
     "path": "news/2026/10/12/7758c02a15e3-muse-wonder.md"
   },
   {
@@ -589,7 +657,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GLM-Legal",
-    "points": 668,
+    "points": 670,
     "path": "news/2026/10/12/ab91ee9162f4-glm-legal.md"
   },
   {
@@ -601,7 +669,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "points": 216,
+    "points": 218,
     "path": "news/2026/10/12/c56e71953c1a-kevin-kelly-s-2016-ai-predictions-10-years-later.md"
   },
   {
@@ -613,8 +681,22 @@
     "tags": [],
     "importance": 3,
     "summary": "Why aren't AI companies being charged for hacking?",
-    "points": 331,
+    "points": 334,
     "path": "news/2026/10/12/84b7a03f2e99-why-aren-t-ai-companies-being-charged-for-hacking.md"
+  },
+  {
+    "id": "878257040fe1",
+    "title": "Maybe a better way to track the release history of a Git repo",
+    "url": "https://blog.plover.com/prog/git/history-proposal.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T14:41:27Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Maybe a better way to track the release history of a Git repo",
+    "points": 59,
+    "path": "news/2026/10/12/878257040fe1-maybe-a-better-way-to-track-the-release-history-of-a-git-rep.md"
   },
   {
     "id": "df08a10f1c05",
@@ -656,7 +738,7 @@
     ],
     "importance": 3,
     "summary": "QGIS bans AI assisted contributions",
-    "points": 390,
+    "points": 392,
     "path": "news/2026/10/12/b7a40a9ea7f0-qgis-bans-ai-assisted-contributions.md"
   },
   {
@@ -712,7 +794,7 @@
     ],
     "importance": 3,
     "summary": "The gap in shared understanding of LLM capability is widening",
-    "points": 717,
+    "points": 720,
     "path": "news/2026/10/11/d16bd93ff857-the-gap-in-shared-understanding-of-llm-capability-is-widenin.md"
   },
   {
