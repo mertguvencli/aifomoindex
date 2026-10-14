@@ -5,8 +5,8 @@ url: https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-
 source: hackernews
 published_at: 2026-10-13T20:23:55Z
 fetched_at: 2026-10-13T22:01:18.454Z
-importance: 2
-points: 88
+importance: 3
+points: 427
 tags: []
 ---
 

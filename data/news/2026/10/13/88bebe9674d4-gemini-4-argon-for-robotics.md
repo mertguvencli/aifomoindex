@@ -5,8 +5,8 @@ url: https://developers.googleblog.com/gemini-4-argon-for-robotics/
 source: hackernews
 published_at: 2026-10-13T16:55:47Z
 fetched_at: 2026-10-13T22:01:18.454Z
-importance: 2
-points: 155
+importance: 3
+points: 201
 tags: [model]
 ---
 

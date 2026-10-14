@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-12T19:25:29Z
 fetched_at: 2026-10-12T23:52:41.867Z
 importance: 2
-points: 104
+points: 106
 tags: [model, infra]
 ---
 
