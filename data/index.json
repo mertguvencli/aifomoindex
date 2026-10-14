@@ -1,5 +1,148 @@
 [
   {
+    "id": "5225b848d447",
+    "title": "Things to know if you get cancer in 2026",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T19:26:30Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Things to know if you get cancer in 2026",
+    "points": 259,
+    "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
+  },
+  {
+    "id": "762a2da9be9c",
+    "title": "Preparing for the 2026 US midterms",
+    "url": "https://www.anthropic.com/news/2026-us-midterms",
+    "source": "anthropic",
+    "publishedAt": "2026-10-14T18:33:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Preparing for the 2026 US midterms",
+    "path": "news/2026/10/14/762a2da9be9c-preparing-for-the-2026-us-midterms.md"
+  },
+  {
+    "id": "6ab4ba1e1cde",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T18:32:52Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "points": 172,
+    "path": "news/2026/10/14/6ab4ba1e1cde-banks-are-now-trying-to-offload-the-ai-data-center-debt-they.md"
+  },
+  {
+    "id": "47f55b445021",
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "url": "https://petal.live/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T18:23:14Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "points": 68,
+    "path": "news/2026/10/14/47f55b445021-show-hn-petal-open-source-coscreen-screenhero-finally-free.md"
+  },
+  {
+    "id": "10b445005929",
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T17:45:23Z",
+    "tags": [
+      "tool",
+      "safety"
+    ],
+    "importance": 3,
+    "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "points": 741,
+    "path": "news/2026/10/14/10b445005929-ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu.md"
+  },
+  {
+    "id": "9eec45fb90e0",
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "url": "https://lwn.net/Articles/1100449/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T16:55:07Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Linus Torvalds's first LLM-assisted patch series",
+    "points": 109,
+    "path": "news/2026/10/14/9eec45fb90e0-linus-torvalds-s-first-llm-assisted-patch-series.md"
+  },
+  {
+    "id": "aa20a97d7034",
+    "title": "Has AI Tells",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T16:52:42Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Has AI Tells",
+    "points": 52,
+    "path": "news/2026/10/14/aa20a97d7034-has-ai-tells.md"
+  },
+  {
+    "id": "ddb0d20f6638",
+    "title": "Why do LLM pelicans look like this?",
+    "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T16:33:34Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Why do LLM pelicans look like this?",
+    "points": 146,
+    "path": "news/2026/10/14/ddb0d20f6638-why-do-llm-pelicans-look-like-this.md"
+  },
+  {
+    "id": "504a28fcb44d",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "source": "huggingface",
+    "publishedAt": "2026-10-14T16:12:42.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "path": "news/2026/10/14/504a28fcb44d-hiro-acev2-simulating-extreme-weather-at-3-km-resolution-for.md"
+  },
+  {
+    "id": "04d2e5a6c54e",
+    "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+    "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T15:39:45Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+    "points": 59,
+    "path": "news/2026/10/14/04d2e5a6c54e-character-ai-s-bankruptcy-documents-show-the-economics-of-ai.md"
+  },
+  {
+    "id": "9439d9ab6cdd",
+    "title": "AI is mass decompiling games. That's both awesome and scary",
+    "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T14:47:44Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI is mass decompiling games. That's both awesome and scary",
+    "points": 90,
+    "path": "news/2026/10/14/9439d9ab6cdd-ai-is-mass-decompiling-games-that-s-both-awesome-and-scary.md"
+  },
+  {
     "id": "fa9bd89576a0",
     "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
     "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
@@ -8,8 +151,47 @@
     "tags": [],
     "importance": 2,
     "summary": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "points": 76,
+    "points": 166,
     "path": "news/2026/10/14/fa9bd89576a0-asml-s-strong-orders-ease-fears-ai-spending-boom-is-running-.md"
+  },
+  {
+    "id": "9bb24f047200",
+    "title": "Nvidia's first GPU: GeForce 256",
+    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T12:05:44Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Nvidia's first GPU: GeForce 256",
+    "points": 58,
+    "path": "news/2026/10/14/9bb24f047200-nvidia-s-first-gpu-geforce-256.md"
+  },
+  {
+    "id": "57c3309db5be",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "source": "openai",
+    "publishedAt": "2026-10-14T12:00:00.000Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Amp puts AI agents to work beyond code with OpenAI models",
+    "path": "news/2026/10/14/57c3309db5be-amp-puts-ai-agents-to-work-beyond-code-with-openai-models.md"
+  },
+  {
+    "id": "004cd593adab",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "source": "openai",
+    "publishedAt": "2026-10-14T12:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "SentinelOne cuts malware analysis from weeks to hours",
+    "path": "news/2026/10/14/004cd593adab-sentinelone-cuts-malware-analysis-from-weeks-to-hours.md"
   },
   {
     "id": "9c8e0559bae9",
@@ -22,7 +204,7 @@
     ],
     "importance": 2,
     "summary": "TV4 postpones show after AI agent erases edited material",
-    "points": 88,
+    "points": 135,
     "path": "news/2026/10/14/9c8e0559bae9-tv4-postpones-show-after-ai-agent-erases-edited-material.md"
   },
   {
@@ -36,7 +218,7 @@
     ],
     "importance": 2,
     "summary": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-    "points": 53,
+    "points": 55,
     "path": "news/2026/10/14/150cdbf7fb33-agent-erased-full-season-of-the-challenge-swe-hundreds-of-da.md"
   },
   {
@@ -50,7 +232,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-    "points": 60,
+    "points": 85,
     "path": "news/2026/10/14/80b17e5ba2ac-show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.md"
   },
   {
@@ -89,7 +271,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-    "points": 69,
+    "points": 73,
     "path": "news/2026/10/14/9fb3a1527c69-anthropic-conjures-threat-that-doesn-t-exist-yet-to-stoke-fe.md"
   },
   {
@@ -118,7 +300,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a tool to track what AI leaders say and how their views change",
-    "points": 113,
+    "points": 115,
     "path": "news/2026/10/14/56c0690ddc7d-show-hn-i-built-a-tool-to-track-what-ai-leaders-say-and-how-.md"
   },
   {
@@ -148,7 +330,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "points": 109,
+    "points": 111,
     "path": "news/2026/10/13/9b21fa9a4490-show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-.md"
   },
   {
@@ -160,7 +342,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI engineer arrested in bugging of executive conference room",
-    "points": 621,
+    "points": 640,
     "path": "news/2026/10/13/020dc58f2fcb-openai-engineer-arrested-in-bugging-of-executive-conference-.md"
   },
   {
@@ -187,7 +369,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-    "points": 72,
+    "points": 76,
     "path": "news/2026/10/13/e53ddf16cb30-show-hn-parsimony-an-open-source-benchmark-for-how-much-code.md"
   },
   {
@@ -239,7 +421,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon for Robotics",
-    "points": 226,
+    "points": 228,
     "path": "news/2026/10/13/88bebe9674d4-gemini-4-argon-for-robotics.md"
   },
   {
@@ -253,7 +435,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon",
-    "points": 1394,
+    "points": 1427,
     "path": "news/2026/10/13/1b45a4f87bd4-gemini-4-argon.md"
   },
   {
@@ -304,7 +486,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Redesigning source control at Anthropic",
-    "points": 838,
+    "points": 858,
     "path": "news/2026/10/13/b21e647b1aee-redesigning-source-control-at-anthropic.md"
   },
   {
@@ -316,7 +498,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "points": 334,
+    "points": 339,
     "path": "news/2026/10/13/7f9c2671e51f-i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-t.md"
   },
   {
@@ -328,7 +510,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to engineer an AI harness for game development",
-    "points": 160,
+    "points": 164,
     "path": "news/2026/10/13/6b5ca3d8f464-how-to-engineer-an-ai-harness-for-game-development.md"
   },
   {
@@ -368,7 +550,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "points": 80,
+    "points": 85,
     "path": "news/2026/10/13/956aacf86719-show-hn-spotatui-a-spotify-tui-gui-without-web-api-rate-limi.md"
   },
   {
@@ -394,7 +576,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Use your OpenAI subscription to create audiobooks",
-    "points": 168,
+    "points": 169,
     "path": "news/2026/10/13/d055b625ae40-show-hn-use-your-openai-subscription-to-create-audiobooks.md"
   },
   {
@@ -420,7 +602,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "points": 328,
+    "points": 331,
     "path": "news/2026/10/13/4b016f5706dc-character-ai-has-initiated-voluntary-chapter-11-bankruptcy.md"
   },
   {
@@ -434,7 +616,7 @@
     ],
     "importance": 2,
     "summary": "Threat of AI share crash puts world financial stability at risk, says IMF",
-    "points": 112,
+    "points": 114,
     "path": "news/2026/10/13/56acf17ef051-threat-of-ai-share-crash-puts-world-financial-stability-at-r.md"
   },
   {
@@ -446,7 +628,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A look at the math that OpenAI claims computes faster Fourier transforms",
-    "points": 242,
+    "points": 243,
     "path": "news/2026/10/13/dadbbc0cd411-a-look-at-the-math-that-openai-claims-computes-faster-fourie.md"
   },
   {
@@ -460,7 +642,7 @@
     ],
     "importance": 3,
     "summary": "AI models can provably hide arbitrary capabilities",
-    "points": 276,
+    "points": 279,
     "path": "news/2026/10/13/b693a6e80e75-ai-models-can-provably-hide-arbitrary-capabilities.md"
   },
   {
@@ -500,7 +682,7 @@
     ],
     "importance": 3,
     "summary": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-    "points": 219,
+    "points": 220,
     "path": "news/2026/10/12/a6f0cc316480-janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd.md"
   },
   {
@@ -514,7 +696,7 @@
     ],
     "importance": 3,
     "summary": "AI is a tool and using it well takes skill",
-    "points": 747,
+    "points": 755,
     "path": "news/2026/10/12/f4c98356fbd1-ai-is-a-tool-and-using-it-well-takes-skill.md"
   },
   {
@@ -555,7 +737,7 @@
     ],
     "importance": 2,
     "summary": "AI models may be capable of self-replicating without access to a datacenter",
-    "points": 110,
+    "points": 115,
     "path": "news/2026/10/12/bd039d8a938b-ai-models-may-be-capable-of-self-replicating-without-access-.md"
   },
   {
@@ -581,7 +763,7 @@
     ],
     "importance": 3,
     "summary": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "points": 603,
+    "points": 606,
     "path": "news/2026/10/12/99e810c974b3-codex-cli-installs-a-persistent-self-updating-background-dae.md"
   },
   {
@@ -607,7 +789,7 @@
     ],
     "importance": 3,
     "summary": "'AI' Is Not a Tool by Rich Hickey",
-    "points": 308,
+    "points": 310,
     "path": "news/2026/10/12/ddb86101e711-ai-is-not-a-tool-by-rich-hickey.md"
   },
   {
@@ -621,7 +803,7 @@
     ],
     "importance": 3,
     "summary": "AI coding agents generate more code, but not more software",
-    "points": 363,
+    "points": 364,
     "path": "news/2026/10/12/0c1c0b395051-ai-coding-agents-generate-more-code-but-not-more-software.md"
   },
   {
@@ -645,7 +827,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Wonder",
-    "points": 666,
+    "points": 667,
     "path": "news/2026/10/12/7758c02a15e3-muse-wonder.md"
   },
   {
@@ -669,7 +851,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "points": 218,
+    "points": 219,
     "path": "news/2026/10/12/c56e71953c1a-kevin-kelly-s-2016-ai-predictions-10-years-later.md"
   },
   {
@@ -681,7 +863,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why aren't AI companies being charged for hacking?",
-    "points": 334,
+    "points": 335,
     "path": "news/2026/10/12/84b7a03f2e99-why-aren-t-ai-companies-being-charged-for-hacking.md"
   },
   {
@@ -709,7 +891,7 @@
     ],
     "importance": 2,
     "summary": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
-    "points": 56,
+    "points": 57,
     "path": "news/2026/10/12/df08a10f1c05-just-ask-claude-is-a-rare-and-valuable-skill.md"
   },
   {
