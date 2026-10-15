@@ -5,8 +5,8 @@ url: https://www.liquid.ai/blog/lfm2-5-24b-a2b
 source: hackernews
 published_at: 2026-10-14T23:59:37Z
 fetched_at: 2026-10-15T02:04:50.691Z
-importance: 2
-points: 75
+importance: 3
+points: 213
 tags: [tool]
 ---
 

@@ -1,5 +1,17 @@
 [
   {
+    "id": "e265570ab550",
+    "title": "AI was great until it was not",
+    "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T08:18:38Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI was great until it was not",
+    "points": 67,
+    "path": "news/2026/10/15/e265570ab550-ai-was-great-until-it-was-not.md"
+  },
+  {
     "id": "5da0d3b2fe70",
     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -8,9 +20,9 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "points": 75,
+    "points": 213,
     "path": "news/2026/10/14/5da0d3b2fe70-lfm2-5-24b-a2b-built-for-fast-on-device-agents.md"
   },
   {
@@ -20,9 +32,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-14T21:11:03Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "points": 191,
+    "points": 298,
     "path": "news/2026/10/14/616037433c78-we-re-releasing-jev-1-14-0-along-with-experimental-features-.md"
   },
   {
@@ -34,7 +46,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's Scion is heavily inspired by Mononoke",
-    "points": 259,
+    "points": 374,
     "path": "news/2026/10/14/c5372ca3c1ac-anthropic-s-scion-is-heavily-inspired-by-mononoke.md"
   },
   {
@@ -46,7 +58,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 813,
+    "points": 1392,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -71,7 +83,7 @@
     ],
     "importance": 3,
     "summary": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "points": 292,
+    "points": 366,
     "path": "news/2026/10/14/6ab4ba1e1cde-banks-are-now-trying-to-offload-the-ai-data-center-debt-they.md"
   },
   {
@@ -85,7 +97,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "points": 115,
+    "points": 171,
     "path": "news/2026/10/14/47f55b445021-show-hn-petal-open-source-coscreen-screenhero-finally-free.md"
   },
   {
@@ -100,7 +112,7 @@
     ],
     "importance": 3,
     "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "points": 839,
+    "points": 903,
     "path": "news/2026/10/14/10b445005929-ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu.md"
   },
   {
@@ -115,7 +127,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "points": 87,
+    "points": 102,
     "path": "news/2026/10/14/c354c45c2e58-show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-pe.md"
   },
   {
@@ -129,7 +141,7 @@
     ],
     "importance": 2,
     "summary": "Linus Torvalds's first LLM-assisted patch series",
-    "points": 113,
+    "points": 116,
     "path": "news/2026/10/14/9eec45fb90e0-linus-torvalds-s-first-llm-assisted-patch-series.md"
   },
   {
@@ -141,7 +153,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Has AI Tells",
-    "points": 83,
+    "points": 122,
     "path": "news/2026/10/14/aa20a97d7034-has-ai-tells.md"
   },
   {
@@ -155,7 +167,7 @@
     ],
     "importance": 2,
     "summary": "Why do LLM pelicans look like this?",
-    "points": 153,
+    "points": 162,
     "path": "news/2026/10/14/ddb0d20f6638-why-do-llm-pelicans-look-like-this.md"
   },
   {
@@ -180,7 +192,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-    "points": 62,
+    "points": 63,
     "path": "news/2026/10/14/04d2e5a6c54e-character-ai-s-bankruptcy-documents-show-the-economics-of-ai.md"
   },
   {
@@ -192,7 +204,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is mass decompiling games. That's both awesome and scary",
-    "points": 95,
+    "points": 104,
     "path": "news/2026/10/14/9439d9ab6cdd-ai-is-mass-decompiling-games-that-s-both-awesome-and-scary.md"
   },
   {
@@ -204,7 +216,7 @@
     "tags": [],
     "importance": 2,
     "summary": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "points": 168,
+    "points": 172,
     "path": "news/2026/10/14/fa9bd89576a0-asml-s-strong-orders-ease-fears-ai-spending-boom-is-running-.md"
   },
   {
@@ -218,7 +230,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia's first GPU: GeForce 256",
-    "points": 69,
+    "points": 76,
     "path": "news/2026/10/14/9bb24f047200-nvidia-s-first-gpu-geforce-256.md"
   },
   {
@@ -257,7 +269,7 @@
     ],
     "importance": 2,
     "summary": "TV4 postpones show after AI agent erases edited material",
-    "points": 140,
+    "points": 147,
     "path": "news/2026/10/14/9c8e0559bae9-tv4-postpones-show-after-ai-agent-erases-edited-material.md"
   },
   {
@@ -269,7 +281,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I let an AI run my startup for a week",
-    "points": 57,
+    "points": 62,
     "path": "news/2026/10/14/3c0553b7d893-i-let-an-ai-run-my-startup-for-a-week.md"
   },
   {
@@ -283,7 +295,7 @@
     ],
     "importance": 2,
     "summary": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/14/150cdbf7fb33-agent-erased-full-season-of-the-challenge-swe-hundreds-of-da.md"
   },
   {
@@ -297,7 +309,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-    "points": 85,
+    "points": 87,
     "path": "news/2026/10/14/80b17e5ba2ac-show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.md"
   },
   {
@@ -378,7 +390,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a tool to track what AI leaders say and how their views change",
-    "points": 115,
+    "points": 117,
     "path": "news/2026/10/14/56c0690ddc7d-show-hn-i-built-a-tool-to-track-what-ai-leaders-say-and-how-.md"
   },
   {
@@ -408,7 +420,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "points": 114,
+    "points": 117,
     "path": "news/2026/10/13/9b21fa9a4490-show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-.md"
   },
   {
@@ -420,7 +432,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI engineer arrested in bugging of executive conference room",
-    "points": 643,
+    "points": 647,
     "path": "news/2026/10/13/020dc58f2fcb-openai-engineer-arrested-in-bugging-of-executive-conference-.md"
   },
   {
@@ -499,7 +511,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon for Robotics",
-    "points": 231,
+    "points": 232,
     "path": "news/2026/10/13/88bebe9674d4-gemini-4-argon-for-robotics.md"
   },
   {
@@ -513,7 +525,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon",
-    "points": 1433,
+    "points": 1448,
     "path": "news/2026/10/13/1b45a4f87bd4-gemini-4-argon.md"
   },
   {
@@ -564,7 +576,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Redesigning source control at Anthropic",
-    "points": 866,
+    "points": 879,
     "path": "news/2026/10/13/b21e647b1aee-redesigning-source-control-at-anthropic.md"
   },
   {
@@ -576,7 +588,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "points": 342,
+    "points": 345,
     "path": "news/2026/10/13/7f9c2671e51f-i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-t.md"
   },
   {
@@ -588,7 +600,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to engineer an AI harness for game development",
-    "points": 167,
+    "points": 171,
     "path": "news/2026/10/13/6b5ca3d8f464-how-to-engineer-an-ai-harness-for-game-development.md"
   },
   {
@@ -628,7 +640,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/10/13/956aacf86719-show-hn-spotatui-a-spotify-tui-gui-without-web-api-rate-limi.md"
   },
   {
@@ -680,7 +692,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "points": 331,
+    "points": 332,
     "path": "news/2026/10/13/4b016f5706dc-character-ai-has-initiated-voluntary-chapter-11-bankruptcy.md"
   },
   {
@@ -785,7 +797,7 @@
     ],
     "importance": 3,
     "summary": "AI is a tool and using it well takes skill",
-    "points": 760,
+    "points": 775,
     "path": "news/2026/10/12/f4c98356fbd1-ai-is-a-tool-and-using-it-well-takes-skill.md"
   },
   {
@@ -799,7 +811,7 @@
     ],
     "importance": 3,
     "summary": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "points": 306,
+    "points": 307,
     "path": "news/2026/10/12/1c3c21f1e840-intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.md"
   },
   {
@@ -878,7 +890,7 @@
     ],
     "importance": 3,
     "summary": "'AI' Is Not a Tool by Rich Hickey",
-    "points": 311,
+    "points": 312,
     "path": "news/2026/10/12/ddb86101e711-ai-is-not-a-tool-by-rich-hickey.md"
   },
   {
@@ -904,7 +916,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
-    "points": 192,
+    "points": 194,
     "path": "news/2026/10/12/adbb8d5b8893-feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-l.md"
   },
   {
@@ -916,7 +928,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Wonder",
-    "points": 668,
+    "points": 669,
     "path": "news/2026/10/12/7758c02a15e3-muse-wonder.md"
   },
   {
@@ -928,7 +940,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GLM-Legal",
-    "points": 670,
+    "points": 672,
     "path": "news/2026/10/12/ab91ee9162f4-glm-legal.md"
   },
   {
@@ -940,7 +952,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "points": 219,
+    "points": 220,
     "path": "news/2026/10/12/c56e71953c1a-kevin-kelly-s-2016-ai-predictions-10-years-later.md"
   },
   {
@@ -966,7 +978,7 @@
     ],
     "importance": 2,
     "summary": "Maybe a better way to track the release history of a Git repo",
-    "points": 59,
+    "points": 60,
     "path": "news/2026/10/12/878257040fe1-maybe-a-better-way-to-track-the-release-history-of-a-git-rep.md"
   },
   {
@@ -1021,7 +1033,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Phloem: Git history grown like a slime mold",
-    "points": 82,
+    "points": 116,
     "path": "news/2026/10/12/db1aa31d6b5f-phloem-git-history-grown-like-a-slime-mold.md"
   },
   {
