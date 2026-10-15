@@ -5,8 +5,8 @@ url: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-cent
 source: hackernews
 published_at: 2026-10-14T18:32:52Z
 fetched_at: 2026-10-14T21:02:25.315Z
-importance: 2
-points: 172
+importance: 3
+points: 292
 tags: [infra]
 ---
 
