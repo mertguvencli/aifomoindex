@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-13T05:57:32Z
 fetched_at: 2026-10-13T13:02:55.534Z
 importance: 2
-points: 114
+points: 115
 tags: [safety]
 ---
 

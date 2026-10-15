@@ -1,5 +1,57 @@
 [
   {
+    "id": "155c7b54b4cb",
+    "title": "FLUX 3 Image Klein: open weights, 5.6B parameters",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "source": "bfl",
+    "publishedAt": "2026-10-15T15:00:00.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
+    "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md"
+  },
+  {
+    "id": "e4e4088e2634",
+    "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T14:58:48Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "points": 56,
+    "path": "news/2026/10/15/e4e4088e2634-simons-foundation-launches-15m-effort-to-help-mathematicians.md"
+  },
+  {
+    "id": "a60f4a701f88",
+    "title": "Teaching students to think and learn through questions",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "openai",
+    "publishedAt": "2026-10-15T13:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Teaching students to think and learn through questions",
+    "path": "news/2026/10/15/a60f4a701f88-teaching-students-to-think-and-learn-through-questions.md"
+  },
+  {
+    "id": "39052ad94a8a",
+    "title": "Apertus 1.5 Release Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "source": "huggingface",
+    "publishedAt": "2026-10-15T09:08:45.000Z",
+    "tags": [
+      "product",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Apertus 1.5 Release Notes",
+    "path": "news/2026/10/15/39052ad94a8a-apertus-1-5-release-notes.md"
+  },
+  {
     "id": "e265570ab550",
     "title": "AI was great until it was not",
     "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
@@ -8,8 +60,32 @@
     "tags": [],
     "importance": 2,
     "summary": "AI was great until it was not",
-    "points": 67,
+    "points": 109,
     "path": "news/2026/10/15/e265570ab550-ai-was-great-until-it-was-not.md"
+  },
+  {
+    "id": "eb67409897ed",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "url": "https://huggingface.co/blog/flux-3",
+    "source": "huggingface",
+    "publishedAt": "2026-10-15T00:00:00.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Welcome FLUX.3 Image Klein in Diffusers",
+    "path": "news/2026/10/15/eb67409897ed-welcome-flux-3-image-klein-in-diffusers.md"
+  },
+  {
+    "id": "b26fd6af4ca6",
+    "title": "Agility Robotics Selects Nyobolt as its Ultra-Fast Charging Battery Technology Partner for Digit 5",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5",
+    "source": "agility",
+    "publishedAt": "2026-10-15T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Robotics Selects Nyobolt as its Ultra-Fast Charging Battery Technology Partner for Digit 5",
+    "path": "news/2026/10/15/b26fd6af4ca6-agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-.md"
   },
   {
     "id": "5da0d3b2fe70",
@@ -22,8 +98,22 @@
     ],
     "importance": 3,
     "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "points": 213,
+    "points": 263,
     "path": "news/2026/10/14/5da0d3b2fe70-lfm2-5-24b-a2b-built-for-fast-on-device-agents.md"
+  },
+  {
+    "id": "732478e2d680",
+    "title": "Show HN: Ito – Build Terminal UIs in Lua",
+    "url": "https://uji.sh/ito/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T22:23:53Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Ito – Build Terminal UIs in Lua",
+    "points": 61,
+    "path": "news/2026/10/14/732478e2d680-show-hn-ito-build-terminal-uis-in-lua.md"
   },
   {
     "id": "616037433c78",
@@ -34,7 +124,7 @@
     "tags": [],
     "importance": 3,
     "summary": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "points": 298,
+    "points": 323,
     "path": "news/2026/10/14/616037433c78-we-re-releasing-jev-1-14-0-along-with-experimental-features-.md"
   },
   {
@@ -46,7 +136,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's Scion is heavily inspired by Mononoke",
-    "points": 374,
+    "points": 400,
     "path": "news/2026/10/14/c5372ca3c1ac-anthropic-s-scion-is-heavily-inspired-by-mononoke.md"
   },
   {
@@ -58,7 +148,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 1392,
+    "points": 1748,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -83,7 +173,7 @@
     ],
     "importance": 3,
     "summary": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "points": 366,
+    "points": 373,
     "path": "news/2026/10/14/6ab4ba1e1cde-banks-are-now-trying-to-offload-the-ai-data-center-debt-they.md"
   },
   {
@@ -95,9 +185,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "points": 171,
+    "points": 202,
     "path": "news/2026/10/14/47f55b445021-show-hn-petal-open-source-coscreen-screenhero-finally-free.md"
   },
   {
@@ -112,7 +202,7 @@
     ],
     "importance": 3,
     "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "points": 903,
+    "points": 931,
     "path": "news/2026/10/14/10b445005929-ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu.md"
   },
   {
@@ -127,7 +217,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "points": 102,
+    "points": 104,
     "path": "news/2026/10/14/c354c45c2e58-show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-pe.md"
   },
   {
@@ -141,7 +231,7 @@
     ],
     "importance": 2,
     "summary": "Linus Torvalds's first LLM-assisted patch series",
-    "points": 116,
+    "points": 117,
     "path": "news/2026/10/14/9eec45fb90e0-linus-torvalds-s-first-llm-assisted-patch-series.md"
   },
   {
@@ -153,7 +243,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Has AI Tells",
-    "points": 122,
+    "points": 130,
     "path": "news/2026/10/14/aa20a97d7034-has-ai-tells.md"
   },
   {
@@ -167,7 +257,7 @@
     ],
     "importance": 2,
     "summary": "Why do LLM pelicans look like this?",
-    "points": 162,
+    "points": 163,
     "path": "news/2026/10/14/ddb0d20f6638-why-do-llm-pelicans-look-like-this.md"
   },
   {
@@ -192,7 +282,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/10/14/04d2e5a6c54e-character-ai-s-bankruptcy-documents-show-the-economics-of-ai.md"
   },
   {
@@ -204,7 +294,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is mass decompiling games. That's both awesome and scary",
-    "points": 104,
+    "points": 106,
     "path": "news/2026/10/14/9439d9ab6cdd-ai-is-mass-decompiling-games-that-s-both-awesome-and-scary.md"
   },
   {
@@ -230,7 +320,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia's first GPU: GeForce 256",
-    "points": 76,
+    "points": 78,
     "path": "news/2026/10/14/9bb24f047200-nvidia-s-first-gpu-geforce-256.md"
   },
   {
@@ -269,7 +359,7 @@
     ],
     "importance": 2,
     "summary": "TV4 postpones show after AI agent erases edited material",
-    "points": 147,
+    "points": 152,
     "path": "news/2026/10/14/9c8e0559bae9-tv4-postpones-show-after-ai-agent-erases-edited-material.md"
   },
   {
@@ -281,7 +371,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I let an AI run my startup for a week",
-    "points": 62,
+    "points": 65,
     "path": "news/2026/10/14/3c0553b7d893-i-let-an-ai-run-my-startup-for-a-week.md"
   },
   {
@@ -309,7 +399,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-    "points": 87,
+    "points": 89,
     "path": "news/2026/10/14/80b17e5ba2ac-show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.md"
   },
   {
@@ -420,7 +510,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "points": 117,
+    "points": 118,
     "path": "news/2026/10/13/9b21fa9a4490-show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-.md"
   },
   {
@@ -432,7 +522,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI engineer arrested in bugging of executive conference room",
-    "points": 647,
+    "points": 650,
     "path": "news/2026/10/13/020dc58f2fcb-openai-engineer-arrested-in-bugging-of-executive-conference-.md"
   },
   {
@@ -525,7 +615,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon",
-    "points": 1448,
+    "points": 1453,
     "path": "news/2026/10/13/1b45a4f87bd4-gemini-4-argon.md"
   },
   {
@@ -576,7 +666,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Redesigning source control at Anthropic",
-    "points": 879,
+    "points": 882,
     "path": "news/2026/10/13/b21e647b1aee-redesigning-source-control-at-anthropic.md"
   },
   {
@@ -600,7 +690,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to engineer an AI harness for game development",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/10/13/6b5ca3d8f464-how-to-engineer-an-ai-harness-for-game-development.md"
   },
   {
@@ -640,7 +730,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "points": 88,
+    "points": 90,
     "path": "news/2026/10/13/956aacf86719-show-hn-spotatui-a-spotify-tui-gui-without-web-api-rate-limi.md"
   },
   {
@@ -666,7 +756,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Use your OpenAI subscription to create audiobooks",
-    "points": 170,
+    "points": 171,
     "path": "news/2026/10/13/d055b625ae40-show-hn-use-your-openai-subscription-to-create-audiobooks.md"
   },
   {
@@ -706,7 +796,7 @@
     ],
     "importance": 2,
     "summary": "Threat of AI share crash puts world financial stability at risk, says IMF",
-    "points": 114,
+    "points": 115,
     "path": "news/2026/10/13/56acf17ef051-threat-of-ai-share-crash-puts-world-financial-stability-at-r.md"
   },
   {
@@ -759,6 +849,20 @@
     "path": "news/2026/10/12/e71895561593-blood-cells-from-80-year-old-donor-become-stem-cells-with-mo.md"
   },
   {
+    "id": "539c697bd642",
+    "title": "Show HN: Indigene – Native plants for where you stand",
+    "url": "https://indigene.app/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-12T23:25:20Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Indigene – Native plants for where you stand",
+    "points": 89,
+    "path": "news/2026/10/12/539c697bd642-show-hn-indigene-native-plants-for-where-you-stand.md"
+  },
+  {
     "id": "6bc12f2b5da9",
     "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
     "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
@@ -797,7 +901,7 @@
     ],
     "importance": 3,
     "summary": "AI is a tool and using it well takes skill",
-    "points": 775,
+    "points": 781,
     "path": "news/2026/10/12/f4c98356fbd1-ai-is-a-tool-and-using-it-well-takes-skill.md"
   },
   {
@@ -811,7 +915,7 @@
     ],
     "importance": 3,
     "summary": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "points": 307,
+    "points": 308,
     "path": "news/2026/10/12/1c3c21f1e840-intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.md"
   },
   {
@@ -940,7 +1044,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GLM-Legal",
-    "points": 672,
+    "points": 673,
     "path": "news/2026/10/12/ab91ee9162f4-glm-legal.md"
   },
   {
@@ -22232,6 +22336,19 @@
     "importance": 2,
     "summary": "Welcome Inkling by Thinking Machines",
     "path": "news/2026/07/15/7f36308856b0-welcome-inkling-by-thinking-machines.md"
+  },
+  {
+    "id": "370d8453b070",
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "source": "mistral",
+    "publishedAt": "2026-07-15T00:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Timestral: Mistral's time-series foundation models",
+    "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md"
   },
   {
     "id": "3b3647cb2f0c",
