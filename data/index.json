@@ -1,5 +1,104 @@
 [
   {
+    "id": "d33064359577",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "source": "huggingface",
+    "publishedAt": "2026-10-15T20:34:01.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "path": "news/2026/10/15/d33064359577-granite-switch-4-1-chat-decisions-and-speech-from-one-endpoi.md"
+  },
+  {
+    "id": "9bf81fc16f6e",
+    "title": "Why We're Banning AI",
+    "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T18:32:29Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Why We're Banning AI",
+    "points": 193,
+    "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
+  },
+  {
+    "id": "499fcbd081b8",
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T17:47:39Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Muse Spark Open",
+    "points": 410,
+    "path": "news/2026/10/15/499fcbd081b8-muse-spark-open.md"
+  },
+  {
+    "id": "b79f3ae1e529",
+    "title": "Anthropic update on independent evaluators",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "source": "anthropic",
+    "publishedAt": "2026-10-15T17:20:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic update on independent evaluators",
+    "path": "news/2026/10/15/b79f3ae1e529-anthropic-update-on-independent-evaluators.md"
+  },
+  {
+    "id": "bfdd7219d814",
+    "title": "More on Anthropic's Scion ripping off Mononoke",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T17:05:19Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "More on Anthropic's Scion ripping off Mononoke",
+    "points": 197,
+    "path": "news/2026/10/15/bfdd7219d814-more-on-anthropic-s-scion-ripping-off-mononoke.md"
+  },
+  {
+    "id": "510b9e9b9688",
+    "title": "Market selloff, rising rates test AI data centre deal boom",
+    "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T16:17:40Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Market selloff, rising rates test AI data centre deal boom",
+    "points": 63,
+    "path": "news/2026/10/15/510b9e9b9688-market-selloff-rising-rates-test-ai-data-centre-deal-boom.md"
+  },
+  {
+    "id": "3b88e6314086",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "source": "deepmind",
+    "publishedAt": "2026-10-15T16:08:03.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "path": "news/2026/10/15/3b88e6314086-accelerating-the-search-for-antimicrobial-peptides-with-goog.md"
+  },
+  {
+    "id": "7485e60de973",
+    "title": "Krea 3 – An image model built for editing at scale",
+    "url": "https://www.krea.ai/krea-3",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T16:04:05Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Krea 3 – An image model built for editing at scale",
+    "points": 185,
+    "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
+  },
+  {
     "id": "155c7b54b4cb",
     "title": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "url": "https://bfl.ai/blog/flux-3-image-klein",
@@ -23,8 +122,20 @@
     ],
     "importance": 2,
     "summary": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "points": 56,
+    "points": 195,
     "path": "news/2026/10/15/e4e4088e2634-simons-foundation-launches-15m-effort-to-help-mathematicians.md"
+  },
+  {
+    "id": "5387c069ace2",
+    "title": "Using AI to reverse engineer hardware",
+    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-15T14:35:15Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Using AI to reverse engineer hardware",
+    "points": 58,
+    "path": "news/2026/10/15/5387c069ace2-using-ai-to-reverse-engineer-hardware.md"
   },
   {
     "id": "a60f4a701f88",
@@ -60,7 +171,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI was great until it was not",
-    "points": 109,
+    "points": 116,
     "path": "news/2026/10/15/e265570ab550-ai-was-great-until-it-was-not.md"
   },
   {
@@ -88,6 +199,20 @@
     "path": "news/2026/10/15/b26fd6af4ca6-agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-.md"
   },
   {
+    "id": "ff0cf28c5d75",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "source": "huggingface",
+    "publishedAt": "2026-10-15T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "path": "news/2026/10/15/ff0cf28c5d75-welcome-muse-spark-open-open-weight-frontier-multimodal-mixt.md"
+  },
+  {
     "id": "5da0d3b2fe70",
     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -98,7 +223,7 @@
     ],
     "importance": 3,
     "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "points": 263,
+    "points": 277,
     "path": "news/2026/10/14/5da0d3b2fe70-lfm2-5-24b-a2b-built-for-fast-on-device-agents.md"
   },
   {
@@ -112,7 +237,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Ito – Build Terminal UIs in Lua",
-    "points": 61,
+    "points": 68,
     "path": "news/2026/10/14/732478e2d680-show-hn-ito-build-terminal-uis-in-lua.md"
   },
   {
@@ -124,7 +249,7 @@
     "tags": [],
     "importance": 3,
     "summary": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "points": 323,
+    "points": 327,
     "path": "news/2026/10/14/616037433c78-we-re-releasing-jev-1-14-0-along-with-experimental-features-.md"
   },
   {
@@ -136,7 +261,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's Scion is heavily inspired by Mononoke",
-    "points": 400,
+    "points": 412,
     "path": "news/2026/10/14/c5372ca3c1ac-anthropic-s-scion-is-heavily-inspired-by-mononoke.md"
   },
   {
@@ -148,7 +273,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 1748,
+    "points": 1832,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -173,7 +298,7 @@
     ],
     "importance": 3,
     "summary": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "points": 373,
+    "points": 377,
     "path": "news/2026/10/14/6ab4ba1e1cde-banks-are-now-trying-to-offload-the-ai-data-center-debt-they.md"
   },
   {
@@ -187,7 +312,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "points": 202,
+    "points": 210,
     "path": "news/2026/10/14/47f55b445021-show-hn-petal-open-source-coscreen-screenhero-finally-free.md"
   },
   {
@@ -202,7 +327,7 @@
     ],
     "importance": 3,
     "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "points": 931,
+    "points": 936,
     "path": "news/2026/10/14/10b445005929-ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu.md"
   },
   {
@@ -217,7 +342,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "points": 104,
+    "points": 107,
     "path": "news/2026/10/14/c354c45c2e58-show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-pe.md"
   },
   {
@@ -231,7 +356,7 @@
     ],
     "importance": 2,
     "summary": "Linus Torvalds's first LLM-assisted patch series",
-    "points": 117,
+    "points": 118,
     "path": "news/2026/10/14/9eec45fb90e0-linus-torvalds-s-first-llm-assisted-patch-series.md"
   },
   {
@@ -243,7 +368,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Has AI Tells",
-    "points": 130,
+    "points": 132,
     "path": "news/2026/10/14/aa20a97d7034-has-ai-tells.md"
   },
   {
@@ -282,7 +407,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/10/14/04d2e5a6c54e-character-ai-s-bankruptcy-documents-show-the-economics-of-ai.md"
   },
   {
@@ -294,7 +419,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is mass decompiling games. That's both awesome and scary",
-    "points": 106,
+    "points": 107,
     "path": "news/2026/10/14/9439d9ab6cdd-ai-is-mass-decompiling-games-that-s-both-awesome-and-scary.md"
   },
   {
@@ -359,7 +484,7 @@
     ],
     "importance": 2,
     "summary": "TV4 postpones show after AI agent erases edited material",
-    "points": 152,
+    "points": 154,
     "path": "news/2026/10/14/9c8e0559bae9-tv4-postpones-show-after-ai-agent-erases-edited-material.md"
   },
   {
@@ -510,7 +635,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "points": 118,
+    "points": 119,
     "path": "news/2026/10/13/9b21fa9a4490-show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-.md"
   },
   {
@@ -522,7 +647,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI engineer arrested in bugging of executive conference room",
-    "points": 650,
+    "points": 652,
     "path": "news/2026/10/13/020dc58f2fcb-openai-engineer-arrested-in-bugging-of-executive-conference-.md"
   },
   {
@@ -615,7 +740,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon",
-    "points": 1453,
+    "points": 1454,
     "path": "news/2026/10/13/1b45a4f87bd4-gemini-4-argon.md"
   },
   {
@@ -666,7 +791,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Redesigning source control at Anthropic",
-    "points": 882,
+    "points": 885,
     "path": "news/2026/10/13/b21e647b1aee-redesigning-source-control-at-anthropic.md"
   },
   {
@@ -730,7 +855,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "points": 90,
+    "points": 91,
     "path": "news/2026/10/13/956aacf86719-show-hn-spotatui-a-spotify-tui-gui-without-web-api-rate-limi.md"
   },
   {
@@ -756,7 +881,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Use your OpenAI subscription to create audiobooks",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/10/13/d055b625ae40-show-hn-use-your-openai-subscription-to-create-audiobooks.md"
   },
   {
@@ -782,7 +907,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "points": 332,
+    "points": 333,
     "path": "news/2026/10/13/4b016f5706dc-character-ai-has-initiated-voluntary-chapter-11-bankruptcy.md"
   },
   {
@@ -808,7 +933,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A look at the math that OpenAI claims computes faster Fourier transforms",
-    "points": 244,
+    "points": 245,
     "path": "news/2026/10/13/dadbbc0cd411-a-look-at-the-math-that-openai-claims-computes-faster-fourie.md"
   },
   {
@@ -859,7 +984,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Indigene – Native plants for where you stand",
-    "points": 89,
+    "points": 101,
     "path": "news/2026/10/12/539c697bd642-show-hn-indigene-native-plants-for-where-you-stand.md"
   },
   {
@@ -901,7 +1026,7 @@
     ],
     "importance": 3,
     "summary": "AI is a tool and using it well takes skill",
-    "points": 781,
+    "points": 784,
     "path": "news/2026/10/12/f4c98356fbd1-ai-is-a-tool-and-using-it-well-takes-skill.md"
   },
   {
