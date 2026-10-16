@@ -14,6 +14,13 @@ on:
       - "scripts/verify-export.mjs"
       - ".github/workflows/deploy-pages.yml"
       - "next.config.ts"
+  # Pushes made with GITHUB_TOKEN (the pipeline's data commits) never trigger
+  # other workflows, so the push trigger above misses them. Deploy after each
+  # pipeline run instead; checkout then picks up the freshly pushed main.
+  workflow_run:
+    workflows: [pipeline]
+    types: [completed]
+    branches: [main]
   workflow_dispatch: {}
 
 permissions:
@@ -27,6 +34,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
