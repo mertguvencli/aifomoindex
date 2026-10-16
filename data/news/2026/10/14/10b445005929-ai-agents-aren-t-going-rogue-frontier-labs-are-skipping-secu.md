@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-14T17:45:23Z
 fetched_at: 2026-10-14T21:02:25.315Z
 importance: 3
-points: 939
+points: 942
 tags: [tool, safety]
 ---
 

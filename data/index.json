@@ -48,7 +48,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 219,
+    "points": 240,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -60,7 +60,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Spark Open",
-    "points": 618,
+    "points": 819,
     "path": "news/2026/10/15/499fcbd081b8-muse-spark-open.md"
   },
   {
@@ -83,7 +83,7 @@
     "tags": [],
     "importance": 3,
     "summary": "More on Anthropic's Scion ripping off Mononoke",
-    "points": 225,
+    "points": 242,
     "path": "news/2026/10/15/bfdd7219d814-more-on-anthropic-s-scion-ripping-off-mononoke.md"
   },
   {
@@ -97,7 +97,7 @@
     ],
     "importance": 2,
     "summary": "Market selloff, rising rates test AI data centre deal boom",
-    "points": 68,
+    "points": 70,
     "path": "news/2026/10/15/510b9e9b9688-market-selloff-rising-rates-test-ai-data-centre-deal-boom.md"
   },
   {
@@ -122,7 +122,7 @@
     ],
     "importance": 3,
     "summary": "Krea 3 – An image model built for editing at scale",
-    "points": 252,
+    "points": 313,
     "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
   },
   {
@@ -149,7 +149,7 @@
     ],
     "importance": 3,
     "summary": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "points": 231,
+    "points": 240,
     "path": "news/2026/10/15/e4e4088e2634-simons-foundation-launches-15m-effort-to-help-mathematicians.md"
   },
   {
@@ -161,7 +161,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Using AI to reverse engineer hardware",
-    "points": 115,
+    "points": 194,
     "path": "news/2026/10/15/5387c069ace2-using-ai-to-reverse-engineer-hardware.md"
   },
   {
@@ -198,7 +198,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI was great until it was not",
-    "points": 117,
+    "points": 119,
     "path": "news/2026/10/15/e265570ab550-ai-was-great-until-it-was-not.md"
   },
   {
@@ -261,7 +261,7 @@
     ],
     "importance": 3,
     "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "points": 284,
+    "points": 285,
     "path": "news/2026/10/14/5da0d3b2fe70-lfm2-5-24b-a2b-built-for-fast-on-device-agents.md"
   },
   {
@@ -275,7 +275,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Ito – Build Terminal UIs in Lua",
-    "points": 71,
+    "points": 72,
     "path": "news/2026/10/14/732478e2d680-show-hn-ito-build-terminal-uis-in-lua.md"
   },
   {
@@ -299,7 +299,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's Scion is heavily inspired by Mononoke",
-    "points": 416,
+    "points": 420,
     "path": "news/2026/10/14/c5372ca3c1ac-anthropic-s-scion-is-heavily-inspired-by-mononoke.md"
   },
   {
@@ -311,7 +311,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 1868,
+    "points": 1895,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -350,7 +350,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "points": 212,
+    "points": 217,
     "path": "news/2026/10/14/47f55b445021-show-hn-petal-open-source-coscreen-screenhero-finally-free.md"
   },
   {
@@ -365,7 +365,7 @@
     ],
     "importance": 3,
     "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "points": 939,
+    "points": 942,
     "path": "news/2026/10/14/10b445005929-ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu.md"
   },
   {
@@ -380,7 +380,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "points": 110,
+    "points": 112,
     "path": "news/2026/10/14/c354c45c2e58-show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-pe.md"
   },
   {
@@ -394,7 +394,7 @@
     ],
     "importance": 2,
     "summary": "Linus Torvalds's first LLM-assisted patch series",
-    "points": 119,
+    "points": 121,
     "path": "news/2026/10/14/9eec45fb90e0-linus-torvalds-s-first-llm-assisted-patch-series.md"
   },
   {
@@ -406,7 +406,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Has AI Tells",
-    "points": 134,
+    "points": 137,
     "path": "news/2026/10/14/aa20a97d7034-has-ai-tells.md"
   },
   {
@@ -469,7 +469,7 @@
     "tags": [],
     "importance": 2,
     "summary": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "points": 172,
+    "points": 173,
     "path": "news/2026/10/14/fa9bd89576a0-asml-s-strong-orders-ease-fears-ai-spending-boom-is-running-.md"
   },
   {
@@ -522,7 +522,7 @@
     ],
     "importance": 2,
     "summary": "TV4 postpones show after AI agent erases edited material",
-    "points": 154,
+    "points": 155,
     "path": "news/2026/10/14/9c8e0559bae9-tv4-postpones-show-after-ai-agent-erases-edited-material.md"
   },
   {
@@ -534,7 +534,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I let an AI run my startup for a week",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/14/3c0553b7d893-i-let-an-ai-run-my-startup-for-a-week.md"
   },
   {
@@ -562,7 +562,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-    "points": 89,
+    "points": 90,
     "path": "news/2026/10/14/80b17e5ba2ac-show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.md"
   },
   {
@@ -841,7 +841,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I posted to HN, and then my website was flooded with AI bot traffic",
-    "points": 347,
+    "points": 349,
     "path": "news/2026/10/13/7f9c2671e51f-i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-t.md"
   },
   {
@@ -853,7 +853,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How to engineer an AI harness for game development",
-    "points": 172,
+    "points": 173,
     "path": "news/2026/10/13/6b5ca3d8f464-how-to-engineer-an-ai-harness-for-game-development.md"
   },
   {
