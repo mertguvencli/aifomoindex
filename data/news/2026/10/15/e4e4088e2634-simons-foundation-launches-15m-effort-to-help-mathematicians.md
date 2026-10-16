@@ -5,8 +5,8 @@ url: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort
 source: hackernews
 published_at: 2026-10-15T14:58:48Z
 fetched_at: 2026-10-15T15:51:38.422Z
-importance: 2
-points: 195
+importance: 3
+points: 231
 tags: [product]
 ---
 

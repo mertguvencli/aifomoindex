@@ -5,8 +5,8 @@ url: https://www.currentaffairs.org/news/why-were-banning-ai
 source: hackernews
 published_at: 2026-10-15T18:32:29Z
 fetched_at: 2026-10-15T20:37:25.033Z
-importance: 2
-points: 193
+importance: 3
+points: 219
 tags: []
 ---
 
