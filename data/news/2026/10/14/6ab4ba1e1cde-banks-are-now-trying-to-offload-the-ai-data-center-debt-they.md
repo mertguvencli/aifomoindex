@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-10-14T18:32:52Z
 fetched_at: 2026-10-14T21:02:25.315Z
 importance: 3
-points: 378
+points: 381
 tags: [infra]
 ---
 

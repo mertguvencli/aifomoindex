@@ -14,6 +14,20 @@
     "path": "news/2026/10/16/138e9b7e7d97-scaling-indic-pretraining-2-8-trillion-tokens-and-an-open-da.md"
   },
   {
+    "id": "c9a6184923cc",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "source": "huggingface",
+    "publishedAt": "2026-10-16T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "path": "news/2026/10/16/c9a6184923cc-welcome-beam-a-501b-open-model-you-can-own-customize-and-sca.md"
+  },
+  {
     "id": "d33064359577",
     "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -48,7 +62,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 240,
+    "points": 245,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -60,7 +74,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Spark Open",
-    "points": 819,
+    "points": 883,
     "path": "news/2026/10/15/499fcbd081b8-muse-spark-open.md"
   },
   {
@@ -83,7 +97,7 @@
     "tags": [],
     "importance": 3,
     "summary": "More on Anthropic's Scion ripping off Mononoke",
-    "points": 242,
+    "points": 248,
     "path": "news/2026/10/15/bfdd7219d814-more-on-anthropic-s-scion-ripping-off-mononoke.md"
   },
   {
@@ -97,7 +111,7 @@
     ],
     "importance": 2,
     "summary": "Market selloff, rising rates test AI data centre deal boom",
-    "points": 70,
+    "points": 71,
     "path": "news/2026/10/15/510b9e9b9688-market-selloff-rising-rates-test-ai-data-centre-deal-boom.md"
   },
   {
@@ -122,7 +136,7 @@
     ],
     "importance": 3,
     "summary": "Krea 3 – An image model built for editing at scale",
-    "points": 313,
+    "points": 336,
     "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
   },
   {
@@ -149,7 +163,7 @@
     ],
     "importance": 3,
     "summary": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "points": 240,
+    "points": 243,
     "path": "news/2026/10/15/e4e4088e2634-simons-foundation-launches-15m-effort-to-help-mathematicians.md"
   },
   {
@@ -159,9 +173,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-15T14:35:15Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Using AI to reverse engineer hardware",
-    "points": 194,
+    "points": 233,
     "path": "news/2026/10/15/5387c069ace2-using-ai-to-reverse-engineer-hardware.md"
   },
   {
@@ -198,7 +212,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI was great until it was not",
-    "points": 119,
+    "points": 120,
     "path": "news/2026/10/15/e265570ab550-ai-was-great-until-it-was-not.md"
   },
   {
@@ -261,7 +275,7 @@
     ],
     "importance": 3,
     "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "points": 285,
+    "points": 286,
     "path": "news/2026/10/14/5da0d3b2fe70-lfm2-5-24b-a2b-built-for-fast-on-device-agents.md"
   },
   {
@@ -275,7 +289,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Ito – Build Terminal UIs in Lua",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/10/14/732478e2d680-show-hn-ito-build-terminal-uis-in-lua.md"
   },
   {
@@ -287,7 +301,7 @@
     "tags": [],
     "importance": 3,
     "summary": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "points": 329,
+    "points": 330,
     "path": "news/2026/10/14/616037433c78-we-re-releasing-jev-1-14-0-along-with-experimental-features-.md"
   },
   {
@@ -299,7 +313,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's Scion is heavily inspired by Mononoke",
-    "points": 420,
+    "points": 423,
     "path": "news/2026/10/14/c5372ca3c1ac-anthropic-s-scion-is-heavily-inspired-by-mononoke.md"
   },
   {
@@ -311,7 +325,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 1895,
+    "points": 1910,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -336,7 +350,7 @@
     ],
     "importance": 3,
     "summary": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "points": 378,
+    "points": 381,
     "path": "news/2026/10/14/6ab4ba1e1cde-banks-are-now-trying-to-offload-the-ai-data-center-debt-they.md"
   },
   {
@@ -365,7 +379,7 @@
     ],
     "importance": 3,
     "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "points": 942,
+    "points": 945,
     "path": "news/2026/10/14/10b445005929-ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu.md"
   },
   {
@@ -380,7 +394,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "points": 112,
+    "points": 114,
     "path": "news/2026/10/14/c354c45c2e58-show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-pe.md"
   },
   {
@@ -394,7 +408,7 @@
     ],
     "importance": 2,
     "summary": "Linus Torvalds's first LLM-assisted patch series",
-    "points": 121,
+    "points": 122,
     "path": "news/2026/10/14/9eec45fb90e0-linus-torvalds-s-first-llm-assisted-patch-series.md"
   },
   {
@@ -512,6 +526,18 @@
     "path": "news/2026/10/14/004cd593adab-sentinelone-cuts-malware-analysis-from-weeks-to-hours.md"
   },
   {
+    "id": "a3fd88c8bf2b",
+    "title": "AI-assisted PCB design for KiCad 10",
+    "url": "https://github.com/mixelpixx/Konnect",
+    "source": "hackernews",
+    "publishedAt": "2026-10-14T10:51:37Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI-assisted PCB design for KiCad 10",
+    "points": 79,
+    "path": "news/2026/10/14/a3fd88c8bf2b-ai-assisted-pcb-design-for-kicad-10.md"
+  },
+  {
     "id": "9c8e0559bae9",
     "title": "TV4 postpones show after AI agent erases edited material",
     "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
@@ -522,7 +548,7 @@
     ],
     "importance": 2,
     "summary": "TV4 postpones show after AI agent erases edited material",
-    "points": 155,
+    "points": 156,
     "path": "news/2026/10/14/9c8e0559bae9-tv4-postpones-show-after-ai-agent-erases-edited-material.md"
   },
   {
@@ -534,7 +560,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I let an AI run my startup for a week",
-    "points": 66,
+    "points": 67,
     "path": "news/2026/10/14/3c0553b7d893-i-let-an-ai-run-my-startup-for-a-week.md"
   },
   {
@@ -685,7 +711,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI engineer arrested in bugging of executive conference room",
-    "points": 652,
+    "points": 653,
     "path": "news/2026/10/13/020dc58f2fcb-openai-engineer-arrested-in-bugging-of-executive-conference-.md"
   },
   {
@@ -778,7 +804,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Argon",
-    "points": 1457,
+    "points": 1459,
     "path": "news/2026/10/13/1b45a4f87bd4-gemini-4-argon.md"
   },
   {
@@ -829,7 +855,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Redesigning source control at Anthropic",
-    "points": 885,
+    "points": 886,
     "path": "news/2026/10/13/b21e647b1aee-redesigning-source-control-at-anthropic.md"
   },
   {
