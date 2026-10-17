@@ -1,5 +1,31 @@
 [
   {
+    "id": "33bc62fa9870",
+    "title": "OpenAI discloses four more rogue incidents",
+    "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T16:31:12Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI discloses four more rogue incidents",
+    "points": 103,
+    "path": "news/2026/10/17/33bc62fa9870-openai-discloses-four-more-rogue-incidents.md"
+  },
+  {
+    "id": "70c6ae129d22",
+    "title": "Amazon uses AI to monitor union risk in UK warehouses",
+    "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T16:04:23Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Amazon uses AI to monitor union risk in UK warehouses",
+    "points": 122,
+    "path": "news/2026/10/17/70c6ae129d22-amazon-uses-ai-to-monitor-union-risk-in-uk-warehouses.md"
+  },
+  {
     "id": "bb7567bf1088",
     "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
@@ -10,7 +36,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "points": 393,
+    "points": 511,
     "path": "news/2026/10/17/bb7567bf1088-deepseek-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -24,7 +50,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 297,
+    "points": 534,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -37,9 +63,9 @@
       "model",
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 157,
+    "points": 213,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -66,7 +92,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 406,
+    "points": 447,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -78,7 +104,7 @@
     "tags": [],
     "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 372,
+    "points": 443,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -103,7 +129,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 940,
+    "points": 1005,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -117,7 +143,7 @@
     ],
     "importance": 3,
     "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "points": 320,
+    "points": 360,
     "path": "news/2026/10/16/7661019fe020-llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on.md"
   },
   {
@@ -129,7 +155,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 269,
+    "points": 279,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -143,7 +169,7 @@
     ],
     "importance": 2,
     "summary": "Designing more efficient quantum circuits with Claude",
-    "points": 157,
+    "points": 168,
     "path": "news/2026/10/16/e7be0ecd06a4-designing-more-efficient-quantum-circuits-with-claude.md"
   },
   {
@@ -157,7 +183,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 552,
+    "points": 582,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -169,7 +195,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 202,
+    "points": 205,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
   },
   {
@@ -185,7 +211,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: rStation – A shared research lab for your AI agents",
-    "points": 53,
+    "points": 56,
     "path": "news/2026/10/16/4ae9c5def96e-show-hn-rstation-a-shared-research-lab-for-your-ai-agents.md"
   },
   {
@@ -200,7 +226,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 231,
+    "points": 240,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
   },
   {
@@ -214,7 +240,7 @@
     ],
     "importance": 2,
     "summary": "How to make System 1 LLMs show System 2 competencies?",
-    "points": 52,
+    "points": 54,
     "path": "news/2026/10/16/09a3482126c7-how-to-make-system-1-llms-show-system-2-competencies.md"
   },
   {
@@ -307,7 +333,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 256,
+    "points": 257,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -319,7 +345,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Spark Open",
-    "points": 911,
+    "points": 913,
     "path": "news/2026/10/15/499fcbd081b8-muse-spark-open.md"
   },
   {
@@ -342,7 +368,7 @@
     "tags": [],
     "importance": 3,
     "summary": "More on Anthropic's Scion ripping off Mononoke",
-    "points": 253,
+    "points": 254,
     "path": "news/2026/10/15/bfdd7219d814-more-on-anthropic-s-scion-ripping-off-mononoke.md"
   },
   {
@@ -381,7 +407,7 @@
     ],
     "importance": 3,
     "summary": "Krea 3 – An image model built for editing at scale",
-    "points": 345,
+    "points": 347,
     "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
   },
   {
@@ -405,10 +431,10 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
-    "points": 185
+    "points": 204
   },
   {
     "id": "e4e4088e2634",
@@ -421,7 +447,7 @@
     ],
     "importance": 3,
     "summary": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "points": 247,
+    "points": 248,
     "path": "news/2026/10/15/e4e4088e2634-simons-foundation-launches-15m-effort-to-help-mathematicians.md"
   },
   {
@@ -433,7 +459,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Using AI to reverse engineer hardware",
-    "points": 249,
+    "points": 250,
     "path": "news/2026/10/15/5387c069ace2-using-ai-to-reverse-engineer-hardware.md"
   },
   {
@@ -559,7 +585,7 @@
     "tags": [],
     "importance": 3,
     "summary": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-    "points": 330,
+    "points": 331,
     "path": "news/2026/10/14/616037433c78-we-re-releasing-jev-1-14-0-along-with-experimental-features-.md"
   },
   {
@@ -571,7 +597,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's Scion is heavily inspired by Mononoke",
-    "points": 425,
+    "points": 426,
     "path": "news/2026/10/14/c5372ca3c1ac-anthropic-s-scion-is-heavily-inspired-by-mononoke.md"
   },
   {
