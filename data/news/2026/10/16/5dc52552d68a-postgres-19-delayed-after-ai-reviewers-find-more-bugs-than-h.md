@@ -5,8 +5,8 @@ url: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-
 source: hackernews
 published_at: 2026-10-16T15:55:40Z
 fetched_at: 2026-10-16T20:09:55.039Z
-importance: 2
-points: 198
+importance: 3
+points: 202
 tags: []
 ---
 

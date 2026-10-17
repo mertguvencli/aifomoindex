@@ -6,7 +6,7 @@ source: bfl
 published_at: 2026-10-15T15:00:00.000Z
 fetched_at: 2026-10-15T15:51:38.422Z
 importance: 2
-points: 166
+points: 185
 tags: [opensource]
 ---
 

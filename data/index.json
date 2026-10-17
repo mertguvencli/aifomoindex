@@ -8,9 +8,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "points": 90,
+    "points": 393,
     "path": "news/2026/10/17/bb7567bf1088-deepseek-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -22,9 +22,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 122,
+    "points": 297,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -39,7 +39,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 71,
+    "points": 157,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -66,7 +66,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 348,
+    "points": 406,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -78,7 +78,7 @@
     "tags": [],
     "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 302,
+    "points": 372,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -103,7 +103,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 870,
+    "points": 940,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -117,7 +117,7 @@
     ],
     "importance": 3,
     "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "points": 289,
+    "points": 320,
     "path": "news/2026/10/16/7661019fe020-llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on.md"
   },
   {
@@ -129,7 +129,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 254,
+    "points": 269,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -143,7 +143,7 @@
     ],
     "importance": 2,
     "summary": "Designing more efficient quantum circuits with Claude",
-    "points": 142,
+    "points": 157,
     "path": "news/2026/10/16/e7be0ecd06a4-designing-more-efficient-quantum-circuits-with-claude.md"
   },
   {
@@ -157,7 +157,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 502,
+    "points": 552,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -167,9 +167,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-16T15:55:40Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 198,
+    "points": 202,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
   },
   {
@@ -200,7 +200,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 222,
+    "points": 231,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
   },
   {
@@ -214,7 +214,7 @@
     ],
     "importance": 2,
     "summary": "How to make System 1 LLMs show System 2 competencies?",
-    "points": 51,
+    "points": 52,
     "path": "news/2026/10/16/09a3482126c7-how-to-make-system-1-llms-show-system-2-competencies.md"
   },
   {
@@ -307,7 +307,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 255,
+    "points": 256,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -319,7 +319,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Spark Open",
-    "points": 903,
+    "points": 911,
     "path": "news/2026/10/15/499fcbd081b8-muse-spark-open.md"
   },
   {
@@ -381,7 +381,7 @@
     ],
     "importance": 3,
     "summary": "Krea 3 – An image model built for editing at scale",
-    "points": 344,
+    "points": 345,
     "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
   },
   {
@@ -393,7 +393,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How gyroscopes got so small [video]",
-    "points": 83,
+    "points": 85,
     "path": "news/2026/10/15/72c668f6581b-how-gyroscopes-got-so-small-video.md"
   },
   {
@@ -408,7 +408,7 @@
     "importance": 2,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
-    "points": 166
+    "points": 185
   },
   {
     "id": "e4e4088e2634",
@@ -583,7 +583,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 1934,
+    "points": 1943,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -637,7 +637,7 @@
     ],
     "importance": 3,
     "summary": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "points": 946,
+    "points": 947,
     "path": "news/2026/10/14/10b445005929-ai-agents-aren-t-going-rogue-frontier-labs-are-skipping-secu.md"
   },
   {
@@ -692,7 +692,7 @@
     ],
     "importance": 2,
     "summary": "Why do LLM pelicans look like this?",
-    "points": 163,
+    "points": 164,
     "path": "news/2026/10/14/ddb0d20f6638-why-do-llm-pelicans-look-like-this.md"
   },
   {

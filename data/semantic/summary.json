@@ -1,8 +1,8 @@
 {
   "protocol": "jev-headlines-v1",
   "rubricSha256": "458511b04141142d9110a514e626adb9bb502d516148bbb1aed7f4fa18d3f321",
-  "datasetSha256": "b465aae019dc3f567aada57b6357ad4dd8477ef5c09082488636ee6e45acb2cb",
-  "updatedAt": "2026-10-17T09:48:36.773Z",
+  "datasetSha256": "1b478c6daf29b5be5ce66c777513635ce846f14c9aaffd50c79505b455caf370",
+  "updatedAt": "2026-10-17T14:31:42.620Z",
   "total": 14947,
   "annotated": 14947,
   "missing": 0,
