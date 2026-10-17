@@ -1,5 +1,42 @@
 [
   {
+    "id": "6d6f8ad07535",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-16T19:04:47Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "How the Claude Code team does code review",
+    "points": 234,
+    "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
+  },
+  {
+    "id": "e44989809c18",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-16T19:01:17Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "You could have invented transformers from memory",
+    "points": 140,
+    "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
+  },
+  {
+    "id": "9732b2763df5",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "source": "openai",
+    "publishedAt": "2026-10-16T19:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Itaú is building generative AI for its entire customer base",
+    "path": "news/2026/10/16/9732b2763df5-how-ita-is-building-generative-ai-for-its-entire-customer-ba.md"
+  },
+  {
     "id": "b7edf0001b31",
     "title": "Claude reveals ECDSA curve origins",
     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
@@ -10,7 +47,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 252,
+    "points": 682,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -24,7 +61,7 @@
     ],
     "importance": 2,
     "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "points": 64,
+    "points": 199,
     "path": "news/2026/10/16/7661019fe020-llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on.md"
   },
   {
@@ -34,10 +71,24 @@
     "source": "hackernews",
     "publishedAt": "2026-10-16T18:11:42Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 91,
+    "points": 214,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
+  },
+  {
+    "id": "e7be0ecd06a4",
+    "title": "Designing more efficient quantum circuits with Claude",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "source": "hackernews",
+    "publishedAt": "2026-10-16T18:00:18Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Designing more efficient quantum circuits with Claude",
+    "points": 102,
+    "path": "news/2026/10/16/e7be0ecd06a4-designing-more-efficient-quantum-circuits-with-claude.md"
   },
   {
     "id": "2fb4b159fd89",
@@ -50,7 +101,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 254,
+    "points": 401,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -62,7 +113,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 148,
+    "points": 177,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
   },
   {
@@ -77,7 +128,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 150,
+    "points": 186,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
   },
   {
@@ -157,7 +208,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 253,
+    "points": 254,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -169,7 +220,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Spark Open",
-    "points": 896,
+    "points": 901,
     "path": "news/2026/10/15/499fcbd081b8-muse-spark-open.md"
   },
   {
@@ -192,7 +243,7 @@
     "tags": [],
     "importance": 3,
     "summary": "More on Anthropic's Scion ripping off Mononoke",
-    "points": 249,
+    "points": 251,
     "path": "news/2026/10/15/bfdd7219d814-more-on-anthropic-s-scion-ripping-off-mononoke.md"
   },
   {
@@ -206,7 +257,7 @@
     ],
     "importance": 2,
     "summary": "Market selloff, rising rates test AI data centre deal boom",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/10/15/510b9e9b9688-market-selloff-rising-rates-test-ai-data-centre-deal-boom.md"
   },
   {
@@ -231,7 +282,7 @@
     ],
     "importance": 3,
     "summary": "Krea 3 – An image model built for editing at scale",
-    "points": 338,
+    "points": 341,
     "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
   },
   {
@@ -243,7 +294,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How gyroscopes got so small [video]",
-    "points": 79,
+    "points": 81,
     "path": "news/2026/10/15/72c668f6581b-how-gyroscopes-got-so-small-video.md"
   },
   {
@@ -257,7 +308,8 @@
     ],
     "importance": 2,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
-    "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md"
+    "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
+    "points": 115
   },
   {
     "id": "e4e4088e2634",
@@ -270,7 +322,7 @@
     ],
     "importance": 3,
     "summary": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "points": 246,
+    "points": 247,
     "path": "news/2026/10/15/e4e4088e2634-simons-foundation-launches-15m-effort-to-help-mathematicians.md"
   },
   {
@@ -282,7 +334,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Using AI to reverse engineer hardware",
-    "points": 242,
+    "points": 243,
     "path": "news/2026/10/15/5387c069ace2-using-ai-to-reverse-engineer-hardware.md"
   },
   {
@@ -319,7 +371,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI was great until it was not",
-    "points": 120,
+    "points": 121,
     "path": "news/2026/10/15/e265570ab550-ai-was-great-until-it-was-not.md"
   },
   {
@@ -382,7 +434,7 @@
     ],
     "importance": 3,
     "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "points": 287,
+    "points": 288,
     "path": "news/2026/10/14/5da0d3b2fe70-lfm2-5-24b-a2b-built-for-fast-on-device-agents.md"
   },
   {
@@ -396,7 +448,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Ito – Build Terminal UIs in Lua",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/10/14/732478e2d680-show-hn-ito-build-terminal-uis-in-lua.md"
   },
   {
@@ -420,7 +472,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's Scion is heavily inspired by Mononoke",
-    "points": 424,
+    "points": 425,
     "path": "news/2026/10/14/c5372ca3c1ac-anthropic-s-scion-is-heavily-inspired-by-mononoke.md"
   },
   {
@@ -432,7 +484,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 1924,
+    "points": 1931,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -641,7 +693,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-assisted PCB design for KiCad 10",
-    "points": 122,
+    "points": 128,
     "path": "news/2026/10/14/a3fd88c8bf2b-ai-assisted-pcb-design-for-kicad-10.md"
   },
   {

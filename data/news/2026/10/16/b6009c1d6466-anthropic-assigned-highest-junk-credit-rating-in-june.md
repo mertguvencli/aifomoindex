@@ -5,8 +5,8 @@ url: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d
 source: hackernews
 published_at: 2026-10-16T18:11:42Z
 fetched_at: 2026-10-16T20:09:55.039Z
-importance: 2
-points: 91
+importance: 3
+points: 214
 tags: []
 ---
 
