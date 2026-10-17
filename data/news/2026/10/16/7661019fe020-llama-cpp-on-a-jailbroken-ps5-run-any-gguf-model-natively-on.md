@@ -5,8 +5,8 @@ url: https://github.com/cobanov/PS5LM
 source: hackernews
 published_at: 2026-10-16T18:32:35Z
 fetched_at: 2026-10-16T20:09:55.039Z
-importance: 2
-points: 199
+importance: 3
+points: 289
 tags: [model]
 ---
 

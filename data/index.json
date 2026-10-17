@@ -1,5 +1,61 @@
 [
   {
+    "id": "bb7567bf1088",
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T08:37:46Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "points": 90,
+    "path": "news/2026/10/17/bb7567bf1088-deepseek-deepseek-v4-1-flash-1017.md"
+  },
+  {
+    "id": "cac24968e5aa",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T08:21:25Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "DeepSeek-v4.1-Flash-1017",
+    "points": 122,
+    "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
+  },
+  {
+    "id": "98169db0a840",
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "url": "https://llmspeed.dev/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T04:36:53Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "points": 71,
+    "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
+  },
+  {
+    "id": "8d6665ab69ee",
+    "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+    "url": "https://api-docs.deepseek.com/news/news261017",
+    "source": "deepseek",
+    "publishedAt": "2026-10-17T00:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+    "path": "news/2026/10/17/8d6665ab69ee-deepseek-v4-1-flash-1017-wish-driven-programming-made-real.md"
+  },
+  {
     "id": "6d6f8ad07535",
     "title": "How the Claude Code team does code review",
     "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
@@ -10,7 +66,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 234,
+    "points": 348,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -20,9 +76,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-16T19:01:17Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 140,
+    "points": 302,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -47,7 +103,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 682,
+    "points": 870,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -59,9 +115,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "points": 199,
+    "points": 289,
     "path": "news/2026/10/16/7661019fe020-llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on.md"
   },
   {
@@ -73,7 +129,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 214,
+    "points": 254,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -87,7 +143,7 @@
     ],
     "importance": 2,
     "summary": "Designing more efficient quantum circuits with Claude",
-    "points": 102,
+    "points": 142,
     "path": "news/2026/10/16/e7be0ecd06a4-designing-more-efficient-quantum-circuits-with-claude.md"
   },
   {
@@ -101,7 +157,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 401,
+    "points": 502,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -113,8 +169,24 @@
     "tags": [],
     "importance": 2,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 177,
+    "points": 198,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
+  },
+  {
+    "id": "4ae9c5def96e",
+    "title": "Show HN: rStation – A shared research lab for your AI agents",
+    "url": "https://rstation.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-16T14:35:43Z",
+    "tags": [
+      "tool",
+      "research",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: rStation – A shared research lab for your AI agents",
+    "points": 53,
+    "path": "news/2026/10/16/4ae9c5def96e-show-hn-rstation-a-shared-research-lab-for-your-ai-agents.md"
   },
   {
     "id": "5a13ce7aaffa",
@@ -126,10 +198,24 @@
       "model",
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 186,
+    "points": 222,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
+  },
+  {
+    "id": "09a3482126c7",
+    "title": "How to make System 1 LLMs show System 2 competencies?",
+    "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+    "source": "hackernews",
+    "publishedAt": "2026-10-16T14:16:34Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "How to make System 1 LLMs show System 2 competencies?",
+    "points": 51,
+    "path": "news/2026/10/16/09a3482126c7-how-to-make-system-1-llms-show-system-2-competencies.md"
   },
   {
     "id": "138e9b7e7d97",
@@ -174,6 +260,19 @@
     "path": "news/2026/10/16/9e63539289a3-stack-overflow-for-agents-triples-signups-with-chatgpt-plugi.md"
   },
   {
+    "id": "b6756c0a180e",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "source": "openai",
+    "publishedAt": "2026-10-16T00:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Benefit Street Partners answers questions faster with Codex",
+    "path": "news/2026/10/16/b6756c0a180e-benefit-street-partners-answers-questions-faster-with-codex.md"
+  },
+  {
     "id": "d33064359577",
     "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -208,7 +307,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 254,
+    "points": 255,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -220,7 +319,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Muse Spark Open",
-    "points": 901,
+    "points": 903,
     "path": "news/2026/10/15/499fcbd081b8-muse-spark-open.md"
   },
   {
@@ -243,7 +342,7 @@
     "tags": [],
     "importance": 3,
     "summary": "More on Anthropic's Scion ripping off Mononoke",
-    "points": 251,
+    "points": 253,
     "path": "news/2026/10/15/bfdd7219d814-more-on-anthropic-s-scion-ripping-off-mononoke.md"
   },
   {
@@ -257,7 +356,7 @@
     ],
     "importance": 2,
     "summary": "Market selloff, rising rates test AI data centre deal boom",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/10/15/510b9e9b9688-market-selloff-rising-rates-test-ai-data-centre-deal-boom.md"
   },
   {
@@ -282,7 +381,7 @@
     ],
     "importance": 3,
     "summary": "Krea 3 – An image model built for editing at scale",
-    "points": 341,
+    "points": 344,
     "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
   },
   {
@@ -294,7 +393,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How gyroscopes got so small [video]",
-    "points": 81,
+    "points": 83,
     "path": "news/2026/10/15/72c668f6581b-how-gyroscopes-got-so-small-video.md"
   },
   {
@@ -309,7 +408,7 @@
     "importance": 2,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
-    "points": 115
+    "points": 166
   },
   {
     "id": "e4e4088e2634",
@@ -334,7 +433,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Using AI to reverse engineer hardware",
-    "points": 243,
+    "points": 249,
     "path": "news/2026/10/15/5387c069ace2-using-ai-to-reverse-engineer-hardware.md"
   },
   {
@@ -371,7 +470,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI was great until it was not",
-    "points": 121,
+    "points": 122,
     "path": "news/2026/10/15/e265570ab550-ai-was-great-until-it-was-not.md"
   },
   {
@@ -484,7 +583,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Things to know if you get cancer in 2026",
-    "points": 1931,
+    "points": 1934,
     "path": "news/2026/10/14/5225b848d447-things-to-know-if-you-get-cancer-in-2026.md"
   },
   {
@@ -523,7 +622,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "points": 220,
+    "points": 221,
     "path": "news/2026/10/14/47f55b445021-show-hn-petal-open-source-coscreen-screenhero-finally-free.md"
   },
   {
@@ -693,7 +792,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI-assisted PCB design for KiCad 10",
-    "points": 128,
+    "points": 130,
     "path": "news/2026/10/14/a3fd88c8bf2b-ai-assisted-pcb-design-for-kicad-10.md"
   },
   {

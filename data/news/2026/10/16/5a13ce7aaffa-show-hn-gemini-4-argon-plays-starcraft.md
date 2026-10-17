@@ -5,8 +5,8 @@ url: https://starskirmish.com/bench/v0-2/
 source: hackernews
 published_at: 2026-10-16T14:18:44Z
 fetched_at: 2026-10-16T20:09:55.039Z
-importance: 2
-points: 186
+importance: 3
+points: 222
 tags: [model, opensource]
 ---
 

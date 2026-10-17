@@ -5,8 +5,8 @@ url: https://alexwang.ai/posts/associative-memory/
 source: hackernews
 published_at: 2026-10-16T19:01:17Z
 fetched_at: 2026-10-17T01:49:42.813Z
-importance: 2
-points: 140
+importance: 3
+points: 302
 tags: []
 ---
 
