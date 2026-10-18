@@ -1,5 +1,17 @@
 [
   {
+    "id": "7a1cd32307fd",
+    "title": "How employment is changing at Anthropic",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T10:49:26Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How employment is changing at Anthropic",
+    "points": 83,
+    "path": "news/2026/10/18/7a1cd32307fd-how-employment-is-changing-at-anthropic.md"
+  },
+  {
     "id": "56ddeb4dc142",
     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
     "url": "https://api-docs.deepseek.com/guides/search/",
@@ -8,9 +20,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "points": 186,
+    "points": 368,
     "path": "news/2026/10/18/56ddeb4dc142-deepseek-search-and-fetch-0-75-per-1000-successful-requests.md"
   },
   {
@@ -24,7 +36,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "points": 128,
+    "points": 193,
     "path": "news/2026/10/18/a8924e6a6192-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-bef.md"
   },
   {
@@ -38,7 +50,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "points": 51,
+    "points": 56,
     "path": "news/2026/10/18/7a2b274d4bc7-show-hn-500-clocks-in-one-6-3-mb-html-file-by-opus-5-5.md"
   },
   {
@@ -52,7 +64,7 @@
     ],
     "importance": 2,
     "summary": "Codex Desktop continuously generates Crashpad pending dumps",
-    "points": 133,
+    "points": 156,
     "path": "news/2026/10/17/9ce1d661b5d8-codex-desktop-continuously-generates-crashpad-pending-dumps.md"
   },
   {
@@ -64,7 +76,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI discloses four more rogue incidents",
-    "points": 125,
+    "points": 129,
     "path": "news/2026/10/17/33bc62fa9870-openai-discloses-four-more-rogue-incidents.md"
   },
   {
@@ -78,7 +90,7 @@
     ],
     "importance": 2,
     "summary": "Amazon uses AI to monitor union risk in UK warehouses",
-    "points": 164,
+    "points": 168,
     "path": "news/2026/10/17/70c6ae129d22-amazon-uses-ai-to-monitor-union-risk-in-uk-warehouses.md"
   },
   {
@@ -106,8 +118,20 @@
     ],
     "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 859,
+    "points": 911,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
+  },
+  {
+    "id": "61ac108a17c7",
+    "title": "Why Math Dumped OpenAI",
+    "url": "https://raymyers.org/post/math-dumped-openai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T06:19:44Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Why Math Dumped OpenAI",
+    "points": 60,
+    "path": "news/2026/10/17/61ac108a17c7-why-math-dumped-openai.md"
   },
   {
     "id": "98169db0a840",
@@ -121,7 +145,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 294,
+    "points": 310,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -138,6 +162,21 @@
     "path": "news/2026/10/17/8d6665ab69ee-deepseek-v4-1-flash-1017-wish-driven-programming-made-real.md"
   },
   {
+    "id": "e6b224cff200",
+    "title": "Show HN: Things to Do API",
+    "url": "https://thingstodoapi.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-16T23:58:34Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Things to Do API",
+    "points": 51,
+    "path": "news/2026/10/16/e6b224cff200-show-hn-things-to-do-api.md"
+  },
+  {
     "id": "6d6f8ad07535",
     "title": "How the Claude Code team does code review",
     "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
@@ -148,7 +187,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 459,
+    "points": 464,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -160,7 +199,7 @@
     "tags": [],
     "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 565,
+    "points": 602,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -185,7 +224,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 1037,
+    "points": 1043,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -199,7 +238,7 @@
     ],
     "importance": 3,
     "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "points": 367,
+    "points": 368,
     "path": "news/2026/10/16/7661019fe020-llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on.md"
   },
   {
@@ -211,7 +250,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 290,
+    "points": 292,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -239,7 +278,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 609,
+    "points": 611,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -251,7 +290,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 213,
+    "points": 214,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
   },
   {
@@ -282,7 +321,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 243,
+    "points": 247,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
   },
   {
@@ -296,7 +335,7 @@
     ],
     "importance": 2,
     "summary": "How to make System 1 LLMs show System 2 competencies?",
-    "points": 56,
+    "points": 57,
     "path": "news/2026/10/16/09a3482126c7-how-to-make-system-1-llms-show-system-2-competencies.md"
   },
   {
@@ -389,7 +428,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 260,
+    "points": 261,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -490,7 +529,7 @@
     "importance": 3,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
-    "points": 209
+    "points": 211
   },
   {
     "id": "e4e4088e2634",
