@@ -5,8 +5,8 @@ url: https://sphinx-six-theta.vercel.app/
 source: hackernews
 published_at: 2026-10-18T04:33:49Z
 fetched_at: 2026-10-18T10:00:33.063Z
-importance: 2
-points: 193
+importance: 3
+points: 223
 tags: [opensource]
 ---
 

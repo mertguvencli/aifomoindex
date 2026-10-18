@@ -1,5 +1,94 @@
 [
   {
+    "id": "09df648b6c82",
+    "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+    "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T17:27:30Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+    "points": 80,
+    "path": "news/2026/10/18/09df648b6c82-british-airways-filming-crew-w-meta-glasses-could-get-your-t.md"
+  },
+  {
+    "id": "d3ccea06eed4",
+    "title": "Investing in the public benefit",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "source": "anthropic",
+    "publishedAt": "2026-10-18T16:49:35.513Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Investing in the public benefit",
+    "path": "news/2026/10/18/d3ccea06eed4-investing-in-the-public-benefit.md"
+  },
+  {
+    "id": "b82a05a94858",
+    "title": "Websites are closing their doors to AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T14:58:10Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Websites are closing their doors to AI agents",
+    "points": 124,
+    "path": "news/2026/10/18/b82a05a94858-websites-are-closing-their-doors-to-ai-agents.md"
+  },
+  {
+    "id": "f1dca3f89f46",
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T14:30:27Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+    "points": 140,
+    "path": "news/2026/10/18/f1dca3f89f46-anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deat.md"
+  },
+  {
+    "id": "73b0434a8444",
+    "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+    "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T14:16:41Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+    "points": 102,
+    "path": "news/2026/10/18/73b0434a8444-tesla-cannot-guarantee-roadster-reservation-holders-will-eve.md"
+  },
+  {
+    "id": "16ce4163f2cf",
+    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "url": "https://legendofhyrule.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T13:06:54Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "points": 121,
+    "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
+  },
+  {
+    "id": "6549a6655380",
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "url": "https://www.vals.ai/blogs/impossible-refund",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T12:22:58Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "points": 70,
+    "path": "news/2026/10/18/6549a6655380-how-far-will-ai-assistants-go-for-a-refund-they-can-t-get.md"
+  },
+  {
     "id": "7a1cd32307fd",
     "title": "How employment is changing at Anthropic",
     "url": "https://www.anthropic.com/research/employment-at-anthropic",
@@ -8,7 +97,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How employment is changing at Anthropic",
-    "points": 83,
+    "points": 99,
     "path": "news/2026/10/18/7a1cd32307fd-how-employment-is-changing-at-anthropic.md"
   },
   {
@@ -22,8 +111,20 @@
     ],
     "importance": 3,
     "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "points": 368,
+    "points": 473,
     "path": "news/2026/10/18/56ddeb4dc142-deepseek-search-and-fetch-0-75-per-1000-successful-requests.md"
+  },
+  {
+    "id": "0bc5e3d46667",
+    "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
+    "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T06:36:48Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
+    "points": 53,
+    "path": "news/2026/10/18/0bc5e3d46667-a-princeton-phd-applied-to-2-300-jobs-he-still-can-t-get-one.md"
   },
   {
     "id": "a8924e6a6192",
@@ -34,9 +135,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "points": 193,
+    "points": 223,
     "path": "news/2026/10/18/a8924e6a6192-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-bef.md"
   },
   {
@@ -50,8 +151,20 @@
     ],
     "importance": 2,
     "summary": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "points": 56,
+    "points": 59,
     "path": "news/2026/10/18/7a2b274d4bc7-show-hn-500-clocks-in-one-6-3-mb-html-file-by-opus-5-5.md"
+  },
+  {
+    "id": "3e97a8ec6cf7",
+    "title": "The math that OpenAI keeps for itself",
+    "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T19:22:52Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The math that OpenAI keeps for itself",
+    "points": 52,
+    "path": "news/2026/10/17/3e97a8ec6cf7-the-math-that-openai-keeps-for-itself.md"
   },
   {
     "id": "9ce1d661b5d8",
@@ -64,7 +177,7 @@
     ],
     "importance": 2,
     "summary": "Codex Desktop continuously generates Crashpad pending dumps",
-    "points": 156,
+    "points": 166,
     "path": "news/2026/10/17/9ce1d661b5d8-codex-desktop-continuously-generates-crashpad-pending-dumps.md"
   },
   {
@@ -90,7 +203,7 @@
     ],
     "importance": 2,
     "summary": "Amazon uses AI to monitor union risk in UK warehouses",
-    "points": 168,
+    "points": 169,
     "path": "news/2026/10/17/70c6ae129d22-amazon-uses-ai-to-monitor-union-risk-in-uk-warehouses.md"
   },
   {
@@ -104,7 +217,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "points": 514,
+    "points": 515,
     "path": "news/2026/10/17/bb7567bf1088-deepseek-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -118,7 +231,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 911,
+    "points": 929,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -130,7 +243,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why Math Dumped OpenAI",
-    "points": 60,
+    "points": 70,
     "path": "news/2026/10/17/61ac108a17c7-why-math-dumped-openai.md"
   },
   {
@@ -145,7 +258,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 310,
+    "points": 317,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -173,7 +286,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Things to Do API",
-    "points": 51,
+    "points": 53,
     "path": "news/2026/10/16/e6b224cff200-show-hn-things-to-do-api.md"
   },
   {
@@ -187,7 +300,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 464,
+    "points": 468,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -199,7 +312,7 @@
     "tags": [],
     "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 602,
+    "points": 616,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -224,7 +337,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 1043,
+    "points": 1047,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -238,7 +351,7 @@
     ],
     "importance": 3,
     "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "points": 368,
+    "points": 371,
     "path": "news/2026/10/16/7661019fe020-llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on.md"
   },
   {
@@ -250,7 +363,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 292,
+    "points": 296,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -278,7 +391,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 611,
+    "points": 612,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -290,7 +403,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 214,
+    "points": 217,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
   },
   {
@@ -306,7 +419,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: rStation – A shared research lab for your AI agents",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/10/16/4ae9c5def96e-show-hn-rstation-a-shared-research-lab-for-your-ai-agents.md"
   },
   {
@@ -321,7 +434,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 247,
+    "points": 248,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
   },
   {
@@ -529,7 +642,7 @@
     "importance": 3,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
-    "points": 211
+    "points": 212
   },
   {
     "id": "e4e4088e2634",
