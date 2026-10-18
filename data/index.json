@@ -1,5 +1,47 @@
 [
   {
+    "id": "56ddeb4dc142",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T06:50:36Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "points": 186,
+    "path": "news/2026/10/18/56ddeb4dc142-deepseek-search-and-fetch-0-75-per-1000-successful-requests.md"
+  },
+  {
+    "id": "a8924e6a6192",
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T04:33:49Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "points": 128,
+    "path": "news/2026/10/18/a8924e6a6192-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-bef.md"
+  },
+  {
+    "id": "7a2b274d4bc7",
+    "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+    "url": "https://tkgally.github.io/500-clocks/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T04:04:58Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+    "points": 51,
+    "path": "news/2026/10/18/7a2b274d4bc7-show-hn-500-clocks-in-one-6-3-mb-html-file-by-opus-5-5.md"
+  },
+  {
     "id": "9ce1d661b5d8",
     "title": "Codex Desktop continuously generates Crashpad pending dumps",
     "url": "https://github.com/openai/codex/issues/25921",
@@ -10,7 +52,7 @@
     ],
     "importance": 2,
     "summary": "Codex Desktop continuously generates Crashpad pending dumps",
-    "points": 69,
+    "points": 133,
     "path": "news/2026/10/17/9ce1d661b5d8-codex-desktop-continuously-generates-crashpad-pending-dumps.md"
   },
   {
@@ -22,7 +64,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI discloses four more rogue incidents",
-    "points": 119,
+    "points": 125,
     "path": "news/2026/10/17/33bc62fa9870-openai-discloses-four-more-rogue-incidents.md"
   },
   {
@@ -36,7 +78,7 @@
     ],
     "importance": 2,
     "summary": "Amazon uses AI to monitor union risk in UK warehouses",
-    "points": 147,
+    "points": 164,
     "path": "news/2026/10/17/70c6ae129d22-amazon-uses-ai-to-monitor-union-risk-in-uk-warehouses.md"
   },
   {
@@ -50,7 +92,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "points": 511,
+    "points": 514,
     "path": "news/2026/10/17/bb7567bf1088-deepseek-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -64,7 +106,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 700,
+    "points": 859,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -79,7 +121,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 252,
+    "points": 294,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -106,7 +148,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 456,
+    "points": 459,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -118,7 +160,7 @@
     "tags": [],
     "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 504,
+    "points": 565,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -143,7 +185,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 1023,
+    "points": 1037,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -169,7 +211,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 286,
+    "points": 290,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -183,7 +225,7 @@
     ],
     "importance": 2,
     "summary": "Designing more efficient quantum circuits with Claude",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/10/16/e7be0ecd06a4-designing-more-efficient-quantum-circuits-with-claude.md"
   },
   {
@@ -197,7 +239,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 598,
+    "points": 609,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -209,7 +251,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 211,
+    "points": 213,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
   },
   {
@@ -240,7 +282,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 242,
+    "points": 243,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
   },
   {
@@ -347,7 +389,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why We're Banning AI",
-    "points": 259,
+    "points": 260,
     "path": "news/2026/10/15/9bf81fc16f6e-why-we-re-banning-ai.md"
   },
   {
@@ -421,7 +463,7 @@
     ],
     "importance": 3,
     "summary": "Krea 3 – An image model built for editing at scale",
-    "points": 348,
+    "points": 349,
     "path": "news/2026/10/15/7485e60de973-krea-3-an-image-model-built-for-editing-at-scale.md"
   },
   {
@@ -448,7 +490,7 @@
     "importance": 3,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
-    "points": 207
+    "points": 209
   },
   {
     "id": "e4e4088e2634",
@@ -473,7 +515,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Using AI to reverse engineer hardware",
-    "points": 251,
+    "points": 253,
     "path": "news/2026/10/15/5387c069ace2-using-ai-to-reverse-engineer-hardware.md"
   },
   {
