@@ -1,5 +1,20 @@
 [
   {
+    "id": "ae6e49210029",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "source": "hackernews",
+    "publishedAt": "2026-10-18T20:48:14Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "points": 219,
+    "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
+  },
+  {
     "id": "09df648b6c82",
     "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
     "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
@@ -8,7 +23,7 @@
     "tags": [],
     "importance": 2,
     "summary": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-    "points": 80,
+    "points": 90,
     "path": "news/2026/10/18/09df648b6c82-british-airways-filming-crew-w-meta-glasses-could-get-your-t.md"
   },
   {
@@ -33,7 +48,7 @@
     ],
     "importance": 2,
     "summary": "Websites are closing their doors to AI agents",
-    "points": 124,
+    "points": 133,
     "path": "news/2026/10/18/b82a05a94858-websites-are-closing-their-doors-to-ai-agents.md"
   },
   {
@@ -47,7 +62,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-    "points": 140,
+    "points": 157,
     "path": "news/2026/10/18/f1dca3f89f46-anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deat.md"
   },
   {
@@ -59,7 +74,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-    "points": 102,
+    "points": 111,
     "path": "news/2026/10/18/73b0434a8444-tesla-cannot-guarantee-roadster-reservation-holders-will-eve.md"
   },
   {
@@ -73,7 +88,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "points": 121,
+    "points": 165,
     "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
   },
   {
@@ -85,7 +100,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-    "points": 70,
+    "points": 79,
     "path": "news/2026/10/18/6549a6655380-how-far-will-ai-assistants-go-for-a-refund-they-can-t-get.md"
   },
   {
@@ -97,7 +112,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How employment is changing at Anthropic",
-    "points": 99,
+    "points": 108,
     "path": "news/2026/10/18/7a1cd32307fd-how-employment-is-changing-at-anthropic.md"
   },
   {
@@ -111,7 +126,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "points": 473,
+    "points": 551,
     "path": "news/2026/10/18/56ddeb4dc142-deepseek-search-and-fetch-0-75-per-1000-successful-requests.md"
   },
   {
@@ -123,7 +138,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-    "points": 53,
+    "points": 65,
     "path": "news/2026/10/18/0bc5e3d46667-a-princeton-phd-applied-to-2-300-jobs-he-still-can-t-get-one.md"
   },
   {
@@ -137,7 +152,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "points": 223,
+    "points": 241,
     "path": "news/2026/10/18/a8924e6a6192-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-bef.md"
   },
   {
@@ -151,8 +166,22 @@
     ],
     "importance": 2,
     "summary": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "points": 59,
+    "points": 65,
     "path": "news/2026/10/18/7a2b274d4bc7-show-hn-500-clocks-in-one-6-3-mb-html-file-by-opus-5-5.md"
+  },
+  {
+    "id": "ba70912c04fe",
+    "title": "I built a programming language that LLMs can't use",
+    "url": "https://blog.picheta.me/post/killswitch-lang/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-17T22:26:47Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "I built a programming language that LLMs can't use",
+    "points": 81,
+    "path": "news/2026/10/17/ba70912c04fe-i-built-a-programming-language-that-llms-can-t-use.md"
   },
   {
     "id": "3e97a8ec6cf7",
@@ -177,7 +206,7 @@
     ],
     "importance": 2,
     "summary": "Codex Desktop continuously generates Crashpad pending dumps",
-    "points": 166,
+    "points": 168,
     "path": "news/2026/10/17/9ce1d661b5d8-codex-desktop-continuously-generates-crashpad-pending-dumps.md"
   },
   {
@@ -189,7 +218,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI discloses four more rogue incidents",
-    "points": 129,
+    "points": 130,
     "path": "news/2026/10/17/33bc62fa9870-openai-discloses-four-more-rogue-incidents.md"
   },
   {
@@ -203,7 +232,7 @@
     ],
     "importance": 2,
     "summary": "Amazon uses AI to monitor union risk in UK warehouses",
-    "points": 169,
+    "points": 170,
     "path": "news/2026/10/17/70c6ae129d22-amazon-uses-ai-to-monitor-union-risk-in-uk-warehouses.md"
   },
   {
@@ -217,7 +246,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "points": 515,
+    "points": 518,
     "path": "news/2026/10/17/bb7567bf1088-deepseek-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -231,7 +260,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 929,
+    "points": 937,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -243,7 +272,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why Math Dumped OpenAI",
-    "points": 70,
+    "points": 84,
     "path": "news/2026/10/17/61ac108a17c7-why-math-dumped-openai.md"
   },
   {
@@ -258,7 +287,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 317,
+    "points": 321,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -286,7 +315,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Things to Do API",
-    "points": 53,
+    "points": 54,
     "path": "news/2026/10/16/e6b224cff200-show-hn-things-to-do-api.md"
   },
   {
@@ -300,7 +329,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 468,
+    "points": 472,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -312,7 +341,7 @@
     "tags": [],
     "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 616,
+    "points": 622,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -337,7 +366,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 1047,
+    "points": 1051,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -351,7 +380,7 @@
     ],
     "importance": 3,
     "summary": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "points": 371,
+    "points": 372,
     "path": "news/2026/10/16/7661019fe020-llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on.md"
   },
   {
@@ -363,7 +392,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 296,
+    "points": 297,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -391,7 +420,7 @@
     ],
     "importance": 3,
     "summary": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "points": 612,
+    "points": 616,
     "path": "news/2026/10/16/2fb4b159fd89-90-of-us-working-hours-are-spent-on-tasks-not-covered-well-b.md"
   },
   {
@@ -403,7 +432,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-    "points": 217,
+    "points": 218,
     "path": "news/2026/10/16/5dc52552d68a-postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-h.md"
   },
   {
@@ -434,7 +463,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Gemini 4 Argon plays StarCraft",
-    "points": 248,
+    "points": 249,
     "path": "news/2026/10/16/5a13ce7aaffa-show-hn-gemini-4-argon-plays-starcraft.md"
   },
   {
@@ -448,8 +477,20 @@
     ],
     "importance": 2,
     "summary": "How to make System 1 LLMs show System 2 competencies?",
-    "points": 57,
+    "points": 58,
     "path": "news/2026/10/16/09a3482126c7-how-to-make-system-1-llms-show-system-2-competencies.md"
+  },
+  {
+    "id": "4bc0f31ae07e",
+    "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+    "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-16T13:30:20Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+    "points": 91,
+    "path": "news/2026/10/16/4bc0f31ae07e-i-m-on-a-war-footing-terry-tao-and-the-crisis-in-math.md"
   },
   {
     "id": "138e9b7e7d97",
@@ -642,7 +683,7 @@
     "importance": 3,
     "summary": "FLUX 3 Image Klein: open weights, 5.6B parameters",
     "path": "news/2026/10/15/155c7b54b4cb-flux-3-image-klein-open-weights-5-6b-parameters.md",
-    "points": 212
+    "points": 213
   },
   {
     "id": "e4e4088e2634",
