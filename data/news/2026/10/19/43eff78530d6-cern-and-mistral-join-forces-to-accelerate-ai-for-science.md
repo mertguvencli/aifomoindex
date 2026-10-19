@@ -5,8 +5,8 @@ url: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science
 source: hackernews
 published_at: 2026-10-19T15:28:24Z
 fetched_at: 2026-10-19T17:51:24.251Z
-importance: 2
-points: 174
+importance: 3
+points: 281
 tags: [model, research]
 ---
 
