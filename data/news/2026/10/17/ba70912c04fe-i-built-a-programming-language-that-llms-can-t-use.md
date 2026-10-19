@@ -5,8 +5,8 @@ url: https://blog.picheta.me/post/killswitch-lang/
 source: hackernews
 published_at: 2026-10-17T22:26:47Z
 fetched_at: 2026-10-19T02:05:03.685Z
-importance: 2
-points: 81
+importance: 3
+points: 208
 tags: [model]
 ---
 

@@ -6,6 +6,7 @@ source: anthropic
 published_at: 2026-10-18T16:49:35.513Z
 fetched_at: 2026-10-18T19:46:25.537Z
 importance: 2
+points: 57
 tags: []
 ---
 
