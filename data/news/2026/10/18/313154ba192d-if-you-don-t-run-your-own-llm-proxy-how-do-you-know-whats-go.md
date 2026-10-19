@@ -5,8 +5,8 @@ url: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-e
 source: hackernews
 published_at: 2026-10-18T21:09:12Z
 fetched_at: 2026-10-19T11:24:01.457Z
-importance: 2
-points: 190
+importance: 3
+points: 280
 tags: [model]
 ---
 

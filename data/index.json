@@ -1,5 +1,91 @@
 [
   {
+    "id": "43eff78530d6",
+    "title": "CERN and Mistral join forces to accelerate AI for science",
+    "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T15:28:24Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "CERN and Mistral join forces to accelerate AI for science",
+    "points": 174,
+    "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
+  },
+  {
+    "id": "a01a5d49df06",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T14:23:17Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "points": 55,
+    "path": "news/2026/10/19/a01a5d49df06-a-hacker-broke-into-john-deere-and-sharkninja-with-an-army-o.md"
+  },
+  {
+    "id": "337549f33a48",
+    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+    "url": "https://github.com/kividbio/kividb",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T13:53:52Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+    "points": 52,
+    "path": "news/2026/10/19/337549f33a48-show-hn-kividb-a-faster-redis-compatible-memory-database-and.md"
+  },
+  {
+    "id": "b15e2cfe207a",
+    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "url": "https://100toolkit.com/blog/deslop-model/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T13:00:47Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "points": 125,
+    "path": "news/2026/10/19/b15e2cfe207a-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md"
+  },
+  {
+    "id": "9d4b9e1fe5ab",
+    "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+    "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T12:07:41Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+    "points": 126,
+    "path": "news/2026/10/19/9d4b9e1fe5ab-harness-engineering-101-the-llm-is-the-brain-the-harness-is-.md"
+  },
+  {
+    "id": "5abc35d08fdc",
+    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T05:55:31Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "points": 135,
+    "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
+  },
+  {
     "id": "f1cb07a73c67",
     "title": "DeepSeek V4.1 Flash 1017 (Max)",
     "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
@@ -10,7 +96,7 @@
     ],
     "importance": 2,
     "summary": "DeepSeek V4.1 Flash 1017 (Max)",
-    "points": 157,
+    "points": 180,
     "path": "news/2026/10/19/f1cb07a73c67-deepseek-v4-1-flash-1017-max.md"
   },
   {
@@ -36,7 +122,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "points": 114,
+    "points": 144,
     "path": "news/2026/10/18/2a6ac23eb50f-show-hn-whatsapp-mcp-running-free-on-cloudflare.md"
   },
   {
@@ -48,9 +134,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "points": 190,
+    "points": 280,
     "path": "news/2026/10/18/313154ba192d-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go.md"
   },
   {
@@ -65,7 +151,7 @@
     ],
     "importance": 3,
     "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "points": 419,
+    "points": 494,
     "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
   },
   {
@@ -103,7 +189,7 @@
     ],
     "importance": 2,
     "summary": "Websites are closing their doors to AI agents",
-    "points": 145,
+    "points": 153,
     "path": "news/2026/10/18/b82a05a94858-websites-are-closing-their-doors-to-ai-agents.md"
   },
   {
@@ -117,7 +203,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-    "points": 164,
+    "points": 170,
     "path": "news/2026/10/18/f1dca3f89f46-anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deat.md"
   },
   {
@@ -129,7 +215,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-    "points": 117,
+    "points": 118,
     "path": "news/2026/10/18/73b0434a8444-tesla-cannot-guarantee-roadster-reservation-holders-will-eve.md"
   },
   {
@@ -141,9 +227,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "points": 192,
+    "points": 209,
     "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
   },
   {
@@ -155,7 +241,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-    "points": 88,
+    "points": 97,
     "path": "news/2026/10/18/6549a6655380-how-far-will-ai-assistants-go-for-a-refund-they-can-t-get.md"
   },
   {
@@ -167,7 +253,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How employment is changing at Anthropic",
-    "points": 126,
+    "points": 143,
     "path": "news/2026/10/18/7a1cd32307fd-how-employment-is-changing-at-anthropic.md"
   },
   {
@@ -181,7 +267,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "points": 575,
+    "points": 593,
     "path": "news/2026/10/18/56ddeb4dc142-deepseek-search-and-fetch-0-75-per-1000-successful-requests.md"
   },
   {
@@ -193,7 +279,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-    "points": 79,
+    "points": 87,
     "path": "news/2026/10/18/0bc5e3d46667-a-princeton-phd-applied-to-2-300-jobs-he-still-can-t-get-one.md"
   },
   {
@@ -207,7 +293,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "points": 246,
+    "points": 249,
     "path": "news/2026/10/18/a8924e6a6192-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-bef.md"
   },
   {
@@ -221,7 +307,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "points": 68,
+    "points": 72,
     "path": "news/2026/10/18/7a2b274d4bc7-show-hn-500-clocks-in-one-6-3-mb-html-file-by-opus-5-5.md"
   },
   {
@@ -235,7 +321,7 @@
     ],
     "importance": 3,
     "summary": "I built a programming language that LLMs can't use",
-    "points": 208,
+    "points": 259,
     "path": "news/2026/10/17/ba70912c04fe-i-built-a-programming-language-that-llms-can-t-use.md"
   },
   {
@@ -247,7 +333,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The math that OpenAI keeps for itself",
-    "points": 53,
+    "points": 54,
     "path": "news/2026/10/17/3e97a8ec6cf7-the-math-that-openai-keeps-for-itself.md"
   },
   {
@@ -261,7 +347,7 @@
     ],
     "importance": 2,
     "summary": "Codex Desktop continuously generates Crashpad pending dumps",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/10/17/9ce1d661b5d8-codex-desktop-continuously-generates-crashpad-pending-dumps.md"
   },
   {
@@ -301,7 +387,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "points": 519,
+    "points": 520,
     "path": "news/2026/10/17/bb7567bf1088-deepseek-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -315,7 +401,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 947,
+    "points": 950,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -327,7 +413,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why Math Dumped OpenAI",
-    "points": 90,
+    "points": 91,
     "path": "news/2026/10/17/61ac108a17c7-why-math-dumped-openai.md"
   },
   {
@@ -342,7 +428,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 323,
+    "points": 327,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -370,7 +456,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Things to Do API",
-    "points": 55,
+    "points": 57,
     "path": "news/2026/10/16/e6b224cff200-show-hn-things-to-do-api.md"
   },
   {
@@ -384,7 +470,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team does code review",
-    "points": 479,
+    "points": 481,
     "path": "news/2026/10/16/6d6f8ad07535-how-the-claude-code-team-does-code-review.md"
   },
   {
@@ -396,7 +482,7 @@
     "tags": [],
     "importance": 3,
     "summary": "You could have invented transformers from memory",
-    "points": 638,
+    "points": 644,
     "path": "news/2026/10/16/e44989809c18-you-could-have-invented-transformers-from-memory.md"
   },
   {
@@ -421,7 +507,7 @@
     ],
     "importance": 3,
     "summary": "Claude reveals ECDSA curve origins",
-    "points": 1054,
+    "points": 1058,
     "path": "news/2026/10/16/b7edf0001b31-claude-reveals-ecdsa-curve-origins.md"
   },
   {
@@ -447,7 +533,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic assigned highest junk credit rating in June",
-    "points": 298,
+    "points": 300,
     "path": "news/2026/10/16/b6009c1d6466-anthropic-assigned-highest-junk-credit-rating-in-june.md"
   },
   {
@@ -23123,9 +23209,10 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
-    "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md"
+    "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
+    "points": 389
   },
   {
     "id": "3b3647cb2f0c",
