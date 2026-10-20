@@ -5,8 +5,8 @@ url: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-al
 source: hackernews
 published_at: 2026-10-20T13:06:22Z
 fetched_at: 2026-10-20T15:55:11.494Z
-importance: 2
-points: 135
+importance: 3
+points: 289
 tags: [model]
 ---
 

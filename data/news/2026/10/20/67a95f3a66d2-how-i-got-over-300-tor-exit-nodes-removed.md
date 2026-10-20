@@ -5,8 +5,8 @@ url: https://kaba.cx/posts/20261020_Tor/
 source: hackernews
 published_at: 2026-10-20T13:39:24Z
 fetched_at: 2026-10-20T15:55:11.494Z
-importance: 2
-points: 87
+importance: 3
+points: 259
 tags: []
 ---
 

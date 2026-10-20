@@ -1,5 +1,45 @@
 [
   {
+    "id": "e8a8161ff834",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "source": "huggingface",
+    "publishedAt": "2026-10-20T18:17:47.000Z",
+    "tags": [
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "path": "news/2026/10/20/e8a8161ff834-nvidia-cosmos3-h-dreams-bringing-clinical-surgery-to-life-th.md"
+  },
+  {
+    "id": "ef73bf2ace8a",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "source": "huggingface",
+    "publishedAt": "2026-10-20T16:09:19.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "path": "news/2026/10/20/ef73bf2ace8a-fairstress-a-deeper-evaluation-of-fairness-in-llm-decision-m.md"
+  },
+  {
+    "id": "f24a16f61a8a",
+    "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T15:48:26Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+    "points": 150,
+    "path": "news/2026/10/20/f24a16f61a8a-steam-users-beg-for-no-ai-filter-as-vibecoders-flood-next-fe.md"
+  },
+  {
     "id": "536f23cd94f1",
     "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
@@ -14,6 +54,21 @@
     "path": "news/2026/10/20/536f23cd94f1-altk-evolve-how-learned-memory-tops-the-bench-leaderboard-on.md"
   },
   {
+    "id": "134305fd3790",
+    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+    "url": "https://jevcards.com",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T15:11:56Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+    "points": 53,
+    "path": "news/2026/10/20/134305fd3790-show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-q.md"
+  },
+  {
     "id": "02b82d367685",
     "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
     "url": "https://github.com/KatrielMoses/voidaccess",
@@ -24,7 +79,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-    "points": 81,
+    "points": 124,
     "path": "news/2026/10/20/02b82d367685-show-hn-voidaccess-open-source-dark-web-osint-from-query-to-.md"
   },
   {
@@ -34,9 +89,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-20T13:39:24Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "How I got over 300 Tor exit nodes removed",
-    "points": 87,
+    "points": 259,
     "path": "news/2026/10/20/67a95f3a66d2-how-i-got-over-300-tor-exit-nodes-removed.md"
   },
   {
@@ -48,10 +103,38 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Publish fake stats, get cited in LLMs",
-    "points": 135,
+    "points": 289,
     "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
+  },
+  {
+    "id": "4c6292fc5ecb",
+    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "source": "mistral",
+    "publishedAt": "2026-10-20T12:00:22.000Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+    "points": 409,
+    "path": "news/2026/10/20/4c6292fc5ecb-voxtral-3-voice-agent-sdk-speech-models-in-50-languages.md"
+  },
+  {
+    "id": "1725d137aa3d",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "openai",
+    "publishedAt": "2026-10-20T10:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "path": "news/2026/10/20/1725d137aa3d-franchisee-reconciles-cash-in-94-less-time-with-chatgpt-work.md"
   },
   {
     "id": "be38b11f937c",
@@ -65,7 +148,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 1564,
+    "points": 2011,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
   },
   {
@@ -79,7 +162,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "points": 82,
+    "points": 89,
     "path": "news/2026/10/20/7f8519143a93-show-hn-death-plan-switch-a-self-hosted-dead-man-s-switch-fo.md"
   },
   {
@@ -135,6 +218,19 @@
     "path": "news/2026/10/20/7e07d0cfa6c5-agco-and-agility-robotics-advance-smart-manufacturing-with-h.md"
   },
   {
+    "id": "1cfb6291fa15",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "source": "openai",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "OpenAI acquires Orchestra Bio",
+    "path": "news/2026/10/20/1cfb6291fa15-openai-acquires-orchestra-bio.md"
+  },
+  {
     "id": "55c3c0be518a",
     "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
     "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
@@ -146,7 +242,7 @@
     ],
     "importance": 3,
     "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "points": 656,
+    "points": 702,
     "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
   },
   {
@@ -160,7 +256,7 @@
     ],
     "importance": 3,
     "summary": "How abliterated models can get you pwned",
-    "points": 209,
+    "points": 221,
     "path": "news/2026/10/19/44b1999a5650-how-abliterated-models-can-get-you-pwned.md"
   },
   {
@@ -187,7 +283,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Mercury 3: Diffusion at scale",
-    "points": 252,
+    "points": 254,
     "path": "news/2026/10/19/54c4ca0a9f64-mercury-3-diffusion-at-scale.md"
   },
   {
@@ -202,7 +298,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "points": 468,
+    "points": 543,
     "path": "news/2026/10/19/b70800a8097d-deepseek-banned-from-u-s-federal-civilian-agencies-under-new.md"
   },
   {
@@ -271,7 +367,7 @@
     ],
     "importance": 2,
     "summary": "Maxwell: A new kind of model that sits between code and hardware",
-    "points": 121,
+    "points": 124,
     "path": "news/2026/10/19/3950a37059ee-maxwell-a-new-kind-of-model-that-sits-between-code-and-hardw.md"
   },
   {
@@ -328,7 +424,7 @@
     ],
     "importance": 2,
     "summary": "The obscure trust looming over Anthropic's IPO",
-    "points": 147,
+    "points": 148,
     "path": "news/2026/10/19/b92725875c95-the-obscure-trust-looming-over-anthropic-s-ipo.md"
   },
   {
@@ -353,7 +449,7 @@
     ],
     "importance": 2,
     "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "points": 161,
+    "points": 165,
     "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
   },
   {
@@ -367,7 +463,7 @@
     ],
     "importance": 2,
     "summary": "DeepSeek V4.1 Flash 1017 (Max)",
-    "points": 188,
+    "points": 190,
     "path": "news/2026/10/19/f1cb07a73c67-deepseek-v4-1-flash-1017-max.md"
   },
   {
@@ -407,7 +503,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "points": 152,
+    "points": 154,
     "path": "news/2026/10/18/2a6ac23eb50f-show-hn-whatsapp-mcp-running-free-on-cloudflare.md"
   },
   {
@@ -421,7 +517,7 @@
     ],
     "importance": 3,
     "summary": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "points": 298,
+    "points": 299,
     "path": "news/2026/10/18/313154ba192d-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go.md"
   },
   {
@@ -436,7 +532,7 @@
     ],
     "importance": 3,
     "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "points": 511,
+    "points": 513,
     "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
   },
   {
@@ -448,7 +544,7 @@
     "tags": [],
     "importance": 2,
     "summary": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-    "points": 94,
+    "points": 95,
     "path": "news/2026/10/18/09df648b6c82-british-airways-filming-crew-w-meta-glasses-could-get-your-t.md"
   },
   {
@@ -514,7 +610,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "points": 219,
+    "points": 220,
     "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
   },
   {
@@ -526,7 +622,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-    "points": 105,
+    "points": 106,
     "path": "news/2026/10/18/6549a6655380-how-far-will-ai-assistants-go-for-a-refund-they-can-t-get.md"
   },
   {
@@ -538,7 +634,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How employment is changing at Anthropic",
-    "points": 156,
+    "points": 159,
     "path": "news/2026/10/18/7a1cd32307fd-how-employment-is-changing-at-anthropic.md"
   },
   {
@@ -564,7 +660,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-    "points": 93,
+    "points": 95,
     "path": "news/2026/10/18/0bc5e3d46667-a-princeton-phd-applied-to-2-300-jobs-he-still-can-t-get-one.md"
   },
   {
@@ -606,7 +702,7 @@
     ],
     "importance": 3,
     "summary": "I built a programming language that LLMs can't use",
-    "points": 278,
+    "points": 279,
     "path": "news/2026/10/17/ba70912c04fe-i-built-a-programming-language-that-llms-can-t-use.md"
   },
   {
@@ -2317,6 +2413,17 @@
     "summary": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
     "points": 115,
     "path": "news/2026/10/12/702c3f24c909-show-hn-atticus-hold-to-talk-voice-assistant-for-macos-that-.md"
+  },
+  {
+    "id": "e80312ced00a",
+    "title": "Strengthening our defenses against distillation attacks",
+    "url": "https://www.anthropic.com/news/distillation-defenses",
+    "source": "anthropic",
+    "publishedAt": "2026-10-12T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Strengthening our defenses against distillation attacks",
+    "path": "news/2026/10/12/e80312ced00a-strengthening-our-defenses-against-distillation-attacks.md"
   },
   {
     "id": "e5252a77dc0d",
@@ -23497,7 +23604,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 601
+    "points": 613
   },
   {
     "id": "3b3647cb2f0c",
@@ -34086,6 +34193,17 @@
     "path": "news/2026/05/28/b53fe0b950d4-get-your-product-out-there.md"
   },
   {
+    "id": "c409baad30c0",
+    "title": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "source": "anthropic",
+    "publishedAt": "2026-05-28T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Announcements",
+    "path": "news/2026/05/28/c409baad30c0-announcements.md"
+  },
+  {
     "id": "52b1e8f5139a",
     "title": "Anthropic opens Milan office",
     "url": "https://www.anthropic.com/news/milan-office-opening",
@@ -35239,6 +35357,19 @@
     "path": "news/2026/05/22/fabc6ef2e876-how-virgin-atlantic-ships-faster-with-codex.md"
   },
   {
+    "id": "e6eef050e6f8",
+    "title": "Security",
+    "url": "https://www.anthropic.com/news/security",
+    "source": "anthropic",
+    "publishedAt": "2026-05-22T00:00:00.000Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Security",
+    "path": "news/2026/05/22/e6eef050e6f8-security.md"
+  },
+  {
     "id": "60968eec1af2",
     "title": "The memory shortage is causing a repricing of consumer electronics",
     "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
@@ -36035,6 +36166,30 @@
     "importance": 2,
     "summary": "Introducing the Ettin Reranker Family",
     "path": "news/2026/05/19/ed1c2193d6b8-introducing-the-ettin-reranker-family.md"
+  },
+  {
+    "id": "874e2bd791bd",
+    "title": "Partnerships",
+    "url": "https://www.anthropic.com/news/partnerships",
+    "source": "anthropic",
+    "publishedAt": "2026-05-19T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Partnerships",
+    "path": "news/2026/05/19/874e2bd791bd-partnerships.md"
+  },
+  {
+    "id": "729f54d20dbd",
+    "title": "Policy",
+    "url": "https://www.anthropic.com/news/policy",
+    "source": "anthropic",
+    "publishedAt": "2026-05-19T00:00:00.000Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Policy",
+    "path": "news/2026/05/19/729f54d20dbd-policy.md"
   },
   {
     "id": "9d30963444f5",
@@ -37540,6 +37695,17 @@
     "importance": 2,
     "summary": "Our response to the TanStack npm supply chain attack",
     "path": "news/2026/05/13/8939013f174d-our-response-to-the-tanstack-npm-supply-chain-attack.md"
+  },
+  {
+    "id": "906074cadc30",
+    "title": "Product",
+    "url": "https://www.anthropic.com/news/product",
+    "source": "anthropic",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Product",
+    "path": "news/2026/05/13/906074cadc30-product.md"
   },
   {
     "id": "e1739cedc6f9",
@@ -97358,6 +97524,17 @@
     "importance": 2,
     "summary": "Introducing Stargate UAE",
     "path": "news/2025/05/22/92be720c5850-introducing-stargate-uae.md"
+  },
+  {
+    "id": "42d0c5c372ba",
+    "title": "Safeguards",
+    "url": "https://www.anthropic.com/news/safeguards",
+    "source": "anthropic",
+    "publishedAt": "2025-05-22T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Safeguards",
+    "path": "news/2025/05/22/42d0c5c372ba-safeguards.md"
   },
   {
     "id": "429223207cbd",
