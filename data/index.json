@@ -1,5 +1,59 @@
 [
   {
+    "id": "536f23cd94f1",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "source": "huggingface",
+    "publishedAt": "2026-10-20T15:19:48.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "path": "news/2026/10/20/536f23cd94f1-altk-evolve-how-learned-memory-tops-the-bench-leaderboard-on.md"
+  },
+  {
+    "id": "02b82d367685",
+    "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+    "url": "https://github.com/KatrielMoses/voidaccess",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T14:49:33Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+    "points": 81,
+    "path": "news/2026/10/20/02b82d367685-show-hn-voidaccess-open-source-dark-web-osint-from-query-to-.md"
+  },
+  {
+    "id": "67a95f3a66d2",
+    "title": "How I got over 300 Tor exit nodes removed",
+    "url": "https://kaba.cx/posts/20261020_Tor/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T13:39:24Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How I got over 300 Tor exit nodes removed",
+    "points": 87,
+    "path": "news/2026/10/20/67a95f3a66d2-how-i-got-over-300-tor-exit-nodes-removed.md"
+  },
+  {
+    "id": "1a1edc372155",
+    "title": "Publish fake stats, get cited in LLMs",
+    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T13:06:22Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Publish fake stats, get cited in LLMs",
+    "points": 135,
+    "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
+  },
+  {
     "id": "be38b11f937c",
     "title": "DeepSeek just open-sourced its inference engine",
     "url": "https://github.com/deepseek-ai/DeepInfer",
@@ -9,9 +63,9 @@
       "model",
       "infra"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 157,
+    "points": 1564,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
   },
   {
@@ -25,8 +79,60 @@
     ],
     "importance": 2,
     "summary": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "points": 70,
+    "points": 82,
     "path": "news/2026/10/20/7f8519143a93-show-hn-death-plan-switch-a-self-hosted-dead-man-s-switch-fo.md"
+  },
+  {
+    "id": "39e60f901a73",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "url": "https://huggingface.co/blog/hf-torchtpu",
+    "source": "huggingface",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "tags": [
+      "opensource",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "path": "news/2026/10/20/39e60f901a73-hugging-face-torchtpu-tpus-natively.md"
+  },
+  {
+    "id": "41fb25a47d12",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "source": "huggingface",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "path": "news/2026/10/20/41fb25a47d12-anylanguagemodel-1-0-one-year-of-local-models-on-apple-platf.md"
+  },
+  {
+    "id": "c2b4b68d7e00",
+    "title": "MPS in PyTorch 2.15",
+    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "source": "huggingface",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "MPS in PyTorch 2.15",
+    "path": "news/2026/10/20/c2b4b68d7e00-mps-in-pytorch-2-15.md"
+  },
+  {
+    "id": "7e07d0cfa6c5",
+    "title": "AGCO and Agility Robotics Advance Smart Manufacturing with Humanoid Robot Pilot in Hesston, Kansas, Facility",
+    "url": "https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility",
+    "source": "agility",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AGCO and Agility Robotics Advance Smart Manufacturing with Humanoid Robot Pilot in Hesston, Kansas, Facility",
+    "path": "news/2026/10/20/7e07d0cfa6c5-agco-and-agility-robotics-advance-smart-manufacturing-with-h.md"
   },
   {
     "id": "55c3c0be518a",
@@ -40,7 +146,7 @@
     ],
     "importance": 3,
     "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "points": 448,
+    "points": 656,
     "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
   },
   {
@@ -52,9 +158,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "How abliterated models can get you pwned",
-    "points": 136,
+    "points": 209,
     "path": "news/2026/10/19/44b1999a5650-how-abliterated-models-can-get-you-pwned.md"
   },
   {
@@ -81,7 +187,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Mercury 3: Diffusion at scale",
-    "points": 248,
+    "points": 252,
     "path": "news/2026/10/19/54c4ca0a9f64-mercury-3-diffusion-at-scale.md"
   },
   {
@@ -96,7 +202,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "points": 267,
+    "points": 468,
     "path": "news/2026/10/19/b70800a8097d-deepseek-banned-from-u-s-federal-civilian-agencies-under-new.md"
   },
   {
@@ -111,7 +217,7 @@
     ],
     "importance": 3,
     "summary": "CERN and Mistral join forces to accelerate AI for science",
-    "points": 342,
+    "points": 354,
     "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
   },
   {
@@ -123,7 +229,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
-    "points": 71,
+    "points": 73,
     "path": "news/2026/10/19/00fc405ea87c-big-tech-oligarchs-have-a-terrible-plan-for-humanity.md"
   },
   {
@@ -151,7 +257,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/10/19/337549f33a48-show-hn-kividb-a-faster-redis-compatible-memory-database-and.md"
   },
   {
@@ -165,7 +271,7 @@
     ],
     "importance": 2,
     "summary": "Maxwell: A new kind of model that sits between code and hardware",
-    "points": 78,
+    "points": 121,
     "path": "news/2026/10/19/3950a37059ee-maxwell-a-new-kind-of-model-that-sits-between-code-and-hardw.md"
   },
   {
@@ -179,7 +285,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/19/6bcbd1b996df-show-hn-i-built-a-task-system-to-handle-the-drudgery-so-i-co.md"
   },
   {
@@ -194,7 +300,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "points": 148,
+    "points": 154,
     "path": "news/2026/10/19/b15e2cfe207a-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md"
   },
   {
@@ -208,7 +314,7 @@
     ],
     "importance": 2,
     "summary": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-    "points": 130,
+    "points": 132,
     "path": "news/2026/10/19/9d4b9e1fe5ab-harness-engineering-101-the-llm-is-the-brain-the-harness-is-.md"
   },
   {
@@ -222,7 +328,7 @@
     ],
     "importance": 2,
     "summary": "The obscure trust looming over Anthropic's IPO",
-    "points": 146,
+    "points": 147,
     "path": "news/2026/10/19/b92725875c95-the-obscure-trust-looming-over-anthropic-s-ipo.md"
   },
   {
@@ -247,7 +353,7 @@
     ],
     "importance": 2,
     "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "points": 156,
+    "points": 161,
     "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
   },
   {
@@ -261,7 +367,7 @@
     ],
     "importance": 2,
     "summary": "DeepSeek V4.1 Flash 1017 (Max)",
-    "points": 187,
+    "points": 188,
     "path": "news/2026/10/19/f1cb07a73c67-deepseek-v4-1-flash-1017-max.md"
   },
   {
@@ -301,7 +407,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "points": 149,
+    "points": 152,
     "path": "news/2026/10/18/2a6ac23eb50f-show-hn-whatsapp-mcp-running-free-on-cloudflare.md"
   },
   {
@@ -315,7 +421,7 @@
     ],
     "importance": 3,
     "summary": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "points": 297,
+    "points": 298,
     "path": "news/2026/10/18/313154ba192d-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go.md"
   },
   {
@@ -330,7 +436,7 @@
     ],
     "importance": 3,
     "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "points": 506,
+    "points": 511,
     "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
   },
   {
@@ -368,7 +474,7 @@
     ],
     "importance": 2,
     "summary": "Websites are closing their doors to AI agents",
-    "points": 154,
+    "points": 155,
     "path": "news/2026/10/18/b82a05a94858-websites-are-closing-their-doors-to-ai-agents.md"
   },
   {
@@ -382,7 +488,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/10/18/f1dca3f89f46-anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deat.md"
   },
   {
@@ -408,7 +514,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "points": 218,
+    "points": 219,
     "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
   },
   {
@@ -486,7 +592,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "points": 73,
+    "points": 75,
     "path": "news/2026/10/18/7a2b274d4bc7-show-hn-500-clocks-in-one-6-3-mb-html-file-by-opus-5-5.md"
   },
   {
@@ -500,7 +606,7 @@
     ],
     "importance": 3,
     "summary": "I built a programming language that LLMs can't use",
-    "points": 273,
+    "points": 278,
     "path": "news/2026/10/17/ba70912c04fe-i-built-a-programming-language-that-llms-can-t-use.md"
   },
   {
@@ -23391,7 +23497,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 588
+    "points": 601
   },
   {
     "id": "3b3647cb2f0c",

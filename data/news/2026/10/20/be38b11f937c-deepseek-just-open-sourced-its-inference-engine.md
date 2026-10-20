@@ -5,8 +5,8 @@ url: https://github.com/deepseek-ai/DeepInfer
 source: hackernews
 published_at: 2026-10-20T09:08:54Z
 fetched_at: 2026-10-20T10:31:14.831Z
-importance: 2
-points: 157
+importance: 3
+points: 1564
 tags: [model, infra]
 ---
 
