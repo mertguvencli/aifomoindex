@@ -1,5 +1,63 @@
 [
   {
+    "id": "be38b11f937c",
+    "title": "DeepSeek just open-sourced its inference engine",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T09:08:54Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "DeepSeek just open-sourced its inference engine",
+    "points": 157,
+    "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
+  },
+  {
+    "id": "7f8519143a93",
+    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+    "url": "https://deathplanswitch.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T04:37:43Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+    "points": 70,
+    "path": "news/2026/10/20/7f8519143a93-show-hn-death-plan-switch-a-self-hosted-dead-man-s-switch-fo.md"
+  },
+  {
+    "id": "55c3c0be518a",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T23:22:18Z",
+    "tags": [
+      "model",
+      "policy"
+    ],
+    "importance": 3,
+    "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "points": 448,
+    "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
+  },
+  {
+    "id": "44b1999a5650",
+    "title": "How abliterated models can get you pwned",
+    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T23:08:52Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "How abliterated models can get you pwned",
+    "points": 136,
+    "path": "news/2026/10/19/44b1999a5650-how-abliterated-models-can-get-you-pwned.md"
+  },
+  {
     "id": "64c882ceb564",
     "title": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
     "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
@@ -11,7 +69,7 @@
     ],
     "importance": 2,
     "summary": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-    "points": 63,
+    "points": 66,
     "path": "news/2026/10/19/64c882ceb564-the-us-orders-every-civilian-agency-to-rip-out-deepseek-even.md"
   },
   {
@@ -23,8 +81,23 @@
     "tags": [],
     "importance": 3,
     "summary": "Mercury 3: Diffusion at scale",
-    "points": 226,
+    "points": 248,
     "path": "news/2026/10/19/54c4ca0a9f64-mercury-3-diffusion-at-scale.md"
+  },
+  {
+    "id": "b70800a8097d",
+    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T16:16:46Z",
+    "tags": [
+      "model",
+      "policy"
+    ],
+    "importance": 3,
+    "summary": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "points": 267,
+    "path": "news/2026/10/19/b70800a8097d-deepseek-banned-from-u-s-federal-civilian-agencies-under-new.md"
   },
   {
     "id": "43eff78530d6",
@@ -38,7 +111,7 @@
     ],
     "importance": 3,
     "summary": "CERN and Mistral join forces to accelerate AI for science",
-    "points": 320,
+    "points": 342,
     "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
   },
   {
@@ -50,7 +123,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
-    "points": 68,
+    "points": 71,
     "path": "news/2026/10/19/00fc405ea87c-big-tech-oligarchs-have-a-terrible-plan-for-humanity.md"
   },
   {
@@ -78,8 +151,36 @@
     ],
     "importance": 2,
     "summary": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "points": 63,
+    "points": 67,
     "path": "news/2026/10/19/337549f33a48-show-hn-kividb-a-faster-redis-compatible-memory-database-and.md"
+  },
+  {
+    "id": "3950a37059ee",
+    "title": "Maxwell: A new kind of model that sits between code and hardware",
+    "url": "https://heymaxwell.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T13:47:56Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Maxwell: A new kind of model that sits between code and hardware",
+    "points": 78,
+    "path": "news/2026/10/19/3950a37059ee-maxwell-a-new-kind-of-model-that-sits-between-code-and-hardw.md"
+  },
+  {
+    "id": "6bcbd1b996df",
+    "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+    "url": "https://3anddoneapp.com/try",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T13:07:07Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+    "points": 55,
+    "path": "news/2026/10/19/6bcbd1b996df-show-hn-i-built-a-task-system-to-handle-the-drudgery-so-i-co.md"
   },
   {
     "id": "b15e2cfe207a",
@@ -93,7 +194,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "points": 145,
+    "points": 148,
     "path": "news/2026/10/19/b15e2cfe207a-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md"
   },
   {
@@ -107,7 +208,7 @@
     ],
     "importance": 2,
     "summary": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-    "points": 128,
+    "points": 130,
     "path": "news/2026/10/19/9d4b9e1fe5ab-harness-engineering-101-the-llm-is-the-brain-the-harness-is-.md"
   },
   {
@@ -121,7 +222,7 @@
     ],
     "importance": 2,
     "summary": "The obscure trust looming over Anthropic's IPO",
-    "points": 132,
+    "points": 146,
     "path": "news/2026/10/19/b92725875c95-the-obscure-trust-looming-over-anthropic-s-ipo.md"
   },
   {
@@ -146,7 +247,7 @@
     ],
     "importance": 2,
     "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "points": 149,
+    "points": 156,
     "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
   },
   {
@@ -160,7 +261,7 @@
     ],
     "importance": 2,
     "summary": "DeepSeek V4.1 Flash 1017 (Max)",
-    "points": 186,
+    "points": 187,
     "path": "news/2026/10/19/f1cb07a73c67-deepseek-v4-1-flash-1017-max.md"
   },
   {
@@ -200,7 +301,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "points": 146,
+    "points": 149,
     "path": "news/2026/10/18/2a6ac23eb50f-show-hn-whatsapp-mcp-running-free-on-cloudflare.md"
   },
   {
@@ -214,7 +315,7 @@
     ],
     "importance": 3,
     "summary": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "points": 292,
+    "points": 297,
     "path": "news/2026/10/18/313154ba192d-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go.md"
   },
   {
@@ -229,7 +330,7 @@
     ],
     "importance": 3,
     "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "points": 502,
+    "points": 506,
     "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
   },
   {
@@ -241,7 +342,7 @@
     "tags": [],
     "importance": 2,
     "summary": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-    "points": 93,
+    "points": 94,
     "path": "news/2026/10/18/09df648b6c82-british-airways-filming-crew-w-meta-glasses-could-get-your-t.md"
   },
   {
@@ -281,7 +382,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-    "points": 170,
+    "points": 171,
     "path": "news/2026/10/18/f1dca3f89f46-anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deat.md"
   },
   {
@@ -307,7 +408,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "points": 214,
+    "points": 218,
     "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
   },
   {
@@ -319,7 +420,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-    "points": 104,
+    "points": 105,
     "path": "news/2026/10/18/6549a6655380-how-far-will-ai-assistants-go-for-a-refund-they-can-t-get.md"
   },
   {
@@ -331,7 +432,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How employment is changing at Anthropic",
-    "points": 152,
+    "points": 156,
     "path": "news/2026/10/18/7a1cd32307fd-how-employment-is-changing-at-anthropic.md"
   },
   {
@@ -345,7 +446,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "points": 598,
+    "points": 601,
     "path": "news/2026/10/18/56ddeb4dc142-deepseek-search-and-fetch-0-75-per-1000-successful-requests.md"
   },
   {
@@ -357,7 +458,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-    "points": 91,
+    "points": 93,
     "path": "news/2026/10/18/0bc5e3d46667-a-princeton-phd-applied-to-2-300-jobs-he-still-can-t-get-one.md"
   },
   {
@@ -399,7 +500,7 @@
     ],
     "importance": 3,
     "summary": "I built a programming language that LLMs can't use",
-    "points": 271,
+    "points": 273,
     "path": "news/2026/10/17/ba70912c04fe-i-built-a-programming-language-that-llms-can-t-use.md"
   },
   {
@@ -23290,7 +23391,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 556
+    "points": 588
   },
   {
     "id": "3b3647cb2f0c",
