@@ -1,14 +1,29 @@
 [
   {
+    "id": "64c882ceb564",
+    "title": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+    "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T18:41:10Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+    "points": 63,
+    "path": "news/2026/10/19/64c882ceb564-the-us-orders-every-civilian-agency-to-rip-out-deepseek-even.md"
+  },
+  {
     "id": "54c4ca0a9f64",
     "title": "Mercury 3: Diffusion at scale",
     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
     "source": "hackernews",
     "publishedAt": "2026-10-19T17:27:11Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Mercury 3: Diffusion at scale",
-    "points": 195,
+    "points": 226,
     "path": "news/2026/10/19/54c4ca0a9f64-mercury-3-diffusion-at-scale.md"
   },
   {
@@ -23,7 +38,7 @@
     ],
     "importance": 3,
     "summary": "CERN and Mistral join forces to accelerate AI for science",
-    "points": 281,
+    "points": 320,
     "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
   },
   {
@@ -35,7 +50,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
-    "points": 63,
+    "points": 68,
     "path": "news/2026/10/19/00fc405ea87c-big-tech-oligarchs-have-a-terrible-plan-for-humanity.md"
   },
   {
@@ -63,7 +78,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "points": 60,
+    "points": 63,
     "path": "news/2026/10/19/337549f33a48-show-hn-kividb-a-faster-redis-compatible-memory-database-and.md"
   },
   {
@@ -78,7 +93,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "points": 143,
+    "points": 145,
     "path": "news/2026/10/19/b15e2cfe207a-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md"
   },
   {
@@ -92,7 +107,7 @@
     ],
     "importance": 2,
     "summary": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-    "points": 127,
+    "points": 128,
     "path": "news/2026/10/19/9d4b9e1fe5ab-harness-engineering-101-the-llm-is-the-brain-the-harness-is-.md"
   },
   {
@@ -106,8 +121,19 @@
     ],
     "importance": 2,
     "summary": "The obscure trust looming over Anthropic's IPO",
-    "points": 119,
+    "points": 132,
     "path": "news/2026/10/19/b92725875c95-the-obscure-trust-looming-over-anthropic-s-ipo.md"
+  },
+  {
+    "id": "1dbe22633003",
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "openai",
+    "publishedAt": "2026-10-19T12:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Advancing coding in low‑resource programming languages",
+    "path": "news/2026/10/19/1dbe22633003-advancing-coding-in-low-resource-programming-languages.md"
   },
   {
     "id": "5abc35d08fdc",
@@ -120,7 +146,7 @@
     ],
     "importance": 2,
     "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "points": 145,
+    "points": 149,
     "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
   },
   {
@@ -203,7 +229,7 @@
     ],
     "importance": 3,
     "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "points": 501,
+    "points": 502,
     "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
   },
   {
@@ -241,7 +267,7 @@
     ],
     "importance": 2,
     "summary": "Websites are closing their doors to AI agents",
-    "points": 153,
+    "points": 154,
     "path": "news/2026/10/18/b82a05a94858-websites-are-closing-their-doors-to-ai-agents.md"
   },
   {
@@ -267,7 +293,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-    "points": 119,
+    "points": 120,
     "path": "news/2026/10/18/73b0434a8444-tesla-cannot-guarantee-roadster-reservation-holders-will-eve.md"
   },
   {
@@ -281,7 +307,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "points": 210,
+    "points": 214,
     "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
   },
   {
@@ -293,7 +319,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-    "points": 101,
+    "points": 104,
     "path": "news/2026/10/18/6549a6655380-how-far-will-ai-assistants-go-for-a-refund-they-can-t-get.md"
   },
   {
@@ -305,7 +331,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How employment is changing at Anthropic",
-    "points": 151,
+    "points": 152,
     "path": "news/2026/10/18/7a1cd32307fd-how-employment-is-changing-at-anthropic.md"
   },
   {
@@ -319,7 +345,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "points": 597,
+    "points": 598,
     "path": "news/2026/10/18/56ddeb4dc142-deepseek-search-and-fetch-0-75-per-1000-successful-requests.md"
   },
   {
@@ -331,7 +357,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-    "points": 89,
+    "points": 91,
     "path": "news/2026/10/18/0bc5e3d46667-a-princeton-phd-applied-to-2-300-jobs-he-still-can-t-get-one.md"
   },
   {
@@ -345,7 +371,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "points": 250,
+    "points": 252,
     "path": "news/2026/10/18/a8924e6a6192-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-bef.md"
   },
   {
@@ -359,7 +385,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/10/18/7a2b274d4bc7-show-hn-500-clocks-in-one-6-3-mb-html-file-by-opus-5-5.md"
   },
   {
@@ -373,7 +399,7 @@
     ],
     "importance": 3,
     "summary": "I built a programming language that LLMs can't use",
-    "points": 269,
+    "points": 271,
     "path": "news/2026/10/17/ba70912c04fe-i-built-a-programming-language-that-llms-can-t-use.md"
   },
   {
@@ -453,7 +479,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek-v4.1-Flash-1017",
-    "points": 952,
+    "points": 953,
     "path": "news/2026/10/17/cac24968e5aa-deepseek-v4-1-flash-1017.md"
   },
   {
@@ -480,7 +506,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "points": 328,
+    "points": 329,
     "path": "news/2026/10/17/98169db0a840-show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-b.md"
   },
   {
@@ -23264,7 +23290,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 504
+    "points": 556
   },
   {
     "id": "3b3647cb2f0c",

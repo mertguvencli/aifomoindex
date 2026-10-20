@@ -5,8 +5,8 @@ url: https://www.inceptionlabs.ai/blog/introducing-mercury-3
 source: hackernews
 published_at: 2026-10-19T17:27:11Z
 fetched_at: 2026-10-19T21:47:16.193Z
-importance: 2
-points: 195
+importance: 3
+points: 226
 tags: []
 ---
 
