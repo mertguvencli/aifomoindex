@@ -1,5 +1,41 @@
 [
   {
+    "id": "c4df30578de3",
+    "title": "The Other Epidemic: Trying to get off benzodiazepines",
+    "url": "https://www.thebeliever.net/the-other-epidemic/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T23:04:09Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Other Epidemic: Trying to get off benzodiazepines",
+    "points": 69,
+    "path": "news/2026/10/20/c4df30578de3-the-other-epidemic-trying-to-get-off-benzodiazepines.md"
+  },
+  {
+    "id": "f06363c57e54",
+    "title": "Anthropic logged net loss of over $80B in first half of 2026",
+    "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T20:09:46Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic logged net loss of over $80B in first half of 2026",
+    "points": 113,
+    "path": "news/2026/10/20/f06363c57e54-anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026.md"
+  },
+  {
+    "id": "ca6f9ce7e172",
+    "title": "On AI writing",
+    "url": "https://www.bolkunov.com/p/on-ai-writing",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T19:55:11Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "On AI writing",
+    "points": 79,
+    "path": "news/2026/10/20/ca6f9ce7e172-on-ai-writing.md"
+  },
+  {
     "id": "e8a8161ff834",
     "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
     "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
@@ -12,6 +48,21 @@
     "importance": 2,
     "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
     "path": "news/2026/10/20/e8a8161ff834-nvidia-cosmos3-h-dreams-bringing-clinical-surgery-to-life-th.md"
+  },
+  {
+    "id": "6a6d13ff206d",
+    "title": "Claude designed protein binders against scorpion neurotoxins",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T17:48:29Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Claude designed protein binders against scorpion neurotoxins",
+    "points": 95,
+    "path": "news/2026/10/20/6a6d13ff206d-claude-designed-protein-binders-against-scorpion-neurotoxins.md"
   },
   {
     "id": "ef73bf2ace8a",
@@ -36,7 +87,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-    "points": 150,
+    "points": 169,
     "path": "news/2026/10/20/f24a16f61a8a-steam-users-beg-for-no-ai-filter-as-vibecoders-flood-next-fe.md"
   },
   {
@@ -65,8 +116,35 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "points": 53,
+    "points": 57,
     "path": "news/2026/10/20/134305fd3790-show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-q.md"
+  },
+  {
+    "id": "14242a0d0356",
+    "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+    "url": "https://github.com/AbdullahAlhariri/penmentor",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T15:10:54Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+    "points": 55,
+    "path": "news/2026/10/20/14242a0d0356-show-hn-penmentor-claude-marks-up-your-handwritten-math-like.md"
+  },
+  {
+    "id": "99eb80ca8088",
+    "title": "How Corruption Got This Bad",
+    "url": "https://www.theatlantic.com/ideas/2026/10/constitution-trump-doj-supreme-court-corruption/689042/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-20T15:03:58Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Corruption Got This Bad",
+    "points": 58,
+    "path": "news/2026/10/20/99eb80ca8088-how-corruption-got-this-bad.md"
   },
   {
     "id": "02b82d367685",
@@ -79,7 +157,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-    "points": 124,
+    "points": 127,
     "path": "news/2026/10/20/02b82d367685-show-hn-voidaccess-open-source-dark-web-osint-from-query-to-.md"
   },
   {
@@ -91,7 +169,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I got over 300 Tor exit nodes removed",
-    "points": 259,
+    "points": 322,
     "path": "news/2026/10/20/67a95f3a66d2-how-i-got-over-300-tor-exit-nodes-removed.md"
   },
   {
@@ -105,7 +183,7 @@
     ],
     "importance": 3,
     "summary": "Publish fake stats, get cited in LLMs",
-    "points": 289,
+    "points": 324,
     "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
   },
   {
@@ -120,7 +198,7 @@
     ],
     "importance": 3,
     "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-    "points": 409,
+    "points": 534,
     "path": "news/2026/10/20/4c6292fc5ecb-voxtral-3-voice-agent-sdk-speech-models-in-50-languages.md"
   },
   {
@@ -148,8 +226,21 @@
     ],
     "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 2011,
+    "points": 2143,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
+  },
+  {
+    "id": "aa8847d44cba",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "source": "openai",
+    "publishedAt": "2026-10-20T07:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "path": "news/2026/10/20/aa8847d44cba-terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6-.md"
   },
   {
     "id": "7f8519143a93",
@@ -162,7 +253,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "points": 89,
+    "points": 93,
     "path": "news/2026/10/20/7f8519143a93-show-hn-death-plan-switch-a-self-hosted-dead-man-s-switch-fo.md"
   },
   {
@@ -242,7 +333,7 @@
     ],
     "importance": 3,
     "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "points": 702,
+    "points": 714,
     "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
   },
   {
@@ -256,7 +347,7 @@
     ],
     "importance": 3,
     "summary": "How abliterated models can get you pwned",
-    "points": 221,
+    "points": 231,
     "path": "news/2026/10/19/44b1999a5650-how-abliterated-models-can-get-you-pwned.md"
   },
   {
@@ -283,7 +374,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Mercury 3: Diffusion at scale",
-    "points": 254,
+    "points": 255,
     "path": "news/2026/10/19/54c4ca0a9f64-mercury-3-diffusion-at-scale.md"
   },
   {
@@ -298,7 +389,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "points": 543,
+    "points": 556,
     "path": "news/2026/10/19/b70800a8097d-deepseek-banned-from-u-s-federal-civilian-agencies-under-new.md"
   },
   {
@@ -313,7 +404,7 @@
     ],
     "importance": 3,
     "summary": "CERN and Mistral join forces to accelerate AI for science",
-    "points": 354,
+    "points": 356,
     "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
   },
   {
@@ -325,7 +416,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/10/19/00fc405ea87c-big-tech-oligarchs-have-a-terrible-plan-for-humanity.md"
   },
   {
@@ -367,7 +458,7 @@
     ],
     "importance": 2,
     "summary": "Maxwell: A new kind of model that sits between code and hardware",
-    "points": 124,
+    "points": 129,
     "path": "news/2026/10/19/3950a37059ee-maxwell-a-new-kind-of-model-that-sits-between-code-and-hardw.md"
   },
   {
@@ -381,7 +472,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-    "points": 56,
+    "points": 59,
     "path": "news/2026/10/19/6bcbd1b996df-show-hn-i-built-a-task-system-to-handle-the-drudgery-so-i-co.md"
   },
   {
@@ -424,7 +515,7 @@
     ],
     "importance": 2,
     "summary": "The obscure trust looming over Anthropic's IPO",
-    "points": 148,
+    "points": 149,
     "path": "news/2026/10/19/b92725875c95-the-obscure-trust-looming-over-anthropic-s-ipo.md"
   },
   {
@@ -449,7 +540,7 @@
     ],
     "importance": 2,
     "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "points": 165,
+    "points": 168,
     "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
   },
   {
@@ -503,7 +594,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "points": 154,
+    "points": 155,
     "path": "news/2026/10/18/2a6ac23eb50f-show-hn-whatsapp-mcp-running-free-on-cloudflare.md"
   },
   {
@@ -517,7 +608,7 @@
     ],
     "importance": 3,
     "summary": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "points": 299,
+    "points": 300,
     "path": "news/2026/10/18/313154ba192d-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go.md"
   },
   {
@@ -532,7 +623,7 @@
     ],
     "importance": 3,
     "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "points": 513,
+    "points": 516,
     "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
   },
   {
@@ -557,7 +648,7 @@
     "importance": 2,
     "summary": "Investing in the public benefit",
     "path": "news/2026/10/18/d3ccea06eed4-investing-in-the-public-benefit.md",
-    "points": 57
+    "points": 58
   },
   {
     "id": "b82a05a94858",
@@ -570,7 +661,7 @@
     ],
     "importance": 2,
     "summary": "Websites are closing their doors to AI agents",
-    "points": 155,
+    "points": 156,
     "path": "news/2026/10/18/b82a05a94858-websites-are-closing-their-doors-to-ai-agents.md"
   },
   {
@@ -596,7 +687,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-    "points": 120,
+    "points": 121,
     "path": "news/2026/10/18/73b0434a8444-tesla-cannot-guarantee-roadster-reservation-holders-will-eve.md"
   },
   {
@@ -610,7 +701,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "points": 220,
+    "points": 222,
     "path": "news/2026/10/18/16ce4163f2cf-show-hn-the-zelda-timeline-to-catch-up-before-the-ocarina-of.md"
   },
   {
@@ -1068,6 +1159,19 @@
     "importance": 2,
     "summary": "Benefit Street Partners answers questions faster with Codex",
     "path": "news/2026/10/16/b6756c0a180e-benefit-street-partners-answers-questions-faster-with-codex.md"
+  },
+  {
+    "id": "7f5d917745d3",
+    "title": "Pika Is Now Inside ChatGPT",
+    "url": "https://pika.art/blog/pika-chatgpt-plugin",
+    "source": "pika",
+    "publishedAt": "2026-10-16T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Pika Is Now Inside ChatGPT",
+    "path": "news/2026/10/16/7f5d917745d3-pika-is-now-inside-chatgpt.md"
   },
   {
     "id": "d33064359577",
@@ -7808,6 +7912,17 @@
     "importance": 2,
     "summary": "tokenizers v1: encode, decode and scaling, measured",
     "path": "news/2026/09/21/693b3130e25c-tokenizers-v1-encode-decode-and-scaling-measured.md"
+  },
+  {
+    "id": "f6a2a89ea77e",
+    "title": "Features",
+    "url": "https://www.anthropic.com/news/features",
+    "source": "anthropic",
+    "publishedAt": "2026-09-21T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Features",
+    "path": "news/2026/09/21/f6a2a89ea77e-features.md"
   },
   {
     "id": "9969fadee1c9",
@@ -23604,7 +23719,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 613
+    "points": 614
   },
   {
     "id": "3b3647cb2f0c",
