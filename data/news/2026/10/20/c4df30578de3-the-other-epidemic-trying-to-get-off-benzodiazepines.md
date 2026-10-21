@@ -5,8 +5,8 @@ url: https://www.thebeliever.net/the-other-epidemic/
 source: hackernews
 published_at: 2026-10-20T23:04:09Z
 fetched_at: 2026-10-21T02:14:48.471Z
-importance: 2
-points: 199
+importance: 3
+points: 265
 tags: []
 ---
 

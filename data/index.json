@@ -1,5 +1,112 @@
 [
   {
+    "id": "0442b9c1e202",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+    "source": "huggingface",
+    "publishedAt": "2026-10-21T16:04:43.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "path": "news/2026/10/21/0442b9c1e202-profiling-torchneuron-part-1-system-level-profiling-on-aws-t.md"
+  },
+  {
+    "id": "c2ed162a1577",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "source": "huggingface",
+    "publishedAt": "2026-10-21T14:58:18.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "path": "news/2026/10/21/c2ed162a1577-granite-speech-5-0-transcribe-translate-and-attribute-more-a.md"
+  },
+  {
+    "id": "f657f4339f7b",
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "url": "https://www.wiz.io/blog/php2shell-php-rce",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T13:43:19Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "points": 324,
+    "path": "news/2026/10/21/f657f4339f7b-php2shell-ai-uncovers-critical-rce-in-php.md"
+  },
+  {
+    "id": "b1215e1aefc0",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "source": "openai",
+    "publishedAt": "2026-10-21T13:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "path": "news/2026/10/21/b1215e1aefc0-chatgpt-ads-expands-to-26-new-countries-as-over-100-000-adve.md"
+  },
+  {
+    "id": "5c32755a71da",
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "source": "huggingface",
+    "publishedAt": "2026-10-21T12:51:24.000Z",
+    "tags": [
+      "research",
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "path": "news/2026/10/21/5c32755a71da-nvidia-kumo-forecast-combines-pretrained-time-series-represe.md"
+  },
+  {
+    "id": "023c3e3c4899",
+    "title": "LayerFS: The filesystem for AI coding agents",
+    "url": "https://layerfs.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T12:34:46Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "LayerFS: The filesystem for AI coding agents",
+    "points": 51,
+    "path": "news/2026/10/21/023c3e3c4899-layerfs-the-filesystem-for-ai-coding-agents.md"
+  },
+  {
+    "id": "856c26ca4c2d",
+    "title": "Mistral Advances AI for Engineering with NVIDIA",
+    "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+    "source": "mistral",
+    "publishedAt": "2026-10-21T12:00:20.000Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Mistral Advances AI for Engineering with NVIDIA",
+    "path": "news/2026/10/21/856c26ca4c2d-mistral-advances-ai-for-engineering-with-nvidia.md"
+  },
+  {
+    "id": "95dedf578de7",
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "source": "openai",
+    "publishedAt": "2026-10-21T12:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "OpenAI models are coming to Google Cloud",
+    "path": "news/2026/10/21/95dedf578de7-openai-models-are-coming-to-google-cloud.md"
+  },
+  {
     "id": "4c80e288b5b5",
     "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
     "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
@@ -14,6 +121,46 @@
     "importance": 2,
     "summary": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
     "path": "news/2026/10/21/4c80e288b5b5-nvidia-nemotron-3-5-embed-rerank-and-parse-advancing-agents-.md"
+  },
+  {
+    "id": "de9db6f384cb",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "source": "openai",
+    "publishedAt": "2026-10-21T07:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "points": 105,
+    "path": "news/2026/10/21/de9db6f384cb-patch-the-planet-global-response-coordination-as-agents-unco.md"
+  },
+  {
+    "id": "ea92da5c121e",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "source": "openai",
+    "publishedAt": "2026-10-21T07:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "path": "news/2026/10/21/ea92da5c121e-how-we-built-chatgpt-s-novel-ad-stack-for-user-trust-and-rel.md"
+  },
+  {
+    "id": "64ddfb139fec",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "source": "openai",
+    "publishedAt": "2026-10-21T04:50:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Using thousands of AI agents to uncover new leads in biological data",
+    "path": "news/2026/10/21/64ddfb139fec-using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi.md"
   },
   {
     "id": "78cebe09803b",
@@ -37,8 +184,19 @@
     ],
     "importance": 2,
     "summary": "Using Claude to reduce the attack surface of code",
-    "points": 53,
+    "points": 110,
     "path": "news/2026/10/21/91f1614a5f09-using-claude-to-reduce-the-attack-surface-of-code.md"
+  },
+  {
+    "id": "1f18d2f10d30",
+    "title": "Agility Robotics Expands Pittsburgh Presence to Support Growing Customer Deployments",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-expands-pittsburgh-presence-to-support-growing-customer-deployments",
+    "source": "agility",
+    "publishedAt": "2026-10-21T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Robotics Expands Pittsburgh Presence to Support Growing Customer Deployments",
+    "path": "news/2026/10/21/1f18d2f10d30-agility-robotics-expands-pittsburgh-presence-to-support-grow.md"
   },
   {
     "id": "c4df30578de3",
@@ -47,9 +205,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-20T23:04:09Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "The Other Epidemic: Trying to get off benzodiazepines",
-    "points": 199,
+    "points": 265,
     "path": "news/2026/10/20/c4df30578de3-the-other-epidemic-trying-to-get-off-benzodiazepines.md"
   },
   {
@@ -61,7 +219,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic logged net loss of over $80B in first half of 2026",
-    "points": 151,
+    "points": 169,
     "path": "news/2026/10/20/f06363c57e54-anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026.md"
   },
   {
@@ -73,7 +231,7 @@
     "tags": [],
     "importance": 2,
     "summary": "On AI writing",
-    "points": 88,
+    "points": 91,
     "path": "news/2026/10/20/ca6f9ce7e172-on-ai-writing.md"
   },
   {
@@ -102,7 +260,7 @@
     ],
     "importance": 2,
     "summary": "Claude designed protein binders against scorpion neurotoxins",
-    "points": 106,
+    "points": 112,
     "path": "news/2026/10/20/6a6d13ff206d-claude-designed-protein-binders-against-scorpion-neurotoxins.md"
   },
   {
@@ -128,7 +286,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-    "points": 177,
+    "points": 183,
     "path": "news/2026/10/20/f24a16f61a8a-steam-users-beg-for-no-ai-filter-as-vibecoders-flood-next-fe.md"
   },
   {
@@ -157,7 +315,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "points": 62,
+    "points": 66,
     "path": "news/2026/10/20/134305fd3790-show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-q.md"
   },
   {
@@ -172,7 +330,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-    "points": 61,
+    "points": 63,
     "path": "news/2026/10/20/14242a0d0356-show-hn-penmentor-claude-marks-up-your-handwritten-math-like.md"
   },
   {
@@ -184,7 +342,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How Corruption Got This Bad",
-    "points": 59,
+    "points": 63,
     "path": "news/2026/10/20/99eb80ca8088-how-corruption-got-this-bad.md"
   },
   {
@@ -198,7 +356,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-    "points": 185,
+    "points": 187,
     "path": "news/2026/10/20/02b82d367685-show-hn-voidaccess-open-source-dark-web-osint-from-query-to-.md"
   },
   {
@@ -210,7 +368,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I got over 300 Tor exit nodes removed",
-    "points": 369,
+    "points": 382,
     "path": "news/2026/10/20/67a95f3a66d2-how-i-got-over-300-tor-exit-nodes-removed.md"
   },
   {
@@ -224,7 +382,7 @@
     ],
     "importance": 3,
     "summary": "Publish fake stats, get cited in LLMs",
-    "points": 343,
+    "points": 351,
     "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
   },
   {
@@ -239,7 +397,7 @@
     ],
     "importance": 3,
     "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-    "points": 686,
+    "points": 748,
     "path": "news/2026/10/20/4c6292fc5ecb-voxtral-3-voice-agent-sdk-speech-models-in-50-languages.md"
   },
   {
@@ -267,7 +425,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 2256,
+    "points": 2282,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
   },
   {
@@ -294,7 +452,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "points": 98,
+    "points": 102,
     "path": "news/2026/10/20/7f8519143a93-show-hn-death-plan-switch-a-self-hosted-dead-man-s-switch-fo.md"
   },
   {
@@ -374,7 +532,7 @@
     ],
     "importance": 3,
     "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "points": 729,
+    "points": 734,
     "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
   },
   {
@@ -388,7 +546,7 @@
     ],
     "importance": 3,
     "summary": "How abliterated models can get you pwned",
-    "points": 239,
+    "points": 244,
     "path": "news/2026/10/19/44b1999a5650-how-abliterated-models-can-get-you-pwned.md"
   },
   {
@@ -415,7 +573,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Mercury 3: Diffusion at scale",
-    "points": 255,
+    "points": 256,
     "path": "news/2026/10/19/54c4ca0a9f64-mercury-3-diffusion-at-scale.md"
   },
   {
@@ -430,7 +588,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "points": 565,
+    "points": 573,
     "path": "news/2026/10/19/b70800a8097d-deepseek-banned-from-u-s-federal-civilian-agencies-under-new.md"
   },
   {
@@ -445,7 +603,7 @@
     ],
     "importance": 3,
     "summary": "CERN and Mistral join forces to accelerate AI for science",
-    "points": 357,
+    "points": 359,
     "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
   },
   {
@@ -485,7 +643,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "points": 68,
+    "points": 69,
     "path": "news/2026/10/19/337549f33a48-show-hn-kividb-a-faster-redis-compatible-memory-database-and.md"
   },
   {
@@ -499,7 +657,7 @@
     ],
     "importance": 2,
     "summary": "Maxwell: A new kind of model that sits between code and hardware",
-    "points": 131,
+    "points": 132,
     "path": "news/2026/10/19/3950a37059ee-maxwell-a-new-kind-of-model-that-sits-between-code-and-hardw.md"
   },
   {
@@ -513,7 +671,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/10/19/6bcbd1b996df-show-hn-i-built-a-task-system-to-handle-the-drudgery-so-i-co.md"
   },
   {
@@ -528,7 +686,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "points": 155,
+    "points": 157,
     "path": "news/2026/10/19/b15e2cfe207a-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md"
   },
   {
@@ -556,7 +714,7 @@
     ],
     "importance": 2,
     "summary": "The obscure trust looming over Anthropic's IPO",
-    "points": 151,
+    "points": 152,
     "path": "news/2026/10/19/b92725875c95-the-obscure-trust-looming-over-anthropic-s-ipo.md"
   },
   {
@@ -569,7 +727,7 @@
     "importance": 2,
     "summary": "Advancing coding in low‑resource programming languages",
     "path": "news/2026/10/19/1dbe22633003-advancing-coding-in-low-resource-programming-languages.md",
-    "points": 83
+    "points": 92
   },
   {
     "id": "5abc35d08fdc",
@@ -582,7 +740,7 @@
     ],
     "importance": 2,
     "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "points": 168,
+    "points": 169,
     "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
   },
   {
@@ -636,7 +794,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "points": 155,
+    "points": 157,
     "path": "news/2026/10/18/2a6ac23eb50f-show-hn-whatsapp-mcp-running-free-on-cloudflare.md"
   },
   {
@@ -650,7 +808,7 @@
     ],
     "importance": 3,
     "summary": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "points": 301,
+    "points": 302,
     "path": "news/2026/10/18/313154ba192d-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-go.md"
   },
   {
@@ -665,7 +823,7 @@
     ],
     "importance": 3,
     "summary": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "points": 516,
+    "points": 517,
     "path": "news/2026/10/18/ae6e49210029-hybrid-reasoning-agents-llm-agents-that-think-in-latent-spac.md"
   },
   {
@@ -23761,7 +23919,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 617
+    "points": 618
   },
   {
     "id": "3b3647cb2f0c",
