@@ -1,5 +1,85 @@
 [
   {
+    "id": "6c37fbb22f2f",
+    "title": "Mistral Large 4",
+    "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T19:20:55Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Mistral Large 4",
+    "points": 250,
+    "path": "news/2026/10/21/6c37fbb22f2f-mistral-large-4.md"
+  },
+  {
+    "id": "0336c2290ec1",
+    "title": "Claude Duet",
+    "url": "https://claude.com/product/claude-duet",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T19:14:01Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude Duet",
+    "points": 149,
+    "path": "news/2026/10/21/0336c2290ec1-claude-duet.md"
+  },
+  {
+    "id": "94a5f6526ead",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "source": "huggingface",
+    "publishedAt": "2026-10-21T18:26:30.000Z",
+    "tags": [
+      "research",
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "path": "news/2026/10/21/94a5f6526ead-nvidia-kumo-relational-outperforms-supervised-machine-learni.md"
+  },
+  {
+    "id": "40a01666d562",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "source": "huggingface",
+    "publishedAt": "2026-10-21T17:35:36.000Z",
+    "tags": [
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "path": "news/2026/10/21/40a01666d562-how-specializing-the-vocabulary-of-slms-can-cut-inference-co.md"
+  },
+  {
+    "id": "39cad894cdd2",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "source": "openai",
+    "publishedAt": "2026-10-21T17:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How AT&T is rethinking in-house legal work with OpenAI",
+    "path": "news/2026/10/21/39cad894cdd2-how-at-t-is-rethinking-in-house-legal-work-with-openai.md"
+  },
+  {
+    "id": "7866e266c584",
+    "title": "Rust off Rails: The opinionated web stack for the AI era",
+    "url": "https://rustoffrails.org/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T16:34:16Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Rust off Rails: The opinionated web stack for the AI era",
+    "points": 65,
+    "path": "news/2026/10/21/7866e266c584-rust-off-rails-the-opinionated-web-stack-for-the-ai-era.md"
+  },
+  {
     "id": "0442b9c1e202",
     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
@@ -11,6 +91,20 @@
     "importance": 2,
     "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "path": "news/2026/10/21/0442b9c1e202-profiling-torchneuron-part-1-system-level-profiling-on-aws-t.md"
+  },
+  {
+    "id": "9cd5e90a94d5",
+    "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
+    "url": "https://buford.bg/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T15:46:43Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
+    "points": 57,
+    "path": "news/2026/10/21/9cd5e90a94d5-show-hn-i-told-people-i-m-a-convicted-felon-after-20-years-o.md"
   },
   {
     "id": "c2ed162a1577",
@@ -34,7 +128,7 @@
     "tags": [],
     "importance": 3,
     "summary": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "points": 324,
+    "points": 419,
     "path": "news/2026/10/21/f657f4339f7b-php2shell-ai-uncovers-critical-rce-in-php.md"
   },
   {
@@ -76,7 +170,7 @@
     ],
     "importance": 2,
     "summary": "LayerFS: The filesystem for AI coding agents",
-    "points": 51,
+    "points": 69,
     "path": "news/2026/10/21/023c3e3c4899-layerfs-the-filesystem-for-ai-coding-agents.md"
   },
   {
@@ -104,7 +198,8 @@
     ],
     "importance": 2,
     "summary": "OpenAI models are coming to Google Cloud",
-    "path": "news/2026/10/21/95dedf578de7-openai-models-are-coming-to-google-cloud.md"
+    "path": "news/2026/10/21/95dedf578de7-openai-models-are-coming-to-google-cloud.md",
+    "points": 174
   },
   {
     "id": "4c80e288b5b5",
@@ -133,7 +228,7 @@
     ],
     "importance": 2,
     "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "points": 105,
+    "points": 193,
     "path": "news/2026/10/21/de9db6f384cb-patch-the-planet-global-response-coordination-as-agents-unco.md"
   },
   {
@@ -160,7 +255,8 @@
     ],
     "importance": 2,
     "summary": "Using thousands of AI agents to uncover new leads in biological data",
-    "path": "news/2026/10/21/64ddfb139fec-using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi.md"
+    "path": "news/2026/10/21/64ddfb139fec-using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi.md",
+    "points": 108
   },
   {
     "id": "78cebe09803b",
@@ -184,7 +280,7 @@
     ],
     "importance": 2,
     "summary": "Using Claude to reduce the attack surface of code",
-    "points": 110,
+    "points": 126,
     "path": "news/2026/10/21/91f1614a5f09-using-claude-to-reduce-the-attack-surface-of-code.md"
   },
   {
@@ -199,6 +295,30 @@
     "path": "news/2026/10/21/1f18d2f10d30-agility-robotics-expands-pittsburgh-presence-to-support-grow.md"
   },
   {
+    "id": "e270f5ba4688",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "source": "openai",
+    "publishedAt": "2026-10-21T00:00:00.000Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "path": "news/2026/10/21/e270f5ba4688-democratic-governance-of-frontier-ai-part-ii-empowering-cybe.md"
+  },
+  {
+    "id": "1d7075b06143",
+    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "source": "anthropic",
+    "publishedAt": "2026-10-21T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "path": "news/2026/10/21/1d7075b06143-physicist-christopher-stubbs-joins-anthropic-s-long-term-ben.md"
+  },
+  {
     "id": "c4df30578de3",
     "title": "The Other Epidemic: Trying to get off benzodiazepines",
     "url": "https://www.thebeliever.net/the-other-epidemic/",
@@ -207,7 +327,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Other Epidemic: Trying to get off benzodiazepines",
-    "points": 265,
+    "points": 285,
     "path": "news/2026/10/20/c4df30578de3-the-other-epidemic-trying-to-get-off-benzodiazepines.md"
   },
   {
@@ -219,7 +339,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic logged net loss of over $80B in first half of 2026",
-    "points": 169,
+    "points": 183,
     "path": "news/2026/10/20/f06363c57e54-anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026.md"
   },
   {
@@ -231,7 +351,7 @@
     "tags": [],
     "importance": 2,
     "summary": "On AI writing",
-    "points": 91,
+    "points": 92,
     "path": "news/2026/10/20/ca6f9ce7e172-on-ai-writing.md"
   },
   {
@@ -260,7 +380,7 @@
     ],
     "importance": 2,
     "summary": "Claude designed protein binders against scorpion neurotoxins",
-    "points": 112,
+    "points": 115,
     "path": "news/2026/10/20/6a6d13ff206d-claude-designed-protein-binders-against-scorpion-neurotoxins.md"
   },
   {
@@ -315,7 +435,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "points": 66,
+    "points": 68,
     "path": "news/2026/10/20/134305fd3790-show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-q.md"
   },
   {
@@ -342,7 +462,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How Corruption Got This Bad",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/10/20/99eb80ca8088-how-corruption-got-this-bad.md"
   },
   {
@@ -356,7 +476,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-    "points": 187,
+    "points": 188,
     "path": "news/2026/10/20/02b82d367685-show-hn-voidaccess-open-source-dark-web-osint-from-query-to-.md"
   },
   {
@@ -368,7 +488,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I got over 300 Tor exit nodes removed",
-    "points": 382,
+    "points": 391,
     "path": "news/2026/10/20/67a95f3a66d2-how-i-got-over-300-tor-exit-nodes-removed.md"
   },
   {
@@ -382,7 +502,7 @@
     ],
     "importance": 3,
     "summary": "Publish fake stats, get cited in LLMs",
-    "points": 351,
+    "points": 358,
     "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
   },
   {
@@ -397,7 +517,7 @@
     ],
     "importance": 3,
     "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-    "points": 748,
+    "points": 754,
     "path": "news/2026/10/20/4c6292fc5ecb-voxtral-3-voice-agent-sdk-speech-models-in-50-languages.md"
   },
   {
@@ -425,7 +545,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 2282,
+    "points": 2298,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
   },
   {
@@ -532,7 +652,7 @@
     ],
     "importance": 3,
     "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "points": 734,
+    "points": 737,
     "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
   },
   {
@@ -546,7 +666,7 @@
     ],
     "importance": 3,
     "summary": "How abliterated models can get you pwned",
-    "points": 244,
+    "points": 247,
     "path": "news/2026/10/19/44b1999a5650-how-abliterated-models-can-get-you-pwned.md"
   },
   {
@@ -588,7 +708,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "points": 573,
+    "points": 577,
     "path": "news/2026/10/19/b70800a8097d-deepseek-banned-from-u-s-federal-civilian-agencies-under-new.md"
   },
   {
@@ -603,7 +723,7 @@
     ],
     "importance": 3,
     "summary": "CERN and Mistral join forces to accelerate AI for science",
-    "points": 359,
+    "points": 361,
     "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
   },
   {
@@ -615,7 +735,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
-    "points": 74,
+    "points": 75,
     "path": "news/2026/10/19/00fc405ea87c-big-tech-oligarchs-have-a-terrible-plan-for-humanity.md"
   },
   {
@@ -629,7 +749,7 @@
     ],
     "importance": 2,
     "summary": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "points": 59,
+    "points": 60,
     "path": "news/2026/10/19/a01a5d49df06-a-hacker-broke-into-john-deere-and-sharkninja-with-an-army-o.md"
   },
   {
@@ -727,7 +847,19 @@
     "importance": 2,
     "summary": "Advancing coding in low‑resource programming languages",
     "path": "news/2026/10/19/1dbe22633003-advancing-coding-in-low-resource-programming-languages.md",
-    "points": 92
+    "points": 97
+  },
+  {
+    "id": "fcf60cd2385e",
+    "title": "The Lucrative World of Literary Scams",
+    "url": "https://www.thedial.world/articles/news/ai-book-scams",
+    "source": "hackernews",
+    "publishedAt": "2026-10-19T11:43:35Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Lucrative World of Literary Scams",
+    "points": 67,
+    "path": "news/2026/10/19/fcf60cd2385e-the-lucrative-world-of-literary-scams.md"
   },
   {
     "id": "5abc35d08fdc",
@@ -23919,7 +24051,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 618
+    "points": 619
   },
   {
     "id": "3b3647cb2f0c",
