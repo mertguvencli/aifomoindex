@@ -5,8 +5,8 @@ url: https://github.com/openai/openai-cli
 source: hackernews
 published_at: 2026-10-22T05:23:11Z
 fetched_at: 2026-10-22T10:45:06.869Z
-importance: 2
-points: 129
+importance: 3
+points: 206
 tags: [tool]
 ---
 
