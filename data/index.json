@@ -1,5 +1,30 @@
 [
   {
+    "id": "3f1a11956436",
+    "title": "Broad access through consistent standards",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "openai",
+    "publishedAt": "2026-10-21T21:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Broad access through consistent standards",
+    "path": "news/2026/10/21/3f1a11956436-broad-access-through-consistent-standards.md"
+  },
+  {
+    "id": "f5220dab8f55",
+    "title": "Claude Duet",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T19:40:18Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude Duet",
+    "points": 60,
+    "path": "news/2026/10/21/f5220dab8f55-claude-duet.md"
+  },
+  {
     "id": "6c37fbb22f2f",
     "title": "Mistral Large 4",
     "url": "https://docs.mistral.ai/models/mistral-large-4-0",
@@ -14,6 +39,18 @@
     "path": "news/2026/10/21/6c37fbb22f2f-mistral-large-4.md"
   },
   {
+    "id": "00980f6a1373",
+    "title": "Google staff resign in backlash over its AI contracts with military",
+    "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T19:14:21Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Google staff resign in backlash over its AI contracts with military",
+    "points": 111,
+    "path": "news/2026/10/21/00980f6a1373-google-staff-resign-in-backlash-over-its-ai-contracts-with-m.md"
+  },
+  {
     "id": "0336c2290ec1",
     "title": "Claude Duet",
     "url": "https://claude.com/product/claude-duet",
@@ -22,9 +59,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Claude Duet",
-    "points": 149,
+    "points": 318,
     "path": "news/2026/10/21/0336c2290ec1-claude-duet.md"
   },
   {
@@ -76,8 +113,22 @@
     "tags": [],
     "importance": 2,
     "summary": "Rust off Rails: The opinionated web stack for the AI era",
-    "points": 65,
+    "points": 67,
     "path": "news/2026/10/21/7866e266c584-rust-off-rails-the-opinionated-web-stack-for-the-ai-era.md"
+  },
+  {
+    "id": "885fe3c67de0",
+    "title": "The bridge to agent-scale Git infrastructure",
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T16:09:28Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "The bridge to agent-scale Git infrastructure",
+    "points": 58,
+    "path": "news/2026/10/21/885fe3c67de0-the-bridge-to-agent-scale-git-infrastructure.md"
   },
   {
     "id": "0442b9c1e202",
@@ -103,7 +154,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
-    "points": 57,
+    "points": 72,
     "path": "news/2026/10/21/9cd5e90a94d5-show-hn-i-told-people-i-m-a-convicted-felon-after-20-years-o.md"
   },
   {
@@ -128,7 +179,7 @@
     "tags": [],
     "importance": 3,
     "summary": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "points": 419,
+    "points": 435,
     "path": "news/2026/10/21/f657f4339f7b-php2shell-ai-uncovers-critical-rce-in-php.md"
   },
   {
@@ -196,10 +247,10 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenAI models are coming to Google Cloud",
     "path": "news/2026/10/21/95dedf578de7-openai-models-are-coming-to-google-cloud.md",
-    "points": 174
+    "points": 242
   },
   {
     "id": "4c80e288b5b5",
@@ -226,9 +277,9 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "points": 193,
+    "points": 236,
     "path": "news/2026/10/21/de9db6f384cb-patch-the-planet-global-response-coordination-as-agents-unco.md"
   },
   {
@@ -245,6 +296,21 @@
     "path": "news/2026/10/21/ea92da5c121e-how-we-built-chatgpt-s-novel-ad-stack-for-user-trust-and-rel.md"
   },
   {
+    "id": "06fb9648986c",
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "url": "https://alterauth.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-21T06:42:12Z",
+    "tags": [
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "points": 52,
+    "path": "news/2026/10/21/06fb9648986c-launch-hn-alter-yc-s25-access-control-for-multi-user-agents.md"
+  },
+  {
     "id": "64ddfb139fec",
     "title": "Using thousands of AI agents to uncover new leads in biological data",
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
@@ -256,7 +322,7 @@
     "importance": 2,
     "summary": "Using thousands of AI agents to uncover new leads in biological data",
     "path": "news/2026/10/21/64ddfb139fec-using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi.md",
-    "points": 108
+    "points": 135
   },
   {
     "id": "78cebe09803b",
@@ -280,7 +346,7 @@
     ],
     "importance": 2,
     "summary": "Using Claude to reduce the attack surface of code",
-    "points": 126,
+    "points": 131,
     "path": "news/2026/10/21/91f1614a5f09-using-claude-to-reduce-the-attack-surface-of-code.md"
   },
   {
@@ -319,6 +385,17 @@
     "path": "news/2026/10/21/1d7075b06143-physicist-christopher-stubbs-joins-anthropic-s-long-term-ben.md"
   },
   {
+    "id": "3fe372fb2e81",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "source": "openai",
+    "publishedAt": "2026-10-21T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "path": "news/2026/10/21/3fe372fb2e81-cloudflare-links-vulnerability-discovery-to-defense-with-ope.md"
+  },
+  {
     "id": "c4df30578de3",
     "title": "The Other Epidemic: Trying to get off benzodiazepines",
     "url": "https://www.thebeliever.net/the-other-epidemic/",
@@ -327,7 +404,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Other Epidemic: Trying to get off benzodiazepines",
-    "points": 285,
+    "points": 290,
     "path": "news/2026/10/20/c4df30578de3-the-other-epidemic-trying-to-get-off-benzodiazepines.md"
   },
   {
@@ -339,7 +416,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic logged net loss of over $80B in first half of 2026",
-    "points": 183,
+    "points": 187,
     "path": "news/2026/10/20/f06363c57e54-anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026.md"
   },
   {
@@ -380,7 +457,7 @@
     ],
     "importance": 2,
     "summary": "Claude designed protein binders against scorpion neurotoxins",
-    "points": 115,
+    "points": 117,
     "path": "news/2026/10/20/6a6d13ff206d-claude-designed-protein-binders-against-scorpion-neurotoxins.md"
   },
   {
@@ -435,7 +512,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-    "points": 68,
+    "points": 71,
     "path": "news/2026/10/20/134305fd3790-show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-q.md"
   },
   {
@@ -450,7 +527,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/10/20/14242a0d0356-show-hn-penmentor-claude-marks-up-your-handwritten-math-like.md"
   },
   {
@@ -488,7 +565,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I got over 300 Tor exit nodes removed",
-    "points": 391,
+    "points": 395,
     "path": "news/2026/10/20/67a95f3a66d2-how-i-got-over-300-tor-exit-nodes-removed.md"
   },
   {
@@ -502,7 +579,7 @@
     ],
     "importance": 3,
     "summary": "Publish fake stats, get cited in LLMs",
-    "points": 358,
+    "points": 362,
     "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
   },
   {
@@ -517,7 +594,7 @@
     ],
     "importance": 3,
     "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-    "points": 754,
+    "points": 757,
     "path": "news/2026/10/20/4c6292fc5ecb-voxtral-3-voice-agent-sdk-speech-models-in-50-languages.md"
   },
   {
@@ -545,7 +622,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 2298,
+    "points": 2302,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
   },
   {
@@ -572,7 +649,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "points": 102,
+    "points": 103,
     "path": "news/2026/10/20/7f8519143a93-show-hn-death-plan-switch-a-self-hosted-dead-man-s-switch-fo.md"
   },
   {
@@ -652,7 +729,7 @@
     ],
     "importance": 3,
     "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "points": 737,
+    "points": 738,
     "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
   },
   {
@@ -666,7 +743,7 @@
     ],
     "importance": 3,
     "summary": "How abliterated models can get you pwned",
-    "points": 247,
+    "points": 248,
     "path": "news/2026/10/19/44b1999a5650-how-abliterated-models-can-get-you-pwned.md"
   },
   {
@@ -708,7 +785,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "points": 577,
+    "points": 578,
     "path": "news/2026/10/19/b70800a8097d-deepseek-banned-from-u-s-federal-civilian-agencies-under-new.md"
   },
   {
@@ -723,7 +800,7 @@
     ],
     "importance": 3,
     "summary": "CERN and Mistral join forces to accelerate AI for science",
-    "points": 361,
+    "points": 362,
     "path": "news/2026/10/19/43eff78530d6-cern-and-mistral-join-forces-to-accelerate-ai-for-science.md"
   },
   {
@@ -806,7 +883,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "points": 157,
+    "points": 158,
     "path": "news/2026/10/19/b15e2cfe207a-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md"
   },
   {
@@ -847,7 +924,7 @@
     "importance": 2,
     "summary": "Advancing coding in low‑resource programming languages",
     "path": "news/2026/10/19/1dbe22633003-advancing-coding-in-low-resource-programming-languages.md",
-    "points": 97
+    "points": 101
   },
   {
     "id": "fcf60cd2385e",
@@ -858,7 +935,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Lucrative World of Literary Scams",
-    "points": 67,
+    "points": 71,
     "path": "news/2026/10/19/fcf60cd2385e-the-lucrative-world-of-literary-scams.md"
   },
   {
@@ -872,7 +949,7 @@
     ],
     "importance": 2,
     "summary": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "points": 169,
+    "points": 170,
     "path": "news/2026/10/19/5abc35d08fdc-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md"
   },
   {
@@ -24051,7 +24128,7 @@
     "importance": 3,
     "summary": "Timestral: Mistral's time-series foundation models",
     "path": "news/2026/07/15/370d8453b070-timestral-mistral-s-time-series-foundation-models.md",
-    "points": 619
+    "points": 620
   },
   {
     "id": "3b3647cb2f0c",
