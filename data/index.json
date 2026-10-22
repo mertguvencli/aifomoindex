@@ -1,5 +1,73 @@
 [
   {
+    "id": "891b7e0bbf66",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "source": "openai",
+    "publishedAt": "2026-10-22T19:00:00.000Z",
+    "tags": [
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Build more responsive apps with the Decisions API",
+    "path": "news/2026/10/22/891b7e0bbf66-build-more-responsive-apps-with-the-decisions-api.md"
+  },
+  {
+    "id": "4d0a18eaa787",
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T18:44:36Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "points": 58,
+    "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
+  },
+  {
+    "id": "6eb73169f84c",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T17:44:06Z",
+    "tags": [
+      "tool",
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "points": 166,
+    "path": "news/2026/10/22/6eb73169f84c-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai.md"
+  },
+  {
+    "id": "67297d2df9a3",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "source": "huggingface",
+    "publishedAt": "2026-10-22T16:11:31.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "path": "news/2026/10/22/67297d2df9a3-olmoearth-v1-3-state-of-the-art-embeddings-for-the-whole-pla.md"
+  },
+  {
+    "id": "e528ef46221b",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T16:08:00Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Every AI model has the same \"controversial\" take on humans",
+    "points": 68,
+    "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
+  },
+  {
     "id": "8f93170faf71",
     "title": "Beyond tree cover: mapping the world’s forest types",
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -46,7 +114,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI CLI",
-    "points": 206,
+    "points": 224,
     "path": "news/2026/10/22/8042c4cdf6b9-openai-cli.md"
   },
   {
@@ -60,7 +128,7 @@
     ],
     "importance": 2,
     "summary": "Claude Now Works with Google Docs, Sheets, and Slides",
-    "points": 67,
+    "points": 82,
     "path": "news/2026/10/22/c115ce57a51e-claude-now-works-with-google-docs-sheets-and-slides.md"
   },
   {
@@ -75,6 +143,32 @@
     "importance": 2,
     "summary": "Agility Robotics Expands NVIDIA Collaboration as It Prepares Digit 5 for Commercial Scale",
     "path": "news/2026/10/22/8cb1df25724f-agility-robotics-expands-nvidia-collaboration-as-it-prepares.md"
+  },
+  {
+    "id": "eda525050cea",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "source": "openai",
+    "publishedAt": "2026-10-22T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "path": "news/2026/10/22/eda525050cea-uber-brings-chatgpt-work-to-all-employees-with-openai.md"
+  },
+  {
+    "id": "f9a9e399ecd4",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "source": "anthropic",
+    "publishedAt": "2026-10-22T00:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Donating Agent Skills to the Agentic AI Foundation",
+    "path": "news/2026/10/22/f9a9e399ecd4-donating-agent-skills-to-the-agentic-ai-foundation.md"
   },
   {
     "id": "3f1a11956436",
@@ -98,7 +192,7 @@
     ],
     "importance": 2,
     "summary": "Claude Duet",
-    "points": 85,
+    "points": 89,
     "path": "news/2026/10/21/f5220dab8f55-claude-duet.md"
   },
   {
@@ -138,7 +232,7 @@
     ],
     "importance": 3,
     "summary": "Claude Duet",
-    "points": 504,
+    "points": 544,
     "path": "news/2026/10/21/0336c2290ec1-claude-duet.md"
   },
   {
@@ -190,7 +284,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Rust off Rails: The opinionated web stack for the AI era",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/10/21/7866e266c584-rust-off-rails-the-opinionated-web-stack-for-the-ai-era.md"
   },
   {
@@ -204,7 +298,7 @@
     ],
     "importance": 2,
     "summary": "The bridge to agent-scale Git infrastructure",
-    "points": 66,
+    "points": 67,
     "path": "news/2026/10/21/885fe3c67de0-the-bridge-to-agent-scale-git-infrastructure.md"
   },
   {
@@ -245,7 +339,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
-    "points": 77,
+    "points": 78,
     "path": "news/2026/10/21/9cd5e90a94d5-show-hn-i-told-people-i-m-a-convicted-felon-after-20-years-o.md"
   },
   {
@@ -270,7 +364,7 @@
     "tags": [],
     "importance": 3,
     "summary": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "points": 444,
+    "points": 446,
     "path": "news/2026/10/21/f657f4339f7b-php2shell-ai-uncovers-critical-rce-in-php.md"
   },
   {
@@ -312,7 +406,7 @@
     ],
     "importance": 2,
     "summary": "LayerFS: The filesystem for AI coding agents",
-    "points": 72,
+    "points": 74,
     "path": "news/2026/10/21/023c3e3c4899-layerfs-the-filesystem-for-ai-coding-agents.md"
   },
   {
@@ -341,7 +435,7 @@
     "importance": 3,
     "summary": "OpenAI models are coming to Google Cloud",
     "path": "news/2026/10/21/95dedf578de7-openai-models-are-coming-to-google-cloud.md",
-    "points": 315
+    "points": 320
   },
   {
     "id": "4c80e288b5b5",
@@ -370,7 +464,7 @@
     ],
     "importance": 3,
     "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "points": 260,
+    "points": 261,
     "path": "news/2026/10/21/de9db6f384cb-patch-the-planet-global-response-coordination-as-agents-unco.md"
   },
   {
@@ -398,7 +492,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/21/06fb9648986c-launch-hn-alter-yc-s25-access-control-for-multi-user-agents.md"
   },
   {
@@ -426,7 +520,7 @@
     ],
     "importance": 2,
     "summary": "Using LLM for confidence scoring is a bad idea",
-    "points": 162,
+    "points": 193,
     "path": "news/2026/10/21/215e0936c2a2-using-llm-for-confidence-scoring-is-a-bad-idea.md"
   },
   {
@@ -451,7 +545,7 @@
     ],
     "importance": 2,
     "summary": "Using Claude to reduce the attack surface of code",
-    "points": 132,
+    "points": 133,
     "path": "news/2026/10/21/91f1614a5f09-using-claude-to-reduce-the-attack-surface-of-code.md"
   },
   {
@@ -509,7 +603,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Other Epidemic: Trying to get off benzodiazepines",
-    "points": 297,
+    "points": 300,
     "path": "news/2026/10/20/c4df30578de3-the-other-epidemic-trying-to-get-off-benzodiazepines.md"
   },
   {
@@ -727,7 +821,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 2325,
+    "points": 2328,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
   },
   {
@@ -834,7 +928,7 @@
     ],
     "importance": 3,
     "summary": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "points": 739,
+    "points": 740,
     "path": "news/2026/10/19/55c3c0be518a-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-.md"
   },
   {
@@ -1029,7 +1123,7 @@
     "importance": 2,
     "summary": "Advancing coding in low‑resource programming languages",
     "path": "news/2026/10/19/1dbe22633003-advancing-coding-in-low-resource-programming-languages.md",
-    "points": 104
+    "points": 106
   },
   {
     "id": "fcf60cd2385e",
