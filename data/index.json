@@ -1,5 +1,75 @@
 [
   {
+    "id": "fb7b4f33e471",
+    "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+    "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T18:24:54Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+    "points": 106,
+    "path": "news/2026/10/23/fb7b4f33e471-kimi-k3-1-scores-55-on-artificial-analysis-placed-on-the-par.md"
+  },
+  {
+    "id": "2b43fbb6c87d",
+    "title": "Kimi K3.1 Pro",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T17:10:27Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Kimi K3.1 Pro",
+    "points": 486,
+    "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
+  },
+  {
+    "id": "ee4c22366ef7",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "openai",
+    "publishedAt": "2026-10-23T17:00:00.000Z",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "path": "news/2026/10/23/ee4c22366ef7-rapidly-scaling-online-storage-to-serve-over-1-billion-chatg.md"
+  },
+  {
+    "id": "5d794c3788a3",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "huggingface",
+    "publishedAt": "2026-10-23T16:15:50.000Z",
+    "tags": [
+      "research",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "path": "news/2026/10/23/5d794c3788a3-litpivot-developing-research-ideas-through-dynamic-contextua.md"
+  },
+  {
+    "id": "1dcc92b8fe85",
+    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+    "url": "https://www.thisandthat.chat/enron/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T12:02:53Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+    "points": 54,
+    "path": "news/2026/10/23/1dcc92b8fe85-show-hn-we-had-ai-write-a-wiki-from-45k-enron-emails-every-f.md"
+  },
+  {
     "id": "fd7292575105",
     "title": "Swedish government offices to ban ChatGPT and Claude",
     "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
@@ -12,8 +82,22 @@
     ],
     "importance": 3,
     "summary": "Swedish government offices to ban ChatGPT and Claude",
-    "points": 295,
+    "points": 311,
     "path": "news/2026/10/23/fd7292575105-swedish-government-offices-to-ban-chatgpt-and-claude.md"
+  },
+  {
+    "id": "f8c156dba788",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "openai",
+    "publishedAt": "2026-10-23T10:00:00.000Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Securing our frontier model training environment",
+    "path": "news/2026/10/23/f8c156dba788-securing-our-frontier-model-training-environment.md"
   },
   {
     "id": "34a9422e8d98",
@@ -24,7 +108,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Rise and Fall of Jev",
-    "points": 81,
+    "points": 84,
     "path": "news/2026/10/23/34a9422e8d98-the-rise-and-fall-of-jev.md"
   },
   {
@@ -36,7 +120,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-    "points": 133,
+    "points": 139,
     "path": "news/2026/10/23/7cfc1d7eacfd-the-same-ai-request-emits-8-5-times-more-co2-in-texas-than-i.md"
   },
   {
@@ -50,7 +134,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Making a smart TV dumb and then smart",
-    "points": 72,
+    "points": 82,
     "path": "news/2026/10/23/eaeb4841c281-show-hn-making-a-smart-tv-dumb-and-then-smart.md"
   },
   {
@@ -81,6 +165,31 @@
     "path": "news/2026/10/23/2b3f616d26d3-does-your-model-run-on-aws-trainium-look-it-up.md"
   },
   {
+    "id": "861da6fc6a94",
+    "title": "Jonathan Hurst answers your questions about building Digit 5",
+    "url": "https://www.agilityrobotics.com/content/jonathan-hurst-answers-your-questions-about-building-digit-5",
+    "source": "agility",
+    "publishedAt": "2026-10-23T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Jonathan Hurst answers your questions about building Digit 5",
+    "path": "news/2026/10/23/861da6fc6a94-jonathan-hurst-answers-your-questions-about-building-digit-5.md"
+  },
+  {
+    "id": "e202046e8fa9",
+    "title": "AI compute is the new oil–and needs a new market",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T23:45:16Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "AI compute is the new oil–and needs a new market",
+    "points": 51,
+    "path": "news/2026/10/22/e202046e8fa9-ai-compute-is-the-new-oil-and-needs-a-new-market.md"
+  },
+  {
     "id": "6172089eff8b",
     "title": "LLMs are making formal software verification feasible at a much larger scale",
     "url": "https://www.anthropic.com/research/formal-verification",
@@ -91,7 +200,7 @@
     ],
     "importance": 3,
     "summary": "LLMs are making formal software verification feasible at a much larger scale",
-    "points": 397,
+    "points": 436,
     "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
   },
   {
@@ -120,7 +229,7 @@
     ],
     "importance": 2,
     "summary": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-    "points": 88,
+    "points": 89,
     "path": "news/2026/10/22/f4625da7f163-most-americans-say-ai-is-bad-for-society-oppose-more-data-ce.md"
   },
   {
@@ -146,7 +255,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "points": 226,
+    "points": 230,
     "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
   },
   {
@@ -160,7 +269,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: UI micro interactions prompts for AI",
-    "points": 77,
+    "points": 78,
     "path": "news/2026/10/22/6ff66be1cb22-show-hn-ui-micro-interactions-prompts-for-ai.md"
   },
   {
@@ -172,7 +281,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Award-winning AI literature",
-    "points": 63,
+    "points": 65,
     "path": "news/2026/10/22/e6d31108e588-award-winning-ai-literature.md"
   },
   {
@@ -196,7 +305,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/10/22/2638bb9a279f-ai-analysis-of-ct-scans-finds-42-9-of-patients-have-coronary.md"
   },
   {
@@ -211,7 +320,7 @@
     ],
     "importance": 3,
     "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "points": 461,
+    "points": 487,
     "path": "news/2026/10/22/6eb73169f84c-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai.md"
   },
   {
@@ -238,7 +347,7 @@
     ],
     "importance": 3,
     "summary": "Every AI model has the same \"controversial\" take on humans",
-    "points": 563,
+    "points": 605,
     "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
   },
   {
@@ -264,7 +373,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-    "points": 129,
+    "points": 192,
     "path": "news/2026/10/22/7502ffe393ce-show-hn-onkey-i-m-a-bad-singer-so-i-built-an-app-to-show-whe.md"
   },
   {
@@ -317,7 +426,7 @@
     ],
     "importance": 2,
     "summary": "Claude Now Works with Google Docs, Sheets, and Slides",
-    "points": 88,
+    "points": 89,
     "path": "news/2026/10/22/c115ce57a51e-claude-now-works-with-google-docs-sheets-and-slides.md"
   },
   {
@@ -418,7 +527,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google staff resign in backlash over its AI contracts with military",
-    "points": 126,
+    "points": 127,
     "path": "news/2026/10/21/00980f6a1373-google-staff-resign-in-backlash-over-its-ai-contracts-with-m.md"
   },
   {
@@ -432,7 +541,7 @@
     ],
     "importance": 3,
     "summary": "Claude Duet",
-    "points": 555,
+    "points": 561,
     "path": "news/2026/10/21/0336c2290ec1-claude-duet.md"
   },
   {
@@ -564,7 +673,7 @@
     "tags": [],
     "importance": 3,
     "summary": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "points": 450,
+    "points": 452,
     "path": "news/2026/10/21/f657f4339f7b-php2shell-ai-uncovers-critical-rce-in-php.md"
   },
   {
@@ -606,7 +715,7 @@
     ],
     "importance": 2,
     "summary": "LayerFS: The filesystem for AI coding agents",
-    "points": 75,
+    "points": 76,
     "path": "news/2026/10/21/023c3e3c4899-layerfs-the-filesystem-for-ai-coding-agents.md"
   },
   {
@@ -720,7 +829,7 @@
     ],
     "importance": 3,
     "summary": "Using LLM for confidence scoring is a bad idea",
-    "points": 214,
+    "points": 219,
     "path": "news/2026/10/21/215e0936c2a2-using-llm-for-confidence-scoring-is-a-bad-idea.md"
   },
   {
