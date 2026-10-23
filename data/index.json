@@ -1,5 +1,33 @@
 [
   {
+    "id": "fd7292575105",
+    "title": "Swedish government offices to ban ChatGPT and Claude",
+    "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T11:39:54Z",
+    "tags": [
+      "model",
+      "policy",
+      "product"
+    ],
+    "importance": 3,
+    "summary": "Swedish government offices to ban ChatGPT and Claude",
+    "points": 295,
+    "path": "news/2026/10/23/fd7292575105-swedish-government-offices-to-ban-chatgpt-and-claude.md"
+  },
+  {
+    "id": "34a9422e8d98",
+    "title": "The Rise and Fall of Jev",
+    "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T09:21:00Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Rise and Fall of Jev",
+    "points": 81,
+    "path": "news/2026/10/23/34a9422e8d98-the-rise-and-fall-of-jev.md"
+  },
+  {
     "id": "7cfc1d7eacfd",
     "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
     "url": "https://berget.ai/en/blog/per-request-co2-press-release",
@@ -8,8 +36,22 @@
     "tags": [],
     "importance": 2,
     "summary": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-    "points": 118,
+    "points": 133,
     "path": "news/2026/10/23/7cfc1d7eacfd-the-same-ai-request-emits-8-5-times-more-co2-in-texas-than-i.md"
+  },
+  {
+    "id": "eaeb4841c281",
+    "title": "Show HN: Making a smart TV dumb and then smart",
+    "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T00:10:45Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Making a smart TV dumb and then smart",
+    "points": 72,
+    "path": "news/2026/10/23/eaeb4841c281-show-hn-making-a-smart-tv-dumb-and-then-smart.md"
   },
   {
     "id": "1a543055a02f",
@@ -25,6 +67,20 @@
     "path": "news/2026/10/23/1a543055a02f-openai-and-poland-s-nask-partner-to-advance-ai-safety-and-se.md"
   },
   {
+    "id": "2b3f616d26d3",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "huggingface",
+    "publishedAt": "2026-10-23T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Does Your Model Run on AWS Trainium? Look It Up",
+    "path": "news/2026/10/23/2b3f616d26d3-does-your-model-run-on-aws-trainium-look-it-up.md"
+  },
+  {
     "id": "6172089eff8b",
     "title": "LLMs are making formal software verification feasible at a much larger scale",
     "url": "https://www.anthropic.com/research/formal-verification",
@@ -35,7 +91,7 @@
     ],
     "importance": 3,
     "summary": "LLMs are making formal software verification feasible at a much larger scale",
-    "points": 350,
+    "points": 397,
     "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
   },
   {
@@ -64,7 +120,7 @@
     ],
     "importance": 2,
     "summary": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-    "points": 85,
+    "points": 88,
     "path": "news/2026/10/22/f4625da7f163-most-americans-say-ai-is-bad-for-society-oppose-more-data-ce.md"
   },
   {
@@ -90,7 +146,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "points": 204,
+    "points": 226,
     "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
   },
   {
@@ -116,7 +172,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Award-winning AI literature",
-    "points": 62,
+    "points": 63,
     "path": "news/2026/10/22/e6d31108e588-award-winning-ai-literature.md"
   },
   {
@@ -128,7 +184,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI and the Enclosure of the Scientific Commons",
-    "points": 135,
+    "points": 137,
     "path": "news/2026/10/22/39f0af155c70-ai-and-the-enclosure-of-the-scientific-commons.md"
   },
   {
@@ -140,7 +196,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-    "points": 85,
+    "points": 87,
     "path": "news/2026/10/22/2638bb9a279f-ai-analysis-of-ct-scans-finds-42-9-of-patients-have-coronary.md"
   },
   {
@@ -155,7 +211,7 @@
     ],
     "importance": 3,
     "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "points": 403,
+    "points": 461,
     "path": "news/2026/10/22/6eb73169f84c-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai.md"
   },
   {
@@ -182,7 +238,7 @@
     ],
     "importance": 3,
     "summary": "Every AI model has the same \"controversial\" take on humans",
-    "points": 433,
+    "points": 563,
     "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
   },
   {
@@ -208,7 +264,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-    "points": 64,
+    "points": 129,
     "path": "news/2026/10/22/7502ffe393ce-show-hn-onkey-i-m-a-bad-singer-so-i-built-an-app-to-show-whe.md"
   },
   {
@@ -247,7 +303,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI CLI",
-    "points": 235,
+    "points": 240,
     "path": "news/2026/10/22/8042c4cdf6b9-openai-cli.md"
   },
   {
@@ -261,7 +317,7 @@
     ],
     "importance": 2,
     "summary": "Claude Now Works with Google Docs, Sheets, and Slides",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/10/22/c115ce57a51e-claude-now-works-with-google-docs-sheets-and-slides.md"
   },
   {
@@ -376,7 +432,7 @@
     ],
     "importance": 3,
     "summary": "Claude Duet",
-    "points": 550,
+    "points": 555,
     "path": "news/2026/10/21/0336c2290ec1-claude-duet.md"
   },
   {
@@ -442,7 +498,7 @@
     ],
     "importance": 2,
     "summary": "The bridge to agent-scale Git infrastructure",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/10/21/885fe3c67de0-the-bridge-to-agent-scale-git-infrastructure.md"
   },
   {
@@ -651,7 +707,7 @@
     "importance": 2,
     "summary": "Using thousands of AI agents to uncover new leads in biological data",
     "path": "news/2026/10/21/64ddfb139fec-using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi.md",
-    "points": 157
+    "points": 158
   },
   {
     "id": "215e0936c2a2",
@@ -664,7 +720,7 @@
     ],
     "importance": 3,
     "summary": "Using LLM for confidence scoring is a bad idea",
-    "points": 209,
+    "points": 214,
     "path": "news/2026/10/21/215e0936c2a2-using-llm-for-confidence-scoring-is-a-bad-idea.md"
   },
   {

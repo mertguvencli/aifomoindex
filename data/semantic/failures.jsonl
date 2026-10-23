@@ -47,3 +47,11 @@
 {"id":"891b7e0bbf66","inputSha256":"2fe94ecf2e5febbaa51773aeeccac4bfc4add1cb503be0d83a483716ec890f0a","at":"2026-10-23T10:36:23.779Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
 {"id":"f4625da7f163","inputSha256":"420044d11dc056a1a51c943c3a4cf6afde435ef1358d88ed4f024bd2cb666ffd","at":"2026-10-23T10:36:23.781Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
 {"id":"1a543055a02f","inputSha256":"edefb32719ddbfa72ed277556619a252ff8a17863d71982b0c5b4b54e61e38bf","at":"2026-10-23T10:36:23.782Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"1a543055a02f","inputSha256":"edefb32719ddbfa72ed277556619a252ff8a17863d71982b0c5b4b54e61e38bf","at":"2026-10-23T16:00:03.208Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"eaeb4841c281","inputSha256":"6bbcad8f9f57d4d85c54d32ced2c02d586eaca495181248a56957c9d3786c76b","at":"2026-10-23T16:00:03.211Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"2b3f616d26d3","inputSha256":"b7e15c9137cfed4c9251d72cc1934a7eafac177fb3ccad7fb70a2c2027e1679f","at":"2026-10-23T16:00:03.212Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"fd7292575105","inputSha256":"f202173721fe69d8962c6c6f8364a268fd502bd3263d5b98cc886bf7fbbc369d","at":"2026-10-23T16:00:03.218Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"6172089eff8b","inputSha256":"3d8546f77215bc2effcaf21a5dc05b722e0d2275f2091aa12dbebc1f3c2537d9","at":"2026-10-23T16:00:03.231Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"34a9422e8d98","inputSha256":"8dded104e06408cc7acb5d84176142b76c35010549fe398e8d4d2e657750cdf6","at":"2026-10-23T16:00:03.232Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"7cfc1d7eacfd","inputSha256":"7a5f47e00dbcd98030374eaac6c218a47b3d2aec408d49941451ecb1cef1e7a1","at":"2026-10-23T16:00:03.235Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
+{"id":"51888f116f5b","inputSha256":"c04d24e8f57ca5d4c95b754efdfe6427b36531198d007084306019214966ef26","at":"2026-10-23T16:00:03.258Z","error":"Error: Jev HTTP 401; stopped without automatic retry."}
