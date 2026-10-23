@@ -1,5 +1,34 @@
 [
   {
+    "id": "6172089eff8b",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T22:54:43Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "LLMs are making formal software verification feasible at a much larger scale",
+    "points": 126,
+    "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
+  },
+  {
+    "id": "51888f116f5b",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "huggingface",
+    "publishedAt": "2026-10-22T22:24:34.000Z",
+    "tags": [
+      "tool",
+      "research",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "path": "news/2026/10/22/51888f116f5b-turning-database-grading-into-rl-rewards-post-training-agent.md"
+  },
+  {
     "id": "891b7e0bbf66",
     "title": "Build more responsive apps with the Decisions API",
     "url": "https://openai.com/index/decisions-api",
@@ -22,8 +51,58 @@
     "tags": [],
     "importance": 2,
     "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "points": 58,
+    "points": 140,
     "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
+  },
+  {
+    "id": "6ff66be1cb22",
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T18:32:57Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: UI micro interactions prompts for AI",
+    "points": 71,
+    "path": "news/2026/10/22/6ff66be1cb22-show-hn-ui-micro-interactions-prompts-for-ai.md"
+  },
+  {
+    "id": "e6d31108e588",
+    "title": "Award-winning AI literature",
+    "url": "https://jamesyu.org/award-winning-ai-literature/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T18:28:26Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Award-winning AI literature",
+    "points": 59,
+    "path": "news/2026/10/22/e6d31108e588-award-winning-ai-literature.md"
+  },
+  {
+    "id": "39f0af155c70",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T18:28:16Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI and the Enclosure of the Scientific Commons",
+    "points": 116,
+    "path": "news/2026/10/22/39f0af155c70-ai-and-the-enclosure-of-the-scientific-commons.md"
+  },
+  {
+    "id": "2638bb9a279f",
+    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T18:02:54Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+    "points": 79,
+    "path": "news/2026/10/22/2638bb9a279f-ai-analysis-of-ct-scans-finds-42-9-of-patients-have-coronary.md"
   },
   {
     "id": "6eb73169f84c",
@@ -35,9 +114,9 @@
       "tool",
       "safety"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "points": 166,
+    "points": 311,
     "path": "news/2026/10/22/6eb73169f84c-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai.md"
   },
   {
@@ -62,9 +141,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Every AI model has the same \"controversial\" take on humans",
-    "points": 68,
+    "points": 248,
     "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
   },
   {
@@ -114,7 +193,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI CLI",
-    "points": 224,
+    "points": 231,
     "path": "news/2026/10/22/8042c4cdf6b9-openai-cli.md"
   },
   {
@@ -128,7 +207,7 @@
     ],
     "importance": 2,
     "summary": "Claude Now Works with Google Docs, Sheets, and Slides",
-    "points": 82,
+    "points": 85,
     "path": "news/2026/10/22/c115ce57a51e-claude-now-works-with-google-docs-sheets-and-slides.md"
   },
   {
@@ -171,6 +250,17 @@
     "path": "news/2026/10/22/f9a9e399ecd4-donating-agent-skills-to-the-agentic-ai-foundation.md"
   },
   {
+    "id": "0dc73e009fc0",
+    "title": "Open call for guest investigators in the life sciences",
+    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "source": "anthropic",
+    "publishedAt": "2026-10-22T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Open call for guest investigators in the life sciences",
+    "path": "news/2026/10/22/0dc73e009fc0-open-call-for-guest-investigators-in-the-life-sciences.md"
+  },
+  {
     "id": "3f1a11956436",
     "title": "Broad access through consistent standards",
     "url": "https://openai.com/index/broad-access-through-consistent-standards",
@@ -192,7 +282,7 @@
     ],
     "importance": 2,
     "summary": "Claude Duet",
-    "points": 89,
+    "points": 92,
     "path": "news/2026/10/21/f5220dab8f55-claude-duet.md"
   },
   {
@@ -218,7 +308,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google staff resign in backlash over its AI contracts with military",
-    "points": 124,
+    "points": 126,
     "path": "news/2026/10/21/00980f6a1373-google-staff-resign-in-backlash-over-its-ai-contracts-with-m.md"
   },
   {
@@ -232,7 +322,7 @@
     ],
     "importance": 3,
     "summary": "Claude Duet",
-    "points": 544,
+    "points": 549,
     "path": "news/2026/10/21/0336c2290ec1-claude-duet.md"
   },
   {
@@ -284,7 +374,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Rust off Rails: The opinionated web stack for the AI era",
-    "points": 74,
+    "points": 75,
     "path": "news/2026/10/21/7866e266c584-rust-off-rails-the-opinionated-web-stack-for-the-ai-era.md"
   },
   {
@@ -339,7 +429,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
-    "points": 78,
+    "points": 79,
     "path": "news/2026/10/21/9cd5e90a94d5-show-hn-i-told-people-i-m-a-convicted-felon-after-20-years-o.md"
   },
   {
@@ -435,7 +525,7 @@
     "importance": 3,
     "summary": "OpenAI models are coming to Google Cloud",
     "path": "news/2026/10/21/95dedf578de7-openai-models-are-coming-to-google-cloud.md",
-    "points": 320
+    "points": 322
   },
   {
     "id": "4c80e288b5b5",
@@ -464,7 +554,7 @@
     ],
     "importance": 3,
     "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "points": 261,
+    "points": 264,
     "path": "news/2026/10/21/de9db6f384cb-patch-the-planet-global-response-coordination-as-agents-unco.md"
   },
   {
@@ -492,7 +582,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-    "points": 66,
+    "points": 67,
     "path": "news/2026/10/21/06fb9648986c-launch-hn-alter-yc-s25-access-control-for-multi-user-agents.md"
   },
   {
@@ -507,7 +597,7 @@
     "importance": 2,
     "summary": "Using thousands of AI agents to uncover new leads in biological data",
     "path": "news/2026/10/21/64ddfb139fec-using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi.md",
-    "points": 153
+    "points": 155
   },
   {
     "id": "215e0936c2a2",
@@ -518,9 +608,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Using LLM for confidence scoring is a bad idea",
-    "points": 193,
+    "points": 202,
     "path": "news/2026/10/21/215e0936c2a2-using-llm-for-confidence-scoring-is-a-bad-idea.md"
   },
   {
@@ -545,7 +635,7 @@
     ],
     "importance": 2,
     "summary": "Using Claude to reduce the attack surface of code",
-    "points": 133,
+    "points": 134,
     "path": "news/2026/10/21/91f1614a5f09-using-claude-to-reduce-the-attack-surface-of-code.md"
   },
   {
@@ -603,7 +693,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Other Epidemic: Trying to get off benzodiazepines",
-    "points": 300,
+    "points": 301,
     "path": "news/2026/10/20/c4df30578de3-the-other-epidemic-trying-to-get-off-benzodiazepines.md"
   },
   {
@@ -726,7 +816,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/20/14242a0d0356-show-hn-penmentor-claude-marks-up-your-handwritten-math-like.md"
   },
   {
@@ -778,7 +868,7 @@
     ],
     "importance": 3,
     "summary": "Publish fake stats, get cited in LLMs",
-    "points": 364,
+    "points": 365,
     "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
   },
   {
@@ -793,7 +883,7 @@
     ],
     "importance": 3,
     "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-    "points": 765,
+    "points": 767,
     "path": "news/2026/10/20/4c6292fc5ecb-voxtral-3-voice-agent-sdk-speech-models-in-50-languages.md"
   },
   {
@@ -821,7 +911,7 @@
     ],
     "importance": 3,
     "summary": "DeepSeek just open-sourced its inference engine",
-    "points": 2328,
+    "points": 2332,
     "path": "news/2026/10/20/be38b11f937c-deepseek-just-open-sourced-its-inference-engine.md"
   },
   {
@@ -1123,7 +1213,7 @@
     "importance": 2,
     "summary": "Advancing coding in low‑resource programming languages",
     "path": "news/2026/10/19/1dbe22633003-advancing-coding-in-low-resource-programming-languages.md",
-    "points": 106
+    "points": 108
   },
   {
     "id": "fcf60cd2385e",

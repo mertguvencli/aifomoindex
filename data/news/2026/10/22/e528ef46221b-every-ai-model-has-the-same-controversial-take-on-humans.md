@@ -5,8 +5,8 @@ url: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
 source: hackernews
 published_at: 2026-10-22T16:08:00Z
 fetched_at: 2026-10-22T20:55:16.926Z
-importance: 2
-points: 68
+importance: 3
+points: 248
 tags: [model]
 ---
 
