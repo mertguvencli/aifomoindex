@@ -5,8 +5,8 @@ url: https://www.anthropic.com/research/formal-verification
 source: hackernews
 published_at: 2026-10-22T22:54:43Z
 fetched_at: 2026-10-23T02:14:43.909Z
-importance: 2
-points: 126
+importance: 3
+points: 350
 tags: [model]
 ---
 

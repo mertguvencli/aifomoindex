@@ -1,5 +1,30 @@
 [
   {
+    "id": "7cfc1d7eacfd",
+    "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+    "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T06:41:11Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+    "points": 118,
+    "path": "news/2026/10/23/7cfc1d7eacfd-the-same-ai-request-emits-8-5-times-more-co2-in-texas-than-i.md"
+  },
+  {
+    "id": "1a543055a02f",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "openai",
+    "publishedAt": "2026-10-23T00:00:00.000Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "path": "news/2026/10/23/1a543055a02f-openai-and-poland-s-nask-partner-to-advance-ai-safety-and-se.md"
+  },
+  {
     "id": "6172089eff8b",
     "title": "LLMs are making formal software verification feasible at a much larger scale",
     "url": "https://www.anthropic.com/research/formal-verification",
@@ -8,9 +33,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "LLMs are making formal software verification feasible at a much larger scale",
-    "points": 126,
+    "points": 350,
     "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
   },
   {
@@ -27,6 +52,20 @@
     "importance": 2,
     "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "path": "news/2026/10/22/51888f116f5b-turning-database-grading-into-rl-rewards-post-training-agent.md"
+  },
+  {
+    "id": "f4625da7f163",
+    "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+    "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T20:51:23Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+    "points": 85,
+    "path": "news/2026/10/22/f4625da7f163-most-americans-say-ai-is-bad-for-society-oppose-more-data-ce.md"
   },
   {
     "id": "891b7e0bbf66",
@@ -49,9 +88,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-22T18:44:36Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "points": 140,
+    "points": 204,
     "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
   },
   {
@@ -65,7 +104,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: UI micro interactions prompts for AI",
-    "points": 71,
+    "points": 77,
     "path": "news/2026/10/22/6ff66be1cb22-show-hn-ui-micro-interactions-prompts-for-ai.md"
   },
   {
@@ -77,7 +116,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Award-winning AI literature",
-    "points": 59,
+    "points": 62,
     "path": "news/2026/10/22/e6d31108e588-award-winning-ai-literature.md"
   },
   {
@@ -89,7 +128,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI and the Enclosure of the Scientific Commons",
-    "points": 116,
+    "points": 135,
     "path": "news/2026/10/22/39f0af155c70-ai-and-the-enclosure-of-the-scientific-commons.md"
   },
   {
@@ -101,7 +140,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-    "points": 79,
+    "points": 85,
     "path": "news/2026/10/22/2638bb9a279f-ai-analysis-of-ct-scans-finds-42-9-of-patients-have-coronary.md"
   },
   {
@@ -116,7 +155,7 @@
     ],
     "importance": 3,
     "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "points": 311,
+    "points": 403,
     "path": "news/2026/10/22/6eb73169f84c-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai.md"
   },
   {
@@ -143,7 +182,7 @@
     ],
     "importance": 3,
     "summary": "Every AI model has the same \"controversial\" take on humans",
-    "points": 248,
+    "points": 433,
     "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
   },
   {
@@ -156,6 +195,21 @@
     "importance": 2,
     "summary": "Beyond tree cover: mapping the world’s forest types",
     "path": "news/2026/10/22/8f93170faf71-beyond-tree-cover-mapping-the-world-s-forest-types.md"
+  },
+  {
+    "id": "7502ffe393ce",
+    "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+    "url": "https://github.com/dsmurrell/onkey",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T14:04:44Z",
+    "tags": [
+      "opensource",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+    "points": 64,
+    "path": "news/2026/10/22/7502ffe393ce-show-hn-onkey-i-m-a-bad-singer-so-i-built-an-app-to-show-whe.md"
   },
   {
     "id": "0e5fad3ca5f8",
@@ -193,7 +247,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI CLI",
-    "points": 231,
+    "points": 235,
     "path": "news/2026/10/22/8042c4cdf6b9-openai-cli.md"
   },
   {
@@ -207,7 +261,7 @@
     ],
     "importance": 2,
     "summary": "Claude Now Works with Google Docs, Sheets, and Slides",
-    "points": 85,
+    "points": 87,
     "path": "news/2026/10/22/c115ce57a51e-claude-now-works-with-google-docs-sheets-and-slides.md"
   },
   {
@@ -322,7 +376,7 @@
     ],
     "importance": 3,
     "summary": "Claude Duet",
-    "points": 549,
+    "points": 550,
     "path": "news/2026/10/21/0336c2290ec1-claude-duet.md"
   },
   {
@@ -454,7 +508,7 @@
     "tags": [],
     "importance": 3,
     "summary": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "points": 446,
+    "points": 450,
     "path": "news/2026/10/21/f657f4339f7b-php2shell-ai-uncovers-critical-rce-in-php.md"
   },
   {
@@ -496,7 +550,7 @@
     ],
     "importance": 2,
     "summary": "LayerFS: The filesystem for AI coding agents",
-    "points": 74,
+    "points": 75,
     "path": "news/2026/10/21/023c3e3c4899-layerfs-the-filesystem-for-ai-coding-agents.md"
   },
   {
@@ -525,7 +579,7 @@
     "importance": 3,
     "summary": "OpenAI models are coming to Google Cloud",
     "path": "news/2026/10/21/95dedf578de7-openai-models-are-coming-to-google-cloud.md",
-    "points": 322
+    "points": 323
   },
   {
     "id": "4c80e288b5b5",
@@ -554,7 +608,7 @@
     ],
     "importance": 3,
     "summary": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "points": 264,
+    "points": 265,
     "path": "news/2026/10/21/de9db6f384cb-patch-the-planet-global-response-coordination-as-agents-unco.md"
   },
   {
@@ -582,7 +636,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/10/21/06fb9648986c-launch-hn-alter-yc-s25-access-control-for-multi-user-agents.md"
   },
   {
@@ -597,7 +651,7 @@
     "importance": 2,
     "summary": "Using thousands of AI agents to uncover new leads in biological data",
     "path": "news/2026/10/21/64ddfb139fec-using-thousands-of-ai-agents-to-uncover-new-leads-in-biologi.md",
-    "points": 155
+    "points": 157
   },
   {
     "id": "215e0936c2a2",
@@ -610,7 +664,7 @@
     ],
     "importance": 3,
     "summary": "Using LLM for confidence scoring is a bad idea",
-    "points": 202,
+    "points": 209,
     "path": "news/2026/10/21/215e0936c2a2-using-llm-for-confidence-scoring-is-a-bad-idea.md"
   },
   {
@@ -635,7 +689,7 @@
     ],
     "importance": 2,
     "summary": "Using Claude to reduce the attack surface of code",
-    "points": 134,
+    "points": 135,
     "path": "news/2026/10/21/91f1614a5f09-using-claude-to-reduce-the-attack-surface-of-code.md"
   },
   {
@@ -693,7 +747,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Other Epidemic: Trying to get off benzodiazepines",
-    "points": 301,
+    "points": 303,
     "path": "news/2026/10/20/c4df30578de3-the-other-epidemic-trying-to-get-off-benzodiazepines.md"
   },
   {
@@ -717,7 +771,7 @@
     "tags": [],
     "importance": 2,
     "summary": "On AI writing",
-    "points": 93,
+    "points": 94,
     "path": "news/2026/10/20/ca6f9ce7e172-on-ai-writing.md"
   },
   {
@@ -868,7 +922,7 @@
     ],
     "importance": 3,
     "summary": "Publish fake stats, get cited in LLMs",
-    "points": 365,
+    "points": 366,
     "path": "news/2026/10/20/1a1edc372155-publish-fake-stats-get-cited-in-llms.md"
   },
   {
@@ -883,7 +937,7 @@
     ],
     "importance": 3,
     "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-    "points": 767,
+    "points": 768,
     "path": "news/2026/10/20/4c6292fc5ecb-voxtral-3-voice-agent-sdk-speech-models-in-50-languages.md"
   },
   {
