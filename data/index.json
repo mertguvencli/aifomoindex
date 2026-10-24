@@ -1,5 +1,29 @@
 [
   {
+    "id": "54a84576b739",
+    "title": "Dream-1",
+    "url": "https://dreamlabs.ai/research/dream-1/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-24T18:23:24Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Dream-1",
+    "points": 71,
+    "path": "news/2026/10/24/54a84576b739-dream-1.md"
+  },
+  {
+    "id": "02e941dcb420",
+    "title": "Why is AI generated language so hard to understand?",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "source": "hackernews",
+    "publishedAt": "2026-10-24T18:04:57Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Why is AI generated language so hard to understand?",
+    "points": 58,
+    "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
+  },
+  {
     "id": "08ab153fd915",
     "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
     "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
@@ -10,8 +34,22 @@
     ],
     "importance": 2,
     "summary": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-    "points": 61,
+    "points": 86,
     "path": "news/2026/10/24/08ab153fd915-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-.md"
+  },
+  {
+    "id": "b6ee2b32304d",
+    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "source": "hackernews",
+    "publishedAt": "2026-10-24T09:58:27Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "points": 125,
+    "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
   },
   {
     "id": "b5c44fe95c1e",
@@ -32,9 +70,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-24T03:43:54Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "How close can pure functional programming get to C?",
-    "points": 180,
+    "points": 232,
     "path": "news/2026/10/24/332b8a0f3c70-how-close-can-pure-functional-programming-get-to-c.md"
   },
   {
@@ -49,7 +87,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "points": 109,
+    "points": 121,
     "path": "news/2026/10/23/eaba44c2708b-show-hn-corgi-a-helpful-agent-terminal-multiplexer.md"
   },
   {
@@ -61,7 +99,7 @@
     "tags": [],
     "importance": 2,
     "summary": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-    "points": 61,
+    "points": 64,
     "path": "news/2026/10/23/5652f8f8725c-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-.md"
   },
   {
@@ -89,7 +127,7 @@
     ],
     "importance": 3,
     "summary": "Kimi K3.1 Pro",
-    "points": 993,
+    "points": 1053,
     "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
   },
   {
@@ -163,7 +201,7 @@
     "importance": 2,
     "summary": "Securing our frontier model training environment",
     "path": "news/2026/10/23/f8c156dba788-securing-our-frontier-model-training-environment.md",
-    "points": 108
+    "points": 116
   },
   {
     "id": "34a9422e8d98",
@@ -174,7 +212,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Rise and Fall of Jev",
-    "points": 90,
+    "points": 91,
     "path": "news/2026/10/23/34a9422e8d98-the-rise-and-fall-of-jev.md"
   },
   {
@@ -200,7 +238,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Making a smart TV dumb and then smart",
-    "points": 103,
+    "points": 105,
     "path": "news/2026/10/23/eaeb4841c281-show-hn-making-a-smart-tv-dumb-and-then-smart.md"
   },
   {
@@ -266,7 +304,7 @@
     ],
     "importance": 3,
     "summary": "LLMs are making formal software verification feasible at a much larger scale",
-    "points": 453,
+    "points": 455,
     "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
   },
   {
@@ -295,7 +333,7 @@
     ],
     "importance": 2,
     "summary": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-    "points": 90,
+    "points": 91,
     "path": "news/2026/10/22/f4625da7f163-most-americans-say-ai-is-bad-for-society-oppose-more-data-ce.md"
   },
   {
@@ -321,7 +359,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "points": 234,
+    "points": 235,
     "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
   },
   {
@@ -335,7 +373,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: UI micro interactions prompts for AI",
-    "points": 79,
+    "points": 80,
     "path": "news/2026/10/22/6ff66be1cb22-show-hn-ui-micro-interactions-prompts-for-ai.md"
   },
   {
@@ -347,7 +385,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Award-winning AI literature",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/22/e6d31108e588-award-winning-ai-literature.md"
   },
   {
@@ -359,7 +397,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI and the Enclosure of the Scientific Commons",
-    "points": 139,
+    "points": 140,
     "path": "news/2026/10/22/39f0af155c70-ai-and-the-enclosure-of-the-scientific-commons.md"
   },
   {
@@ -386,7 +424,7 @@
     ],
     "importance": 3,
     "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "points": 495,
+    "points": 499,
     "path": "news/2026/10/22/6eb73169f84c-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai.md"
   },
   {
@@ -413,7 +451,7 @@
     ],
     "importance": 3,
     "summary": "Every AI model has the same \"controversial\" take on humans",
-    "points": 640,
+    "points": 645,
     "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
   },
   {
@@ -441,6 +479,20 @@
     "summary": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
     "points": 226,
     "path": "news/2026/10/22/7502ffe393ce-show-hn-onkey-i-m-a-bad-singer-so-i-built-an-app-to-show-whe.md"
+  },
+  {
+    "id": "743ae7f53b86",
+    "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-22T09:01:10Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "points": 74,
+    "path": "news/2026/10/22/743ae7f53b86-tornadovm-7-enables-gpu-native-workloads-from-java-applicati.md"
   },
   {
     "id": "0e5fad3ca5f8",
