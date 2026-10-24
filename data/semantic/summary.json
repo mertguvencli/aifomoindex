@@ -1,11 +1,11 @@
 {
   "protocol": "jev-headlines-v1",
   "rubricSha256": "458511b04141142d9110a514e626adb9bb502d516148bbb1aed7f4fa18d3f321",
-  "datasetSha256": "603d0f724dd361f4c3a7abda38ccdf1adb277c19dbba82b1b7615b249bec656a",
-  "updatedAt": "2026-10-24T09:54:58.348Z",
-  "total": 15095,
+  "datasetSha256": "05d7847871627fe2920ed348b617c6efdc10bac0d12802398436ffc56e17620c",
+  "updatedAt": "2026-10-24T14:57:40.112Z",
+  "total": 15096,
   "annotated": 15047,
-  "missing": 48,
+  "missing": 49,
   "models": [
     "typesafe/jev-1.13-20260917"
   ],

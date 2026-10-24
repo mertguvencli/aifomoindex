@@ -5,8 +5,8 @@ url: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_h
 source: hackernews
 published_at: 2026-10-24T05:49:57Z
 fetched_at: 2026-10-24T09:54:57.341Z
-importance: 2
-points: 129
+importance: 3
+points: 348
 tags: []
 ---
 
