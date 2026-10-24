@@ -5,8 +5,8 @@ url: https://github.com/dsmurrell/onkey
 source: hackernews
 published_at: 2026-10-22T14:04:44Z
 fetched_at: 2026-10-23T10:36:22.574Z
-importance: 2
-points: 192
+importance: 3
+points: 216
 tags: [opensource, product]
 ---
 
