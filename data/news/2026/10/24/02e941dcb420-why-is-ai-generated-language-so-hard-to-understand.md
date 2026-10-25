@@ -5,8 +5,8 @@ url: https://arxiv.org/abs/2610.29162
 source: hackernews
 published_at: 2026-10-24T18:04:57Z
 fetched_at: 2026-10-24T19:54:15.984Z
-importance: 2
-points: 155
+importance: 3
+points: 201
 tags: []
 ---
 

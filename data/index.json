@@ -1,14 +1,28 @@
 [
   {
+    "id": "a2637483f507",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T01:33:49Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Cerebras Deploys Trillion-Parameter AI Models",
+    "points": 171,
+    "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
+  },
+  {
     "id": "1369780d96b3",
     "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
     "source": "hackernews",
     "publishedAt": "2026-10-24T23:11:54Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 166,
+    "points": 369,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -20,7 +34,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No signs of AI payoff outside the tech sector",
-    "points": 483,
+    "points": 555,
     "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
   },
   {
@@ -32,7 +46,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Dream-1",
-    "points": 155,
+    "points": 167,
     "path": "news/2026/10/24/54a84576b739-dream-1.md"
   },
   {
@@ -42,9 +56,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-24T18:04:57Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 155,
+    "points": 201,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -58,7 +72,7 @@
     ],
     "importance": 2,
     "summary": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-    "points": 93,
+    "points": 96,
     "path": "news/2026/10/24/08ab153fd915-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-.md"
   },
   {
@@ -70,9 +84,9 @@
     "tags": [
       "infra"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "points": 192,
+    "points": 250,
     "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
   },
   {
@@ -96,7 +110,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How close can pure functional programming get to C?",
-    "points": 256,
+    "points": 269,
     "path": "news/2026/10/24/332b8a0f3c70-how-close-can-pure-functional-programming-get-to-c.md"
   },
   {
@@ -111,7 +125,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "points": 126,
+    "points": 131,
     "path": "news/2026/10/23/eaba44c2708b-show-hn-corgi-a-helpful-agent-terminal-multiplexer.md"
   },
   {
@@ -151,7 +165,7 @@
     ],
     "importance": 3,
     "summary": "Kimi K3.1 Pro",
-    "points": 1060,
+    "points": 1066,
     "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
   },
   {
@@ -193,7 +207,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-    "points": 64,
+    "points": 67,
     "path": "news/2026/10/23/1dcc92b8fe85-show-hn-we-had-ai-write-a-wiki-from-45k-enron-emails-every-f.md"
   },
   {
@@ -236,7 +250,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Rise and Fall of Jev",
-    "points": 91,
+    "points": 92,
     "path": "news/2026/10/23/34a9422e8d98-the-rise-and-fall-of-jev.md"
   },
   {
@@ -248,7 +262,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-    "points": 141,
+    "points": 142,
     "path": "news/2026/10/23/7cfc1d7eacfd-the-same-ai-request-emits-8-5-times-more-co2-in-texas-than-i.md"
   },
   {
@@ -475,7 +489,7 @@
     ],
     "importance": 3,
     "summary": "Every AI model has the same \"controversial\" take on humans",
-    "points": 645,
+    "points": 650,
     "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
   },
   {
@@ -501,7 +515,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-    "points": 228,
+    "points": 229,
     "path": "news/2026/10/22/7502ffe393ce-show-hn-onkey-i-m-a-bad-singer-so-i-built-an-app-to-show-whe.md"
   },
   {
