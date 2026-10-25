@@ -1,5 +1,29 @@
 [
   {
+    "id": "1369780d96b3",
+    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "source": "hackernews",
+    "publishedAt": "2026-10-24T23:11:54Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "points": 166,
+    "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
+  },
+  {
+    "id": "d76a689c9204",
+    "title": "No signs of AI payoff outside the tech sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "source": "hackernews",
+    "publishedAt": "2026-10-24T19:47:19Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "No signs of AI payoff outside the tech sector",
+    "points": 483,
+    "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
+  },
+  {
     "id": "54a84576b739",
     "title": "Dream-1",
     "url": "https://dreamlabs.ai/research/dream-1/",
@@ -8,7 +32,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Dream-1",
-    "points": 71,
+    "points": 155,
     "path": "news/2026/10/24/54a84576b739-dream-1.md"
   },
   {
@@ -20,7 +44,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 58,
+    "points": 155,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -34,7 +58,7 @@
     ],
     "importance": 2,
     "summary": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-    "points": 86,
+    "points": 93,
     "path": "news/2026/10/24/08ab153fd915-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-.md"
   },
   {
@@ -48,7 +72,7 @@
     ],
     "importance": 2,
     "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "points": 125,
+    "points": 192,
     "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
   },
   {
@@ -72,7 +96,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How close can pure functional programming get to C?",
-    "points": 232,
+    "points": 256,
     "path": "news/2026/10/24/332b8a0f3c70-how-close-can-pure-functional-programming-get-to-c.md"
   },
   {
@@ -87,7 +111,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "points": 121,
+    "points": 126,
     "path": "news/2026/10/23/eaba44c2708b-show-hn-corgi-a-helpful-agent-terminal-multiplexer.md"
   },
   {
@@ -99,7 +123,7 @@
     "tags": [],
     "importance": 2,
     "summary": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-    "points": 64,
+    "points": 66,
     "path": "news/2026/10/23/5652f8f8725c-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-.md"
   },
   {
@@ -113,7 +137,7 @@
     ],
     "importance": 2,
     "summary": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-    "points": 119,
+    "points": 120,
     "path": "news/2026/10/23/fb7b4f33e471-kimi-k3-1-scores-55-on-artificial-analysis-placed-on-the-par.md"
   },
   {
@@ -127,7 +151,7 @@
     ],
     "importance": 3,
     "summary": "Kimi K3.1 Pro",
-    "points": 1053,
+    "points": 1060,
     "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
   },
   {
@@ -185,7 +209,7 @@
     ],
     "importance": 3,
     "summary": "Swedish government offices to ban ChatGPT and Claude",
-    "points": 321,
+    "points": 322,
     "path": "news/2026/10/23/fd7292575105-swedish-government-offices-to-ban-chatgpt-and-claude.md"
   },
   {
@@ -201,7 +225,7 @@
     "importance": 2,
     "summary": "Securing our frontier model training environment",
     "path": "news/2026/10/23/f8c156dba788-securing-our-frontier-model-training-environment.md",
-    "points": 116
+    "points": 119
   },
   {
     "id": "34a9422e8d98",
@@ -238,7 +262,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Making a smart TV dumb and then smart",
-    "points": 105,
+    "points": 107,
     "path": "news/2026/10/23/eaeb4841c281-show-hn-making-a-smart-tv-dumb-and-then-smart.md"
   },
   {
@@ -304,7 +328,7 @@
     ],
     "importance": 3,
     "summary": "LLMs are making formal software verification feasible at a much larger scale",
-    "points": 455,
+    "points": 457,
     "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
   },
   {
@@ -359,7 +383,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "points": 235,
+    "points": 236,
     "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
   },
   {
@@ -477,7 +501,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-    "points": 226,
+    "points": 228,
     "path": "news/2026/10/22/7502ffe393ce-show-hn-onkey-i-m-a-bad-singer-so-i-built-an-app-to-show-whe.md"
   },
   {
@@ -491,7 +515,7 @@
     ],
     "importance": 2,
     "summary": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-    "points": 74,
+    "points": 84,
     "path": "news/2026/10/22/743ae7f53b86-tornadovm-7-enables-gpu-native-workloads-from-java-applicati.md"
   },
   {
