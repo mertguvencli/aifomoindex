@@ -1,5 +1,73 @@
 [
   {
+    "id": "b83204b7e9c1",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T17:15:38Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "points": 237,
+    "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
+  },
+  {
+    "id": "9fec697fddc7",
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T16:28:26Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "points": 120,
+    "path": "news/2026/10/25/9fec697fddc7-ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-g.md"
+  },
+  {
+    "id": "c97d9e8c7c64",
+    "title": "What Adobe v ArtCraft teaches us",
+    "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T15:34:44Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "What Adobe v ArtCraft teaches us",
+    "points": 81,
+    "path": "news/2026/10/25/c97d9e8c7c64-what-adobe-v-artcraft-teaches-us.md"
+  },
+  {
+    "id": "9626b225e4c7",
+    "title": "R/open source bans all solo projects and projects using LLMs",
+    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T14:05:03Z",
+    "tags": [
+      "model",
+      "policy",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "R/open source bans all solo projects and projects using LLMs",
+    "points": 74,
+    "path": "news/2026/10/25/9626b225e4c7-r-open-source-bans-all-solo-projects-and-projects-using-llms.md"
+  },
+  {
+    "id": "3445f19e8688",
+    "title": "Imagine an AI future where being banned means you are now economically useless",
+    "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T12:47:20Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Imagine an AI future where being banned means you are now economically useless",
+    "points": 88,
+    "path": "news/2026/10/25/3445f19e8688-imagine-an-ai-future-where-being-banned-means-you-are-now-ec.md"
+  },
+  {
     "id": "edf1fccf0afb",
     "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
     "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
@@ -10,7 +78,7 @@
     ],
     "importance": 2,
     "summary": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "points": 69,
+    "points": 119,
     "path": "news/2026/10/25/edf1fccf0afb-nikon-photography-contest-winner-loses-title-after-scientist.md"
   },
   {
@@ -24,7 +92,7 @@
     ],
     "importance": 3,
     "summary": "Cerebras Deploys Trillion-Parameter AI Models",
-    "points": 256,
+    "points": 334,
     "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
   },
   {
@@ -36,7 +104,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 423,
+    "points": 486,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -48,7 +116,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No signs of AI payoff outside the tech sector",
-    "points": 585,
+    "points": 599,
     "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
   },
   {
@@ -60,7 +128,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Dream-1",
-    "points": 173,
+    "points": 179,
     "path": "news/2026/10/24/54a84576b739-dream-1.md"
   },
   {
@@ -72,7 +140,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 220,
+    "points": 236,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -86,7 +154,7 @@
     ],
     "importance": 2,
     "summary": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-    "points": 96,
+    "points": 97,
     "path": "news/2026/10/24/08ab153fd915-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-.md"
   },
   {
@@ -100,8 +168,20 @@
     ],
     "importance": 3,
     "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "points": 295,
+    "points": 327,
     "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
+  },
+  {
+    "id": "906857cd0f71",
+    "title": "ThinkRail from JetBrains",
+    "url": "https://thinkrail.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-24T08:08:42Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "ThinkRail from JetBrains",
+    "points": 56,
+    "path": "news/2026/10/24/906857cd0f71-thinkrail-from-jetbrains.md"
   },
   {
     "id": "b5c44fe95c1e",
@@ -139,7 +219,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "points": 134,
+    "points": 135,
     "path": "news/2026/10/23/eaba44c2708b-show-hn-corgi-a-helpful-agent-terminal-multiplexer.md"
   },
   {
@@ -179,7 +259,7 @@
     ],
     "importance": 3,
     "summary": "Kimi K3.1 Pro",
-    "points": 1068,
+    "points": 1076,
     "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
   },
   {
@@ -253,7 +333,7 @@
     "importance": 2,
     "summary": "Securing our frontier model training environment",
     "path": "news/2026/10/23/f8c156dba788-securing-our-frontier-model-training-environment.md",
-    "points": 119
+    "points": 120
   },
   {
     "id": "34a9422e8d98",
@@ -266,6 +346,20 @@
     "summary": "The Rise and Fall of Jev",
     "points": 92,
     "path": "news/2026/10/23/34a9422e8d98-the-rise-and-fall-of-jev.md"
+  },
+  {
+    "id": "eae06266602b",
+    "title": "Show HN: Swurf – Swipe through the real web",
+    "url": "https://swurf.org/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-23T06:54:52Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Swurf – Swipe through the real web",
+    "points": 76,
+    "path": "news/2026/10/23/eae06266602b-show-hn-swurf-swipe-through-the-real-web.md"
   },
   {
     "id": "7cfc1d7eacfd",
@@ -290,7 +384,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Making a smart TV dumb and then smart",
-    "points": 108,
+    "points": 109,
     "path": "news/2026/10/23/eaeb4841c281-show-hn-making-a-smart-tv-dumb-and-then-smart.md"
   },
   {
@@ -356,7 +450,7 @@
     ],
     "importance": 3,
     "summary": "LLMs are making formal software verification feasible at a much larger scale",
-    "points": 458,
+    "points": 460,
     "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
   },
   {
