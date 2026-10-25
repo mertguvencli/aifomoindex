@@ -1,5 +1,19 @@
 [
   {
+    "id": "edf1fccf0afb",
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T09:51:17Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "points": 69,
+    "path": "news/2026/10/25/edf1fccf0afb-nikon-photography-contest-winner-loses-title-after-scientist.md"
+  },
+  {
     "id": "a2637483f507",
     "title": "Cerebras Deploys Trillion-Parameter AI Models",
     "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
@@ -8,9 +22,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Cerebras Deploys Trillion-Parameter AI Models",
-    "points": 189,
+    "points": 256,
     "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
   },
   {
@@ -22,7 +36,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 376,
+    "points": 423,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -34,7 +48,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No signs of AI payoff outside the tech sector",
-    "points": 558,
+    "points": 585,
     "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
   },
   {
@@ -46,7 +60,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Dream-1",
-    "points": 168,
+    "points": 173,
     "path": "news/2026/10/24/54a84576b739-dream-1.md"
   },
   {
@@ -58,7 +72,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 207,
+    "points": 220,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -86,7 +100,7 @@
     ],
     "importance": 3,
     "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "points": 261,
+    "points": 295,
     "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
   },
   {
@@ -110,7 +124,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How close can pure functional programming get to C?",
-    "points": 269,
+    "points": 275,
     "path": "news/2026/10/24/332b8a0f3c70-how-close-can-pure-functional-programming-get-to-c.md"
   },
   {
@@ -125,7 +139,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "points": 132,
+    "points": 134,
     "path": "news/2026/10/23/eaba44c2708b-show-hn-corgi-a-helpful-agent-terminal-multiplexer.md"
   },
   {
@@ -165,7 +179,7 @@
     ],
     "importance": 3,
     "summary": "Kimi K3.1 Pro",
-    "points": 1066,
+    "points": 1068,
     "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
   },
   {
@@ -207,7 +221,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-    "points": 67,
+    "points": 70,
     "path": "news/2026/10/23/1dcc92b8fe85-show-hn-we-had-ai-write-a-wiki-from-45k-enron-emails-every-f.md"
   },
   {
@@ -276,7 +290,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Making a smart TV dumb and then smart",
-    "points": 107,
+    "points": 108,
     "path": "news/2026/10/23/eaeb4841c281-show-hn-making-a-smart-tv-dumb-and-then-smart.md"
   },
   {
@@ -342,7 +356,7 @@
     ],
     "importance": 3,
     "summary": "LLMs are making formal software verification feasible at a much larger scale",
-    "points": 457,
+    "points": 458,
     "path": "news/2026/10/22/6172089eff8b-llms-are-making-formal-software-verification-feasible-at-a-m.md"
   },
   {
@@ -397,7 +411,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "points": 236,
+    "points": 237,
     "path": "news/2026/10/22/4d0a18eaa787-hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-.md"
   },
   {
@@ -462,7 +476,7 @@
     ],
     "importance": 3,
     "summary": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "points": 499,
+    "points": 500,
     "path": "news/2026/10/22/6eb73169f84c-openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai.md"
   },
   {
@@ -489,7 +503,7 @@
     ],
     "importance": 3,
     "summary": "Every AI model has the same \"controversial\" take on humans",
-    "points": 650,
+    "points": 652,
     "path": "news/2026/10/22/e528ef46221b-every-ai-model-has-the-same-controversial-take-on-humans.md"
   },
   {

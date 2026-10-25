@@ -1,11 +1,11 @@
 {
   "protocol": "jev-excerpts-v2",
   "rubricSha256": "a94951ec14bb562a23e21521c39f1b4fc740451957103d0468fa2319b3cf5d6a",
-  "updatedAt": "2026-10-25T10:16:25.255Z",
-  "annotated": 15047,
+  "updatedAt": "2026-10-25T15:08:18.782Z",
+  "annotated": 15048,
   "withExcerpt": 2262,
   "byMode": {
-    "crawl": 399,
+    "crawl": 400,
     "backfill": 14648
   },
   "models": [
@@ -14,19 +14,19 @@
   "flagged": 7,
   "relevance": {
     "insufficient": 530,
-    "relevant": 12373,
+    "relevant": 12374,
     "unrelated": 2144
   },
   "concreteChange": {
     "commentary": 5411,
     "insufficient": 1671,
-    "reported": 7965
+    "reported": 7966
   },
   "significance": {
     "insufficient": 5518,
     "major": 3260,
-    "minor": 6269
+    "minor": 6270
   },
-  "recordedCostUsd": 0.6001873500000071,
+  "recordedCostUsd": 0.6002269560000071,
   "note": "Headline plus source excerpt; excerpts are not stored. crawl rows are prospective; backfill rows are retrospective, from pages fetched later. No human accuracy benchmark; zero index weight."
 }

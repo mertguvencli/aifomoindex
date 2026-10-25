@@ -5,8 +5,8 @@ url: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-mode
 source: hackernews
 published_at: 2026-10-25T01:33:49Z
 fetched_at: 2026-10-25T10:16:24.966Z
-importance: 2
-points: 189
+importance: 3
+points: 256
 tags: [model]
 ---
 
