@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
 import { Instrument_Serif } from "next/font/google"
+import { GoogleAnalytics } from "@next/third-parties/google"
 import { SITE_URL } from "@/lib/site"
 import { JsonLd, OG_IMAGES, ORGANIZATION, SITE_DESCRIPTION, SITE_NAME, absoluteUrl } from "@/lib/seo"
 import { SiteFooter, SiteNav } from "@/components/site-chrome"
@@ -66,6 +67,8 @@ html {
         <div className="flex-1">{children}</div>
         <SiteFooter />
       </body>
+      {/* Set only in the Pages deploy, so dev servers and forks send nothing. */}
+      {process.env.NEXT_PUBLIC_GA_ID && <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />}
     </html>
   )
 }
