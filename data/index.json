@@ -1,5 +1,64 @@
 [
   {
+    "id": "afaf348e0bbb",
+    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T17:32:16Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+    "points": 189,
+    "path": "news/2026/10/26/afaf348e0bbb-chatgpt-keeps-telling-people-404-media-can-solve-their-tech-.md"
+  },
+  {
+    "id": "48cf39a28bcf",
+    "title": "The Git Forge for Agent-Human Collaboration",
+    "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T17:23:11Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "The Git Forge for Agent-Human Collaboration",
+    "points": 51,
+    "path": "news/2026/10/26/48cf39a28bcf-the-git-forge-for-agent-human-collaboration.md"
+  },
+  {
+    "id": "27779e2e3a96",
+    "title": "Concerning behavior from a popular open-weight AI model",
+    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T16:35:44Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "Concerning behavior from a popular open-weight AI model",
+    "points": 220,
+    "path": "news/2026/10/26/27779e2e3a96-concerning-behavior-from-a-popular-open-weight-ai-model.md"
+  },
+  {
+    "id": "f93d4d5cf699",
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T16:12:29Z",
+    "tags": [
+      "model",
+      "opensource",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "points": 55,
+    "path": "news/2026/10/26/f93d4d5cf699-show-hn-hob-open-source-on-device-alternative-to-claude-cowo.md"
+  },
+  {
     "id": "9a15b40232fd",
     "title": "Our newest AI Quest: Mapping the human brain",
     "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -11,6 +70,20 @@
     "path": "news/2026/10/26/9a15b40232fd-our-newest-ai-quest-mapping-the-human-brain.md"
   },
   {
+    "id": "7d972df501d0",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "openai",
+    "publishedAt": "2026-10-26T13:45:00.000Z",
+    "tags": [
+      "model",
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "path": "news/2026/10/26/7d972df501d0-gpt-6-1-sol-helps-coderabbit-strengthen-security-across-comp.md"
+  },
+  {
     "id": "aaef23617908",
     "title": "Anthropic S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
@@ -19,7 +92,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1039,
+    "points": 1375,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -33,7 +106,7 @@
     ],
     "importance": 2,
     "summary": "Fixing Tool-Call Accuracy in vLLM",
-    "points": 115,
+    "points": 141,
     "path": "news/2026/10/26/0266daa53922-fixing-tool-call-accuracy-in-vllm.md"
   },
   {
@@ -45,8 +118,21 @@
     "tags": [],
     "importance": 2,
     "summary": "Brown student maps the hidden global labor powering AI",
-    "points": 117,
+    "points": 170,
     "path": "news/2026/10/26/3a88fbf47015-brown-student-maps-the-hidden-global-labor-powering-ai.md"
+  },
+  {
+    "id": "27334100e818",
+    "title": "ChatGPT’s expanding world of work",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "openai",
+    "publishedAt": "2026-10-26T10:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT’s expanding world of work",
+    "path": "news/2026/10/26/27334100e818-chatgpt-s-expanding-world-of-work.md"
   },
   {
     "id": "7e73eebe3e90",
@@ -60,6 +146,17 @@
     "path": "news/2026/10/26/7e73eebe3e90-how-fanatics-and-openai-streamline-the-fan-experience.md"
   },
   {
+    "id": "742d30efdc40",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "source": "openai",
+    "publishedAt": "2026-10-26T07:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "path": "news/2026/10/26/742d30efdc40-how-ultrafast-cut-incident-investigation-from-hours-to-minut.md"
+  },
+  {
     "id": "11f803bdf2d2",
     "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
     "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
@@ -68,7 +165,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "points": 76,
+    "points": 78,
     "path": "news/2026/10/26/11f803bdf2d2-cognitive-mercantilism-ai-panic-resembles-fears-of-early-cap.md"
   },
   {
@@ -80,7 +177,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "points": 186,
+    "points": 189,
     "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
   },
   {
@@ -117,6 +214,32 @@
     "path": "news/2026/10/26/d5ce20f9ec3e-agility-robotics-highlights-commercial-momentum-and-growing-.md"
   },
   {
+    "id": "8eb6001a836a",
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "openai",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Working with academic communities to build scientific understanding",
+    "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md"
+  },
+  {
+    "id": "35e334c19874",
+    "title": "Introducing GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "openai",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "tags": [
+      "model",
+      "product"
+    ],
+    "importance": 3,
+    "summary": "Introducing GPT-6.1 Terra",
+    "points": 405,
+    "path": "news/2026/10/26/35e334c19874-introducing-gpt-6-1-terra.md"
+  },
+  {
     "id": "5c8192d7a006",
     "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
     "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
@@ -125,7 +248,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-    "points": 68,
+    "points": 69,
     "path": "news/2026/10/25/5c8192d7a006-apollo-says-ai-has-delivered-zero-financial-payoff-outside-t.md"
   },
   {
@@ -139,7 +262,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 396,
+    "points": 407,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
   },
   {
@@ -151,7 +274,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "points": 78,
+    "points": 81,
     "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
@@ -165,7 +288,7 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 642,
+    "points": 649,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
   },
   {
@@ -177,7 +300,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Sabre Wulf Remastered",
-    "points": 59,
+    "points": 60,
     "path": "news/2026/10/25/d03ffdd599af-sabre-wulf-remastered.md"
   },
   {
@@ -201,7 +324,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "points": 228,
+    "points": 235,
     "path": "news/2026/10/25/9fec697fddc7-ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-g.md"
   },
   {
@@ -271,7 +394,7 @@
     ],
     "importance": 3,
     "summary": "Cerebras Deploys Trillion-Parameter AI Models",
-    "points": 363,
+    "points": 364,
     "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
   },
   {
@@ -285,7 +408,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-    "points": 61,
+    "points": 64,
     "path": "news/2026/10/25/00f9a3573018-show-hn-hurston-1-open-source-tts-that-speak-southern-americ.md"
   },
   {
@@ -299,7 +422,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-    "points": 62,
+    "points": 64,
     "path": "news/2026/10/25/12bb42da449f-show-hn-adrs-for-ai-deliberation-records-for-human-ai-work-v.md"
   },
   {
@@ -311,7 +434,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 537,
+    "points": 540,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -347,7 +470,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 251,
+    "points": 253,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -387,7 +510,7 @@
     ],
     "importance": 3,
     "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "points": 344,
+    "points": 348,
     "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
   },
   {
@@ -423,7 +546,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How close can pure functional programming get to C?",
-    "points": 279,
+    "points": 280,
     "path": "news/2026/10/24/332b8a0f3c70-how-close-can-pure-functional-programming-get-to-c.md"
   },
   {
