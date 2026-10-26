@@ -5,8 +5,8 @@ url: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-mat
 source: hackernews
 published_at: 2026-10-25T16:28:26Z
 fetched_at: 2026-10-25T20:04:39.516Z
-importance: 2
-points: 120
+importance: 3
+points: 200
 tags: []
 ---
 

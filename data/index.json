@@ -1,5 +1,19 @@
 [
   {
+    "id": "240888442444",
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T21:11:31Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "points": 150,
+    "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
+  },
+  {
     "id": "b83204b7e9c1",
     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
     "url": "https://lynchlab.net/llm-skin-cancer",
@@ -10,8 +24,20 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 237,
+    "points": 440,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
+  },
+  {
+    "id": "27c253473cd5",
+    "title": "A mathematician reads the AI future",
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T16:31:21Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A mathematician reads the AI future",
+    "points": 54,
+    "path": "news/2026/10/25/27c253473cd5-a-mathematician-reads-the-ai-future.md"
   },
   {
     "id": "9fec697fddc7",
@@ -20,9 +46,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-25T16:28:26Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "points": 120,
+    "points": 200,
     "path": "news/2026/10/25/9fec697fddc7-ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-g.md"
   },
   {
@@ -34,7 +60,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Adobe v ArtCraft teaches us",
-    "points": 81,
+    "points": 85,
     "path": "news/2026/10/25/c97d9e8c7c64-what-adobe-v-artcraft-teaches-us.md"
   },
   {
@@ -50,7 +76,7 @@
     ],
     "importance": 2,
     "summary": "R/open source bans all solo projects and projects using LLMs",
-    "points": 74,
+    "points": 80,
     "path": "news/2026/10/25/9626b225e4c7-r-open-source-bans-all-solo-projects-and-projects-using-llms.md"
   },
   {
@@ -64,7 +90,7 @@
     ],
     "importance": 2,
     "summary": "Imagine an AI future where being banned means you are now economically useless",
-    "points": 88,
+    "points": 94,
     "path": "news/2026/10/25/3445f19e8688-imagine-an-ai-future-where-being-banned-means-you-are-now-ec.md"
   },
   {
@@ -78,7 +104,7 @@
     ],
     "importance": 2,
     "summary": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "points": 119,
+    "points": 133,
     "path": "news/2026/10/25/edf1fccf0afb-nikon-photography-contest-winner-loses-title-after-scientist.md"
   },
   {
@@ -92,7 +118,7 @@
     ],
     "importance": 3,
     "summary": "Cerebras Deploys Trillion-Parameter AI Models",
-    "points": 334,
+    "points": 352,
     "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
   },
   {
@@ -104,7 +130,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 486,
+    "points": 504,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -116,7 +142,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No signs of AI payoff outside the tech sector",
-    "points": 599,
+    "points": 613,
     "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
   },
   {
@@ -140,8 +166,20 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 236,
+    "points": 242,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
+  },
+  {
+    "id": "b5d56d5ca530",
+    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-24T15:35:17Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "points": 51,
+    "path": "news/2026/10/24/b5d56d5ca530-oai-math-revised-a-community-hub-for-revising-openai-s-math-.md"
   },
   {
     "id": "08ab153fd915",
@@ -219,7 +257,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "points": 135,
+    "points": 137,
     "path": "news/2026/10/23/eaba44c2708b-show-hn-corgi-a-helpful-agent-terminal-multiplexer.md"
   },
   {
@@ -259,7 +297,7 @@
     ],
     "importance": 3,
     "summary": "Kimi K3.1 Pro",
-    "points": 1076,
+    "points": 1079,
     "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
   },
   {
