@@ -1,5 +1,52 @@
 [
   {
+    "id": "11f803bdf2d2",
+    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T04:11:40Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+    "points": 69,
+    "path": "news/2026/10/26/11f803bdf2d2-cognitive-mercantilism-ai-panic-resembles-fears-of-early-cap.md"
+  },
+  {
+    "id": "b7430d49dae6",
+    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T01:03:39Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+    "points": 151,
+    "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
+  },
+  {
+    "id": "8661c0485d25",
+    "title": "GXO and Agility Robotics Expand Partnership to Accelerate Deployment of Humanoids in U.S. Operations",
+    "url": "https://www.agilityrobotics.com/content/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations",
+    "source": "agility",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "GXO and Agility Robotics Expand Partnership to Accelerate Deployment of Humanoids in U.S. Operations",
+    "path": "news/2026/10/26/8661c0485d25-gxo-and-agility-robotics-expand-partnership-to-accelerate-de.md"
+  },
+  {
+    "id": "5c8192d7a006",
+    "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+    "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T22:49:06Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+    "points": 58,
+    "path": "news/2026/10/25/5c8192d7a006-apollo-says-ai-has-delivered-zero-financial-payoff-outside-t.md"
+  },
+  {
     "id": "240888442444",
     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
     "url": "https://minimaxir.com/2026/10/cheap-llms/",
@@ -8,10 +55,22 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 150,
+    "points": 336,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
+  },
+  {
+    "id": "763e1f9af686",
+    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T18:42:23Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+    "points": 57,
+    "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
     "id": "b83204b7e9c1",
@@ -24,8 +83,20 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 440,
+    "points": 574,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
+  },
+  {
+    "id": "d03ffdd599af",
+    "title": "Sabre Wulf Remastered",
+    "url": "https://gp-64.com/swr/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T17:15:16Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Sabre Wulf Remastered",
+    "points": 57,
+    "path": "news/2026/10/25/d03ffdd599af-sabre-wulf-remastered.md"
   },
   {
     "id": "27c253473cd5",
@@ -36,7 +107,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A mathematician reads the AI future",
-    "points": 54,
+    "points": 61,
     "path": "news/2026/10/25/27c253473cd5-a-mathematician-reads-the-ai-future.md"
   },
   {
@@ -48,7 +119,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "points": 200,
+    "points": 220,
     "path": "news/2026/10/25/9fec697fddc7-ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-g.md"
   },
   {
@@ -60,7 +131,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Adobe v ArtCraft teaches us",
-    "points": 85,
+    "points": 89,
     "path": "news/2026/10/25/c97d9e8c7c64-what-adobe-v-artcraft-teaches-us.md"
   },
   {
@@ -76,7 +147,7 @@
     ],
     "importance": 2,
     "summary": "R/open source bans all solo projects and projects using LLMs",
-    "points": 80,
+    "points": 88,
     "path": "news/2026/10/25/9626b225e4c7-r-open-source-bans-all-solo-projects-and-projects-using-llms.md"
   },
   {
@@ -90,7 +161,7 @@
     ],
     "importance": 2,
     "summary": "Imagine an AI future where being banned means you are now economically useless",
-    "points": 94,
+    "points": 97,
     "path": "news/2026/10/25/3445f19e8688-imagine-an-ai-future-where-being-banned-means-you-are-now-ec.md"
   },
   {
@@ -104,7 +175,7 @@
     ],
     "importance": 2,
     "summary": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "points": 133,
+    "points": 141,
     "path": "news/2026/10/25/edf1fccf0afb-nikon-photography-contest-winner-loses-title-after-scientist.md"
   },
   {
@@ -118,8 +189,22 @@
     ],
     "importance": 3,
     "summary": "Cerebras Deploys Trillion-Parameter AI Models",
-    "points": 352,
+    "points": 356,
     "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
+  },
+  {
+    "id": "00f9a3573018",
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "url": "https://huggingface.co/destined/hurston-1",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T01:30:13Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "points": 61,
+    "path": "news/2026/10/25/00f9a3573018-show-hn-hurston-1-open-source-tts-that-speak-southern-americ.md"
   },
   {
     "id": "1369780d96b3",
@@ -130,7 +215,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 504,
+    "points": 526,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -142,7 +227,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No signs of AI payoff outside the tech sector",
-    "points": 613,
+    "points": 629,
     "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
   },
   {
@@ -154,7 +239,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Dream-1",
-    "points": 179,
+    "points": 180,
     "path": "news/2026/10/24/54a84576b739-dream-1.md"
   },
   {
@@ -166,7 +251,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 242,
+    "points": 247,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -178,7 +263,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-    "points": 51,
+    "points": 52,
     "path": "news/2026/10/24/b5d56d5ca530-oai-math-revised-a-community-hub-for-revising-openai-s-math-.md"
   },
   {
@@ -206,7 +291,7 @@
     ],
     "importance": 3,
     "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "points": 327,
+    "points": 340,
     "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
   },
   {
@@ -218,7 +303,7 @@
     "tags": [],
     "importance": 2,
     "summary": "ThinkRail from JetBrains",
-    "points": 56,
+    "points": 57,
     "path": "news/2026/10/24/906857cd0f71-thinkrail-from-jetbrains.md"
   },
   {
@@ -242,7 +327,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How close can pure functional programming get to C?",
-    "points": 275,
+    "points": 279,
     "path": "news/2026/10/24/332b8a0f3c70-how-close-can-pure-functional-programming-get-to-c.md"
   },
   {
@@ -257,7 +342,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "points": 137,
+    "points": 139,
     "path": "news/2026/10/23/eaba44c2708b-show-hn-corgi-a-helpful-agent-terminal-multiplexer.md"
   },
   {
@@ -297,7 +382,7 @@
     ],
     "importance": 3,
     "summary": "Kimi K3.1 Pro",
-    "points": 1079,
+    "points": 1086,
     "path": "news/2026/10/23/2b43fbb6c87d-kimi-k3-1-pro.md"
   },
   {
