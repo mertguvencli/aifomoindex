@@ -1,5 +1,65 @@
 [
   {
+    "id": "9a15b40232fd",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "source": "googleai",
+    "publishedAt": "2026-10-26T16:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Our newest AI Quest: Mapping the human brain",
+    "path": "news/2026/10/26/9a15b40232fd-our-newest-ai-quest-mapping-the-human-brain.md"
+  },
+  {
+    "id": "aaef23617908",
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T13:04:50Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Anthropic S-1",
+    "points": 1039,
+    "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
+  },
+  {
+    "id": "0266daa53922",
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T12:59:48Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Fixing Tool-Call Accuracy in vLLM",
+    "points": 115,
+    "path": "news/2026/10/26/0266daa53922-fixing-tool-call-accuracy-in-vllm.md"
+  },
+  {
+    "id": "3a88fbf47015",
+    "title": "Brown student maps the hidden global labor powering AI",
+    "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T12:58:27Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Brown student maps the hidden global labor powering AI",
+    "points": 117,
+    "path": "news/2026/10/26/3a88fbf47015-brown-student-maps-the-hidden-global-labor-powering-ai.md"
+  },
+  {
+    "id": "7e73eebe3e90",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "source": "openai",
+    "publishedAt": "2026-10-26T07:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Fanatics and OpenAI streamline the fan experience",
+    "path": "news/2026/10/26/7e73eebe3e90-how-fanatics-and-openai-streamline-the-fan-experience.md"
+  },
+  {
     "id": "11f803bdf2d2",
     "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
     "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
@@ -8,7 +68,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "points": 69,
+    "points": 76,
     "path": "news/2026/10/26/11f803bdf2d2-cognitive-mercantilism-ai-panic-resembles-fears-of-early-cap.md"
   },
   {
@@ -20,7 +80,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "points": 151,
+    "points": 186,
     "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
   },
   {
@@ -35,6 +95,28 @@
     "path": "news/2026/10/26/8661c0485d25-gxo-and-agility-robotics-expand-partnership-to-accelerate-de.md"
   },
   {
+    "id": "138f8fbf6495",
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "source": "anthropic",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "path": "news/2026/10/26/138f8fbf6495-anthropic-files-s-1-with-the-sec-for-proposed-initial-public.md"
+  },
+  {
+    "id": "d5ce20f9ec3e",
+    "title": "Agility Robotics Highlights Commercial Momentum and Growing Enterprise Demand for Digit Humanoid Robot",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot",
+    "source": "agility",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Robotics Highlights Commercial Momentum and Growing Enterprise Demand for Digit Humanoid Robot",
+    "path": "news/2026/10/26/d5ce20f9ec3e-agility-robotics-highlights-commercial-momentum-and-growing-.md"
+  },
+  {
     "id": "5c8192d7a006",
     "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
     "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
@@ -43,7 +125,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-    "points": 58,
+    "points": 68,
     "path": "news/2026/10/25/5c8192d7a006-apollo-says-ai-has-delivered-zero-financial-payoff-outside-t.md"
   },
   {
@@ -57,7 +139,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 336,
+    "points": 396,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
   },
   {
@@ -69,7 +151,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "points": 57,
+    "points": 78,
     "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
@@ -83,7 +165,7 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 574,
+    "points": 642,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
   },
   {
@@ -95,7 +177,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Sabre Wulf Remastered",
-    "points": 57,
+    "points": 59,
     "path": "news/2026/10/25/d03ffdd599af-sabre-wulf-remastered.md"
   },
   {
@@ -107,7 +189,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A mathematician reads the AI future",
-    "points": 61,
+    "points": 68,
     "path": "news/2026/10/25/27c253473cd5-a-mathematician-reads-the-ai-future.md"
   },
   {
@@ -119,7 +201,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "points": 220,
+    "points": 228,
     "path": "news/2026/10/25/9fec697fddc7-ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-g.md"
   },
   {
@@ -131,7 +213,7 @@
     "tags": [],
     "importance": 2,
     "summary": "What Adobe v ArtCraft teaches us",
-    "points": 89,
+    "points": 90,
     "path": "news/2026/10/25/c97d9e8c7c64-what-adobe-v-artcraft-teaches-us.md"
   },
   {
@@ -147,7 +229,7 @@
     ],
     "importance": 2,
     "summary": "R/open source bans all solo projects and projects using LLMs",
-    "points": 88,
+    "points": 90,
     "path": "news/2026/10/25/9626b225e4c7-r-open-source-bans-all-solo-projects-and-projects-using-llms.md"
   },
   {
@@ -161,7 +243,7 @@
     ],
     "importance": 2,
     "summary": "Imagine an AI future where being banned means you are now economically useless",
-    "points": 97,
+    "points": 98,
     "path": "news/2026/10/25/3445f19e8688-imagine-an-ai-future-where-being-banned-means-you-are-now-ec.md"
   },
   {
@@ -175,7 +257,7 @@
     ],
     "importance": 2,
     "summary": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "points": 141,
+    "points": 144,
     "path": "news/2026/10/25/edf1fccf0afb-nikon-photography-contest-winner-loses-title-after-scientist.md"
   },
   {
@@ -189,7 +271,7 @@
     ],
     "importance": 3,
     "summary": "Cerebras Deploys Trillion-Parameter AI Models",
-    "points": 356,
+    "points": 363,
     "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
   },
   {
@@ -207,6 +289,20 @@
     "path": "news/2026/10/25/00f9a3573018-show-hn-hurston-1-open-source-tts-that-speak-southern-americ.md"
   },
   {
+    "id": "12bb42da449f",
+    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+    "url": "https://adrs.systems",
+    "source": "hackernews",
+    "publishedAt": "2026-10-25T00:43:47Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+    "points": 62,
+    "path": "news/2026/10/25/12bb42da449f-show-hn-adrs-for-ai-deliberation-records-for-human-ai-work-v.md"
+  },
+  {
     "id": "1369780d96b3",
     "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
@@ -215,7 +311,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 526,
+    "points": 537,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -227,7 +323,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No signs of AI payoff outside the tech sector",
-    "points": 629,
+    "points": 637,
     "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
   },
   {
@@ -251,7 +347,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 247,
+    "points": 251,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -291,7 +387,7 @@
     ],
     "importance": 3,
     "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "points": 340,
+    "points": 344,
     "path": "news/2026/10/24/b6ee2b32304d-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-c.md"
   },
   {
@@ -368,7 +464,7 @@
     ],
     "importance": 2,
     "summary": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-    "points": 120,
+    "points": 121,
     "path": "news/2026/10/23/fb7b4f33e471-kimi-k3-1-scores-55-on-artificial-analysis-placed-on-the-par.md"
   },
   {
@@ -456,7 +552,7 @@
     "importance": 2,
     "summary": "Securing our frontier model training environment",
     "path": "news/2026/10/23/f8c156dba788-securing-our-frontier-model-training-environment.md",
-    "points": 120
+    "points": 121
   },
   {
     "id": "34a9422e8d98",
