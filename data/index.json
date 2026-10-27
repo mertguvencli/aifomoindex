@@ -1,5 +1,44 @@
 [
   {
+    "id": "89893d5f73c7",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T22:41:48Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "points": 83,
+    "path": "news/2026/10/26/89893d5f73c7-cross-request-kv-cache-exposure-in-the-glm-5-3-workers-ai-mo.md"
+  },
+  {
+    "id": "a9c488820a62",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "openai",
+    "publishedAt": "2026-10-26T22:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "path": "news/2026/10/26/a9c488820a62-greptile-takes-bug-detection-beyond-code-review-with-gpt-6-a.md"
+  },
+  {
+    "id": "2f04de563efd",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T21:59:15Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "The Exponential Time Hypothesis Is False [pdf]",
+    "points": 336,
+    "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
+  },
+  {
     "id": "afaf348e0bbb",
     "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
     "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
@@ -8,9 +47,9 @@
     "tags": [
       "product"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-    "points": 189,
+    "points": 222,
     "path": "news/2026/10/26/afaf348e0bbb-chatgpt-keeps-telling-people-404-media-can-solve-their-tech-.md"
   },
   {
@@ -24,7 +63,7 @@
     ],
     "importance": 2,
     "summary": "The Git Forge for Agent-Human Collaboration",
-    "points": 51,
+    "points": 54,
     "path": "news/2026/10/26/48cf39a28bcf-the-git-forge-for-agent-human-collaboration.md"
   },
   {
@@ -39,7 +78,7 @@
     ],
     "importance": 3,
     "summary": "Concerning behavior from a popular open-weight AI model",
-    "points": 220,
+    "points": 262,
     "path": "news/2026/10/26/27779e2e3a96-concerning-behavior-from-a-popular-open-weight-ai-model.md"
   },
   {
@@ -55,7 +94,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "points": 55,
+    "points": 123,
     "path": "news/2026/10/26/f93d4d5cf699-show-hn-hob-open-source-on-device-alternative-to-claude-cowo.md"
   },
   {
@@ -92,7 +131,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1375,
+    "points": 1496,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -106,7 +145,7 @@
     ],
     "importance": 2,
     "summary": "Fixing Tool-Call Accuracy in vLLM",
-    "points": 141,
+    "points": 149,
     "path": "news/2026/10/26/0266daa53922-fixing-tool-call-accuracy-in-vllm.md"
   },
   {
@@ -118,7 +157,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Brown student maps the hidden global labor powering AI",
-    "points": 170,
+    "points": 175,
     "path": "news/2026/10/26/3a88fbf47015-brown-student-maps-the-hidden-global-labor-powering-ai.md"
   },
   {
@@ -177,7 +216,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "points": 189,
+    "points": 191,
     "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
   },
   {
@@ -220,9 +259,10 @@
     "source": "openai",
     "publishedAt": "2026-10-26T00:00:00.000Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
-    "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md"
+    "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
+    "points": 530
   },
   {
     "id": "35e334c19874",
@@ -236,7 +276,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.1 Terra",
-    "points": 405,
+    "points": 519,
     "path": "news/2026/10/26/35e334c19874-introducing-gpt-6-1-terra.md"
   },
   {
@@ -248,7 +288,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-    "points": 69,
+    "points": 70,
     "path": "news/2026/10/25/5c8192d7a006-apollo-says-ai-has-delivered-zero-financial-payoff-outside-t.md"
   },
   {
@@ -262,7 +302,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 407,
+    "points": 418,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
   },
   {
@@ -274,7 +314,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "points": 81,
+    "points": 84,
     "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
@@ -288,7 +328,7 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 649,
+    "points": 655,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
   },
   {
@@ -324,7 +364,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "points": 235,
+    "points": 237,
     "path": "news/2026/10/25/9fec697fddc7-ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-g.md"
   },
   {
@@ -422,7 +462,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/10/25/12bb42da449f-show-hn-adrs-for-ai-deliberation-records-for-human-ai-work-v.md"
   },
   {
@@ -434,7 +474,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 540,
+    "points": 541,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -446,7 +486,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No signs of AI payoff outside the tech sector",
-    "points": 637,
+    "points": 638,
     "path": "news/2026/10/24/d76a689c9204-no-signs-of-ai-payoff-outside-the-tech-sector.md"
   },
   {
@@ -470,7 +510,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 253,
+    "points": 254,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {

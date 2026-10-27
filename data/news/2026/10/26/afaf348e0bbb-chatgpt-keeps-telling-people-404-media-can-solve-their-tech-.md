@@ -5,8 +5,8 @@ url: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-th
 source: hackernews
 published_at: 2026-10-26T17:32:16Z
 fetched_at: 2026-10-26T21:59:14.934Z
-importance: 2
-points: 189
+importance: 3
+points: 222
 tags: [product]
 ---
 
