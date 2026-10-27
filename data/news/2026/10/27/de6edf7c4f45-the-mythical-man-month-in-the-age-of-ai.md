@@ -5,8 +5,8 @@ url: https://j11g.com/the-mythical-man-month-in-the-age-of-ai
 source: hackernews
 published_at: 2026-10-27T06:25:37Z
 fetched_at: 2026-10-27T11:09:41.500Z
-importance: 2
-points: 175
+importance: 3
+points: 353
 tags: []
 ---
 

@@ -1,14 +1,106 @@
 [
   {
+    "id": "1d6c5c59e46e",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "huggingface",
+    "publishedAt": "2026-10-27T16:12:42.000Z",
+    "tags": [
+      "model",
+      "research",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Can we trust LLMs to judge whether a research idea is novel?",
+    "path": "news/2026/10/27/1d6c5c59e46e-can-we-trust-llms-to-judge-whether-a-research-idea-is-novel.md"
+  },
+  {
+    "id": "e960e8891f7d",
+    "title": "Genie 4: A new generation of world simulation",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source": "deepmind",
+    "publishedAt": "2026-10-27T16:01:38.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Genie 4: A new generation of world simulation",
+    "path": "news/2026/10/27/e960e8891f7d-genie-4-a-new-generation-of-world-simulation.md"
+  },
+  {
+    "id": "f3e020b4efe8",
+    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T15:28:26Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "points": 64,
+    "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
+  },
+  {
+    "id": "70d96e780ce1",
+    "title": "Is my data used for model training?",
+    "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T13:56:15Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Is my data used for model training?",
+    "points": 157,
+    "path": "news/2026/10/27/70d96e780ce1-is-my-data-used-for-model-training.md"
+  },
+  {
+    "id": "0fa71fcc03f5",
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T11:08:15Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Wikipedia's Cleanup of AI-Generated Content",
+    "points": 271,
+    "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
+  },
+  {
+    "id": "11b65591c039",
+    "title": "AI promised less work. I've never worked more",
+    "url": "https://oioannou.com/blog/ai-promised-less-work/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T11:08:14Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "AI promised less work. I've never worked more",
+    "points": 567,
+    "path": "news/2026/10/27/11b65591c039-ai-promised-less-work-i-ve-never-worked-more.md"
+  },
+  {
+    "id": "c417f8e3d39d",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "openai",
+    "publishedAt": "2026-10-27T07:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "path": "news/2026/10/27/c417f8e3d39d-openai-expands-partnership-with-oracle-to-bring-its-apps-to-.md"
+  },
+  {
     "id": "de6edf7c4f45",
     "title": "The Mythical Man-Month in the Age of AI",
     "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
     "source": "hackernews",
     "publishedAt": "2026-10-27T06:25:37Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 175,
+    "points": 353,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -23,7 +115,7 @@
     ],
     "importance": 2,
     "summary": "There are now 5 inference providers for abliterated DeepSeek",
-    "points": 78,
+    "points": 88,
     "path": "news/2026/10/27/5a24e14dcd27-there-are-now-5-inference-providers-for-abliterated-deepseek.md"
   },
   {
@@ -37,7 +129,7 @@
     ],
     "importance": 2,
     "summary": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "points": 142,
+    "points": 173,
     "path": "news/2026/10/26/89893d5f73c7-cross-request-kv-cache-exposure-in-the-glm-5-3-workers-ai-mo.md"
   },
   {
@@ -62,7 +154,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Exponential Time Hypothesis Is False [pdf]",
-    "points": 646,
+    "points": 751,
     "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
   },
   {
@@ -74,7 +166,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-    "points": 68,
+    "points": 71,
     "path": "news/2026/10/26/3cfb4d6aba2a-proton-to-re-interview-staff-about-ai-to-see-who-gets-to-kee.md"
   },
   {
@@ -88,7 +180,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-    "points": 249,
+    "points": 256,
     "path": "news/2026/10/26/afaf348e0bbb-chatgpt-keeps-telling-people-404-media-can-solve-their-tech-.md"
   },
   {
@@ -102,7 +194,7 @@
     ],
     "importance": 2,
     "summary": "The Git Forge for Agent-Human Collaboration",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/26/48cf39a28bcf-the-git-forge-for-agent-human-collaboration.md"
   },
   {
@@ -117,7 +209,7 @@
     ],
     "importance": 3,
     "summary": "Concerning behavior from a popular open-weight AI model",
-    "points": 304,
+    "points": 314,
     "path": "news/2026/10/26/27779e2e3a96-concerning-behavior-from-a-popular-open-weight-ai-model.md"
   },
   {
@@ -133,7 +225,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "points": 147,
+    "points": 159,
     "path": "news/2026/10/26/f93d4d5cf699-show-hn-hob-open-source-on-device-alternative-to-claude-cowo.md"
   },
   {
@@ -170,7 +262,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1622,
+    "points": 1673,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -184,7 +276,7 @@
     ],
     "importance": 2,
     "summary": "Fixing Tool-Call Accuracy in vLLM",
-    "points": 165,
+    "points": 170,
     "path": "news/2026/10/26/0266daa53922-fixing-tool-call-accuracy-in-vllm.md"
   },
   {
@@ -196,7 +288,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Brown student maps the hidden global labor powering AI",
-    "points": 179,
+    "points": 181,
     "path": "news/2026/10/26/3a88fbf47015-brown-student-maps-the-hidden-global-labor-powering-ai.md"
   },
   {
@@ -255,7 +347,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "points": 191,
+    "points": 192,
     "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
   },
   {
@@ -301,7 +393,7 @@
     "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
     "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
-    "points": 943
+    "points": 1079
   },
   {
     "id": "35e334c19874",
@@ -315,7 +407,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.1 Terra",
-    "points": 596,
+    "points": 615,
     "path": "news/2026/10/26/35e334c19874-introducing-gpt-6-1-terra.md"
   },
   {
@@ -341,7 +433,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 426,
+    "points": 428,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
   },
   {
@@ -353,7 +445,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "points": 88,
+    "points": 94,
     "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
@@ -367,7 +459,7 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 660,
+    "points": 665,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
   },
   {
@@ -403,7 +495,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "points": 237,
+    "points": 238,
     "path": "news/2026/10/25/9fec697fddc7-ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-g.md"
   },
   {
@@ -445,7 +537,7 @@
     ],
     "importance": 2,
     "summary": "Imagine an AI future where being banned means you are now economically useless",
-    "points": 98,
+    "points": 99,
     "path": "news/2026/10/25/3445f19e8688-imagine-an-ai-future-where-being-banned-means-you-are-now-ec.md"
   },
   {
@@ -473,7 +565,7 @@
     ],
     "importance": 3,
     "summary": "Cerebras Deploys Trillion-Parameter AI Models",
-    "points": 366,
+    "points": 367,
     "path": "news/2026/10/25/a2637483f507-cerebras-deploys-trillion-parameter-ai-models.md"
   },
   {
@@ -487,7 +579,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-    "points": 65,
+    "points": 66,
     "path": "news/2026/10/25/00f9a3573018-show-hn-hurston-1-open-source-tts-that-speak-southern-americ.md"
   },
   {
@@ -513,7 +605,7 @@
     "tags": [],
     "importance": 3,
     "summary": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-    "points": 541,
+    "points": 542,
     "path": "news/2026/10/24/1369780d96b3-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how.md"
   },
   {
@@ -549,7 +641,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Why is AI generated language so hard to understand?",
-    "points": 254,
+    "points": 256,
     "path": "news/2026/10/24/02e941dcb420-why-is-ai-generated-language-so-hard-to-understand.md"
   },
   {
@@ -845,6 +937,19 @@
     "importance": 2,
     "summary": "Jonathan Hurst answers your questions about building Digit 5",
     "path": "news/2026/10/23/861da6fc6a94-jonathan-hurst-answers-your-questions-about-building-digit-5.md"
+  },
+  {
+    "id": "3b5a2a6a27ab",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "url": "https://openai.com/index/anima",
+    "source": "openai",
+    "publishedAt": "2026-10-23T00:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "path": "news/2026/10/23/3b5a2a6a27ab-anima-helps-clinics-cut-call-waits-by-75-with-gpt-6-and-gpt-.md"
   },
   {
     "id": "e202046e8fa9",
