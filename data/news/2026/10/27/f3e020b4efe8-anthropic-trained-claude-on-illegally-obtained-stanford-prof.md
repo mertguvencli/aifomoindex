@@ -5,8 +5,8 @@ url: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-clau
 source: hackernews
 published_at: 2026-10-27T15:28:26Z
 fetched_at: 2026-10-27T16:56:21.296Z
-importance: 2
-points: 64
+importance: 3
+points: 353
 tags: [model]
 ---
 
