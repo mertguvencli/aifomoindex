@@ -1,5 +1,31 @@
 [
   {
+    "id": "a190faa8548a",
+    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T22:31:15Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "points": 67,
+    "path": "news/2026/10/27/a190faa8548a-reviewers-rarely-talk-about-reliability-owners-bring-it-up-t.md"
+  },
+  {
+    "id": "e05fd65d1ae0",
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T20:50:42Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Early progress on accelerating drug development with Claude",
+    "points": 145,
+    "path": "news/2026/10/27/e05fd65d1ae0-early-progress-on-accelerating-drug-development-with-claude.md"
+  },
+  {
     "id": "a88ac8682a34",
     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
     "url": "https://www.brangus.io/survival-llm",
@@ -8,9 +34,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 65,
+    "points": 206,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
   },
   {
@@ -38,7 +64,7 @@
     ],
     "importance": 2,
     "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "points": 81,
+    "points": 124,
     "path": "news/2026/10/27/c40940d8d78e-introducing-lfm3-every-modality-for-specialized-intelligence.md"
   },
   {
@@ -50,7 +76,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "points": 291,
+    "points": 345,
     "path": "news/2026/10/27/b7bdac3bb4ce-police-are-using-ai-to-pull-over-drivers-for-suspicious-beha.md"
   },
   {
@@ -62,7 +88,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Classification of Finite Simple Groups Formalized in Lean",
-    "points": 133,
+    "points": 178,
     "path": "news/2026/10/27/b65c14d25885-classification-of-finite-simple-groups-formalized-in-lean.md"
   },
   {
@@ -72,9 +98,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-27T16:25:30Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 150,
+    "points": 280,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -114,7 +140,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 353,
+    "points": 480,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
@@ -129,7 +155,7 @@
     ],
     "importance": 3,
     "summary": "Is my data used for model training?",
-    "points": 206,
+    "points": 214,
     "path": "news/2026/10/27/70d96e780ce1-is-my-data-used-for-model-training.md"
   },
   {
@@ -141,7 +167,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Wikipedia's Cleanup of AI-Generated Content",
-    "points": 401,
+    "points": 459,
     "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
   },
   {
@@ -153,7 +179,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI promised less work. I've never worked more",
-    "points": 607,
+    "points": 622,
     "path": "news/2026/10/27/11b65591c039-ai-promised-less-work-i-ve-never-worked-more.md"
   },
   {
@@ -178,7 +204,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 412,
+    "points": 439,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -193,7 +219,7 @@
     ],
     "importance": 2,
     "summary": "There are now 5 inference providers for abliterated DeepSeek",
-    "points": 91,
+    "points": 93,
     "path": "news/2026/10/27/5a24e14dcd27-there-are-now-5-inference-providers-for-abliterated-deepseek.md"
   },
   {
@@ -210,6 +236,20 @@
     "path": "news/2026/10/27/c44dc9ed271f-how-check-point-accelerates-vulnerability-research-with-dayb.md"
   },
   {
+    "id": "86f3cc373bd8",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "source": "anthropic",
+    "publishedAt": "2026-10-27T00:00:00.000Z",
+    "tags": [
+      "model",
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "path": "news/2026/10/27/86f3cc373bd8-expanding-our-partnership-with-gsa-to-bring-claude-to-all-le.md"
+  },
+  {
     "id": "89893d5f73c7",
     "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
     "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
@@ -220,7 +260,7 @@
     ],
     "importance": 2,
     "summary": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "points": 177,
+    "points": 178,
     "path": "news/2026/10/26/89893d5f73c7-cross-request-kv-cache-exposure-in-the-glm-5-3-workers-ai-mo.md"
   },
   {
@@ -245,7 +285,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Exponential Time Hypothesis Is False [pdf]",
-    "points": 773,
+    "points": 778,
     "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
   },
   {
@@ -257,7 +297,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-    "points": 78,
+    "points": 81,
     "path": "news/2026/10/26/3cfb4d6aba2a-proton-to-re-interview-staff-about-ai-to-see-who-gets-to-kee.md"
   },
   {
@@ -300,7 +340,7 @@
     ],
     "importance": 3,
     "summary": "Concerning behavior from a popular open-weight AI model",
-    "points": 321,
+    "points": 324,
     "path": "news/2026/10/26/27779e2e3a96-concerning-behavior-from-a-popular-open-weight-ai-model.md"
   },
   {
@@ -316,7 +356,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "points": 164,
+    "points": 165,
     "path": "news/2026/10/26/f93d4d5cf699-show-hn-hob-open-source-on-device-alternative-to-claude-cowo.md"
   },
   {
@@ -353,7 +393,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1684,
+    "points": 1690,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -484,7 +524,7 @@
     "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
     "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
-    "points": 1117
+    "points": 1129
   },
   {
     "id": "35e334c19874",
@@ -498,7 +538,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.1 Terra",
-    "points": 620,
+    "points": 626,
     "path": "news/2026/10/26/35e334c19874-introducing-gpt-6-1-terra.md"
   },
   {
@@ -524,7 +564,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 432,
+    "points": 434,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
   },
   {
@@ -536,7 +576,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "points": 95,
+    "points": 96,
     "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
@@ -550,7 +590,7 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 665,
+    "points": 666,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
   },
   {
@@ -2970,6 +3010,28 @@
     "importance": 2,
     "summary": "Pika Is Now Inside ChatGPT",
     "path": "news/2026/10/16/7f5d917745d3-pika-is-now-inside-chatgpt.md"
+  },
+  {
+    "id": "86dbfdb5b436",
+    "title": "How Grupo Boticário uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
+    "source": "openai",
+    "publishedAt": "2026-10-16T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Grupo Boticário uses AI to strengthen human connections",
+    "path": "news/2026/10/16/86dbfdb5b436-how-grupo-botic-rio-uses-ai-to-strengthen-human-connections.md"
+  },
+  {
+    "id": "d3b9ba6f7bd0",
+    "title": "How Localiza reorganized work around generative AI",
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "source": "openai",
+    "publishedAt": "2026-10-16T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Localiza reorganized work around generative AI",
+    "path": "news/2026/10/16/d3b9ba6f7bd0-how-localiza-reorganized-work-around-generative-ai.md"
   },
   {
     "id": "d33064359577",

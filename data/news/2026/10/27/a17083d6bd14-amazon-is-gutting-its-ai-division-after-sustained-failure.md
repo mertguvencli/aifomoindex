@@ -5,8 +5,8 @@ url: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nov
 source: hackernews
 published_at: 2026-10-27T16:25:30Z
 fetched_at: 2026-10-27T21:31:12.914Z
-importance: 2
-points: 150
+importance: 3
+points: 280
 tags: []
 ---
 
