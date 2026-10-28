@@ -1,5 +1,122 @@
 [
   {
+    "id": "a92d7b7ef0e2",
+    "title": "Gemini 4 Carbon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T17:01:23Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Gemini 4 Carbon",
+    "points": 137,
+    "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
+  },
+  {
+    "id": "3e32bae570ff",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "source": "deepmind",
+    "publishedAt": "2026-10-28T17:00:58.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Gemini 4 Carbon: Our next frontier model",
+    "path": "news/2026/10/28/3e32bae570ff-gemini-4-carbon-our-next-frontier-model.md"
+  },
+  {
+    "id": "17a75de37df0",
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T15:46:30Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "points": 60,
+    "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
+  },
+  {
+    "id": "ec733f799e1a",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "source": "huggingface",
+    "publishedAt": "2026-10-28T14:58:17.000Z",
+    "tags": [
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "path": "news/2026/10/28/ec733f799e1a-nvidia-nemotron-3-5-transcribe-and-granary-v2-intelligent-mu.md"
+  },
+  {
+    "id": "b16df7ad1b73",
+    "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+    "url": "https://github.com/thomasunise/casecite",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T13:56:21Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+    "points": 68,
+    "path": "news/2026/10/28/b16df7ad1b73-harvey-raised-500m-for-legal-ai-i-built-the-same-and-open-so.md"
+  },
+  {
+    "id": "9fb777e852af",
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T13:41:30Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "points": 256,
+    "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
+  },
+  {
+    "id": "91080018660f",
+    "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+    "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T13:27:24Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Valve Responds to Developers Fearing AI Slop and Clones",
+    "points": 55,
+    "path": "news/2026/10/28/91080018660f-valve-responds-to-developers-fearing-ai-slop-and-clones.md"
+  },
+  {
+    "id": "a47fefdfcbee",
+    "title": "Apple's git still trusts the compromised eMudhra certificates",
+    "url": "https://emudhra.we-have-a-problem.com/apple.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T11:03:40Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Apple's git still trusts the compromised eMudhra certificates",
+    "points": 796,
+    "path": "news/2026/10/28/a47fefdfcbee-apple-s-git-still-trusts-the-compromised-emudhra-certificate.md"
+  },
+  {
+    "id": "ed1394c834ec",
+    "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T10:10:58Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+    "points": 52,
+    "path": "news/2026/10/28/ed1394c834ec-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft.md"
+  },
+  {
     "id": "67c6b18b0a76",
     "title": "Legora is building the agentic operating system for legal work",
     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
@@ -21,7 +138,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Artificial Analysis Intelligence Index v5",
-    "points": 65,
+    "points": 84,
     "path": "news/2026/10/28/6d6987e4078b-artificial-analysis-intelligence-index-v5.md"
   },
   {
@@ -33,7 +150,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Git for the US Code",
-    "points": 299,
+    "points": 380,
     "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
   },
   {
@@ -45,7 +162,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-    "points": 107,
+    "points": 110,
     "path": "news/2026/10/27/a190faa8548a-reviewers-rarely-talk-about-reliability-owners-bring-it-up-t.md"
   },
   {
@@ -59,7 +176,7 @@
     ],
     "importance": 3,
     "summary": "Early progress on accelerating drug development with Claude",
-    "points": 242,
+    "points": 295,
     "path": "news/2026/10/27/e05fd65d1ae0-early-progress-on-accelerating-drug-development-with-claude.md"
   },
   {
@@ -73,7 +190,7 @@
     ],
     "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 381,
+    "points": 479,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
   },
   {
@@ -101,7 +218,7 @@
     ],
     "importance": 2,
     "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "points": 146,
+    "points": 159,
     "path": "news/2026/10/27/c40940d8d78e-introducing-lfm3-every-modality-for-specialized-intelligence.md"
   },
   {
@@ -113,7 +230,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "points": 374,
+    "points": 386,
     "path": "news/2026/10/27/b7bdac3bb4ce-police-are-using-ai-to-pull-over-drivers-for-suspicious-beha.md"
   },
   {
@@ -125,7 +242,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Classification of Finite Simple Groups Formalized in Lean",
-    "points": 216,
+    "points": 235,
     "path": "news/2026/10/27/b65c14d25885-classification-of-finite-simple-groups-formalized-in-lean.md"
   },
   {
@@ -137,7 +254,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 325,
+    "points": 352,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -177,7 +294,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 527,
+    "points": 555,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
@@ -192,7 +309,7 @@
     ],
     "importance": 3,
     "summary": "Is my data used for model training?",
-    "points": 219,
+    "points": 223,
     "path": "news/2026/10/27/70d96e780ce1-is-my-data-used-for-model-training.md"
   },
   {
@@ -204,7 +321,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Wikipedia's Cleanup of AI-Generated Content",
-    "points": 483,
+    "points": 492,
     "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
   },
   {
@@ -216,7 +333,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI promised less work. I've never worked more",
-    "points": 645,
+    "points": 656,
     "path": "news/2026/10/27/11b65591c039-ai-promised-less-work-i-ve-never-worked-more.md"
   },
   {
@@ -233,6 +350,18 @@
     "path": "news/2026/10/27/c417f8e3d39d-openai-expands-partnership-with-oracle-to-bring-its-apps-to-.md"
   },
   {
+    "id": "71fdde578aa1",
+    "title": "“AI Skills” are worthless in 2026",
+    "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T06:33:34Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "“AI Skills” are worthless in 2026",
+    "points": 51,
+    "path": "news/2026/10/27/71fdde578aa1-ai-skills-are-worthless-in-2026.md"
+  },
+  {
     "id": "de6edf7c4f45",
     "title": "The Mythical Man-Month in the Age of AI",
     "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
@@ -241,7 +370,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 458,
+    "points": 469,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -256,7 +385,7 @@
     ],
     "importance": 2,
     "summary": "There are now 5 inference providers for abliterated DeepSeek",
-    "points": 95,
+    "points": 96,
     "path": "news/2026/10/27/5a24e14dcd27-there-are-now-5-inference-providers-for-abliterated-deepseek.md"
   },
   {
@@ -297,7 +426,7 @@
     ],
     "importance": 2,
     "summary": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "points": 179,
+    "points": 181,
     "path": "news/2026/10/26/89893d5f73c7-cross-request-kv-cache-exposure-in-the-glm-5-3-workers-ai-mo.md"
   },
   {
@@ -322,7 +451,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Exponential Time Hypothesis Is False [pdf]",
-    "points": 785,
+    "points": 792,
     "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
   },
   {
@@ -334,7 +463,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-    "points": 83,
+    "points": 85,
     "path": "news/2026/10/26/3cfb4d6aba2a-proton-to-re-interview-staff-about-ai-to-see-who-gets-to-kee.md"
   },
   {
@@ -377,7 +506,7 @@
     ],
     "importance": 3,
     "summary": "Concerning behavior from a popular open-weight AI model",
-    "points": 327,
+    "points": 329,
     "path": "news/2026/10/26/27779e2e3a96-concerning-behavior-from-a-popular-open-weight-ai-model.md"
   },
   {
@@ -393,7 +522,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "points": 169,
+    "points": 171,
     "path": "news/2026/10/26/f93d4d5cf699-show-hn-hob-open-source-on-device-alternative-to-claude-cowo.md"
   },
   {
@@ -430,7 +559,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1697,
+    "points": 1700,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -503,7 +632,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "points": 82,
+    "points": 83,
     "path": "news/2026/10/26/11f803bdf2d2-cognitive-mercantilism-ai-panic-resembles-fears-of-early-cap.md"
   },
   {
@@ -515,7 +644,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "points": 194,
+    "points": 196,
     "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
   },
   {
@@ -561,7 +690,7 @@
     "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
     "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
-    "points": 1137
+    "points": 1142
   },
   {
     "id": "35e334c19874",
@@ -575,7 +704,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.1 Terra",
-    "points": 628,
+    "points": 630,
     "path": "news/2026/10/26/35e334c19874-introducing-gpt-6-1-terra.md"
   },
   {
@@ -587,7 +716,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/10/25/5c8192d7a006-apollo-says-ai-has-delivered-zero-financial-payoff-outside-t.md"
   },
   {
@@ -601,7 +730,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 437,
+    "points": 439,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
   },
   {
@@ -613,7 +742,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "points": 97,
+    "points": 99,
     "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
