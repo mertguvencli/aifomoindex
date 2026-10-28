@@ -5,8 +5,8 @@ url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/int
 source: hackernews
 published_at: 2026-10-28T17:01:23Z
 fetched_at: 2026-10-28T17:30:19.289Z
-importance: 2
-points: 137
+importance: 3
+points: 675
 tags: [model]
 ---
 

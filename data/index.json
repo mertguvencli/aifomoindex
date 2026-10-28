@@ -1,5 +1,17 @@
 [
   {
+    "id": "ef243006ac6a",
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T20:10:16Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Google AI gets cagey when asked who won the 2020 elections",
+    "points": 63,
+    "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
+  },
+  {
     "id": "a92d7b7ef0e2",
     "title": "Gemini 4 Carbon",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
@@ -8,9 +20,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Gemini 4 Carbon",
-    "points": 137,
+    "points": 675,
     "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
   },
   {
@@ -37,7 +49,7 @@
     ],
     "importance": 2,
     "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "points": 60,
+    "points": 164,
     "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
   },
   {
@@ -77,7 +89,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "points": 256,
+    "points": 379,
     "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
   },
   {
@@ -89,8 +101,19 @@
     "tags": [],
     "importance": 2,
     "summary": "Valve Responds to Developers Fearing AI Slop and Clones",
-    "points": 55,
+    "points": 65,
     "path": "news/2026/10/28/91080018660f-valve-responds-to-developers-fearing-ai-slop-and-clones.md"
+  },
+  {
+    "id": "a395c7da350b",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "openai",
+    "publishedAt": "2026-10-28T13:15:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "path": "news/2026/10/28/a395c7da350b-openai-and-servicenow-expand-partnership-across-enterprise-w.md"
   },
   {
     "id": "a47fefdfcbee",
@@ -101,7 +124,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Apple's git still trusts the compromised eMudhra certificates",
-    "points": 796,
+    "points": 974,
     "path": "news/2026/10/28/a47fefdfcbee-apple-s-git-still-trusts-the-compromised-emudhra-certificate.md"
   },
   {
@@ -113,8 +136,19 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-    "points": 52,
+    "points": 67,
     "path": "news/2026/10/28/ed1394c834ec-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft.md"
+  },
+  {
+    "id": "e2ed7680c50a",
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "source": "openai",
+    "publishedAt": "2026-10-28T10:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The future of the firm",
+    "path": "news/2026/10/28/e2ed7680c50a-the-future-of-the-firm.md"
   },
   {
     "id": "67c6b18b0a76",
@@ -138,7 +172,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Artificial Analysis Intelligence Index v5",
-    "points": 84,
+    "points": 87,
     "path": "news/2026/10/28/6d6987e4078b-artificial-analysis-intelligence-index-v5.md"
   },
   {
@@ -150,8 +184,21 @@
     "tags": [],
     "importance": 3,
     "summary": "Git for the US Code",
-    "points": 380,
+    "points": 422,
     "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
+  },
+  {
+    "id": "f7219ee448f5",
+    "title": "AI for Science expands to foundations and institutions",
+    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "source": "anthropic",
+    "publishedAt": "2026-10-28T00:00:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "AI for Science expands to foundations and institutions",
+    "path": "news/2026/10/28/f7219ee448f5-ai-for-science-expands-to-foundations-and-institutions.md"
   },
   {
     "id": "a190faa8548a",
@@ -162,7 +209,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-    "points": 110,
+    "points": 112,
     "path": "news/2026/10/27/a190faa8548a-reviewers-rarely-talk-about-reliability-owners-bring-it-up-t.md"
   },
   {
@@ -176,7 +223,7 @@
     ],
     "importance": 3,
     "summary": "Early progress on accelerating drug development with Claude",
-    "points": 295,
+    "points": 318,
     "path": "news/2026/10/27/e05fd65d1ae0-early-progress-on-accelerating-drug-development-with-claude.md"
   },
   {
@@ -190,8 +237,22 @@
     ],
     "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 479,
+    "points": 508,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
+  },
+  {
+    "id": "adf68780db11",
+    "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
+    "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-27T17:49:47Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
+    "points": 55,
+    "path": "news/2026/10/27/adf68780db11-she-worried-about-cutting-her-medication-dose-chatgpt-told-h.md"
   },
   {
     "id": "1c5b51464767",
@@ -218,7 +279,7 @@
     ],
     "importance": 2,
     "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "points": 159,
+    "points": 164,
     "path": "news/2026/10/27/c40940d8d78e-introducing-lfm3-every-modality-for-specialized-intelligence.md"
   },
   {
@@ -230,7 +291,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "points": 386,
+    "points": 391,
     "path": "news/2026/10/27/b7bdac3bb4ce-police-are-using-ai-to-pull-over-drivers-for-suspicious-beha.md"
   },
   {
@@ -242,7 +303,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Classification of Finite Simple Groups Formalized in Lean",
-    "points": 235,
+    "points": 236,
     "path": "news/2026/10/27/b65c14d25885-classification-of-finite-simple-groups-formalized-in-lean.md"
   },
   {
@@ -254,7 +315,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 352,
+    "points": 364,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -294,7 +355,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 555,
+    "points": 564,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
@@ -309,7 +370,7 @@
     ],
     "importance": 3,
     "summary": "Is my data used for model training?",
-    "points": 223,
+    "points": 224,
     "path": "news/2026/10/27/70d96e780ce1-is-my-data-used-for-model-training.md"
   },
   {
@@ -321,7 +382,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Wikipedia's Cleanup of AI-Generated Content",
-    "points": 492,
+    "points": 497,
     "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
   },
   {
@@ -333,7 +394,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI promised less work. I've never worked more",
-    "points": 656,
+    "points": 659,
     "path": "news/2026/10/27/11b65591c039-ai-promised-less-work-i-ve-never-worked-more.md"
   },
   {
@@ -370,7 +431,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 469,
+    "points": 472,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -451,7 +512,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Exponential Time Hypothesis Is False [pdf]",
-    "points": 792,
+    "points": 793,
     "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
   },
   {
@@ -522,7 +583,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/10/26/f93d4d5cf699-show-hn-hob-open-source-on-device-alternative-to-claude-cowo.md"
   },
   {
@@ -632,7 +693,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "points": 83,
+    "points": 84,
     "path": "news/2026/10/26/11f803bdf2d2-cognitive-mercantilism-ai-panic-resembles-fears-of-early-cap.md"
   },
   {
@@ -644,7 +705,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "points": 196,
+    "points": 197,
     "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
   },
   {
@@ -690,7 +751,7 @@
     "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
     "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
-    "points": 1142
+    "points": 1143
   },
   {
     "id": "35e334c19874",
@@ -704,7 +765,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.1 Terra",
-    "points": 630,
+    "points": 633,
     "path": "news/2026/10/26/35e334c19874-introducing-gpt-6-1-terra.md"
   },
   {
@@ -14422,6 +14483,17 @@
     "importance": 2,
     "summary": "Safety overview: GPT-6 Astra",
     "path": "news/2026/09/03/39210f987919-safety-overview-gpt-6-astra.md"
+  },
+  {
+    "id": "81daebda84ad",
+    "title": "Suno Blog",
+    "url": "https://suno.com/blog/rss.xml",
+    "source": "suno",
+    "publishedAt": "2026-09-03T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Suno Blog",
+    "path": "news/2026/09/03/81daebda84ad-suno-blog.md"
   },
   {
     "id": "fc6c3c539342",
