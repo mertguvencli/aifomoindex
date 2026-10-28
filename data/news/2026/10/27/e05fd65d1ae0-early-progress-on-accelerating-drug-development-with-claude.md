@@ -5,8 +5,8 @@ url: https://www.anthropic.com/research/early-progress-drug-development
 source: hackernews
 published_at: 2026-10-27T20:50:42Z
 fetched_at: 2026-10-28T02:47:09.372Z
-importance: 2
-points: 145
+importance: 3
+points: 242
 tags: [model]
 ---
 

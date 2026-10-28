@@ -1,5 +1,42 @@
 [
   {
+    "id": "67c6b18b0a76",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "openai",
+    "publishedAt": "2026-10-28T09:30:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Legora is building the agentic operating system for legal work",
+    "path": "news/2026/10/28/67c6b18b0a76-legora-is-building-the-agentic-operating-system-for-legal-wo.md"
+  },
+  {
+    "id": "6d6987e4078b",
+    "title": "Artificial Analysis Intelligence Index v5",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T03:06:22Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Artificial Analysis Intelligence Index v5",
+    "points": 65,
+    "path": "news/2026/10/28/6d6987e4078b-artificial-analysis-intelligence-index-v5.md"
+  },
+  {
+    "id": "001b60c8250b",
+    "title": "Git for the US Code",
+    "url": "https://lexifina.com/blog/git-for-the-us-code",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T01:47:50Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Git for the US Code",
+    "points": 299,
+    "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
+  },
+  {
     "id": "a190faa8548a",
     "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
     "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
@@ -8,7 +45,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-    "points": 67,
+    "points": 107,
     "path": "news/2026/10/27/a190faa8548a-reviewers-rarely-talk-about-reliability-owners-bring-it-up-t.md"
   },
   {
@@ -20,9 +57,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Early progress on accelerating drug development with Claude",
-    "points": 145,
+    "points": 242,
     "path": "news/2026/10/27/e05fd65d1ae0-early-progress-on-accelerating-drug-development-with-claude.md"
   },
   {
@@ -36,7 +73,7 @@
     ],
     "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 206,
+    "points": 381,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
   },
   {
@@ -64,7 +101,7 @@
     ],
     "importance": 2,
     "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "points": 124,
+    "points": 146,
     "path": "news/2026/10/27/c40940d8d78e-introducing-lfm3-every-modality-for-specialized-intelligence.md"
   },
   {
@@ -76,7 +113,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "points": 345,
+    "points": 374,
     "path": "news/2026/10/27/b7bdac3bb4ce-police-are-using-ai-to-pull-over-drivers-for-suspicious-beha.md"
   },
   {
@@ -86,9 +123,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-27T16:29:02Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Classification of Finite Simple Groups Formalized in Lean",
-    "points": 178,
+    "points": 216,
     "path": "news/2026/10/27/b65c14d25885-classification-of-finite-simple-groups-formalized-in-lean.md"
   },
   {
@@ -100,7 +137,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 280,
+    "points": 325,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -140,7 +177,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 480,
+    "points": 527,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
@@ -155,7 +192,7 @@
     ],
     "importance": 3,
     "summary": "Is my data used for model training?",
-    "points": 214,
+    "points": 219,
     "path": "news/2026/10/27/70d96e780ce1-is-my-data-used-for-model-training.md"
   },
   {
@@ -167,7 +204,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Wikipedia's Cleanup of AI-Generated Content",
-    "points": 459,
+    "points": 483,
     "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
   },
   {
@@ -179,7 +216,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI promised less work. I've never worked more",
-    "points": 622,
+    "points": 645,
     "path": "news/2026/10/27/11b65591c039-ai-promised-less-work-i-ve-never-worked-more.md"
   },
   {
@@ -204,7 +241,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 439,
+    "points": 458,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -219,7 +256,7 @@
     ],
     "importance": 2,
     "summary": "There are now 5 inference providers for abliterated DeepSeek",
-    "points": 93,
+    "points": 95,
     "path": "news/2026/10/27/5a24e14dcd27-there-are-now-5-inference-providers-for-abliterated-deepseek.md"
   },
   {
@@ -260,7 +297,7 @@
     ],
     "importance": 2,
     "summary": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "points": 178,
+    "points": 179,
     "path": "news/2026/10/26/89893d5f73c7-cross-request-kv-cache-exposure-in-the-glm-5-3-workers-ai-mo.md"
   },
   {
@@ -285,7 +322,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Exponential Time Hypothesis Is False [pdf]",
-    "points": 778,
+    "points": 785,
     "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
   },
   {
@@ -297,7 +334,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-    "points": 81,
+    "points": 83,
     "path": "news/2026/10/26/3cfb4d6aba2a-proton-to-re-interview-staff-about-ai-to-see-who-gets-to-kee.md"
   },
   {
@@ -340,7 +377,7 @@
     ],
     "importance": 3,
     "summary": "Concerning behavior from a popular open-weight AI model",
-    "points": 324,
+    "points": 327,
     "path": "news/2026/10/26/27779e2e3a96-concerning-behavior-from-a-popular-open-weight-ai-model.md"
   },
   {
@@ -356,7 +393,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "points": 165,
+    "points": 169,
     "path": "news/2026/10/26/f93d4d5cf699-show-hn-hob-open-source-on-device-alternative-to-claude-cowo.md"
   },
   {
@@ -393,7 +430,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1690,
+    "points": 1697,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -407,7 +444,7 @@
     ],
     "importance": 2,
     "summary": "Fixing Tool-Call Accuracy in vLLM",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/10/26/0266daa53922-fixing-tool-call-accuracy-in-vllm.md"
   },
   {
@@ -466,7 +503,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-    "points": 81,
+    "points": 82,
     "path": "news/2026/10/26/11f803bdf2d2-cognitive-mercantilism-ai-panic-resembles-fears-of-early-cap.md"
   },
   {
@@ -478,7 +515,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "points": 192,
+    "points": 194,
     "path": "news/2026/10/26/b7430d49dae6-removing-next-js-got-my-blog-to-100-on-every-lighthouse-cate.md"
   },
   {
@@ -524,7 +561,7 @@
     "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
     "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
-    "points": 1129
+    "points": 1137
   },
   {
     "id": "35e334c19874",
@@ -538,7 +575,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.1 Terra",
-    "points": 626,
+    "points": 628,
     "path": "news/2026/10/26/35e334c19874-introducing-gpt-6-1-terra.md"
   },
   {
@@ -550,7 +587,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/10/25/5c8192d7a006-apollo-says-ai-has-delivered-zero-financial-payoff-outside-t.md"
   },
   {
@@ -564,7 +601,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "points": 434,
+    "points": 437,
     "path": "news/2026/10/25/240888442444-openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within.md"
   },
   {
@@ -576,7 +613,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "points": 96,
+    "points": 97,
     "path": "news/2026/10/25/763e1f9af686-ai-didn-t-cause-the-tech-jobs-bust-but-it-explains-why-there.md"
   },
   {
@@ -590,7 +627,7 @@
     ],
     "importance": 3,
     "summary": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "points": 666,
+    "points": 667,
     "path": "news/2026/10/25/b83204b7e9c1-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-.md"
   },
   {
