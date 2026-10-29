@@ -1,5 +1,18 @@
 [
   {
+    "id": "9349f418e7bc",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "openai",
+    "publishedAt": "2026-10-29T17:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "An updated Model Spec for more capable and beneficial AI",
+    "path": "news/2026/10/29/9349f418e7bc-an-updated-model-spec-for-more-capable-and-beneficial-ai.md"
+  },
+  {
     "id": "4890bdcdc518",
     "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
     "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
@@ -10,7 +23,7 @@
     ],
     "importance": 2,
     "summary": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "points": 51,
+    "points": 58,
     "path": "news/2026/10/29/4890bdcdc518-grace-blackwell-needs-a-new-scheduler-27-more-usable-gpus-fr.md"
   },
   {
@@ -22,7 +35,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Zombie stats: Where the numbers AI quotes come from",
-    "points": 81,
+    "points": 83,
     "path": "news/2026/10/29/a1f8d24a51e3-zombie-stats-where-the-numbers-ai-quotes-come-from.md"
   },
   {
@@ -36,8 +49,20 @@
     ],
     "importance": 2,
     "summary": "LLM Voice",
-    "points": 64,
+    "points": 86,
     "path": "news/2026/10/29/815e9f76383a-llm-voice.md"
+  },
+  {
+    "id": "d42e7299a0de",
+    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T14:29:06Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+    "points": 52,
+    "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
     "id": "e508e29ae812",
@@ -64,7 +89,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "points": 306,
+    "points": 308,
     "path": "news/2026/10/29/5385485570aa-gemini-4-carbon-is-the-new-1-on-the-artificial-analysis-inte.md"
   },
   {
@@ -79,7 +104,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 670,
+    "points": 705,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
@@ -96,6 +121,17 @@
     "path": "news/2026/10/29/0f01adb2acab-how-we-detect-frontier-model-misalignment.md"
   },
   {
+    "id": "d948735545c2",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "openai",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Ropes & Gray is developing AI for transactional diligence",
+    "path": "news/2026/10/29/d948735545c2-how-ropes-gray-is-developing-ai-for-transactional-diligence.md"
+  },
+  {
     "id": "94430ceaa839",
     "title": "Claude Code regularly sends each background agent’s transcript to its model",
     "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
@@ -107,7 +143,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code regularly sends each background agent’s transcript to its model",
-    "points": 530,
+    "points": 534,
     "path": "news/2026/10/29/94430ceaa839-claude-code-regularly-sends-each-background-agent-s-transcri.md"
   },
   {
@@ -215,7 +251,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI execs may be too out of touch to build for the general public",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/10/28/29526404518c-ai-execs-may-be-too-out-of-touch-to-build-for-the-general-pu.md"
   },
   {
@@ -241,7 +277,7 @@
     ],
     "importance": 2,
     "summary": "Scaling Hierarchical Networks",
-    "points": 87,
+    "points": 89,
     "path": "news/2026/10/28/df0b14354e66-scaling-hierarchical-networks.md"
   },
   {
@@ -255,7 +291,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon",
-    "points": 989,
+    "points": 990,
     "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
   },
   {
@@ -371,7 +407,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Apple's git still trusts the compromised eMudhra certificates",
-    "points": 1171,
+    "points": 1173,
     "path": "news/2026/10/28/a47fefdfcbee-apple-s-git-still-trusts-the-compromised-emudhra-certificate.md"
   },
   {
@@ -431,7 +467,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Git for the US Code",
-    "points": 444,
+    "points": 445,
     "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
   },
   {
@@ -602,7 +638,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 593,
+    "points": 594,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
@@ -773,7 +809,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI's agents talked to each other through the CPU Cache",
-    "points": 346,
+    "points": 347,
     "path": "news/2026/10/26/1dc7e2df39a1-openai-s-agents-talked-to-each-other-through-the-cpu-cache.md"
   },
   {
