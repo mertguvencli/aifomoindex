@@ -5,8 +5,8 @@ url: https://surgehq.ai/blog/dayjob-tax
 source: hackernews
 published_at: 2026-10-28T15:46:30Z
 fetched_at: 2026-10-28T17:30:19.289Z
-importance: 2
-points: 164
+importance: 3
+points: 211
 tags: [tool]
 ---
 

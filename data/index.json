@@ -8,7 +8,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google AI gets cagey when asked who won the 2020 elections",
-    "points": 63,
+    "points": 133,
     "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
   },
   {
@@ -22,7 +22,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon",
-    "points": 675,
+    "points": 830,
     "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
   },
   {
@@ -47,9 +47,9 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "points": 164,
+    "points": 211,
     "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
   },
   {
@@ -77,7 +77,7 @@
     ],
     "importance": 2,
     "summary": "Harvey raised 500M for legal AI, I built the same and open sourced it",
-    "points": 68,
+    "points": 69,
     "path": "news/2026/10/28/b16df7ad1b73-harvey-raised-500m-for-legal-ai-i-built-the-same-and-open-so.md"
   },
   {
@@ -89,7 +89,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "points": 379,
+    "points": 441,
     "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
   },
   {
@@ -124,7 +124,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Apple's git still trusts the compromised eMudhra certificates",
-    "points": 974,
+    "points": 1059,
     "path": "news/2026/10/28/a47fefdfcbee-apple-s-git-still-trusts-the-compromised-emudhra-certificate.md"
   },
   {
@@ -136,7 +136,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-    "points": 67,
+    "points": 69,
     "path": "news/2026/10/28/ed1394c834ec-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft.md"
   },
   {
@@ -172,7 +172,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Artificial Analysis Intelligence Index v5",
-    "points": 87,
+    "points": 90,
     "path": "news/2026/10/28/6d6987e4078b-artificial-analysis-intelligence-index-v5.md"
   },
   {
@@ -184,7 +184,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Git for the US Code",
-    "points": 422,
+    "points": 432,
     "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
   },
   {
@@ -209,7 +209,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-    "points": 112,
+    "points": 113,
     "path": "news/2026/10/27/a190faa8548a-reviewers-rarely-talk-about-reliability-owners-bring-it-up-t.md"
   },
   {
@@ -223,7 +223,7 @@
     ],
     "importance": 3,
     "summary": "Early progress on accelerating drug development with Claude",
-    "points": 318,
+    "points": 322,
     "path": "news/2026/10/27/e05fd65d1ae0-early-progress-on-accelerating-drug-development-with-claude.md"
   },
   {
@@ -237,7 +237,7 @@
     ],
     "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 508,
+    "points": 523,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
   },
   {
@@ -251,7 +251,7 @@
     ],
     "importance": 2,
     "summary": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
-    "points": 55,
+    "points": 59,
     "path": "news/2026/10/27/adf68780db11-she-worried-about-cutting-her-medication-dose-chatgpt-told-h.md"
   },
   {
@@ -279,7 +279,7 @@
     ],
     "importance": 2,
     "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "points": 164,
+    "points": 168,
     "path": "news/2026/10/27/c40940d8d78e-introducing-lfm3-every-modality-for-specialized-intelligence.md"
   },
   {
@@ -291,7 +291,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "points": 391,
+    "points": 392,
     "path": "news/2026/10/27/b7bdac3bb4ce-police-are-using-ai-to-pull-over-drivers-for-suspicious-beha.md"
   },
   {
@@ -315,7 +315,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 364,
+    "points": 371,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -355,7 +355,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 564,
+    "points": 571,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
@@ -382,7 +382,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Wikipedia's Cleanup of AI-Generated Content",
-    "points": 497,
+    "points": 499,
     "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
   },
   {
@@ -394,7 +394,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI promised less work. I've never worked more",
-    "points": 659,
+    "points": 665,
     "path": "news/2026/10/27/11b65591c039-ai-promised-less-work-i-ve-never-worked-more.md"
   },
   {
@@ -419,7 +419,7 @@
     "tags": [],
     "importance": 2,
     "summary": "“AI Skills” are worthless in 2026",
-    "points": 51,
+    "points": 52,
     "path": "news/2026/10/27/71fdde578aa1-ai-skills-are-worthless-in-2026.md"
   },
   {
@@ -431,7 +431,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 472,
+    "points": 476,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -512,7 +512,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Exponential Time Hypothesis Is False [pdf]",
-    "points": 793,
+    "points": 795,
     "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
   },
   {
@@ -620,7 +620,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1700,
+    "points": 1701,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -751,7 +751,7 @@
     "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
     "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
-    "points": 1143
+    "points": 1149
   },
   {
     "id": "35e334c19874",
