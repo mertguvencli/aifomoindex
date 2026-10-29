@@ -1,5 +1,61 @@
 [
   {
+    "id": "94430ceaa839",
+    "title": "Claude Code regularly sends each background agent’s transcript to its model",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T03:33:42Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "Claude Code regularly sends each background agent’s transcript to its model",
+    "points": 425,
+    "path": "news/2026/10/29/94430ceaa839-claude-code-regularly-sends-each-background-agent-s-transcri.md"
+  },
+  {
+    "id": "ef9d5fd64ced",
+    "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+    "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T00:30:37Z",
+    "tags": [
+      "model",
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "MicroZig to Adopt Strict No LLM / No AI Policy",
+    "points": 51,
+    "path": "news/2026/10/29/ef9d5fd64ced-microzig-to-adopt-strict-no-llm-no-ai-policy.md"
+  },
+  {
+    "id": "c2a9a7959c43",
+    "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+    "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T00:16:08Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+    "points": 53,
+    "path": "news/2026/10/29/c2a9a7959c43-new-york-times-adds-more-ai-features-to-its-cooking-app-user.md"
+  },
+  {
+    "id": "29526404518c",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T22:27:46Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI execs may be too out of touch to build for the general public",
+    "points": 71,
+    "path": "news/2026/10/28/29526404518c-ai-execs-may-be-too-out-of-touch-to-build-for-the-general-pu.md"
+  },
+  {
     "id": "ef243006ac6a",
     "title": "Google AI gets cagey when asked who won the 2020 elections",
     "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
@@ -8,8 +64,22 @@
     "tags": [],
     "importance": 2,
     "summary": "Google AI gets cagey when asked who won the 2020 elections",
-    "points": 133,
+    "points": 156,
     "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
+  },
+  {
+    "id": "df0b14354e66",
+    "title": "Scaling Hierarchical Networks",
+    "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T18:07:41Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Scaling Hierarchical Networks",
+    "points": 76,
+    "path": "news/2026/10/28/df0b14354e66-scaling-hierarchical-networks.md"
   },
   {
     "id": "a92d7b7ef0e2",
@@ -22,7 +92,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon",
-    "points": 830,
+    "points": 955,
     "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
   },
   {
@@ -49,7 +119,7 @@
     ],
     "importance": 3,
     "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "points": 211,
+    "points": 244,
     "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
   },
   {
@@ -89,7 +159,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "points": 441,
+    "points": 468,
     "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
   },
   {
@@ -116,6 +186,20 @@
     "path": "news/2026/10/28/a395c7da350b-openai-and-servicenow-expand-partnership-across-enterprise-w.md"
   },
   {
+    "id": "e97319d8730a",
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T12:24:25Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "points": 63,
+    "path": "news/2026/10/28/e97319d8730a-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co.md"
+  },
+  {
     "id": "a47fefdfcbee",
     "title": "Apple's git still trusts the compromised eMudhra certificates",
     "url": "https://emudhra.we-have-a-problem.com/apple.html",
@@ -124,7 +208,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Apple's git still trusts the compromised eMudhra certificates",
-    "points": 1059,
+    "points": 1147,
     "path": "news/2026/10/28/a47fefdfcbee-apple-s-git-still-trusts-the-compromised-emudhra-certificate.md"
   },
   {
@@ -172,7 +256,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Artificial Analysis Intelligence Index v5",
-    "points": 90,
+    "points": 93,
     "path": "news/2026/10/28/6d6987e4078b-artificial-analysis-intelligence-index-v5.md"
   },
   {
@@ -184,7 +268,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Git for the US Code",
-    "points": 432,
+    "points": 438,
     "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
   },
   {
@@ -223,7 +307,7 @@
     ],
     "importance": 3,
     "summary": "Early progress on accelerating drug development with Claude",
-    "points": 322,
+    "points": 325,
     "path": "news/2026/10/27/e05fd65d1ae0-early-progress-on-accelerating-drug-development-with-claude.md"
   },
   {
@@ -237,7 +321,7 @@
     ],
     "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 523,
+    "points": 527,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
   },
   {
@@ -251,7 +335,7 @@
     ],
     "importance": 2,
     "summary": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
-    "points": 59,
+    "points": 65,
     "path": "news/2026/10/27/adf68780db11-she-worried-about-cutting-her-medication-dose-chatgpt-told-h.md"
   },
   {
@@ -279,7 +363,7 @@
     ],
     "importance": 2,
     "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "points": 168,
+    "points": 170,
     "path": "news/2026/10/27/c40940d8d78e-introducing-lfm3-every-modality-for-specialized-intelligence.md"
   },
   {
@@ -291,7 +375,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "points": 392,
+    "points": 396,
     "path": "news/2026/10/27/b7bdac3bb4ce-police-are-using-ai-to-pull-over-drivers-for-suspicious-beha.md"
   },
   {
@@ -303,7 +387,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Classification of Finite Simple Groups Formalized in Lean",
-    "points": 236,
+    "points": 238,
     "path": "news/2026/10/27/b65c14d25885-classification-of-finite-simple-groups-formalized-in-lean.md"
   },
   {
@@ -315,7 +399,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 371,
+    "points": 376,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -355,7 +439,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 571,
+    "points": 583,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
@@ -370,7 +454,7 @@
     ],
     "importance": 3,
     "summary": "Is my data used for model training?",
-    "points": 224,
+    "points": 225,
     "path": "news/2026/10/27/70d96e780ce1-is-my-data-used-for-model-training.md"
   },
   {
@@ -382,7 +466,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Wikipedia's Cleanup of AI-Generated Content",
-    "points": 499,
+    "points": 507,
     "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
   },
   {
@@ -394,7 +478,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI promised less work. I've never worked more",
-    "points": 665,
+    "points": 674,
     "path": "news/2026/10/27/11b65591c039-ai-promised-less-work-i-ve-never-worked-more.md"
   },
   {
@@ -431,7 +515,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 476,
+    "points": 481,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -446,7 +530,7 @@
     ],
     "importance": 2,
     "summary": "There are now 5 inference providers for abliterated DeepSeek",
-    "points": 96,
+    "points": 97,
     "path": "news/2026/10/27/5a24e14dcd27-there-are-now-5-inference-providers-for-abliterated-deepseek.md"
   },
   {
@@ -512,8 +596,22 @@
     "tags": [],
     "importance": 3,
     "summary": "The Exponential Time Hypothesis Is False [pdf]",
-    "points": 795,
+    "points": 796,
     "path": "news/2026/10/26/2f04de563efd-the-exponential-time-hypothesis-is-false-pdf.md"
+  },
+  {
+    "id": "1dc7e2df39a1",
+    "title": "OpenAI's agents talked to each other through the CPU Cache",
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-26T21:24:18Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "OpenAI's agents talked to each other through the CPU Cache",
+    "points": 209,
+    "path": "news/2026/10/26/1dc7e2df39a1-openai-s-agents-talked-to-each-other-through-the-cpu-cache.md"
   },
   {
     "id": "3cfb4d6aba2a",
@@ -567,7 +665,7 @@
     ],
     "importance": 3,
     "summary": "Concerning behavior from a popular open-weight AI model",
-    "points": 329,
+    "points": 330,
     "path": "news/2026/10/26/27779e2e3a96-concerning-behavior-from-a-popular-open-weight-ai-model.md"
   },
   {
@@ -620,7 +718,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic S-1",
-    "points": 1701,
+    "points": 1702,
     "path": "news/2026/10/26/aaef23617908-anthropic-s-1.md"
   },
   {
@@ -751,7 +849,7 @@
     "importance": 3,
     "summary": "Working with academic communities to build scientific understanding",
     "path": "news/2026/10/26/8eb6001a836a-working-with-academic-communities-to-build-scientific-unders.md",
-    "points": 1149
+    "points": 1151
   },
   {
     "id": "35e334c19874",
