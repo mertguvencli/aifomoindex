@@ -1,5 +1,58 @@
 [
   {
+    "id": "f61d3e32ca00",
+    "title": "Backdoors in official Claude Code extensions",
+    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T11:05:53Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Backdoors in official Claude Code extensions",
+    "points": 128,
+    "path": "news/2026/10/30/f61d3e32ca00-backdoors-in-official-claude-code-extensions.md"
+  },
+  {
+    "id": "6300099f83ab",
+    "title": "Anthropic hacked to deliver remote access trojan",
+    "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T10:22:51Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic hacked to deliver remote access trojan",
+    "points": 108,
+    "path": "news/2026/10/30/6300099f83ab-anthropic-hacked-to-deliver-remote-access-trojan.md"
+  },
+  {
+    "id": "aad5e8e8701d",
+    "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+    "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T02:33:04Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+    "points": 58,
+    "path": "news/2026/10/30/aad5e8e8701d-cve-2026-98432-linux-tcp-use-after-free-risk-and-patch-valid.md"
+  },
+  {
+    "id": "c1219205f263",
+    "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+    "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T22:22:13Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Google value plunges by $500B as AI fears rattle Wall Street",
+    "points": 65,
+    "path": "news/2026/10/29/c1219205f263-google-value-plunges-by-500b-as-ai-fears-rattle-wall-street.md"
+  },
+  {
     "id": "da771810d3cb",
     "title": "Proton goes all in on using AI",
     "url": "https://convo.casa/@b/117525936178835007",
@@ -8,7 +61,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton goes all in on using AI",
-    "points": 88,
+    "points": 101,
     "path": "news/2026/10/29/da771810d3cb-proton-goes-all-in-on-using-ai.md"
   },
   {
@@ -22,7 +75,7 @@
     ],
     "importance": 3,
     "summary": "We ran AI agent swarms in Minecraft and Mindustry",
-    "points": 240,
+    "points": 310,
     "path": "news/2026/10/29/2cf1fb795ba0-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
   },
   {
@@ -36,7 +89,7 @@
     ],
     "importance": 2,
     "summary": "Claude Duet is the first personal-assistant-type harness that feels useful",
-    "points": 114,
+    "points": 119,
     "path": "news/2026/10/29/2db31965714d-claude-duet-is-the-first-personal-assistant-type-harness-tha.md"
   },
   {
@@ -63,7 +116,7 @@
     ],
     "importance": 2,
     "summary": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "points": 135,
+    "points": 137,
     "path": "news/2026/10/29/4890bdcdc518-grace-blackwell-needs-a-new-scheduler-27-more-usable-gpus-fr.md"
   },
   {
@@ -75,7 +128,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Zombie stats: Where the numbers AI quotes come from",
-    "points": 155,
+    "points": 167,
     "path": "news/2026/10/29/a1f8d24a51e3-zombie-stats-where-the-numbers-ai-quotes-come-from.md"
   },
   {
@@ -89,7 +142,7 @@
     ],
     "importance": 3,
     "summary": "LLM Voice",
-    "points": 407,
+    "points": 503,
     "path": "news/2026/10/29/815e9f76383a-llm-voice.md"
   },
   {
@@ -101,7 +154,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "points": 149,
+    "points": 169,
     "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
@@ -129,7 +182,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "points": 330,
+    "points": 336,
     "path": "news/2026/10/29/5385485570aa-gemini-4-carbon-is-the-new-1-on-the-artificial-analysis-inte.md"
   },
   {
@@ -144,7 +197,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 1309,
+    "points": 1538,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
@@ -183,7 +236,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code regularly sends each background agent’s transcript to its model",
-    "points": 565,
+    "points": 567,
     "path": "news/2026/10/29/94430ceaa839-claude-code-regularly-sends-each-background-agent-s-transcri.md"
   },
   {
@@ -198,7 +251,7 @@
     ],
     "importance": 2,
     "summary": "MicroZig to Adopt Strict No LLM / No AI Policy",
-    "points": 56,
+    "points": 57,
     "path": "news/2026/10/29/ef9d5fd64ced-microzig-to-adopt-strict-no-llm-no-ai-policy.md"
   },
   {
@@ -291,7 +344,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI execs may be too out of touch to build for the general public",
-    "points": 89,
+    "points": 90,
     "path": "news/2026/10/28/29526404518c-ai-execs-may-be-too-out-of-touch-to-build-for-the-general-pu.md"
   },
   {
@@ -303,7 +356,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google AI gets cagey when asked who won the 2020 elections",
-    "points": 167,
+    "points": 169,
     "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
   },
   {
@@ -329,7 +382,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
-    "points": 68,
+    "points": 75,
     "path": "news/2026/10/28/102bcd83ea1a-show-hn-a-proof-of-concept-formalization-of-the-irs-federal-.md"
   },
   {
@@ -343,7 +396,7 @@
     ],
     "importance": 2,
     "summary": "Scaling Hierarchical Networks",
-    "points": 90,
+    "points": 91,
     "path": "news/2026/10/28/df0b14354e66-scaling-hierarchical-networks.md"
   },
   {
@@ -357,7 +410,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon",
-    "points": 1006,
+    "points": 1007,
     "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
   },
   {
@@ -384,7 +437,7 @@
     ],
     "importance": 3,
     "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "points": 254,
+    "points": 257,
     "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
   },
   {
@@ -424,7 +477,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "points": 483,
+    "points": 489,
     "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
   },
   {
@@ -533,7 +586,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Git for the US Code",
-    "points": 448,
+    "points": 450,
     "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
   },
   {
@@ -664,7 +717,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 383,
+    "points": 385,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -704,7 +757,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "points": 597,
+    "points": 599,
     "path": "news/2026/10/27/f3e020b4efe8-anthropic-trained-claude-on-illegally-obtained-stanford-prof.md"
   },
   {
