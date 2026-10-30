@@ -6,7 +6,7 @@ source: mistral
 published_at: 2026-10-29T12:00:07.000Z
 fetched_at: 2026-10-29T17:41:12.685Z
 importance: 3
-points: 705
+points: 1139
 tags: [model, opensource]
 ---
 
