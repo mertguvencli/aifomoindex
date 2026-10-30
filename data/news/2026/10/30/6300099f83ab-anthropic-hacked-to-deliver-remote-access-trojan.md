@@ -5,8 +5,8 @@ url: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-t
 source: hackernews
 published_at: 2026-10-30T10:22:51Z
 fetched_at: 2026-10-30T12:02:00.844Z
-importance: 2
-points: 108
+importance: 3
+points: 396
 tags: []
 ---
 

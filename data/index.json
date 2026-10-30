@@ -1,5 +1,54 @@
 [
   {
+    "id": "037154e824aa",
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "source": "huggingface",
+    "publishedAt": "2026-10-30T17:57:24.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "nemotron-halloween",
+    "path": "news/2026/10/30/037154e824aa-nemotron-halloween.md"
+  },
+  {
+    "id": "54aa38ca9edb",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T16:13:02Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "US tech stocks see sharp falls over AI cost fears",
+    "points": 133,
+    "path": "news/2026/10/30/54aa38ca9edb-us-tech-stocks-see-sharp-falls-over-ai-cost-fears.md"
+  },
+  {
+    "id": "55737272f83d",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T15:52:18Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "AI isn't replacing SREs, it's deskilling them",
+    "points": 259,
+    "path": "news/2026/10/30/55737272f83d-ai-isn-t-replacing-sres-it-s-deskilling-them.md"
+  },
+  {
+    "id": "155fd22d3def",
+    "title": "Anthropic Cracking Down on Video Game Rewrites",
+    "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T14:22:52Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic Cracking Down on Video Game Rewrites",
+    "points": 82,
+    "path": "news/2026/10/30/155fd22d3def-anthropic-cracking-down-on-video-game-rewrites.md"
+  },
+  {
     "id": "f61d3e32ca00",
     "title": "Backdoors in official Claude Code extensions",
     "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
@@ -9,9 +58,9 @@
       "model",
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Backdoors in official Claude Code extensions",
-    "points": 128,
+    "points": 646,
     "path": "news/2026/10/30/f61d3e32ca00-backdoors-in-official-claude-code-extensions.md"
   },
   {
@@ -21,10 +70,38 @@
     "source": "hackernews",
     "publishedAt": "2026-10-30T10:22:51Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic hacked to deliver remote access trojan",
-    "points": 108,
+    "points": 396,
     "path": "news/2026/10/30/6300099f83ab-anthropic-hacked-to-deliver-remote-access-trojan.md"
+  },
+  {
+    "id": "a86d24c59c82",
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "source": "openai",
+    "publishedAt": "2026-10-30T09:00:00.000Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Community safety report and new protections for teens",
+    "path": "news/2026/10/30/a86d24c59c82-community-safety-report-and-new-protections-for-teens.md"
+  },
+  {
+    "id": "6edd96eae3e6",
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T07:09:12Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "points": 454,
+    "path": "news/2026/10/30/6edd96eae3e6-backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-.md"
   },
   {
     "id": "aad5e8e8701d",
@@ -37,7 +114,7 @@
     ],
     "importance": 2,
     "summary": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-    "points": 58,
+    "points": 63,
     "path": "news/2026/10/30/aad5e8e8701d-cve-2026-98432-linux-tcp-use-after-free-risk-and-patch-valid.md"
   },
   {
@@ -49,7 +126,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google value plunges by $500B as AI fears rattle Wall Street",
-    "points": 65,
+    "points": 70,
     "path": "news/2026/10/29/c1219205f263-google-value-plunges-by-500b-as-ai-fears-rattle-wall-street.md"
   },
   {
@@ -61,7 +138,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton goes all in on using AI",
-    "points": 101,
+    "points": 107,
     "path": "news/2026/10/29/da771810d3cb-proton-goes-all-in-on-using-ai.md"
   },
   {
@@ -75,7 +152,7 @@
     ],
     "importance": 3,
     "summary": "We ran AI agent swarms in Minecraft and Mindustry",
-    "points": 310,
+    "points": 379,
     "path": "news/2026/10/29/2cf1fb795ba0-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
   },
   {
@@ -89,7 +166,7 @@
     ],
     "importance": 2,
     "summary": "Claude Duet is the first personal-assistant-type harness that feels useful",
-    "points": 119,
+    "points": 122,
     "path": "news/2026/10/29/2db31965714d-claude-duet-is-the-first-personal-assistant-type-harness-tha.md"
   },
   {
@@ -116,7 +193,7 @@
     ],
     "importance": 2,
     "summary": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "points": 137,
+    "points": 142,
     "path": "news/2026/10/29/4890bdcdc518-grace-blackwell-needs-a-new-scheduler-27-more-usable-gpus-fr.md"
   },
   {
@@ -128,7 +205,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Zombie stats: Where the numbers AI quotes come from",
-    "points": 167,
+    "points": 175,
     "path": "news/2026/10/29/a1f8d24a51e3-zombie-stats-where-the-numbers-ai-quotes-come-from.md"
   },
   {
@@ -142,7 +219,7 @@
     ],
     "importance": 3,
     "summary": "LLM Voice",
-    "points": 503,
+    "points": 574,
     "path": "news/2026/10/29/815e9f76383a-llm-voice.md"
   },
   {
@@ -152,9 +229,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-29T14:29:06Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "points": 169,
+    "points": 202,
     "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
@@ -197,7 +274,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 1538,
+    "points": 1656,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
@@ -236,7 +313,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code regularly sends each background agent’s transcript to its model",
-    "points": 567,
+    "points": 573,
     "path": "news/2026/10/29/94430ceaa839-claude-code-regularly-sends-each-background-agent-s-transcri.md"
   },
   {
@@ -336,6 +413,19 @@
     "path": "news/2026/10/29/e428e2c0eba7-pika-h3-flex-technical-deep-dive.md"
   },
   {
+    "id": "85f94c0fe8f0",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "url": "https://openai.com/index/credit-saison",
+    "source": "openai",
+    "publishedAt": "2026-10-29T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "path": "news/2026/10/29/85f94c0fe8f0-credit-saison-achieves-954-roi-in-a-chatgpt-enterprise-pilot.md"
+  },
+  {
     "id": "29526404518c",
     "title": "AI execs may be too out of touch to build for the general public",
     "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
@@ -382,7 +472,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
-    "points": 75,
+    "points": 80,
     "path": "news/2026/10/28/102bcd83ea1a-show-hn-a-proof-of-concept-formalization-of-the-irs-federal-.md"
   },
   {
@@ -396,7 +486,7 @@
     ],
     "importance": 2,
     "summary": "Scaling Hierarchical Networks",
-    "points": 91,
+    "points": 92,
     "path": "news/2026/10/28/df0b14354e66-scaling-hierarchical-networks.md"
   },
   {
@@ -410,7 +500,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon",
-    "points": 1007,
+    "points": 1011,
     "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
   },
   {
@@ -437,7 +527,7 @@
     ],
     "importance": 3,
     "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "points": 257,
+    "points": 260,
     "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
   },
   {
@@ -477,8 +567,20 @@
     "tags": [],
     "importance": 3,
     "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "points": 489,
+    "points": 490,
     "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
+  },
+  {
+    "id": "b3879531c686",
+    "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+    "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T13:38:04Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Artificial Analysis v5 and the benchmarker's dilemma",
+    "points": 63,
+    "path": "news/2026/10/28/b3879531c686-artificial-analysis-v5-and-the-benchmarker-s-dilemma.md"
   },
   {
     "id": "91080018660f",
@@ -514,7 +616,7 @@
     ],
     "importance": 2,
     "summary": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "points": 78,
+    "points": 79,
     "path": "news/2026/10/28/e97319d8730a-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co.md"
   },
   {
@@ -538,7 +640,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-    "points": 69,
+    "points": 70,
     "path": "news/2026/10/28/ed1394c834ec-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft.md"
   },
   {
@@ -639,7 +741,7 @@
     ],
     "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 538,
+    "points": 540,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
   },
   {

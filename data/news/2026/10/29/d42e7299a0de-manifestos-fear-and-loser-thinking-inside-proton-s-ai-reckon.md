@@ -5,8 +5,8 @@ url: https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-a
 source: hackernews
 published_at: 2026-10-29T14:29:06Z
 fetched_at: 2026-10-29T18:02:03.393Z
-importance: 2
-points: 169
+importance: 3
+points: 202
 tags: []
 ---
 

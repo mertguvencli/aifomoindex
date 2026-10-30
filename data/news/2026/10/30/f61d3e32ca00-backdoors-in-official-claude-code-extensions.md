@@ -5,8 +5,8 @@ url: https://cyberplace.social/@GossiTheDog/117528831681803563
 source: hackernews
 published_at: 2026-10-30T11:05:53Z
 fetched_at: 2026-10-30T12:02:00.844Z
-importance: 2
-points: 128
+importance: 3
+points: 646
 tags: [model, tool]
 ---
 
