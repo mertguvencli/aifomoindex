@@ -5,8 +5,8 @@ url: https://labs.ycombinator.com/projects/games/index.html
 source: hackernews
 published_at: 2026-10-29T21:40:28Z
 fetched_at: 2026-10-30T00:03:17.213Z
-importance: 2
-points: 101
+importance: 3
+points: 240
 tags: [tool]
 ---
 

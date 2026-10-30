@@ -6,6 +6,7 @@ source: anthropic
 published_at: 2026-10-27T00:00:00.000Z
 fetched_at: 2026-10-28T02:47:09.372Z
 importance: 2
+points: 51
 tags: [model, policy]
 ---
 

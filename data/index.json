@@ -1,5 +1,17 @@
 [
   {
+    "id": "da771810d3cb",
+    "title": "Proton goes all in on using AI",
+    "url": "https://convo.casa/@b/117525936178835007",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T21:49:28Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Proton goes all in on using AI",
+    "points": 88,
+    "path": "news/2026/10/29/da771810d3cb-proton-goes-all-in-on-using-ai.md"
+  },
+  {
     "id": "2cf1fb795ba0",
     "title": "We ran AI agent swarms in Minecraft and Mindustry",
     "url": "https://labs.ycombinator.com/projects/games/index.html",
@@ -8,9 +20,9 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "We ran AI agent swarms in Minecraft and Mindustry",
-    "points": 101,
+    "points": 240,
     "path": "news/2026/10/29/2cf1fb795ba0-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
   },
   {
@@ -24,7 +36,7 @@
     ],
     "importance": 2,
     "summary": "Claude Duet is the first personal-assistant-type harness that feels useful",
-    "points": 90,
+    "points": 114,
     "path": "news/2026/10/29/2db31965714d-claude-duet-is-the-first-personal-assistant-type-harness-tha.md"
   },
   {
@@ -51,7 +63,7 @@
     ],
     "importance": 2,
     "summary": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "points": 120,
+    "points": 135,
     "path": "news/2026/10/29/4890bdcdc518-grace-blackwell-needs-a-new-scheduler-27-more-usable-gpus-fr.md"
   },
   {
@@ -63,7 +75,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Zombie stats: Where the numbers AI quotes come from",
-    "points": 136,
+    "points": 155,
     "path": "news/2026/10/29/a1f8d24a51e3-zombie-stats-where-the-numbers-ai-quotes-come-from.md"
   },
   {
@@ -77,7 +89,7 @@
     ],
     "importance": 3,
     "summary": "LLM Voice",
-    "points": 317,
+    "points": 407,
     "path": "news/2026/10/29/815e9f76383a-llm-voice.md"
   },
   {
@@ -89,7 +101,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "points": 118,
+    "points": 149,
     "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
@@ -117,7 +129,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "points": 326,
+    "points": 330,
     "path": "news/2026/10/29/5385485570aa-gemini-4-carbon-is-the-new-1-on-the-artificial-analysis-inte.md"
   },
   {
@@ -132,7 +144,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 1139,
+    "points": 1309,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
@@ -171,7 +183,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code regularly sends each background agent’s transcript to its model",
-    "points": 558,
+    "points": 565,
     "path": "news/2026/10/29/94430ceaa839-claude-code-regularly-sends-each-background-agent-s-transcri.md"
   },
   {
@@ -186,7 +198,7 @@
     ],
     "importance": 2,
     "summary": "MicroZig to Adopt Strict No LLM / No AI Policy",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/29/ef9d5fd64ced-microzig-to-adopt-strict-no-llm-no-ai-policy.md"
   },
   {
@@ -200,7 +212,7 @@
     ],
     "importance": 2,
     "summary": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-    "points": 56,
+    "points": 57,
     "path": "news/2026/10/29/c2a9a7959c43-new-york-times-adds-more-ai-features-to-its-cooking-app-user.md"
   },
   {
@@ -279,7 +291,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI execs may be too out of touch to build for the general public",
-    "points": 88,
+    "points": 89,
     "path": "news/2026/10/28/29526404518c-ai-execs-may-be-too-out-of-touch-to-build-for-the-general-pu.md"
   },
   {
@@ -291,8 +303,20 @@
     "tags": [],
     "importance": 2,
     "summary": "Google AI gets cagey when asked who won the 2020 elections",
-    "points": 165,
+    "points": 167,
     "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
+  },
+  {
+    "id": "851b90166049",
+    "title": "Big Tech's thirst for water is sparking a global resistance",
+    "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-28T18:34:51Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Big Tech's thirst for water is sparking a global resistance",
+    "points": 51,
+    "path": "news/2026/10/28/851b90166049-big-tech-s-thirst-for-water-is-sparking-a-global-resistance.md"
   },
   {
     "id": "102bcd83ea1a",
@@ -305,7 +329,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
-    "points": 55,
+    "points": 68,
     "path": "news/2026/10/28/102bcd83ea1a-show-hn-a-proof-of-concept-formalization-of-the-irs-federal-.md"
   },
   {
@@ -333,7 +357,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon",
-    "points": 1001,
+    "points": 1006,
     "path": "news/2026/10/28/a92d7b7ef0e2-gemini-4-carbon.md"
   },
   {
@@ -360,7 +384,7 @@
     ],
     "importance": 3,
     "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "points": 253,
+    "points": 254,
     "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
   },
   {
@@ -400,7 +424,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "points": 482,
+    "points": 483,
     "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
   },
   {
@@ -449,7 +473,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Apple's git still trusts the compromised eMudhra certificates",
-    "points": 1185,
+    "points": 1191,
     "path": "news/2026/10/28/a47fefdfcbee-apple-s-git-still-trusts-the-compromised-emudhra-certificate.md"
   },
   {
@@ -497,7 +521,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Artificial Analysis Intelligence Index v5",
-    "points": 95,
+    "points": 96,
     "path": "news/2026/10/28/6d6987e4078b-artificial-analysis-intelligence-index-v5.md"
   },
   {
@@ -509,7 +533,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Git for the US Code",
-    "points": 447,
+    "points": 448,
     "path": "news/2026/10/28/001b60c8250b-git-for-the-us-code.md"
   },
   {
@@ -562,7 +586,7 @@
     ],
     "importance": 3,
     "summary": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "points": 537,
+    "points": 538,
     "path": "news/2026/10/27/a88ac8682a34-survival-llm-ai-assistant-and-emergency-library-that-runs-on.md"
   },
   {
@@ -576,7 +600,7 @@
     ],
     "importance": 2,
     "summary": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
-    "points": 70,
+    "points": 71,
     "path": "news/2026/10/27/adf68780db11-she-worried-about-cutting-her-medication-dose-chatgpt-told-h.md"
   },
   {
@@ -616,7 +640,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "points": 397,
+    "points": 398,
     "path": "news/2026/10/27/b7bdac3bb4ce-police-are-using-ai-to-pull-over-drivers-for-suspicious-beha.md"
   },
   {
@@ -628,7 +652,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Classification of Finite Simple Groups Formalized in Lean",
-    "points": 240,
+    "points": 241,
     "path": "news/2026/10/27/b65c14d25885-classification-of-finite-simple-groups-formalized-in-lean.md"
   },
   {
@@ -640,7 +664,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Amazon Is Gutting Its AI Division After Sustained Failure",
-    "points": 381,
+    "points": 383,
     "path": "news/2026/10/27/a17083d6bd14-amazon-is-gutting-its-ai-division-after-sustained-failure.md"
   },
   {
@@ -707,7 +731,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Wikipedia's Cleanup of AI-Generated Content",
-    "points": 513,
+    "points": 515,
     "path": "news/2026/10/27/0fa71fcc03f5-wikipedia-s-cleanup-of-ai-generated-content.md"
   },
   {
@@ -744,7 +768,7 @@
     "tags": [],
     "importance": 2,
     "summary": "“AI Skills” are worthless in 2026",
-    "points": 52,
+    "points": 53,
     "path": "news/2026/10/27/71fdde578aa1-ai-skills-are-worthless-in-2026.md"
   },
   {
@@ -756,7 +780,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Mythical Man-Month in the Age of AI",
-    "points": 486,
+    "points": 487,
     "path": "news/2026/10/27/de6edf7c4f45-the-mythical-man-month-in-the-age-of-ai.md"
   },
   {
@@ -799,7 +823,8 @@
     ],
     "importance": 2,
     "summary": "Expanding our partnership with GSA to bring Claude to all levels of government",
-    "path": "news/2026/10/27/86f3cc373bd8-expanding-our-partnership-with-gsa-to-bring-claude-to-all-le.md"
+    "path": "news/2026/10/27/86f3cc373bd8-expanding-our-partnership-with-gsa-to-bring-claude-to-all-le.md",
+    "points": 51
   },
   {
     "id": "89893d5f73c7",
