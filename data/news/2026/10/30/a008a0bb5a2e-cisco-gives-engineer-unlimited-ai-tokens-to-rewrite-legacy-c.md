@@ -5,8 +5,8 @@ url: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-ol
 source: hackernews
 published_at: 2026-10-30T14:08:20Z
 fetched_at: 2026-10-31T00:03:01.166Z
-importance: 2
-points: 144
+importance: 3
+points: 210
 tags: []
 ---
 

@@ -10,7 +10,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises less than half of $30B target",
-    "points": 113,
+    "points": 155,
     "path": "news/2026/10/31/20ceacd96073-openai-raises-less-than-half-of-30b-target.md"
   },
   {
@@ -24,7 +24,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-    "points": 83,
+    "points": 89,
     "path": "news/2026/10/30/1abfdb6dc980-anthropic-to-receive-high-junk-rating-from-credit-agencies-f.md"
   },
   {
@@ -36,7 +36,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-    "points": 52,
+    "points": 62,
     "path": "news/2026/10/30/961556820605-wall-street-closes-sharply-lower-as-ai-cash-burn-fears-spark.md"
   },
   {
@@ -50,7 +50,7 @@
     ],
     "importance": 2,
     "summary": "Product Managers aren't safe either",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/30/7c615c45b391-product-managers-aren-t-safe-either.md"
   },
   {
@@ -77,7 +77,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "points": 301,
+    "points": 311,
     "path": "news/2026/10/30/418831149509-anthropic-may-not-secure-investment-grade-rating-after-ipo-b.md"
   },
   {
@@ -89,7 +89,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Proton's CEO Cancels AI 'Re-Interviews'",
-    "points": 268,
+    "points": 277,
     "path": "news/2026/10/30/bf0fb86c07c6-proton-s-ceo-cancels-ai-re-interviews.md"
   },
   {
@@ -101,7 +101,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech stocks see sharp falls over AI cost fears",
-    "points": 248,
+    "points": 256,
     "path": "news/2026/10/30/54aa38ca9edb-us-tech-stocks-see-sharp-falls-over-ai-cost-fears.md"
   },
   {
@@ -113,7 +113,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Sam Altman Thinks You're Wasting DRAM",
-    "points": 82,
+    "points": 89,
     "path": "news/2026/10/30/01bb6df909c8-sam-altman-thinks-you-re-wasting-dram.md"
   },
   {
@@ -125,7 +125,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI isn't replacing SREs, it's deskilling them",
-    "points": 549,
+    "points": 605,
     "path": "news/2026/10/30/55737272f83d-ai-isn-t-replacing-sres-it-s-deskilling-them.md"
   },
   {
@@ -151,7 +151,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Cracking Down on Video Game Rewrites",
-    "points": 106,
+    "points": 108,
     "path": "news/2026/10/30/155fd22d3def-anthropic-cracking-down-on-video-game-rewrites.md"
   },
   {
@@ -163,7 +163,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Neal Stephenson on AI and What Comes Next [video]",
-    "points": 52,
+    "points": 53,
     "path": "news/2026/10/30/c5903fa5901e-neal-stephenson-on-ai-and-what-comes-next-video.md"
   },
   {
@@ -173,9 +173,9 @@
     "source": "hackernews",
     "publishedAt": "2026-10-30T14:08:20Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "points": 144,
+    "points": 210,
     "path": "news/2026/10/30/a008a0bb5a2e-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-c.md"
   },
   {
@@ -243,7 +243,7 @@
     ],
     "importance": 3,
     "summary": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "points": 857,
+    "points": 911,
     "path": "news/2026/10/30/6edd96eae3e6-backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-.md"
   },
   {
@@ -292,7 +292,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Building an AI-native engineering org",
-    "points": 131,
+    "points": 163,
     "path": "news/2026/10/29/97c67637a778-building-an-ai-native-engineering-org.md"
   },
   {
@@ -304,7 +304,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton goes all in on using AI",
-    "points": 115,
+    "points": 117,
     "path": "news/2026/10/29/da771810d3cb-proton-goes-all-in-on-using-ai.md"
   },
   {
@@ -318,7 +318,7 @@
     ],
     "importance": 3,
     "summary": "We ran AI agent swarms in Minecraft and Mindustry",
-    "points": 400,
+    "points": 403,
     "path": "news/2026/10/29/2cf1fb795ba0-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
   },
   {
@@ -363,6 +363,18 @@
     "path": "news/2026/10/29/4890bdcdc518-grace-blackwell-needs-a-new-scheduler-27-more-usable-gpus-fr.md"
   },
   {
+    "id": "e3c4c1c080c4",
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T15:29:48Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "points": 58,
+    "path": "news/2026/10/29/e3c4c1c080c4-ai-lean-and-the-future-of-formal-verification-with-lean-crea.md"
+  },
+  {
     "id": "a1f8d24a51e3",
     "title": "Zombie stats: Where the numbers AI quotes come from",
     "url": "https://trakkr.ai/trakkr-research/zombie-stats",
@@ -371,7 +383,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Zombie stats: Where the numbers AI quotes come from",
-    "points": 177,
+    "points": 178,
     "path": "news/2026/10/29/a1f8d24a51e3-zombie-stats-where-the-numbers-ai-quotes-come-from.md"
   },
   {
@@ -385,7 +397,7 @@
     ],
     "importance": 3,
     "summary": "LLM Voice",
-    "points": 593,
+    "points": 598,
     "path": "news/2026/10/29/815e9f76383a-llm-voice.md"
   },
   {
@@ -397,7 +409,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "points": 223,
+    "points": 229,
     "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
@@ -425,7 +437,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "points": 336,
+    "points": 337,
     "path": "news/2026/10/29/5385485570aa-gemini-4-carbon-is-the-new-1-on-the-artificial-analysis-inte.md"
   },
   {
@@ -440,7 +452,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 1688,
+    "points": 1695,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
@@ -479,7 +491,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code regularly sends each background agent’s transcript to its model",
-    "points": 582,
+    "points": 583,
     "path": "news/2026/10/29/94430ceaa839-claude-code-regularly-sends-each-background-agent-s-transcri.md"
   },
   {
@@ -612,7 +624,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google AI gets cagey when asked who won the 2020 elections",
-    "points": 170,
+    "points": 171,
     "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
   },
   {
@@ -745,7 +757,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Artificial Analysis v5 and the benchmarker's dilemma",
-    "points": 69,
+    "points": 71,
     "path": "news/2026/10/28/b3879531c686-artificial-analysis-v5-and-the-benchmarker-s-dilemma.md"
   },
   {
@@ -780,9 +792,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "points": 199,
+    "points": 233,
     "path": "news/2026/10/28/e97319d8730a-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co.md"
   },
   {
