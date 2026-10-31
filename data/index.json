@@ -1,5 +1,19 @@
 [
   {
+    "id": "7c615c45b391",
+    "title": "Product Managers aren't safe either",
+    "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T20:14:39Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Product Managers aren't safe either",
+    "points": 52,
+    "path": "news/2026/10/30/7c615c45b391-product-managers-aren-t-safe-either.md"
+  },
+  {
     "id": "037154e824aa",
     "title": "nemotron-halloween",
     "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -13,16 +27,54 @@
     "path": "news/2026/10/30/037154e824aa-nemotron-halloween.md"
   },
   {
+    "id": "418831149509",
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T17:27:25Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 3,
+    "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "points": 269,
+    "path": "news/2026/10/30/418831149509-anthropic-may-not-secure-investment-grade-rating-after-ipo-b.md"
+  },
+  {
+    "id": "bf0fb86c07c6",
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T17:24:45Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "points": 254,
+    "path": "news/2026/10/30/bf0fb86c07c6-proton-s-ceo-cancels-ai-re-interviews.md"
+  },
+  {
     "id": "54aa38ca9edb",
     "title": "US tech stocks see sharp falls over AI cost fears",
     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
     "source": "hackernews",
     "publishedAt": "2026-10-30T16:13:02Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "US tech stocks see sharp falls over AI cost fears",
-    "points": 133,
+    "points": 231,
     "path": "news/2026/10/30/54aa38ca9edb-us-tech-stocks-see-sharp-falls-over-ai-cost-fears.md"
+  },
+  {
+    "id": "01bb6df909c8",
+    "title": "Sam Altman Thinks You're Wasting DRAM",
+    "url": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T15:58:39Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Sam Altman Thinks You're Wasting DRAM",
+    "points": 71,
+    "path": "news/2026/10/30/01bb6df909c8-sam-altman-thinks-you-re-wasting-dram.md"
   },
   {
     "id": "55737272f83d",
@@ -33,8 +85,22 @@
     "tags": [],
     "importance": 3,
     "summary": "AI isn't replacing SREs, it's deskilling them",
-    "points": 259,
+    "points": 479,
     "path": "news/2026/10/30/55737272f83d-ai-isn-t-replacing-sres-it-s-deskilling-them.md"
+  },
+  {
+    "id": "514ec4e3bfd0",
+    "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+    "url": "https://catcopter.com",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T15:29:40Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+    "points": 77,
+    "path": "news/2026/10/30/514ec4e3bfd0-show-hn-i-built-a-multiplayer-game-where-you-re-an-aerial-fi.md"
   },
   {
     "id": "155fd22d3def",
@@ -45,8 +111,20 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Cracking Down on Video Game Rewrites",
-    "points": 82,
+    "points": 99,
     "path": "news/2026/10/30/155fd22d3def-anthropic-cracking-down-on-video-game-rewrites.md"
+  },
+  {
+    "id": "a008a0bb5a2e",
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T14:08:20Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "points": 78,
+    "path": "news/2026/10/30/a008a0bb5a2e-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-c.md"
   },
   {
     "id": "f61d3e32ca00",
@@ -60,7 +138,7 @@
     ],
     "importance": 3,
     "summary": "Backdoors in official Claude Code extensions",
-    "points": 646,
+    "points": 652,
     "path": "news/2026/10/30/f61d3e32ca00-backdoors-in-official-claude-code-extensions.md"
   },
   {
@@ -72,8 +150,21 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic hacked to deliver remote access trojan",
-    "points": 396,
+    "points": 398,
     "path": "news/2026/10/30/6300099f83ab-anthropic-hacked-to-deliver-remote-access-trojan.md"
+  },
+  {
+    "id": "84abd1857de5",
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "source": "openai",
+    "publishedAt": "2026-10-30T09:30:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Making it easier for websites to express AI training preferences",
+    "path": "news/2026/10/30/84abd1857de5-making-it-easier-for-websites-to-express-ai-training-prefere.md"
   },
   {
     "id": "a86d24c59c82",
@@ -100,7 +191,7 @@
     ],
     "importance": 3,
     "summary": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "points": 454,
+    "points": 732,
     "path": "news/2026/10/30/6edd96eae3e6-backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-.md"
   },
   {
@@ -118,6 +209,17 @@
     "path": "news/2026/10/30/aad5e8e8701d-cve-2026-98432-linux-tcp-use-after-free-risk-and-patch-valid.md"
   },
   {
+    "id": "574dbaf7fc87",
+    "title": "Fair use benefits everyone",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "source": "openai",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Fair use benefits everyone",
+    "path": "news/2026/10/30/574dbaf7fc87-fair-use-benefits-everyone.md"
+  },
+  {
     "id": "c1219205f263",
     "title": "Google value plunges by $500B as AI fears rattle Wall Street",
     "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
@@ -126,8 +228,20 @@
     "tags": [],
     "importance": 2,
     "summary": "Google value plunges by $500B as AI fears rattle Wall Street",
-    "points": 70,
+    "points": 76,
     "path": "news/2026/10/29/c1219205f263-google-value-plunges-by-500b-as-ai-fears-rattle-wall-street.md"
+  },
+  {
+    "id": "97c67637a778",
+    "title": "Building an AI-native engineering org",
+    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T21:58:34Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Building an AI-native engineering org",
+    "points": 96,
+    "path": "news/2026/10/29/97c67637a778-building-an-ai-native-engineering-org.md"
   },
   {
     "id": "da771810d3cb",
@@ -138,7 +252,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton goes all in on using AI",
-    "points": 107,
+    "points": 115,
     "path": "news/2026/10/29/da771810d3cb-proton-goes-all-in-on-using-ai.md"
   },
   {
@@ -152,7 +266,7 @@
     ],
     "importance": 3,
     "summary": "We ran AI agent swarms in Minecraft and Mindustry",
-    "points": 379,
+    "points": 395,
     "path": "news/2026/10/29/2cf1fb795ba0-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
   },
   {
@@ -166,7 +280,7 @@
     ],
     "importance": 2,
     "summary": "Claude Duet is the first personal-assistant-type harness that feels useful",
-    "points": 122,
+    "points": 124,
     "path": "news/2026/10/29/2db31965714d-claude-duet-is-the-first-personal-assistant-type-harness-tha.md"
   },
   {
@@ -205,7 +319,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Zombie stats: Where the numbers AI quotes come from",
-    "points": 175,
+    "points": 177,
     "path": "news/2026/10/29/a1f8d24a51e3-zombie-stats-where-the-numbers-ai-quotes-come-from.md"
   },
   {
@@ -219,7 +333,7 @@
     ],
     "importance": 3,
     "summary": "LLM Voice",
-    "points": 574,
+    "points": 588,
     "path": "news/2026/10/29/815e9f76383a-llm-voice.md"
   },
   {
@@ -231,7 +345,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "points": 202,
+    "points": 222,
     "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
@@ -274,7 +388,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 1656,
+    "points": 1675,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
@@ -313,7 +427,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code regularly sends each background agent’s transcript to its model",
-    "points": 573,
+    "points": 580,
     "path": "news/2026/10/29/94430ceaa839-claude-code-regularly-sends-each-background-agent-s-transcri.md"
   },
   {
@@ -446,7 +560,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google AI gets cagey when asked who won the 2020 elections",
-    "points": 169,
+    "points": 170,
     "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
   },
   {
@@ -527,7 +641,7 @@
     ],
     "importance": 3,
     "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "points": 260,
+    "points": 261,
     "path": "news/2026/10/28/17a75de37df0-dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assig.md"
   },
   {
@@ -567,7 +681,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "points": 490,
+    "points": 491,
     "path": "news/2026/10/28/9fb777e852af-kentucky-man-becomes-the-first-humanist-granted-religious-ex.md"
   },
   {
@@ -579,7 +693,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Artificial Analysis v5 and the benchmarker's dilemma",
-    "points": 63,
+    "points": 66,
     "path": "news/2026/10/28/b3879531c686-artificial-analysis-v5-and-the-benchmarker-s-dilemma.md"
   },
   {
@@ -616,7 +730,7 @@
     ],
     "importance": 2,
     "summary": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "points": 79,
+    "points": 152,
     "path": "news/2026/10/28/e97319d8730a-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-co.md"
   },
   {
@@ -628,7 +742,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Apple's git still trusts the compromised eMudhra certificates",
-    "points": 1191,
+    "points": 1192,
     "path": "news/2026/10/28/a47fefdfcbee-apple-s-git-still-trusts-the-compromised-emudhra-certificate.md"
   },
   {
