@@ -1,14 +1,82 @@
 [
   {
+    "id": "1d387a7e4fac",
+    "title": "It wasn't AI that flipped Proton's charge",
+    "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T18:53:55Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "It wasn't AI that flipped Proton's charge",
+    "points": 114,
+    "path": "news/2026/11/01/1d387a7e4fac-it-wasn-t-ai-that-flipped-proton-s-charge.md"
+  },
+  {
+    "id": "12844ee7f805",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T15:58:28Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "points": 614,
+    "path": "news/2026/11/01/12844ee7f805-show-hn-hackerbooks-hackertube-but-for-books-mentioned-on-hn.md"
+  },
+  {
+    "id": "4382f3018f67",
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T13:47:24Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "points": 131,
+    "path": "news/2026/11/01/4382f3018f67-ai-agent-swarms-in-minecraft-fail-to-build-civilization-drow.md"
+  },
+  {
+    "id": "1c2c00360e15",
+    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "url": "https://github.com/ivankovic/omnidiff",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T13:02:30Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "points": 87,
+    "path": "news/2026/11/01/1c2c00360e15-show-hn-omnidiff-opensource-super-fast-content-aware-git-dif.md"
+  },
+  {
+    "id": "0bf0cb89b913",
+    "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T10:28:22Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
+    "points": 54,
+    "path": "news/2026/11/01/0bf0cb89b913-sam-altman-says-dram-capacity-should-go-to-data-centers-not-.md"
+  },
+  {
     "id": "967be99077d1",
     "title": "The AI cost of JavaScript frameworks",
     "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
     "source": "hackernews",
     "publishedAt": "2026-11-01T06:06:19Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "The AI cost of JavaScript frameworks",
-    "points": 113,
+    "points": 258,
     "path": "news/2026/11/01/967be99077d1-the-ai-cost-of-javascript-frameworks.md"
   },
   {
@@ -22,7 +90,7 @@
     ],
     "importance": 2,
     "summary": "AI text watermarking and quality loss",
-    "points": 56,
+    "points": 65,
     "path": "news/2026/10/31/4694cfbe3b29-ai-text-watermarking-and-quality-loss.md"
   },
   {
@@ -35,9 +103,9 @@
       "tool",
       "product"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "ChatGPT and Codex usage limits merging",
-    "points": 164,
+    "points": 210,
     "path": "news/2026/10/31/4ea2bbfbe1de-chatgpt-and-codex-usage-limits-merging.md"
   },
   {
@@ -51,7 +119,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic takes steps to block Claude from reverse-engineering video games",
-    "points": 151,
+    "points": 176,
     "path": "news/2026/10/31/b38e8b1f8473-anthropic-takes-steps-to-block-claude-from-reverse-engineeri.md"
   },
   {
@@ -66,7 +134,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic blocks users for anything touching training larger models",
-    "points": 383,
+    "points": 441,
     "path": "news/2026/10/31/3c488a5d9e8f-anthropic-blocks-users-for-anything-touching-training-larger.md"
   },
   {
@@ -80,7 +148,7 @@
     ],
     "importance": 2,
     "summary": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-    "points": 172,
+    "points": 176,
     "path": "news/2026/10/31/f4160ff23c48-gpt-5-6-sol-can-beat-factorio-on-peaceful-mode.md"
   },
   {
@@ -92,7 +160,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-    "points": 78,
+    "points": 79,
     "path": "news/2026/10/31/d004c37dd3b3-the-impact-of-generative-ai-on-critical-thinking-self-report.md"
   },
   {
@@ -106,7 +174,7 @@
     ],
     "importance": 2,
     "summary": "Copyright Office is restoring copyright to something you have to work to get",
-    "points": 62,
+    "points": 63,
     "path": "news/2026/10/31/591aa917faeb-copyright-office-is-restoring-copyright-to-something-you-hav.md"
   },
   {
@@ -120,7 +188,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-    "points": 58,
+    "points": 60,
     "path": "news/2026/10/31/66b1d8c95b15-show-hn-a-usb-c-lte-modem-that-gives-my-computer-a-phone-lin.md"
   },
   {
@@ -134,7 +202,7 @@
     ],
     "importance": 3,
     "summary": "Malware uses LLMs to rank victims by how much they're worth",
-    "points": 249,
+    "points": 253,
     "path": "news/2026/10/31/c0588a787514-malware-uses-llms-to-rank-victims-by-how-much-they-re-worth.md"
   },
   {
@@ -160,7 +228,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-    "points": 71,
+    "points": 72,
     "path": "news/2026/10/31/4461dc711753-anthropic-s-claude-ai-blocks-video-game-cloning-and-reverse-.md"
   },
   {
@@ -186,7 +254,7 @@
     ],
     "importance": 3,
     "summary": "We Took over ChatGPT Accounts",
-    "points": 341,
+    "points": 357,
     "path": "news/2026/10/31/7f4c0eb3099e-we-took-over-chatgpt-accounts.md"
   },
   {
@@ -200,7 +268,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises less than half of $30B target",
-    "points": 184,
+    "points": 185,
     "path": "news/2026/10/31/20ceacd96073-openai-raises-less-than-half-of-30b-target.md"
   },
   {
@@ -214,7 +282,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-    "points": 100,
+    "points": 102,
     "path": "news/2026/10/30/1abfdb6dc980-anthropic-to-receive-high-junk-rating-from-credit-agencies-f.md"
   },
   {
@@ -226,7 +294,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-    "points": 69,
+    "points": 70,
     "path": "news/2026/10/30/961556820605-wall-street-closes-sharply-lower-as-ai-cash-burn-fears-spark.md"
   },
   {
@@ -252,7 +320,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-    "points": 54,
+    "points": 78,
     "path": "news/2026/10/30/6fdb59a641e6-pilot-wave-hydrodynamics-quantum-phenomena-in-macroscopic-hy.md"
   },
   {
@@ -279,7 +347,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "points": 323,
+    "points": 324,
     "path": "news/2026/10/30/418831149509-anthropic-may-not-secure-investment-grade-rating-after-ipo-b.md"
   },
   {
@@ -291,7 +359,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Proton's CEO Cancels AI 'Re-Interviews'",
-    "points": 291,
+    "points": 295,
     "path": "news/2026/10/30/bf0fb86c07c6-proton-s-ceo-cancels-ai-re-interviews.md"
   },
   {
@@ -303,7 +371,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech stocks see sharp falls over AI cost fears",
-    "points": 267,
+    "points": 269,
     "path": "news/2026/10/30/54aa38ca9edb-us-tech-stocks-see-sharp-falls-over-ai-cost-fears.md"
   },
   {
@@ -315,7 +383,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Sam Altman Thinks You're Wasting DRAM",
-    "points": 101,
+    "points": 103,
     "path": "news/2026/10/30/01bb6df909c8-sam-altman-thinks-you-re-wasting-dram.md"
   },
   {
@@ -327,7 +395,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Some Thing is Happening A note from the AI companies",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/10/30/635946f48823-some-thing-is-happening-a-note-from-the-ai-companies.md"
   },
   {
@@ -339,7 +407,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI isn't replacing SREs, it's deskilling them",
-    "points": 655,
+    "points": 663,
     "path": "news/2026/10/30/55737272f83d-ai-isn-t-replacing-sres-it-s-deskilling-them.md"
   },
   {
@@ -353,7 +421,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-    "points": 83,
+    "points": 85,
     "path": "news/2026/10/30/514ec4e3bfd0-show-hn-i-built-a-multiplayer-game-where-you-re-an-aerial-fi.md"
   },
   {
@@ -365,7 +433,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Cracking Down on Video Game Rewrites",
-    "points": 124,
+    "points": 125,
     "path": "news/2026/10/30/155fd22d3def-anthropic-cracking-down-on-video-game-rewrites.md"
   },
   {
@@ -389,7 +457,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "points": 306,
+    "points": 311,
     "path": "news/2026/10/30/a008a0bb5a2e-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-c.md"
   },
   {
@@ -404,7 +472,7 @@
     ],
     "importance": 3,
     "summary": "Backdoors in official Claude Code extensions",
-    "points": 659,
+    "points": 660,
     "path": "news/2026/10/30/f61d3e32ca00-backdoors-in-official-claude-code-extensions.md"
   },
   {
@@ -457,7 +525,7 @@
     ],
     "importance": 3,
     "summary": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "points": 979,
+    "points": 988,
     "path": "news/2026/10/30/6edd96eae3e6-backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-.md"
   },
   {
@@ -494,7 +562,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google value plunges by $500B as AI fears rattle Wall Street",
-    "points": 79,
+    "points": 80,
     "path": "news/2026/10/29/c1219205f263-google-value-plunges-by-500b-as-ai-fears-rattle-wall-street.md"
   },
   {
@@ -506,7 +574,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Building an AI-native engineering org",
-    "points": 187,
+    "points": 188,
     "path": "news/2026/10/29/97c67637a778-building-an-ai-native-engineering-org.md"
   },
   {
@@ -518,7 +586,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Proton goes all in on using AI",
-    "points": 120,
+    "points": 121,
     "path": "news/2026/10/29/da771810d3cb-proton-goes-all-in-on-using-ai.md"
   },
   {
@@ -532,7 +600,7 @@
     ],
     "importance": 3,
     "summary": "We ran AI agent swarms in Minecraft and Mindustry",
-    "points": 412,
+    "points": 416,
     "path": "news/2026/10/29/2cf1fb795ba0-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
   },
   {

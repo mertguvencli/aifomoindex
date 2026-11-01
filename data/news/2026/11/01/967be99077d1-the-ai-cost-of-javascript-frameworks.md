@@ -5,8 +5,8 @@ url: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/
 source: hackernews
 published_at: 2026-11-01T06:06:19Z
 fetched_at: 2026-11-01T12:10:07.205Z
-importance: 2
-points: 113
+importance: 3
+points: 258
 tags: []
 ---
 
