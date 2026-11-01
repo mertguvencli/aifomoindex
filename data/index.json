@@ -1,5 +1,46 @@
 [
   {
+    "id": "967be99077d1",
+    "title": "The AI cost of JavaScript frameworks",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T06:06:19Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The AI cost of JavaScript frameworks",
+    "points": 113,
+    "path": "news/2026/11/01/967be99077d1-the-ai-cost-of-javascript-frameworks.md"
+  },
+  {
+    "id": "4694cfbe3b29",
+    "title": "AI text watermarking and quality loss",
+    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T21:50:13Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "AI text watermarking and quality loss",
+    "points": 56,
+    "path": "news/2026/10/31/4694cfbe3b29-ai-text-watermarking-and-quality-loss.md"
+  },
+  {
+    "id": "4ea2bbfbe1de",
+    "title": "ChatGPT and Codex usage limits merging",
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T21:49:07Z",
+    "tags": [
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT and Codex usage limits merging",
+    "points": 164,
+    "path": "news/2026/10/31/4ea2bbfbe1de-chatgpt-and-codex-usage-limits-merging.md"
+  },
+  {
     "id": "b38e8b1f8473",
     "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
     "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
@@ -10,7 +51,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic takes steps to block Claude from reverse-engineering video games",
-    "points": 89,
+    "points": 151,
     "path": "news/2026/10/31/b38e8b1f8473-anthropic-takes-steps-to-block-claude-from-reverse-engineeri.md"
   },
   {
@@ -23,9 +64,9 @@
       "model",
       "research"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic blocks users for anything touching training larger models",
-    "points": 153,
+    "points": 383,
     "path": "news/2026/10/31/3c488a5d9e8f-anthropic-blocks-users-for-anything-touching-training-larger.md"
   },
   {
@@ -39,7 +80,7 @@
     ],
     "importance": 2,
     "summary": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-    "points": 151,
+    "points": 172,
     "path": "news/2026/10/31/f4160ff23c48-gpt-5-6-sol-can-beat-factorio-on-peaceful-mode.md"
   },
   {
@@ -51,7 +92,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-    "points": 73,
+    "points": 78,
     "path": "news/2026/10/31/d004c37dd3b3-the-impact-of-generative-ai-on-critical-thinking-self-report.md"
   },
   {
@@ -65,8 +106,22 @@
     ],
     "importance": 2,
     "summary": "Copyright Office is restoring copyright to something you have to work to get",
-    "points": 52,
+    "points": 62,
     "path": "news/2026/10/31/591aa917faeb-copyright-office-is-restoring-copyright-to-something-you-hav.md"
+  },
+  {
+    "id": "66b1d8c95b15",
+    "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+    "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T15:56:41Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+    "points": 58,
+    "path": "news/2026/10/31/66b1d8c95b15-show-hn-a-usb-c-lte-modem-that-gives-my-computer-a-phone-lin.md"
   },
   {
     "id": "c0588a787514",
@@ -79,7 +134,7 @@
     ],
     "importance": 3,
     "summary": "Malware uses LLMs to rank victims by how much they're worth",
-    "points": 228,
+    "points": 249,
     "path": "news/2026/10/31/c0588a787514-malware-uses-llms-to-rank-victims-by-how-much-they-re-worth.md"
   },
   {
@@ -105,8 +160,20 @@
     ],
     "importance": 2,
     "summary": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-    "points": 61,
+    "points": 71,
     "path": "news/2026/10/31/4461dc711753-anthropic-s-claude-ai-blocks-video-game-cloning-and-reverse-.md"
+  },
+  {
+    "id": "69938d24e80f",
+    "title": "Why Anthropic's filing crushed tech stocks",
+    "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T12:32:10Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Why Anthropic's filing crushed tech stocks",
+    "points": 53,
+    "path": "news/2026/10/31/69938d24e80f-why-anthropic-s-filing-crushed-tech-stocks.md"
   },
   {
     "id": "7f4c0eb3099e",
@@ -119,7 +186,7 @@
     ],
     "importance": 3,
     "summary": "We Took over ChatGPT Accounts",
-    "points": 297,
+    "points": 341,
     "path": "news/2026/10/31/7f4c0eb3099e-we-took-over-chatgpt-accounts.md"
   },
   {
@@ -133,7 +200,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises less than half of $30B target",
-    "points": 181,
+    "points": 184,
     "path": "news/2026/10/31/20ceacd96073-openai-raises-less-than-half-of-30b-target.md"
   },
   {
@@ -147,7 +214,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-    "points": 99,
+    "points": 100,
     "path": "news/2026/10/30/1abfdb6dc980-anthropic-to-receive-high-junk-rating-from-credit-agencies-f.md"
   },
   {
@@ -177,6 +244,18 @@
     "path": "news/2026/10/30/7c615c45b391-product-managers-aren-t-safe-either.md"
   },
   {
+    "id": "6fdb59a641e6",
+    "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+    "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-30T19:52:56Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+    "points": 54,
+    "path": "news/2026/10/30/6fdb59a641e6-pilot-wave-hydrodynamics-quantum-phenomena-in-macroscopic-hy.md"
+  },
+  {
     "id": "037154e824aa",
     "title": "nemotron-halloween",
     "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -200,7 +279,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "points": 322,
+    "points": 323,
     "path": "news/2026/10/30/418831149509-anthropic-may-not-secure-investment-grade-rating-after-ipo-b.md"
   },
   {
@@ -212,7 +291,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Proton's CEO Cancels AI 'Re-Interviews'",
-    "points": 290,
+    "points": 291,
     "path": "news/2026/10/30/bf0fb86c07c6-proton-s-ceo-cancels-ai-re-interviews.md"
   },
   {
@@ -224,7 +303,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech stocks see sharp falls over AI cost fears",
-    "points": 264,
+    "points": 267,
     "path": "news/2026/10/30/54aa38ca9edb-us-tech-stocks-see-sharp-falls-over-ai-cost-fears.md"
   },
   {
@@ -236,7 +315,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Sam Altman Thinks You're Wasting DRAM",
-    "points": 99,
+    "points": 101,
     "path": "news/2026/10/30/01bb6df909c8-sam-altman-thinks-you-re-wasting-dram.md"
   },
   {
@@ -248,7 +327,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Some Thing is Happening A note from the AI companies",
-    "points": 64,
+    "points": 67,
     "path": "news/2026/10/30/635946f48823-some-thing-is-happening-a-note-from-the-ai-companies.md"
   },
   {
@@ -260,7 +339,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI isn't replacing SREs, it's deskilling them",
-    "points": 646,
+    "points": 655,
     "path": "news/2026/10/30/55737272f83d-ai-isn-t-replacing-sres-it-s-deskilling-them.md"
   },
   {
@@ -310,7 +389,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "points": 301,
+    "points": 306,
     "path": "news/2026/10/30/a008a0bb5a2e-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-c.md"
   },
   {
@@ -325,7 +404,7 @@
     ],
     "importance": 3,
     "summary": "Backdoors in official Claude Code extensions",
-    "points": 655,
+    "points": 659,
     "path": "news/2026/10/30/f61d3e32ca00-backdoors-in-official-claude-code-extensions.md"
   },
   {
@@ -378,7 +457,7 @@
     ],
     "importance": 3,
     "summary": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "points": 967,
+    "points": 979,
     "path": "news/2026/10/30/6edd96eae3e6-backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-.md"
   },
   {
@@ -392,7 +471,7 @@
     ],
     "importance": 2,
     "summary": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/10/30/aad5e8e8701d-cve-2026-98432-linux-tcp-use-after-free-risk-and-patch-valid.md"
   },
   {
@@ -427,7 +506,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Building an AI-native engineering org",
-    "points": 183,
+    "points": 187,
     "path": "news/2026/10/29/97c67637a778-building-an-ai-native-engineering-org.md"
   },
   {
@@ -520,7 +599,7 @@
     ],
     "importance": 2,
     "summary": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "points": 145,
+    "points": 146,
     "path": "news/2026/10/29/4890bdcdc518-grace-blackwell-needs-a-new-scheduler-27-more-usable-gpus-fr.md"
   },
   {
@@ -530,10 +609,22 @@
     "source": "hackernews",
     "publishedAt": "2026-10-29T15:29:48Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "points": 186,
+    "points": 208,
     "path": "news/2026/10/29/e3c4c1c080c4-ai-lean-and-the-future-of-formal-verification-with-lean-crea.md"
+  },
+  {
+    "id": "27b5ee3390a8",
+    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+    "source": "hackernews",
+    "publishedAt": "2026-10-29T15:20:04Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "points": 54,
+    "path": "news/2026/10/29/27b5ee3390a8-no-ai-52-min-build-all-linux-files-utils-in-c-by-hand-video.md"
   },
   {
     "id": "a1f8d24a51e3",
@@ -558,7 +649,7 @@
     ],
     "importance": 3,
     "summary": "LLM Voice",
-    "points": 604,
+    "points": 605,
     "path": "news/2026/10/29/815e9f76383a-llm-voice.md"
   },
   {
@@ -570,7 +661,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "points": 232,
+    "points": 236,
     "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
@@ -613,7 +704,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 1706,
+    "points": 1709,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
