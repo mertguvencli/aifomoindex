@@ -1,5 +1,74 @@
 [
   {
+    "id": "b38e8b1f8473",
+    "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+    "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T21:07:58Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Anthropic takes steps to block Claude from reverse-engineering video games",
+    "points": 89,
+    "path": "news/2026/10/31/b38e8b1f8473-anthropic-takes-steps-to-block-claude-from-reverse-engineeri.md"
+  },
+  {
+    "id": "3c488a5d9e8f",
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T19:39:19Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Anthropic blocks users for anything touching training larger models",
+    "points": 153,
+    "path": "news/2026/10/31/3c488a5d9e8f-anthropic-blocks-users-for-anything-touching-training-larger.md"
+  },
+  {
+    "id": "f4160ff23c48",
+    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+    "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T18:50:34Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+    "points": 151,
+    "path": "news/2026/10/31/f4160ff23c48-gpt-5-6-sol-can-beat-factorio-on-peaceful-mode.md"
+  },
+  {
+    "id": "d004c37dd3b3",
+    "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+    "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T18:02:29Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+    "points": 73,
+    "path": "news/2026/10/31/d004c37dd3b3-the-impact-of-generative-ai-on-critical-thinking-self-report.md"
+  },
+  {
+    "id": "591aa917faeb",
+    "title": "Copyright Office is restoring copyright to something you have to work to get",
+    "url": "https://pluralistic.net/2026/10/31/burn-berne/#unvictored",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T17:16:04Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Copyright Office is restoring copyright to something you have to work to get",
+    "points": 52,
+    "path": "news/2026/10/31/591aa917faeb-copyright-office-is-restoring-copyright-to-something-you-hav.md"
+  },
+  {
     "id": "c0588a787514",
     "title": "Malware uses LLMs to rank victims by how much they're worth",
     "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
@@ -8,9 +77,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Malware uses LLMs to rank victims by how much they're worth",
-    "points": 161,
+    "points": 228,
     "path": "news/2026/10/31/c0588a787514-malware-uses-llms-to-rank-victims-by-how-much-they-re-worth.md"
   },
   {
@@ -26,6 +95,20 @@
     "path": "news/2026/10/31/a2f91ccc4ba3-ai-startup-hacks-anthropic-gains-access-to-employee-details-.md"
   },
   {
+    "id": "4461dc711753",
+    "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T13:25:00Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+    "points": 61,
+    "path": "news/2026/10/31/4461dc711753-anthropic-s-claude-ai-blocks-video-game-cloning-and-reverse-.md"
+  },
+  {
     "id": "7f4c0eb3099e",
     "title": "We Took over ChatGPT Accounts",
     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
@@ -36,7 +119,7 @@
     ],
     "importance": 3,
     "summary": "We Took over ChatGPT Accounts",
-    "points": 230,
+    "points": 297,
     "path": "news/2026/10/31/7f4c0eb3099e-we-took-over-chatgpt-accounts.md"
   },
   {
@@ -50,7 +133,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises less than half of $30B target",
-    "points": 174,
+    "points": 181,
     "path": "news/2026/10/31/20ceacd96073-openai-raises-less-than-half-of-30b-target.md"
   },
   {
@@ -64,7 +147,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-    "points": 98,
+    "points": 99,
     "path": "news/2026/10/30/1abfdb6dc980-anthropic-to-receive-high-junk-rating-from-credit-agencies-f.md"
   },
   {
@@ -76,7 +159,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-    "points": 68,
+    "points": 69,
     "path": "news/2026/10/30/961556820605-wall-street-closes-sharply-lower-as-ai-cash-burn-fears-spark.md"
   },
   {
@@ -117,7 +200,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "points": 319,
+    "points": 322,
     "path": "news/2026/10/30/418831149509-anthropic-may-not-secure-investment-grade-rating-after-ipo-b.md"
   },
   {
@@ -129,7 +212,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Proton's CEO Cancels AI 'Re-Interviews'",
-    "points": 287,
+    "points": 290,
     "path": "news/2026/10/30/bf0fb86c07c6-proton-s-ceo-cancels-ai-re-interviews.md"
   },
   {
@@ -141,7 +224,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech stocks see sharp falls over AI cost fears",
-    "points": 262,
+    "points": 264,
     "path": "news/2026/10/30/54aa38ca9edb-us-tech-stocks-see-sharp-falls-over-ai-cost-fears.md"
   },
   {
@@ -165,7 +248,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Some Thing is Happening A note from the AI companies",
-    "points": 61,
+    "points": 64,
     "path": "news/2026/10/30/635946f48823-some-thing-is-happening-a-note-from-the-ai-companies.md"
   },
   {
@@ -177,7 +260,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI isn't replacing SREs, it's deskilling them",
-    "points": 633,
+    "points": 646,
     "path": "news/2026/10/30/55737272f83d-ai-isn-t-replacing-sres-it-s-deskilling-them.md"
   },
   {
@@ -203,7 +286,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Cracking Down on Video Game Rewrites",
-    "points": 120,
+    "points": 124,
     "path": "news/2026/10/30/155fd22d3def-anthropic-cracking-down-on-video-game-rewrites.md"
   },
   {
@@ -227,7 +310,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "points": 284,
+    "points": 301,
     "path": "news/2026/10/30/a008a0bb5a2e-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-c.md"
   },
   {
@@ -295,7 +378,7 @@
     ],
     "importance": 3,
     "summary": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "points": 954,
+    "points": 967,
     "path": "news/2026/10/30/6edd96eae3e6-backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-.md"
   },
   {
@@ -309,7 +392,7 @@
     ],
     "importance": 2,
     "summary": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/10/30/aad5e8e8701d-cve-2026-98432-linux-tcp-use-after-free-risk-and-patch-valid.md"
   },
   {
@@ -332,7 +415,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Google value plunges by $500B as AI fears rattle Wall Street",
-    "points": 77,
+    "points": 79,
     "path": "news/2026/10/29/c1219205f263-google-value-plunges-by-500b-as-ai-fears-rattle-wall-street.md"
   },
   {
@@ -344,7 +427,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Building an AI-native engineering org",
-    "points": 174,
+    "points": 183,
     "path": "news/2026/10/29/97c67637a778-building-an-ai-native-engineering-org.md"
   },
   {
@@ -370,7 +453,7 @@
     ],
     "importance": 3,
     "summary": "We ran AI agent swarms in Minecraft and Mindustry",
-    "points": 410,
+    "points": 412,
     "path": "news/2026/10/29/2cf1fb795ba0-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
   },
   {
@@ -449,7 +532,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "points": 145,
+    "points": 186,
     "path": "news/2026/10/29/e3c4c1c080c4-ai-lean-and-the-future-of-formal-verification-with-lean-crea.md"
   },
   {
@@ -487,7 +570,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-    "points": 230,
+    "points": 232,
     "path": "news/2026/10/29/d42e7299a0de-manifestos-fear-and-loser-thinking-inside-proton-s-ai-reckon.md"
   },
   {
@@ -530,7 +613,7 @@
     ],
     "importance": 3,
     "summary": "Mistral Large 4 (Le Chonk) is now open weight",
-    "points": 1703,
+    "points": 1706,
     "path": "news/2026/10/29/5a25565ab71a-mistral-large-4-le-chonk-is-now-open-weight.md"
   },
   {
@@ -598,7 +681,7 @@
     ],
     "importance": 2,
     "summary": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/10/29/c2a9a7959c43-new-york-times-adds-more-ai-features-to-its-cooking-app-user.md"
   },
   {
