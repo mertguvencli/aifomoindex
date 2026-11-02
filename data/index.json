@@ -1,5 +1,31 @@
 [
   {
+    "id": "79ffda0a470c",
+    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T22:10:45Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "points": 194,
+    "path": "news/2026/11/01/79ffda0a470c-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e.md"
+  },
+  {
+    "id": "3e7a74cb045b",
+    "title": "So I guess everyone uses LLMs to think now",
+    "url": "https://eva.ac/blog/llms/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-01T21:49:04Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "So I guess everyone uses LLMs to think now",
+    "points": 63,
+    "path": "news/2026/11/01/3e7a74cb045b-so-i-guess-everyone-uses-llms-to-think-now.md"
+  },
+  {
     "id": "1d387a7e4fac",
     "title": "It wasn't AI that flipped Proton's charge",
     "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
@@ -8,7 +34,7 @@
     "tags": [],
     "importance": 2,
     "summary": "It wasn't AI that flipped Proton's charge",
-    "points": 114,
+    "points": 142,
     "path": "news/2026/11/01/1d387a7e4fac-it-wasn-t-ai-that-flipped-proton-s-charge.md"
   },
   {
@@ -22,7 +48,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "points": 614,
+    "points": 991,
     "path": "news/2026/11/01/12844ee7f805-show-hn-hackerbooks-hackertube-but-for-books-mentioned-on-hn.md"
   },
   {
@@ -36,7 +62,7 @@
     ],
     "importance": 2,
     "summary": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-    "points": 131,
+    "points": 153,
     "path": "news/2026/11/01/4382f3018f67-ai-agent-swarms-in-minecraft-fail-to-build-civilization-drow.md"
   },
   {
@@ -50,7 +76,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-    "points": 87,
+    "points": 175,
     "path": "news/2026/11/01/1c2c00360e15-show-hn-omnidiff-opensource-super-fast-content-aware-git-dif.md"
   },
   {
@@ -64,7 +90,7 @@
     ],
     "importance": 2,
     "summary": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
-    "points": 54,
+    "points": 59,
     "path": "news/2026/11/01/0bf0cb89b913-sam-altman-says-dram-capacity-should-go-to-data-centers-not-.md"
   },
   {
@@ -76,7 +102,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The AI cost of JavaScript frameworks",
-    "points": 258,
+    "points": 312,
     "path": "news/2026/11/01/967be99077d1-the-ai-cost-of-javascript-frameworks.md"
   },
   {
@@ -90,7 +116,7 @@
     ],
     "importance": 2,
     "summary": "AI text watermarking and quality loss",
-    "points": 65,
+    "points": 67,
     "path": "news/2026/10/31/4694cfbe3b29-ai-text-watermarking-and-quality-loss.md"
   },
   {
@@ -105,7 +131,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT and Codex usage limits merging",
-    "points": 210,
+    "points": 218,
     "path": "news/2026/10/31/4ea2bbfbe1de-chatgpt-and-codex-usage-limits-merging.md"
   },
   {
@@ -119,7 +145,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic takes steps to block Claude from reverse-engineering video games",
-    "points": 176,
+    "points": 181,
     "path": "news/2026/10/31/b38e8b1f8473-anthropic-takes-steps-to-block-claude-from-reverse-engineeri.md"
   },
   {
@@ -134,7 +160,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic blocks users for anything touching training larger models",
-    "points": 441,
+    "points": 456,
     "path": "news/2026/10/31/3c488a5d9e8f-anthropic-blocks-users-for-anything-touching-training-larger.md"
   },
   {
@@ -174,7 +200,7 @@
     ],
     "importance": 2,
     "summary": "Copyright Office is restoring copyright to something you have to work to get",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/10/31/591aa917faeb-copyright-office-is-restoring-copyright-to-something-you-hav.md"
   },
   {
@@ -202,7 +228,7 @@
     ],
     "importance": 3,
     "summary": "Malware uses LLMs to rank victims by how much they're worth",
-    "points": 253,
+    "points": 257,
     "path": "news/2026/10/31/c0588a787514-malware-uses-llms-to-rank-victims-by-how-much-they-re-worth.md"
   },
   {
@@ -228,7 +254,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/10/31/4461dc711753-anthropic-s-claude-ai-blocks-video-game-cloning-and-reverse-.md"
   },
   {
@@ -268,8 +294,20 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises less than half of $30B target",
-    "points": 185,
+    "points": 186,
     "path": "news/2026/10/31/20ceacd96073-openai-raises-less-than-half-of-30b-target.md"
+  },
+  {
+    "id": "cf7c4d79af22",
+    "title": "Postgres 19 is late, and it's AI's fault",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "source": "hackernews",
+    "publishedAt": "2026-10-31T01:38:56Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Postgres 19 is late, and it's AI's fault",
+    "points": 96,
+    "path": "news/2026/10/31/cf7c4d79af22-postgres-19-is-late-and-it-s-ai-s-fault.md"
   },
   {
     "id": "1abfdb6dc980",
@@ -320,7 +358,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-    "points": 78,
+    "points": 84,
     "path": "news/2026/10/30/6fdb59a641e6-pilot-wave-hydrodynamics-quantum-phenomena-in-macroscopic-hy.md"
   },
   {
@@ -359,7 +397,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Proton's CEO Cancels AI 'Re-Interviews'",
-    "points": 295,
+    "points": 296,
     "path": "news/2026/10/30/bf0fb86c07c6-proton-s-ceo-cancels-ai-re-interviews.md"
   },
   {
@@ -407,7 +445,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI isn't replacing SREs, it's deskilling them",
-    "points": 663,
+    "points": 666,
     "path": "news/2026/10/30/55737272f83d-ai-isn-t-replacing-sres-it-s-deskilling-them.md"
   },
   {
@@ -445,7 +483,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Neal Stephenson on AI and What Comes Next [video]",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/10/30/c5903fa5901e-neal-stephenson-on-ai-and-what-comes-next-video.md"
   },
   {
@@ -472,7 +510,7 @@
     ],
     "importance": 3,
     "summary": "Backdoors in official Claude Code extensions",
-    "points": 660,
+    "points": 661,
     "path": "news/2026/10/30/f61d3e32ca00-backdoors-in-official-claude-code-extensions.md"
   },
   {
@@ -525,7 +563,7 @@
     ],
     "importance": 3,
     "summary": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "points": 988,
+    "points": 993,
     "path": "news/2026/10/30/6edd96eae3e6-backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-.md"
   },
   {
