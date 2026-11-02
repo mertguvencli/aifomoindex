@@ -5,8 +5,8 @@ url: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most
 source: hackernews
 published_at: 2026-11-01T22:10:45Z
 fetched_at: 2026-11-02T02:58:52.531Z
-importance: 2
-points: 194
+importance: 3
+points: 232
 tags: []
 ---
 
