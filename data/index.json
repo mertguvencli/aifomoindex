@@ -1,5 +1,258 @@
 [
   {
+    "id": "f228aaa23766",
+    "title": "Churchill Capital Corp XI Shareholders Approve Business Combination with Agility Robotics",
+    "url": "https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics",
+    "source": "agility",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Churchill Capital Corp XI Shareholders Approve Business Combination with Agility Robotics",
+    "path": "news/2026/11/04/f228aaa23766-churchill-capital-corp-xi-shareholders-approve-business-comb.md"
+  },
+  {
+    "id": "7fd8e2e1d6b2",
+    "title": "Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination",
+    "source": "agility",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination",
+    "path": "news/2026/11/04/7fd8e2e1d6b2-agility-robotics-and-churchill-capital-corp-xi-announce-expe.md"
+  },
+  {
+    "id": "b16270a8eea7",
+    "title": "Anthropic's growth just flattened",
+    "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T22:33:20Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic's growth just flattened",
+    "points": 113,
+    "path": "news/2026/11/02/b16270a8eea7-anthropic-s-growth-just-flattened.md"
+  },
+  {
+    "id": "4d288a711fe3",
+    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T22:30:47Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "points": 108,
+    "path": "news/2026/11/02/4d288a711fe3-the-sec-should-block-anthropic-s-ipo-to-protect-the-public.md"
+  },
+  {
+    "id": "a4c8b0f80db2",
+    "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+    "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T19:36:37Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+    "points": 69,
+    "path": "news/2026/11/02/a4c8b0f80db2-anthropic-reveals-900b-ai-spending-commitments-ahead-of-ipo.md"
+  },
+  {
+    "id": "c83586ab7058",
+    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T19:27:37Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "points": 140,
+    "path": "news/2026/11/02/c83586ab7058-oracle-files-to-sell-20b-in-new-stock-bonds-to-finance-ai-bu.md"
+  },
+  {
+    "id": "5010fb296f76",
+    "title": "Egoless Mathematics in the AI Era",
+    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T18:54:44Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Egoless Mathematics in the AI Era",
+    "points": 96,
+    "path": "news/2026/11/02/5010fb296f76-egoless-mathematics-in-the-ai-era.md"
+  },
+  {
+    "id": "996c88dfa31d",
+    "title": "The latest AI news we announced in October 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "source": "googleai",
+    "publishedAt": "2026-11-02T17:45:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The latest AI news we announced in October 2026",
+    "path": "news/2026/11/02/996c88dfa31d-the-latest-ai-news-we-announced-in-october-2026.md"
+  },
+  {
+    "id": "3e8a8aa61332",
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "url": "https://momentic.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T17:05:25Z",
+    "tags": [
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "points": 112,
+    "path": "news/2026/11/02/3e8a8aa61332-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo.md"
+  },
+  {
+    "id": "f4ae3ef50925",
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T16:40:29Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "points": 281,
+    "path": "news/2026/11/02/f4ae3ef50925-anthropic-s-internal-ai-use-at-retail-prices-now-exceeds-its.md"
+  },
+  {
+    "id": "87906e26ddaa",
+    "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+    "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T16:25:33Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+    "points": 76,
+    "path": "news/2026/11/02/87906e26ddaa-claude-opus-5-5-can-draw-permit-level-architectural-drawings.md"
+  },
+  {
+    "id": "277870ffc8d7",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "source": "openai",
+    "publishedAt": "2026-11-02T15:30:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Scaling Git at OpenAI",
+    "path": "news/2026/11/02/277870ffc8d7-scaling-git-at-openai.md"
+  },
+  {
+    "id": "327e862bb29c",
+    "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+    "url": "https://longcat.ai/blog/longcat-2.5/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T15:00:26Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+    "points": 75,
+    "path": "news/2026/11/02/327e862bb29c-longcat-2-5-native-multimodality-for-agentic-tasks.md"
+  },
+  {
+    "id": "5d33ed0c66ac",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source": "openai",
+    "publishedAt": "2026-11-02T15:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing the Grid Protectors Program",
+    "path": "news/2026/11/02/5d33ed0c66ac-introducing-the-grid-protectors-program.md"
+  },
+  {
+    "id": "519265604034",
+    "title": "GPT-Rosalind-6 System Card Addendum",
+    "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T14:44:02Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "GPT-Rosalind-6 System Card Addendum",
+    "points": 64,
+    "path": "news/2026/11/02/519265604034-gpt-rosalind-6-system-card-addendum.md"
+  },
+  {
+    "id": "54fa2f33bb03",
+    "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+    "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T14:40:05Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Jobless tech workers are being left out of San Francisco's AI boom",
+    "points": 154,
+    "path": "news/2026/11/02/54fa2f33bb03-jobless-tech-workers-are-being-left-out-of-san-francisco-s-a.md"
+  },
+  {
+    "id": "bbdc93c47cef",
+    "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+    "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T14:38:45Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+    "points": 226,
+    "path": "news/2026/11/02/bbdc93c47cef-anthropic-reports-17b-in-q3-revenue-commitments-of-895b-in-r.md"
+  },
+  {
+    "id": "9e8a6cc08fde",
+    "title": "Last night an AI agent performed brain surgery on a mouse",
+    "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T12:50:59Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Last night an AI agent performed brain surgery on a mouse",
+    "points": 118,
+    "path": "news/2026/11/02/9e8a6cc08fde-last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.md"
+  },
+  {
+    "id": "5a014341bc3f",
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "source": "openai",
+    "publishedAt": "2026-11-02T09:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "LifeVal",
+    "path": "news/2026/11/02/5a014341bc3f-lifeval.md"
+  },
+  {
+    "id": "9595b21e7e43",
+    "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+    "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T08:32:30Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+    "points": 127,
+    "path": "news/2026/11/02/9595b21e7e43-bioware-co-founder-game-execs-have-never-made-a-game-and-don.md"
+  },
+  {
     "id": "0cf35570dae3",
     "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
     "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
@@ -8,7 +261,7 @@
     "tags": [],
     "importance": 2,
     "summary": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-    "points": 95,
+    "points": 148,
     "path": "news/2026/11/02/0cf35570dae3-china-s-first-frontier-ai-export-controls-mofcom-announcemen.md"
   },
   {
@@ -22,7 +275,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
-    "points": 128,
+    "points": 180,
     "path": "news/2026/11/02/8c132669acb0-show-hn-hackerhack-hackerbooks-but-for-posts-posted-on-hn.md"
   },
   {
@@ -34,8 +287,21 @@
     "tags": [],
     "importance": 2,
     "summary": "AI fan wikis riddled with errors are muddying the waters of games culture",
-    "points": 93,
+    "points": 100,
     "path": "news/2026/11/02/e0a72d46227b-ai-fan-wikis-riddled-with-errors-are-muddying-the-waters-of-.md"
+  },
+  {
+    "id": "4094d4340f9e",
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "source": "openai",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Qodo builds context into AI code review with Codex",
+    "path": "news/2026/11/02/4094d4340f9e-qodo-builds-context-into-ai-code-review-with-codex.md"
   },
   {
     "id": "79ffda0a470c",
@@ -46,7 +312,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-    "points": 232,
+    "points": 241,
     "path": "news/2026/11/01/79ffda0a470c-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e.md"
   },
   {
@@ -60,7 +326,7 @@
     ],
     "importance": 2,
     "summary": "So I guess everyone uses LLMs to think now",
-    "points": 72,
+    "points": 77,
     "path": "news/2026/11/01/3e7a74cb045b-so-i-guess-everyone-uses-llms-to-think-now.md"
   },
   {
@@ -72,7 +338,7 @@
     "tags": [],
     "importance": 2,
     "summary": "It wasn't AI that flipped Proton's charge",
-    "points": 160,
+    "points": 165,
     "path": "news/2026/11/01/1d387a7e4fac-it-wasn-t-ai-that-flipped-proton-s-charge.md"
   },
   {
@@ -86,7 +352,7 @@
     ],
     "importance": 2,
     "summary": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-    "points": 53,
+    "points": 60,
     "path": "news/2026/11/01/2fc5152fc1ef-muse-ai-agent-is-a-commercial-surveillance-network-disguised.md"
   },
   {
@@ -98,7 +364,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I Am the Reason OpenAI Is Killing Unlimited Chats",
-    "points": 74,
+    "points": 90,
     "path": "news/2026/11/01/ef79256ca5d9-i-am-the-reason-openai-is-killing-unlimited-chats.md"
   },
   {
@@ -112,7 +378,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "points": 1614,
+    "points": 1806,
     "path": "news/2026/11/01/12844ee7f805-show-hn-hackerbooks-hackertube-but-for-books-mentioned-on-hn.md"
   },
   {
@@ -126,7 +392,7 @@
     ],
     "importance": 2,
     "summary": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-    "points": 174,
+    "points": 176,
     "path": "news/2026/11/01/4382f3018f67-ai-agent-swarms-in-minecraft-fail-to-build-civilization-drow.md"
   },
   {
@@ -140,7 +406,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-    "points": 274,
+    "points": 310,
     "path": "news/2026/11/01/1c2c00360e15-show-hn-omnidiff-opensource-super-fast-content-aware-git-dif.md"
   },
   {
@@ -166,7 +432,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The AI cost of JavaScript frameworks",
-    "points": 409,
+    "points": 468,
     "path": "news/2026/11/01/967be99077d1-the-ai-cost-of-javascript-frameworks.md"
   },
   {
@@ -180,7 +446,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-    "points": 54,
+    "points": 57,
     "path": "news/2026/11/01/6d1f79546fa5-show-hn-bbrouter-ben-eater-s-8-bit-computer-simulated-on-3d-.md"
   },
   {
@@ -194,7 +460,7 @@
     ],
     "importance": 2,
     "summary": "AI text watermarking and quality loss",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/10/31/4694cfbe3b29-ai-text-watermarking-and-quality-loss.md"
   },
   {
@@ -209,7 +475,7 @@
     ],
     "importance": 3,
     "summary": "ChatGPT and Codex usage limits merging",
-    "points": 227,
+    "points": 233,
     "path": "news/2026/10/31/4ea2bbfbe1de-chatgpt-and-codex-usage-limits-merging.md"
   },
   {
@@ -223,7 +489,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic takes steps to block Claude from reverse-engineering video games",
-    "points": 189,
+    "points": 196,
     "path": "news/2026/10/31/b38e8b1f8473-anthropic-takes-steps-to-block-claude-from-reverse-engineeri.md"
   },
   {
@@ -238,7 +504,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic blocks users for anything touching training larger models",
-    "points": 476,
+    "points": 488,
     "path": "news/2026/10/31/3c488a5d9e8f-anthropic-blocks-users-for-anything-touching-training-larger.md"
   },
   {
@@ -264,7 +530,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-    "points": 81,
+    "points": 82,
     "path": "news/2026/10/31/d004c37dd3b3-the-impact-of-generative-ai-on-critical-thinking-self-report.md"
   },
   {
@@ -278,7 +544,7 @@
     ],
     "importance": 2,
     "summary": "Copyright Office is restoring copyright to something you have to work to get",
-    "points": 66,
+    "points": 67,
     "path": "news/2026/10/31/591aa917faeb-copyright-office-is-restoring-copyright-to-something-you-hav.md"
   },
   {
@@ -292,7 +558,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/10/31/66b1d8c95b15-show-hn-a-usb-c-lte-modem-that-gives-my-computer-a-phone-lin.md"
   },
   {
@@ -306,7 +572,7 @@
     ],
     "importance": 3,
     "summary": "Malware uses LLMs to rank victims by how much they're worth",
-    "points": 259,
+    "points": 261,
     "path": "news/2026/10/31/c0588a787514-malware-uses-llms-to-rank-victims-by-how-much-they-re-worth.md"
   },
   {
@@ -332,7 +598,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/10/31/4461dc711753-anthropic-s-claude-ai-blocks-video-game-cloning-and-reverse-.md"
   },
   {
@@ -358,7 +624,7 @@
     ],
     "importance": 3,
     "summary": "We Took over ChatGPT Accounts",
-    "points": 360,
+    "points": 361,
     "path": "news/2026/10/31/7f4c0eb3099e-we-took-over-chatgpt-accounts.md"
   },
   {
@@ -372,7 +638,7 @@
     ],
     "importance": 2,
     "summary": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-    "points": 52,
+    "points": 60,
     "path": "news/2026/10/31/ba59a861965f-parchment-paper-history-how-we-got-paper-perfect-for-baking-.md"
   },
   {
@@ -386,7 +652,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises less than half of $30B target",
-    "points": 186,
+    "points": 187,
     "path": "news/2026/10/31/20ceacd96073-openai-raises-less-than-half-of-30b-target.md"
   },
   {
@@ -796,6 +1062,17 @@
     "importance": 2,
     "summary": "An updated Model Spec for more capable and beneficial AI",
     "path": "news/2026/10/29/9349f418e7bc-an-updated-model-spec-for-more-capable-and-beneficial-ai.md"
+  },
+  {
+    "id": "56549ea5f7e6",
+    "title": "Meet Chat: Our In-house Studio Assistant",
+    "url": "https://suno.com/blog/studio-chat-assistant",
+    "source": "suno",
+    "publishedAt": "2026-10-29T16:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Meet Chat: Our In-house Studio Assistant",
+    "path": "news/2026/10/29/56549ea5f7e6-meet-chat-our-in-house-studio-assistant.md"
   },
   {
     "id": "4890bdcdc518",
