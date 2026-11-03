@@ -24,6 +24,186 @@
     "path": "news/2026/11/04/7fd8e2e1d6b2-agility-robotics-and-churchill-capital-corp-xi-announce-expe.md"
   },
   {
+    "id": "01b1e45f222d",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T21:40:53Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "points": 64,
+    "path": "news/2026/11/03/01b1e45f222d-the-little-book-of-generative-ai-foundations-an-intuitive-ma.md"
+  },
+  {
+    "id": "e08881f70bf9",
+    "title": "Google researchers demand freedom to tell the world what they know about AI",
+    "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T17:55:26Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Google researchers demand freedom to tell the world what they know about AI",
+    "points": 79,
+    "path": "news/2026/11/03/e08881f70bf9-google-researchers-demand-freedom-to-tell-the-world-what-the.md"
+  },
+  {
+    "id": "210b26f029f3",
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T17:22:37Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "points": 885,
+    "path": "news/2026/11/03/210b26f029f3-postman-silently-auto-installs-ai-plugins-and-attempts-to-sh.md"
+  },
+  {
+    "id": "8d8667671049",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "source": "huggingface",
+    "publishedAt": "2026-11-03T17:15:21.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "StateBench: Testing how language models track state changes over long documents",
+    "path": "news/2026/11/03/8d8667671049-statebench-testing-how-language-models-track-state-changes-o.md"
+  },
+  {
+    "id": "23c4f130369c",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-03T17:01:49.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Agentic cheminformatics with Google Antigravity",
+    "path": "news/2026/11/03/23c4f130369c-agentic-cheminformatics-with-google-antigravity.md"
+  },
+  {
+    "id": "4d3938441f21",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "source": "huggingface",
+    "publishedAt": "2026-11-03T16:35:36.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Palette: teaching a small model to build decks in your design language",
+    "path": "news/2026/11/03/4d3938441f21-palette-teaching-a-small-model-to-build-decks-in-your-design.md"
+  },
+  {
+    "id": "9fb1a743b359",
+    "title": "Quili AI",
+    "url": "https://www.quili.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T15:49:02Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Quili AI",
+    "points": 94,
+    "path": "news/2026/11/03/9fb1a743b359-quili-ai.md"
+  },
+  {
+    "id": "62cc485a7b47",
+    "title": "AI is destroying my CS degree",
+    "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T15:35:06Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI is destroying my CS degree",
+    "points": 114,
+    "path": "news/2026/11/03/62cc485a7b47-ai-is-destroying-my-cs-degree.md"
+  },
+  {
+    "id": "2258ac95ca26",
+    "title": "Google will turn off search for schools that reject AI",
+    "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T15:25:47Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Google will turn off search for schools that reject AI",
+    "points": 499,
+    "path": "news/2026/11/03/2258ac95ca26-google-will-turn-off-search-for-schools-that-reject-ai.md"
+  },
+  {
+    "id": "954fbd2e34ab",
+    "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+    "url": "https://github.com/Muvon/octomind",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T15:02:58Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Octomind – open-source AI harness that saves your tokens, static rust",
+    "points": 51,
+    "path": "news/2026/11/03/954fbd2e34ab-octomind-open-source-ai-harness-that-saves-your-tokens-stati.md"
+  },
+  {
+    "id": "d32ef587b94f",
+    "title": "The AI Bubble Monitor",
+    "url": "https://cepr.net/publications/ai-bubble-monitor/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T14:51:31Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The AI Bubble Monitor",
+    "points": 60,
+    "path": "news/2026/11/03/d32ef587b94f-the-ai-bubble-monitor.md"
+  },
+  {
+    "id": "09a3d3671a46",
+    "title": "Just a little AI resistance, as a treat",
+    "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T14:14:12Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Just a little AI resistance, as a treat",
+    "points": 169,
+    "path": "news/2026/11/03/09a3d3671a46-just-a-little-ai-resistance-as-a-treat.md"
+  },
+  {
+    "id": "25493a43cba5",
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "openai",
+    "publishedAt": "2026-11-03T12:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Accelerating engineering for the physical world",
+    "path": "news/2026/11/03/25493a43cba5-accelerating-engineering-for-the-physical-world.md"
+  },
+  {
+    "id": "479a00df8bda",
+    "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+    "url": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T11:16:07Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+    "points": 77,
+    "path": "news/2026/11/03/479a00df8bda-anthropic-ipo-filing-1-7b-quarterly-payroll-about-107k-per-e.md"
+  },
+  {
     "id": "15f2a9456d01",
     "title": "Revolut moves to self-hosted GLM",
     "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
@@ -34,7 +214,7 @@
     ],
     "importance": 2,
     "summary": "Revolut moves to self-hosted GLM",
-    "points": 138,
+    "points": 182,
     "path": "news/2026/11/03/15f2a9456d01-revolut-moves-to-self-hosted-glm.md"
   },
   {
@@ -47,6 +227,45 @@
     "importance": 2,
     "summary": "Heimstaden is changing residential real estate management with AI",
     "path": "news/2026/11/03/fc87a45dcfbf-heimstaden-is-changing-residential-real-estate-management-wi.md"
+  },
+  {
+    "id": "34e7d6261520",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source": "openai",
+    "publishedAt": "2026-11-03T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Cisco defends at machine speed with OpenAI",
+    "path": "news/2026/11/03/34e7d6261520-how-cisco-defends-at-machine-speed-with-openai.md"
+  },
+  {
+    "id": "f6a27acca830",
+    "title": "Show HN: I built a little browser game to practice Vim commands",
+    "url": "https://hjkl.duy.run",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T03:10:04Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: I built a little browser game to practice Vim commands",
+    "points": 65,
+    "path": "news/2026/11/03/f6a27acca830-show-hn-i-built-a-little-browser-game-to-practice-vim-comman.md"
+  },
+  {
+    "id": "29690e41bb1d",
+    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "url": "https://hackertv.org",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T01:18:09Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "points": 77,
+    "path": "news/2026/11/03/29690e41bb1d-show-hn-hackertv-hn-s-most-recommended-youtube-videos-as-24-.md"
   },
   {
     "id": "a6f54d325d31",
@@ -63,6 +282,30 @@
     "path": "news/2026/11/03/a6f54d325d31-transformers-model-integration-contracts.md"
   },
   {
+    "id": "019edb616369",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "openai",
+    "publishedAt": "2026-11-03T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "path": "news/2026/11/03/019edb616369-openai-appoints-jill-hazelbaker-as-chief-corporate-affairs-o.md"
+  },
+  {
+    "id": "63945bc79480",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "url": "https://huggingface.co/blog/cwe-bench",
+    "source": "huggingface",
+    "publishedAt": "2026-11-03T00:00:00.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "CWE-bench v2: More coverage, quality, and transparency",
+    "path": "news/2026/11/03/63945bc79480-cwe-bench-v2-more-coverage-quality-and-transparency.md"
+  },
+  {
     "id": "b16270a8eea7",
     "title": "Anthropic's growth just flattened",
     "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
@@ -71,7 +314,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's growth just flattened",
-    "points": 216,
+    "points": 227,
     "path": "news/2026/11/02/b16270a8eea7-anthropic-s-growth-just-flattened.md"
   },
   {
@@ -85,7 +328,7 @@
     ],
     "importance": 3,
     "summary": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "points": 370,
+    "points": 394,
     "path": "news/2026/11/02/4d288a711fe3-the-sec-should-block-anthropic-s-ipo-to-protect-the-public.md"
   },
   {
@@ -100,7 +343,7 @@
     ],
     "importance": 2,
     "summary": "LLMs are not superhuman at reading and writing neural network weights",
-    "points": 81,
+    "points": 137,
     "path": "news/2026/11/02/c91f7ccc9c51-llms-are-not-superhuman-at-reading-and-writing-neural-networ.md"
   },
   {
@@ -114,7 +357,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/11/02/a4c8b0f80db2-anthropic-reveals-900b-ai-spending-commitments-ahead-of-ipo.md"
   },
   {
@@ -126,7 +369,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-    "points": 190,
+    "points": 197,
     "path": "news/2026/11/02/c83586ab7058-oracle-files-to-sell-20b-in-new-stock-bonds-to-finance-ai-bu.md"
   },
   {
@@ -138,7 +381,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Egoless Mathematics in the AI Era",
-    "points": 173,
+    "points": 180,
     "path": "news/2026/11/02/5010fb296f76-egoless-mathematics-in-the-ai-era.md"
   },
   {
@@ -188,7 +431,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "points": 149,
+    "points": 158,
     "path": "news/2026/11/02/3e8a8aa61332-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo.md"
   },
   {
@@ -200,7 +443,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-    "points": 334,
+    "points": 347,
     "path": "news/2026/11/02/f4ae3ef50925-anthropic-s-internal-ai-use-at-retail-prices-now-exceeds-its.md"
   },
   {
@@ -214,7 +457,7 @@
     ],
     "importance": 2,
     "summary": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-    "points": 101,
+    "points": 105,
     "path": "news/2026/11/02/87906e26ddaa-claude-opus-5-5-can-draw-permit-level-architectural-drawings.md"
   },
   {
@@ -229,7 +472,7 @@
     "importance": 3,
     "summary": "Scaling Git at OpenAI",
     "path": "news/2026/11/02/277870ffc8d7-scaling-git-at-openai.md",
-    "points": 243
+    "points": 262
   },
   {
     "id": "327e862bb29c",
@@ -267,7 +510,7 @@
     "tags": [],
     "importance": 2,
     "summary": "GPT-Rosalind-6 System Card Addendum",
-    "points": 70,
+    "points": 71,
     "path": "news/2026/11/02/519265604034-gpt-rosalind-6-system-card-addendum.md"
   },
   {
@@ -279,7 +522,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Jobless tech workers are being left out of San Francisco's AI boom",
-    "points": 179,
+    "points": 186,
     "path": "news/2026/11/02/54fa2f33bb03-jobless-tech-workers-are-being-left-out-of-san-francisco-s-a.md"
   },
   {
@@ -291,8 +534,20 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-    "points": 233,
+    "points": 236,
     "path": "news/2026/11/02/bbdc93c47cef-anthropic-reports-17b-in-q3-revenue-commitments-of-895b-in-r.md"
+  },
+  {
+    "id": "9c79addb856a",
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T14:02:42Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "points": 336,
+    "path": "news/2026/11/02/9c79addb856a-fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-d.md"
   },
   {
     "id": "9e8a6cc08fde",
@@ -305,7 +560,7 @@
     ],
     "importance": 2,
     "summary": "Last night an AI agent performed brain surgery on a mouse",
-    "points": 137,
+    "points": 141,
     "path": "news/2026/11/02/9e8a6cc08fde-last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.md"
   },
   {
@@ -328,7 +583,7 @@
     "tags": [],
     "importance": 2,
     "summary": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
-    "points": 134,
+    "points": 135,
     "path": "news/2026/11/02/9595b21e7e43-bioware-co-founder-game-execs-have-never-made-a-game-and-don.md"
   },
   {
@@ -340,7 +595,7 @@
     "tags": [],
     "importance": 2,
     "summary": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-    "points": 157,
+    "points": 158,
     "path": "news/2026/11/02/0cf35570dae3-china-s-first-frontier-ai-export-controls-mofcom-announcemen.md"
   },
   {
@@ -366,7 +621,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI fan wikis riddled with errors are muddying the waters of games culture",
-    "points": 100,
+    "points": 101,
     "path": "news/2026/11/02/e0a72d46227b-ai-fan-wikis-riddled-with-errors-are-muddying-the-waters-of-.md"
   },
   {
@@ -404,7 +659,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-    "points": 243,
+    "points": 245,
     "path": "news/2026/11/01/79ffda0a470c-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e.md"
   },
   {
@@ -418,7 +673,7 @@
     ],
     "importance": 2,
     "summary": "So I guess everyone uses LLMs to think now",
-    "points": 78,
+    "points": 79,
     "path": "news/2026/11/01/3e7a74cb045b-so-i-guess-everyone-uses-llms-to-think-now.md"
   },
   {
@@ -470,7 +725,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "points": 1829,
+    "points": 1840,
     "path": "news/2026/11/01/12844ee7f805-show-hn-hackerbooks-hackertube-but-for-books-mentioned-on-hn.md"
   },
   {
@@ -484,7 +739,7 @@
     ],
     "importance": 2,
     "summary": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-    "points": 178,
+    "points": 180,
     "path": "news/2026/11/01/4382f3018f67-ai-agent-swarms-in-minecraft-fail-to-build-civilization-drow.md"
   },
   {
@@ -498,7 +753,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-    "points": 315,
+    "points": 316,
     "path": "news/2026/11/01/1c2c00360e15-show-hn-omnidiff-opensource-super-fast-content-aware-git-dif.md"
   },
   {
@@ -512,7 +767,7 @@
     ],
     "importance": 2,
     "summary": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/11/01/0bf0cb89b913-sam-altman-says-dram-capacity-should-go-to-data-centers-not-.md"
   },
   {
@@ -524,7 +779,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The AI cost of JavaScript frameworks",
-    "points": 471,
+    "points": 474,
     "path": "news/2026/11/01/967be99077d1-the-ai-cost-of-javascript-frameworks.md"
   },
   {
@@ -1456,6 +1711,17 @@
     "summary": "Google AI gets cagey when asked who won the 2020 elections",
     "points": 171,
     "path": "news/2026/10/28/ef243006ac6a-google-ai-gets-cagey-when-asked-who-won-the-2020-elections.md"
+  },
+  {
+    "id": "16681fd606d5",
+    "title": "Evernote turns AI-driven discovery into paid subscriptions",
+    "url": "https://openai.com/ads/customers/evernote",
+    "source": "openai",
+    "publishedAt": "2026-10-28T19:40:49.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Evernote turns AI-driven discovery into paid subscriptions",
+    "path": "news/2026/10/28/16681fd606d5-evernote-turns-ai-driven-discovery-into-paid-subscriptions.md"
   },
   {
     "id": "851b90166049",
@@ -104011,6 +104277,17 @@
     "summary": "Phi-4 Reasoning Models",
     "points": 131,
     "path": "news/2025/05/01/2ff1fbbf6d37-phi-4-reasoning-models.md"
+  },
+  {
+    "id": "bbebec2a37d5",
+    "title": "Suno Blog",
+    "url": "https://suno.com/blog/all",
+    "source": "suno",
+    "publishedAt": "2025-05-01T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Suno Blog",
+    "path": "news/2025/05/01/bbebec2a37d5-suno-blog.md"
   },
   {
     "id": "0d54d66b68c6",
