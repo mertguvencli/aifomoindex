@@ -24,15 +24,54 @@
     "path": "news/2026/11/04/7fd8e2e1d6b2-agility-robotics-and-churchill-capital-corp-xi-announce-expe.md"
   },
   {
+    "id": "15f2a9456d01",
+    "title": "Revolut moves to self-hosted GLM",
+    "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T09:53:59Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Revolut moves to self-hosted GLM",
+    "points": 138,
+    "path": "news/2026/11/03/15f2a9456d01-revolut-moves-to-self-hosted-glm.md"
+  },
+  {
+    "id": "fc87a45dcfbf",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source": "openai",
+    "publishedAt": "2026-11-03T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Heimstaden is changing residential real estate management with AI",
+    "path": "news/2026/11/03/fc87a45dcfbf-heimstaden-is-changing-residential-real-estate-management-wi.md"
+  },
+  {
+    "id": "a6f54d325d31",
+    "title": "Transformers Model Integration Contracts",
+    "url": "https://huggingface.co/blog/transformers-mic",
+    "source": "huggingface",
+    "publishedAt": "2026-11-03T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Transformers Model Integration Contracts",
+    "path": "news/2026/11/03/a6f54d325d31-transformers-model-integration-contracts.md"
+  },
+  {
     "id": "b16270a8eea7",
     "title": "Anthropic's growth just flattened",
     "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
     "source": "hackernews",
     "publishedAt": "2026-11-02T22:33:20Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic's growth just flattened",
-    "points": 113,
+    "points": 216,
     "path": "news/2026/11/02/b16270a8eea7-anthropic-s-growth-just-flattened.md"
   },
   {
@@ -44,10 +83,25 @@
     "tags": [
       "funding"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "points": 108,
+    "points": 370,
     "path": "news/2026/11/02/4d288a711fe3-the-sec-should-block-anthropic-s-ipo-to-protect-the-public.md"
+  },
+  {
+    "id": "c91f7ccc9c51",
+    "title": "LLMs are not superhuman at reading and writing neural network weights",
+    "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T22:26:53Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "LLMs are not superhuman at reading and writing neural network weights",
+    "points": 81,
+    "path": "news/2026/11/02/c91f7ccc9c51-llms-are-not-superhuman-at-reading-and-writing-neural-networ.md"
   },
   {
     "id": "a4c8b0f80db2",
@@ -60,7 +114,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-    "points": 69,
+    "points": 73,
     "path": "news/2026/11/02/a4c8b0f80db2-anthropic-reveals-900b-ai-spending-commitments-ahead-of-ipo.md"
   },
   {
@@ -72,7 +126,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-    "points": 140,
+    "points": 190,
     "path": "news/2026/11/02/c83586ab7058-oracle-files-to-sell-20b-in-new-stock-bonds-to-finance-ai-bu.md"
   },
   {
@@ -84,8 +138,32 @@
     "tags": [],
     "importance": 2,
     "summary": "Egoless Mathematics in the AI Era",
-    "points": 96,
+    "points": 173,
     "path": "news/2026/11/02/5010fb296f76-egoless-mathematics-in-the-ai-era.md"
+  },
+  {
+    "id": "bca108e4c77b",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "source": "openai",
+    "publishedAt": "2026-11-02T18:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Rewarding defenders with bigger bug bounties",
+    "path": "news/2026/11/02/bca108e4c77b-rewarding-defenders-with-bigger-bug-bounties.md"
+  },
+  {
+    "id": "0d297090385a",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source": "openai",
+    "publishedAt": "2026-11-02T18:00:00.000Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Preparing our next security sprint to harden OpenAI",
+    "path": "news/2026/11/02/0d297090385a-preparing-our-next-security-sprint-to-harden-openai.md"
   },
   {
     "id": "996c88dfa31d",
@@ -110,7 +188,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "points": 112,
+    "points": 149,
     "path": "news/2026/11/02/3e8a8aa61332-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo.md"
   },
   {
@@ -122,7 +200,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-    "points": 281,
+    "points": 334,
     "path": "news/2026/11/02/f4ae3ef50925-anthropic-s-internal-ai-use-at-retail-prices-now-exceeds-its.md"
   },
   {
@@ -136,7 +214,7 @@
     ],
     "importance": 2,
     "summary": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-    "points": 76,
+    "points": 101,
     "path": "news/2026/11/02/87906e26ddaa-claude-opus-5-5-can-draw-permit-level-architectural-drawings.md"
   },
   {
@@ -148,9 +226,10 @@
     "tags": [
       "research"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Scaling Git at OpenAI",
-    "path": "news/2026/11/02/277870ffc8d7-scaling-git-at-openai.md"
+    "path": "news/2026/11/02/277870ffc8d7-scaling-git-at-openai.md",
+    "points": 243
   },
   {
     "id": "327e862bb29c",
@@ -163,7 +242,7 @@
     ],
     "importance": 2,
     "summary": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-    "points": 75,
+    "points": 85,
     "path": "news/2026/11/02/327e862bb29c-longcat-2-5-native-multimodality-for-agentic-tasks.md"
   },
   {
@@ -188,7 +267,7 @@
     "tags": [],
     "importance": 2,
     "summary": "GPT-Rosalind-6 System Card Addendum",
-    "points": 64,
+    "points": 70,
     "path": "news/2026/11/02/519265604034-gpt-rosalind-6-system-card-addendum.md"
   },
   {
@@ -200,7 +279,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Jobless tech workers are being left out of San Francisco's AI boom",
-    "points": 154,
+    "points": 179,
     "path": "news/2026/11/02/54fa2f33bb03-jobless-tech-workers-are-being-left-out-of-san-francisco-s-a.md"
   },
   {
@@ -212,7 +291,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-    "points": 226,
+    "points": 233,
     "path": "news/2026/11/02/bbdc93c47cef-anthropic-reports-17b-in-q3-revenue-commitments-of-895b-in-r.md"
   },
   {
@@ -226,7 +305,7 @@
     ],
     "importance": 2,
     "summary": "Last night an AI agent performed brain surgery on a mouse",
-    "points": 118,
+    "points": 137,
     "path": "news/2026/11/02/9e8a6cc08fde-last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.md"
   },
   {
@@ -249,7 +328,7 @@
     "tags": [],
     "importance": 2,
     "summary": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
-    "points": 127,
+    "points": 134,
     "path": "news/2026/11/02/9595b21e7e43-bioware-co-founder-game-execs-have-never-made-a-game-and-don.md"
   },
   {
@@ -261,7 +340,7 @@
     "tags": [],
     "importance": 2,
     "summary": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-    "points": 148,
+    "points": 157,
     "path": "news/2026/11/02/0cf35570dae3-china-s-first-frontier-ai-export-controls-mofcom-announcemen.md"
   },
   {
@@ -275,7 +354,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
-    "points": 180,
+    "points": 182,
     "path": "news/2026/11/02/8c132669acb0-show-hn-hackerhack-hackerbooks-but-for-posts-posted-on-hn.md"
   },
   {
@@ -304,6 +383,19 @@
     "path": "news/2026/11/02/4094d4340f9e-qodo-builds-context-into-ai-code-review-with-codex.md"
   },
   {
+    "id": "945f879ef3a4",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "source": "openai",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "path": "news/2026/11/02/945f879ef3a4-openai-appoints-dan-driscoll-as-senior-counselor-for-nationa.md"
+  },
+  {
     "id": "79ffda0a470c",
     "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -312,7 +404,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-    "points": 241,
+    "points": 243,
     "path": "news/2026/11/01/79ffda0a470c-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e.md"
   },
   {
@@ -326,7 +418,7 @@
     ],
     "importance": 2,
     "summary": "So I guess everyone uses LLMs to think now",
-    "points": 77,
+    "points": 78,
     "path": "news/2026/11/01/3e7a74cb045b-so-i-guess-everyone-uses-llms-to-think-now.md"
   },
   {
@@ -338,7 +430,7 @@
     "tags": [],
     "importance": 2,
     "summary": "It wasn't AI that flipped Proton's charge",
-    "points": 165,
+    "points": 169,
     "path": "news/2026/11/01/1d387a7e4fac-it-wasn-t-ai-that-flipped-proton-s-charge.md"
   },
   {
@@ -364,7 +456,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I Am the Reason OpenAI Is Killing Unlimited Chats",
-    "points": 90,
+    "points": 92,
     "path": "news/2026/11/01/ef79256ca5d9-i-am-the-reason-openai-is-killing-unlimited-chats.md"
   },
   {
@@ -378,7 +470,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "points": 1806,
+    "points": 1829,
     "path": "news/2026/11/01/12844ee7f805-show-hn-hackerbooks-hackertube-but-for-books-mentioned-on-hn.md"
   },
   {
@@ -392,7 +484,7 @@
     ],
     "importance": 2,
     "summary": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-    "points": 176,
+    "points": 178,
     "path": "news/2026/11/01/4382f3018f67-ai-agent-swarms-in-minecraft-fail-to-build-civilization-drow.md"
   },
   {
@@ -406,7 +498,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-    "points": 310,
+    "points": 315,
     "path": "news/2026/11/01/1c2c00360e15-show-hn-omnidiff-opensource-super-fast-content-aware-git-dif.md"
   },
   {
@@ -432,7 +524,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The AI cost of JavaScript frameworks",
-    "points": 468,
+    "points": 471,
     "path": "news/2026/11/01/967be99077d1-the-ai-cost-of-javascript-frameworks.md"
   },
   {
@@ -460,7 +552,7 @@
     ],
     "importance": 2,
     "summary": "AI text watermarking and quality loss",
-    "points": 74,
+    "points": 76,
     "path": "news/2026/10/31/4694cfbe3b29-ai-text-watermarking-and-quality-loss.md"
   },
   {
@@ -504,7 +596,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic blocks users for anything touching training larger models",
-    "points": 488,
+    "points": 491,
     "path": "news/2026/10/31/3c488a5d9e8f-anthropic-blocks-users-for-anything-touching-training-larger.md"
   },
   {
@@ -518,7 +610,7 @@
     ],
     "importance": 2,
     "summary": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-    "points": 176,
+    "points": 177,
     "path": "news/2026/10/31/f4160ff23c48-gpt-5-6-sol-can-beat-factorio-on-peaceful-mode.md"
   },
   {
