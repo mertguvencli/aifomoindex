@@ -1,5 +1,55 @@
 [
   {
+    "id": "857e942cc111",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T11:52:17Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI is forcing us to pay off 40 years of technical debt",
+    "points": 196,
+    "path": "news/2026/11/04/857e942cc111-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
+  },
+  {
+    "id": "5872c65788e7",
+    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T10:23:34Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Geoffrey Hinton: it might turn out we were better off without AI",
+    "points": 124,
+    "path": "news/2026/11/04/5872c65788e7-geoffrey-hinton-it-might-turn-out-we-were-better-off-without.md"
+  },
+  {
+    "id": "862f2bfe0384",
+    "title": "Incident with Pull Requests, Git Operations and Issues",
+    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T10:00:06Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Incident with Pull Requests, Git Operations and Issues",
+    "points": 126,
+    "path": "news/2026/11/04/862f2bfe0384-incident-with-pull-requests-git-operations-and-issues.md"
+  },
+  {
+    "id": "4537047ca39a",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T08:46:29Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 3,
+    "summary": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "points": 212,
+    "path": "news/2026/11/04/4537047ca39a-nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to.md"
+  },
+  {
     "id": "f228aaa23766",
     "title": "Churchill Capital Corp XI Shareholders Approve Business Combination with Agility Robotics",
     "url": "https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics",
@@ -32,7 +82,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "points": 261,
+    "points": 360,
     "path": "news/2026/11/03/01b1e45f222d-the-little-book-of-generative-ai-foundations-an-intuitive-ma.md"
   },
   {
@@ -44,7 +94,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "points": 296,
+    "points": 373,
     "path": "news/2026/11/03/f7735096343c-us-tech-giants-hidden-ai-debt-swells-90-to-3-2t-in-6-months.md"
   },
   {
@@ -56,8 +106,23 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-    "points": 70,
+    "points": 73,
     "path": "news/2026/11/03/88f67cf9129b-the-ai-boom-may-be-sowing-seeds-of-another-financial-crisis.md"
+  },
+  {
+    "id": "309d5deba160",
+    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "url": "https://uncracked.city",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T21:20:03Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "points": 85,
+    "path": "news/2026/11/03/309d5deba160-show-hn-uncracked-city-detective-game-where-you-question-llm.md"
   },
   {
     "id": "f1213d42ab13",
@@ -71,7 +136,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-    "points": 70,
+    "points": 98,
     "path": "news/2026/11/03/f1213d42ab13-show-hn-kairos-open-source-risk-and-fraud-decisioning-platfo.md"
   },
   {
@@ -83,7 +148,7 @@
     "tags": [],
     "importance": 2,
     "summary": "$20M in Fines and Vizio Smart TVs Opt Out of Spying Option Does Nothing",
-    "points": 51,
+    "points": 59,
     "path": "news/2026/11/03/ded1df888104-20m-in-fines-and-vizio-smart-tvs-opt-out-of-spying-option-do.md"
   },
   {
@@ -93,9 +158,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-03T18:11:11Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "How I use AI (Oct 2026)",
-    "points": 102,
+    "points": 201,
     "path": "news/2026/11/03/ae61902e2afa-how-i-use-ai-oct-2026.md"
   },
   {
@@ -109,7 +174,7 @@
     ],
     "importance": 2,
     "summary": "Google researchers demand freedom to tell the world what they know about AI",
-    "points": 84,
+    "points": 91,
     "path": "news/2026/11/03/e08881f70bf9-google-researchers-demand-freedom-to-tell-the-world-what-the.md"
   },
   {
@@ -123,7 +188,7 @@
     ],
     "importance": 3,
     "summary": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "points": 1084,
+    "points": 1365,
     "path": "news/2026/11/03/210b26f029f3-postman-silently-auto-installs-ai-plugins-and-attempts-to-sh.md"
   },
   {
@@ -176,7 +241,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Quili AI",
-    "points": 94,
+    "points": 98,
     "path": "news/2026/11/03/9fb1a743b359-quili-ai.md"
   },
   {
@@ -188,7 +253,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is destroying my CS degree",
-    "points": 119,
+    "points": 124,
     "path": "news/2026/11/03/62cc485a7b47-ai-is-destroying-my-cs-degree.md"
   },
   {
@@ -200,7 +265,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google will turn off search for schools that reject AI",
-    "points": 569,
+    "points": 632,
     "path": "news/2026/11/03/2258ac95ca26-google-will-turn-off-search-for-schools-that-reject-ai.md"
   },
   {
@@ -214,7 +279,7 @@
     ],
     "importance": 2,
     "summary": "Octomind – open-source AI harness that saves your tokens, static rust",
-    "points": 52,
+    "points": 55,
     "path": "news/2026/11/03/954fbd2e34ab-octomind-open-source-ai-harness-that-saves-your-tokens-stati.md"
   },
   {
@@ -226,8 +291,20 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI Bubble Monitor",
-    "points": 61,
+    "points": 66,
     "path": "news/2026/11/03/d32ef587b94f-the-ai-bubble-monitor.md"
+  },
+  {
+    "id": "cf03bdbe3edb",
+    "title": "There is no posttraining data commons",
+    "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-03T14:45:47Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "There is no posttraining data commons",
+    "points": 90,
+    "path": "news/2026/11/03/cf03bdbe3edb-there-is-no-posttraining-data-commons.md"
   },
   {
     "id": "09a3d3671a46",
@@ -238,7 +315,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Just a little AI resistance, as a treat",
-    "points": 172,
+    "points": 175,
     "path": "news/2026/11/03/09a3d3671a46-just-a-little-ai-resistance-as-a-treat.md"
   },
   {
@@ -263,7 +340,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
-    "points": 79,
+    "points": 84,
     "path": "news/2026/11/03/479a00df8bda-anthropic-ipo-filing-1-7b-quarterly-payroll-about-107k-per-e.md"
   },
   {
@@ -277,7 +354,7 @@
     ],
     "importance": 2,
     "summary": "Revolut moves to self-hosted GLM",
-    "points": 186,
+    "points": 191,
     "path": "news/2026/11/03/15f2a9456d01-revolut-moves-to-self-hosted-glm.md"
   },
   {
@@ -313,7 +390,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a little browser game to practice Vim commands",
-    "points": 67,
+    "points": 69,
     "path": "news/2026/11/03/f6a27acca830-show-hn-i-built-a-little-browser-game-to-practice-vim-comman.md"
   },
   {
@@ -327,7 +404,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-    "points": 217,
+    "points": 365,
     "path": "news/2026/11/03/29690e41bb1d-show-hn-hackertv-hn-s-most-recommended-youtube-videos-as-24-.md"
   },
   {
@@ -391,7 +468,7 @@
     ],
     "importance": 3,
     "summary": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "points": 397,
+    "points": 400,
     "path": "news/2026/11/02/4d288a711fe3-the-sec-should-block-anthropic-s-ipo-to-protect-the-public.md"
   },
   {
@@ -406,7 +483,7 @@
     ],
     "importance": 2,
     "summary": "LLMs are not superhuman at reading and writing neural network weights",
-    "points": 141,
+    "points": 144,
     "path": "news/2026/11/02/c91f7ccc9c51-llms-are-not-superhuman-at-reading-and-writing-neural-networ.md"
   },
   {
@@ -444,7 +521,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Egoless Mathematics in the AI Era",
-    "points": 182,
+    "points": 183,
     "path": "news/2026/11/02/5010fb296f76-egoless-mathematics-in-the-ai-era.md"
   },
   {
@@ -494,7 +571,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "points": 159,
+    "points": 161,
     "path": "news/2026/11/02/3e8a8aa61332-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo.md"
   },
   {
@@ -506,7 +583,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-    "points": 349,
+    "points": 352,
     "path": "news/2026/11/02/f4ae3ef50925-anthropic-s-internal-ai-use-at-retail-prices-now-exceeds-its.md"
   },
   {
@@ -535,7 +612,7 @@
     "importance": 3,
     "summary": "Scaling Git at OpenAI",
     "path": "news/2026/11/02/277870ffc8d7-scaling-git-at-openai.md",
-    "points": 264
+    "points": 270
   },
   {
     "id": "327e862bb29c",
@@ -609,7 +686,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "points": 402,
+    "points": 496,
     "path": "news/2026/11/02/9c79addb856a-fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-d.md"
   },
   {
@@ -646,7 +723,7 @@
     "tags": [],
     "importance": 2,
     "summary": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
-    "points": 137,
+    "points": 138,
     "path": "news/2026/11/02/9595b21e7e43-bioware-co-founder-game-execs-have-never-made-a-game-and-don.md"
   },
   {
@@ -722,7 +799,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-    "points": 245,
+    "points": 246,
     "path": "news/2026/11/01/79ffda0a470c-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e.md"
   },
   {
@@ -736,7 +813,7 @@
     ],
     "importance": 2,
     "summary": "So I guess everyone uses LLMs to think now",
-    "points": 79,
+    "points": 80,
     "path": "news/2026/11/01/3e7a74cb045b-so-i-guess-everyone-uses-llms-to-think-now.md"
   },
   {
@@ -748,7 +825,7 @@
     "tags": [],
     "importance": 2,
     "summary": "It wasn't AI that flipped Proton's charge",
-    "points": 169,
+    "points": 170,
     "path": "news/2026/11/01/1d387a7e4fac-it-wasn-t-ai-that-flipped-proton-s-charge.md"
   },
   {
@@ -788,7 +865,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "points": 1842,
+    "points": 1846,
     "path": "news/2026/11/01/12844ee7f805-show-hn-hackerbooks-hackertube-but-for-books-mentioned-on-hn.md"
   },
   {
