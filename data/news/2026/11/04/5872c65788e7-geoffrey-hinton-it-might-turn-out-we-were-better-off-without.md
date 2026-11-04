@@ -5,8 +5,8 @@ url: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinto
 source: hackernews
 published_at: 2026-11-04T10:23:34Z
 fetched_at: 2026-11-04T13:22:48.628Z
-importance: 2
-points: 124
+importance: 3
+points: 294
 tags: []
 ---
 

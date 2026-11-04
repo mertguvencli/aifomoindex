@@ -1,14 +1,199 @@
 [
   {
+    "id": "b840f829bc61",
+    "title": "Agility Robotics and Churchill Capital Corp XI Complete Business Combination",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-complete-business-combination",
+    "source": "agility",
+    "publishedAt": "2026-11-05T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Robotics and Churchill Capital Corp XI Complete Business Combination",
+    "path": "news/2026/11/05/b840f829bc61-agility-robotics-and-churchill-capital-corp-xi-complete-busi.md"
+  },
+  {
+    "id": "d71dd54f5703",
+    "title": "Everything is an AI scam now",
+    "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T21:05:19Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Everything is an AI scam now",
+    "points": 103,
+    "path": "news/2026/11/04/d71dd54f5703-everything-is-an-ai-scam-now.md"
+  },
+  {
+    "id": "aab699cda7a9",
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T19:55:14Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "points": 70,
+    "path": "news/2026/11/04/aab699cda7a9-qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-12.md"
+  },
+  {
+    "id": "52f1128d67c8",
+    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "url": "https://fireflyk64.github.io/wcmulti/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T18:51:27Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "points": 78,
+    "path": "news/2026/11/04/52f1128d67c8-show-hn-after-a-decade-of-reversing-i-got-co-op-working-in-d.md"
+  },
+  {
+    "id": "32d4e91d243e",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "source": "huggingface",
+    "publishedAt": "2026-11-04T17:50:10.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "path": "news/2026/11/04/32d4e91d243e-dharma-field-extractor-any-document-in-structured-fields-in-.md"
+  },
+  {
+    "id": "500511a0d120",
+    "title": "Progress on provable inference for large language models",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T17:17:46Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Progress on provable inference for large language models",
+    "points": 155,
+    "path": "news/2026/11/04/500511a0d120-progress-on-provable-inference-for-large-language-models.md"
+  },
+  {
+    "id": "21c532efc393",
+    "title": "Use MIDI as a starting point to music creation on Suno",
+    "url": "https://suno.com/blog/MIDI-in-create",
+    "source": "suno",
+    "publishedAt": "2026-11-04T16:45:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Use MIDI as a starting point to music creation on Suno",
+    "path": "news/2026/11/04/21c532efc393-use-midi-as-a-starting-point-to-music-creation-on-suno.md"
+  },
+  {
+    "id": "7b0aac85f53b",
+    "title": "AI data centers comprehensively defeated at US midterm elections",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T15:35:51Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "AI data centers comprehensively defeated at US midterm elections",
+    "points": 54,
+    "path": "news/2026/11/04/7b0aac85f53b-ai-data-centers-comprehensively-defeated-at-us-midterm-elect.md"
+  },
+  {
+    "id": "d38f7b506835",
+    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T15:28:31Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "points": 53,
+    "path": "news/2026/11/04/d38f7b506835-yc-s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a.md"
+  },
+  {
+    "id": "d99935ec0efe",
+    "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+    "url": "https://pcdealcheck.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T15:25:33Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: I built a tool that prices a prebuilt PC part by part",
+    "points": 83,
+    "path": "news/2026/11/04/d99935ec0efe-show-hn-i-built-a-tool-that-prices-a-prebuilt-pc-part-by-par.md"
+  },
+  {
+    "id": "56fd2c1b61f8",
+    "title": "Debian apt security update (man-in-the-middle)",
+    "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T15:04:14Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Debian apt security update (man-in-the-middle)",
+    "points": 130,
+    "path": "news/2026/11/04/56fd2c1b61f8-debian-apt-security-update-man-in-the-middle.md"
+  },
+  {
+    "id": "1be4fdd8e6ca",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "source": "openai",
+    "publishedAt": "2026-11-04T14:30:00.000Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "points": 146,
+    "path": "news/2026/11/04/1be4fdd8e6ca-openai-to-acquire-pierre-computer-company-inc.md"
+  },
+  {
+    "id": "34beab957f96",
+    "title": "Tencent Hy4",
+    "url": "https://hy.tencent.ai/research/hy4",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T14:11:26Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Tencent Hy4",
+    "points": 160,
+    "path": "news/2026/11/04/34beab957f96-tencent-hy4.md"
+  },
+  {
+    "id": "8299e0907b6f",
+    "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+    "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T12:46:58Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Debian apt security update: man-in-the-middle arbitrary code execution",
+    "points": 95,
+    "path": "news/2026/11/04/8299e0907b6f-debian-apt-security-update-man-in-the-middle-arbitrary-code-.md"
+  },
+  {
     "id": "857e942cc111",
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "source": "hackernews",
     "publishedAt": "2026-11-04T11:52:17Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "AI is forcing us to pay off 40 years of technical debt",
-    "points": 196,
+    "points": 990,
     "path": "news/2026/11/04/857e942cc111-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
   },
   {
@@ -18,9 +203,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-04T10:23:34Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "points": 124,
+    "points": 294,
     "path": "news/2026/11/04/5872c65788e7-geoffrey-hinton-it-might-turn-out-we-were-better-off-without.md"
   },
   {
@@ -30,9 +215,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-04T10:00:06Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Incident with Pull Requests, Git Operations and Issues",
-    "points": 126,
+    "points": 248,
     "path": "news/2026/11/04/862f2bfe0384-incident-with-pull-requests-git-operations-and-issues.md"
   },
   {
@@ -46,8 +231,49 @@
     ],
     "importance": 3,
     "summary": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "points": 212,
+    "points": 570,
     "path": "news/2026/11/04/4537047ca39a-nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to.md"
+  },
+  {
+    "id": "fbaa86a829ad",
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "source": "openai",
+    "publishedAt": "2026-11-04T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A thousand fewer paths to root",
+    "path": "news/2026/11/04/fbaa86a829ad-a-thousand-fewer-paths-to-root.md"
+  },
+  {
+    "id": "6ecc2b597212",
+    "title": "AI stocks slide as Texas governor result raises data center risks",
+    "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T07:00:20Z",
+    "tags": [
+      "funding",
+      "policy",
+      "infra",
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "AI stocks slide as Texas governor result raises data center risks",
+    "points": 53,
+    "path": "news/2026/11/04/6ecc2b597212-ai-stocks-slide-as-texas-governor-result-raises-data-center-.md"
+  },
+  {
+    "id": "a3433e936d2c",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "openai",
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "path": "news/2026/11/04/a3433e936d2c-daybreak-red-is-now-available-in-aws-govcloud-us-east.md"
   },
   {
     "id": "f228aaa23766",
@@ -74,6 +300,19 @@
     "path": "news/2026/11/04/7fd8e2e1d6b2-agility-robotics-and-churchill-capital-corp-xi-announce-expe.md"
   },
   {
+    "id": "981785a01550",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "source": "openai",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "path": "news/2026/11/04/981785a01550-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol.md"
+  },
+  {
     "id": "01b1e45f222d",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "url": "https://arxiv.org/abs/2605.29713",
@@ -82,7 +321,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "points": 360,
+    "points": 381,
     "path": "news/2026/11/03/01b1e45f222d-the-little-book-of-generative-ai-foundations-an-intuitive-ma.md"
   },
   {
@@ -94,7 +333,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "points": 373,
+    "points": 408,
     "path": "news/2026/11/03/f7735096343c-us-tech-giants-hidden-ai-debt-swells-90-to-3-2t-in-6-months.md"
   },
   {
@@ -106,7 +345,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-    "points": 73,
+    "points": 75,
     "path": "news/2026/11/03/88f67cf9129b-the-ai-boom-may-be-sowing-seeds-of-another-financial-crisis.md"
   },
   {
@@ -121,7 +360,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-    "points": 85,
+    "points": 121,
     "path": "news/2026/11/03/309d5deba160-show-hn-uncracked-city-detective-game-where-you-question-llm.md"
   },
   {
@@ -136,7 +375,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-    "points": 98,
+    "points": 104,
     "path": "news/2026/11/03/f1213d42ab13-show-hn-kairos-open-source-risk-and-fraud-decisioning-platfo.md"
   },
   {
@@ -160,7 +399,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I use AI (Oct 2026)",
-    "points": 201,
+    "points": 248,
     "path": "news/2026/11/03/ae61902e2afa-how-i-use-ai-oct-2026.md"
   },
   {
@@ -188,7 +427,7 @@
     ],
     "importance": 3,
     "summary": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "points": 1365,
+    "points": 1481,
     "path": "news/2026/11/03/210b26f029f3-postman-silently-auto-installs-ai-plugins-and-attempts-to-sh.md"
   },
   {
@@ -253,7 +492,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is destroying my CS degree",
-    "points": 124,
+    "points": 125,
     "path": "news/2026/11/03/62cc485a7b47-ai-is-destroying-my-cs-degree.md"
   },
   {
@@ -265,7 +504,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google will turn off search for schools that reject AI",
-    "points": 632,
+    "points": 659,
     "path": "news/2026/11/03/2258ac95ca26-google-will-turn-off-search-for-schools-that-reject-ai.md"
   },
   {
@@ -303,7 +542,7 @@
     "tags": [],
     "importance": 2,
     "summary": "There is no posttraining data commons",
-    "points": 90,
+    "points": 118,
     "path": "news/2026/11/03/cf03bdbe3edb-there-is-no-posttraining-data-commons.md"
   },
   {
@@ -315,7 +554,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Just a little AI resistance, as a treat",
-    "points": 175,
+    "points": 177,
     "path": "news/2026/11/03/09a3d3671a46-just-a-little-ai-resistance-as-a-treat.md"
   },
   {
@@ -354,7 +593,7 @@
     ],
     "importance": 2,
     "summary": "Revolut moves to self-hosted GLM",
-    "points": 191,
+    "points": 192,
     "path": "news/2026/11/03/15f2a9456d01-revolut-moves-to-self-hosted-glm.md"
   },
   {
@@ -390,7 +629,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a little browser game to practice Vim commands",
-    "points": 69,
+    "points": 70,
     "path": "news/2026/11/03/f6a27acca830-show-hn-i-built-a-little-browser-game-to-practice-vim-comman.md"
   },
   {
@@ -404,7 +643,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-    "points": 365,
+    "points": 455,
     "path": "news/2026/11/03/29690e41bb1d-show-hn-hackertv-hn-s-most-recommended-youtube-videos-as-24-.md"
   },
   {
@@ -454,7 +693,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic's growth just flattened",
-    "points": 227,
+    "points": 228,
     "path": "news/2026/11/02/b16270a8eea7-anthropic-s-growth-just-flattened.md"
   },
   {
@@ -468,7 +707,7 @@
     ],
     "importance": 3,
     "summary": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "points": 400,
+    "points": 404,
     "path": "news/2026/11/02/4d288a711fe3-the-sec-should-block-anthropic-s-ipo-to-protect-the-public.md"
   },
   {
@@ -483,7 +722,7 @@
     ],
     "importance": 2,
     "summary": "LLMs are not superhuman at reading and writing neural network weights",
-    "points": 144,
+    "points": 147,
     "path": "news/2026/11/02/c91f7ccc9c51-llms-are-not-superhuman-at-reading-and-writing-neural-networ.md"
   },
   {
@@ -509,7 +748,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-    "points": 197,
+    "points": 199,
     "path": "news/2026/11/02/c83586ab7058-oracle-files-to-sell-20b-in-new-stock-bonds-to-finance-ai-bu.md"
   },
   {
@@ -521,7 +760,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Egoless Mathematics in the AI Era",
-    "points": 183,
+    "points": 185,
     "path": "news/2026/11/02/5010fb296f76-egoless-mathematics-in-the-ai-era.md"
   },
   {
@@ -571,7 +810,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "points": 161,
+    "points": 163,
     "path": "news/2026/11/02/3e8a8aa61332-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo.md"
   },
   {
@@ -597,7 +836,7 @@
     ],
     "importance": 2,
     "summary": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-    "points": 105,
+    "points": 106,
     "path": "news/2026/11/02/87906e26ddaa-claude-opus-5-5-can-draw-permit-level-architectural-drawings.md"
   },
   {
@@ -674,7 +913,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-    "points": 237,
+    "points": 238,
     "path": "news/2026/11/02/bbdc93c47cef-anthropic-reports-17b-in-q3-revenue-commitments-of-895b-in-r.md"
   },
   {
@@ -686,7 +925,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "points": 496,
+    "points": 526,
     "path": "news/2026/11/02/9c79addb856a-fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-d.md"
   },
   {
@@ -700,7 +939,7 @@
     ],
     "importance": 2,
     "summary": "Last night an AI agent performed brain surgery on a mouse",
-    "points": 142,
+    "points": 143,
     "path": "news/2026/11/02/9e8a6cc08fde-last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.md"
   },
   {
@@ -735,7 +974,7 @@
     "tags": [],
     "importance": 2,
     "summary": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-    "points": 158,
+    "points": 159,
     "path": "news/2026/11/02/0cf35570dae3-china-s-first-frontier-ai-export-controls-mofcom-announcemen.md"
   },
   {
@@ -749,7 +988,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
-    "points": 182,
+    "points": 183,
     "path": "news/2026/11/02/8c132669acb0-show-hn-hackerhack-hackerbooks-but-for-posts-posted-on-hn.md"
   },
   {
