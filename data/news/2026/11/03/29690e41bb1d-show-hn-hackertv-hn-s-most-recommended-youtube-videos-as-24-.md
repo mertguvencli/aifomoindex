@@ -5,8 +5,8 @@ url: https://hackertv.org
 source: hackernews
 published_at: 2026-11-03T01:18:09Z
 fetched_at: 2026-11-03T22:38:16.271Z
-importance: 2
-points: 77
+importance: 3
+points: 217
 tags: [opensource]
 ---
 
