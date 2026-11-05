@@ -19,7 +19,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Everything is an AI scam now",
-    "points": 103,
+    "points": 131,
     "path": "news/2026/11/04/d71dd54f5703-everything-is-an-ai-scam-now.md"
   },
   {
@@ -31,7 +31,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-    "points": 70,
+    "points": 116,
     "path": "news/2026/11/04/aab699cda7a9-qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-12.md"
   },
   {
@@ -45,7 +45,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "points": 78,
+    "points": 123,
     "path": "news/2026/11/04/52f1128d67c8-show-hn-after-a-decade-of-reversing-i-got-co-op-working-in-d.md"
   },
   {
@@ -73,7 +73,7 @@
     ],
     "importance": 2,
     "summary": "Progress on provable inference for large language models",
-    "points": 155,
+    "points": 187,
     "path": "news/2026/11/04/500511a0d120-progress-on-provable-inference-for-large-language-models.md"
   },
   {
@@ -98,7 +98,7 @@
     ],
     "importance": 2,
     "summary": "AI data centers comprehensively defeated at US midterm elections",
-    "points": 54,
+    "points": 55,
     "path": "news/2026/11/04/7b0aac85f53b-ai-data-centers-comprehensively-defeated-at-us-midterm-elect.md"
   },
   {
@@ -112,7 +112,7 @@
     ],
     "importance": 2,
     "summary": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "points": 53,
+    "points": 70,
     "path": "news/2026/11/04/d38f7b506835-yc-s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a.md"
   },
   {
@@ -127,7 +127,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a tool that prices a prebuilt PC part by part",
-    "points": 83,
+    "points": 97,
     "path": "news/2026/11/04/d99935ec0efe-show-hn-i-built-a-tool-that-prices-a-prebuilt-pc-part-by-par.md"
   },
   {
@@ -141,7 +141,7 @@
     ],
     "importance": 2,
     "summary": "Debian apt security update (man-in-the-middle)",
-    "points": 130,
+    "points": 137,
     "path": "news/2026/11/04/56fd2c1b61f8-debian-apt-security-update-man-in-the-middle.md"
   },
   {
@@ -153,9 +153,9 @@
     "tags": [
       "funding"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "points": 146,
+    "points": 211,
     "path": "news/2026/11/04/1be4fdd8e6ca-openai-to-acquire-pierre-computer-company-inc.md"
   },
   {
@@ -165,9 +165,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-04T14:11:26Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Tencent Hy4",
-    "points": 160,
+    "points": 206,
     "path": "news/2026/11/04/34beab957f96-tencent-hy4.md"
   },
   {
@@ -181,7 +181,7 @@
     ],
     "importance": 2,
     "summary": "Debian apt security update: man-in-the-middle arbitrary code execution",
-    "points": 95,
+    "points": 98,
     "path": "news/2026/11/04/8299e0907b6f-debian-apt-security-update-man-in-the-middle-arbitrary-code-.md"
   },
   {
@@ -193,7 +193,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is forcing us to pay off 40 years of technical debt",
-    "points": 990,
+    "points": 1113,
     "path": "news/2026/11/04/857e942cc111-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
   },
   {
@@ -205,7 +205,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "points": 294,
+    "points": 302,
     "path": "news/2026/11/04/5872c65788e7-geoffrey-hinton-it-might-turn-out-we-were-better-off-without.md"
   },
   {
@@ -217,7 +217,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Incident with Pull Requests, Git Operations and Issues",
-    "points": 248,
+    "points": 258,
     "path": "news/2026/11/04/862f2bfe0384-incident-with-pull-requests-git-operations-and-issues.md"
   },
   {
@@ -231,7 +231,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "points": 570,
+    "points": 594,
     "path": "news/2026/11/04/4537047ca39a-nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to.md"
   },
   {
@@ -243,7 +243,8 @@
     "tags": [],
     "importance": 2,
     "summary": "A thousand fewer paths to root",
-    "path": "news/2026/11/04/fbaa86a829ad-a-thousand-fewer-paths-to-root.md"
+    "path": "news/2026/11/04/fbaa86a829ad-a-thousand-fewer-paths-to-root.md",
+    "points": 196
   },
   {
     "id": "6ecc2b597212",
@@ -313,6 +314,20 @@
     "path": "news/2026/11/04/981785a01550-devrev-delivers-autonomous-self-service-with-gpt-6-1-sol.md"
   },
   {
+    "id": "295354ff422b",
+    "title": "Introducing Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "source": "openai",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Images 2.6",
+    "points": 167,
+    "path": "news/2026/11/04/295354ff422b-introducing-images-2-6.md"
+  },
+  {
     "id": "01b1e45f222d",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "url": "https://arxiv.org/abs/2605.29713",
@@ -321,7 +336,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "points": 381,
+    "points": 384,
     "path": "news/2026/11/03/01b1e45f222d-the-little-book-of-generative-ai-foundations-an-intuitive-ma.md"
   },
   {
@@ -333,7 +348,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "points": 408,
+    "points": 411,
     "path": "news/2026/11/03/f7735096343c-us-tech-giants-hidden-ai-debt-swells-90-to-3-2t-in-6-months.md"
   },
   {
@@ -360,7 +375,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-    "points": 121,
+    "points": 123,
     "path": "news/2026/11/03/309d5deba160-show-hn-uncracked-city-detective-game-where-you-question-llm.md"
   },
   {
@@ -387,7 +402,7 @@
     "tags": [],
     "importance": 2,
     "summary": "$20M in Fines and Vizio Smart TVs Opt Out of Spying Option Does Nothing",
-    "points": 59,
+    "points": 60,
     "path": "news/2026/11/03/ded1df888104-20m-in-fines-and-vizio-smart-tvs-opt-out-of-spying-option-do.md"
   },
   {
@@ -399,7 +414,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I use AI (Oct 2026)",
-    "points": 248,
+    "points": 250,
     "path": "news/2026/11/03/ae61902e2afa-how-i-use-ai-oct-2026.md"
   },
   {
@@ -427,7 +442,7 @@
     ],
     "importance": 3,
     "summary": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "points": 1481,
+    "points": 1493,
     "path": "news/2026/11/03/210b26f029f3-postman-silently-auto-installs-ai-plugins-and-attempts-to-sh.md"
   },
   {
@@ -504,7 +519,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google will turn off search for schools that reject AI",
-    "points": 659,
+    "points": 662,
     "path": "news/2026/11/03/2258ac95ca26-google-will-turn-off-search-for-schools-that-reject-ai.md"
   },
   {
@@ -518,7 +533,7 @@
     ],
     "importance": 2,
     "summary": "Octomind – open-source AI harness that saves your tokens, static rust",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/11/03/954fbd2e34ab-octomind-open-source-ai-harness-that-saves-your-tokens-stati.md"
   },
   {
@@ -542,7 +557,7 @@
     "tags": [],
     "importance": 2,
     "summary": "There is no posttraining data commons",
-    "points": 118,
+    "points": 119,
     "path": "news/2026/11/03/cf03bdbe3edb-there-is-no-posttraining-data-commons.md"
   },
   {
@@ -643,7 +658,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-    "points": 455,
+    "points": 462,
     "path": "news/2026/11/03/29690e41bb1d-show-hn-hackertv-hn-s-most-recommended-youtube-videos-as-24-.md"
   },
   {
@@ -810,7 +825,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "points": 163,
+    "points": 165,
     "path": "news/2026/11/02/3e8a8aa61332-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo.md"
   },
   {
@@ -838,6 +853,20 @@
     "summary": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
     "points": 106,
     "path": "news/2026/11/02/87906e26ddaa-claude-opus-5-5-can-draw-permit-level-architectural-drawings.md"
+  },
+  {
+    "id": "abc5566bda42",
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-02T15:48:45Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Basically no one is using AI agents for their DoorDash orders",
+    "points": 89,
+    "path": "news/2026/11/02/abc5566bda42-basically-no-one-is-using-ai-agents-for-their-doordash-order.md"
   },
   {
     "id": "277870ffc8d7",
@@ -925,7 +954,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "points": 526,
+    "points": 527,
     "path": "news/2026/11/02/9c79addb856a-fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-d.md"
   },
   {

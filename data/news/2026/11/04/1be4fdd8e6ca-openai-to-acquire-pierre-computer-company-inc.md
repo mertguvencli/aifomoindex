@@ -5,8 +5,8 @@ url: https://openai.com/index/openai-to-acquire-pierre
 source: openai
 published_at: 2026-11-04T14:30:00.000Z
 fetched_at: 2026-11-04T22:57:00.230Z
-importance: 2
-points: 146
+importance: 3
+points: 211
 tags: [funding]
 ---
 
