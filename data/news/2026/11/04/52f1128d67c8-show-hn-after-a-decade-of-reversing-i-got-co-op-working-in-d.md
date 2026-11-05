@@ -5,8 +5,8 @@ url: https://fireflyk64.github.io/wcmulti/
 source: hackernews
 published_at: 2026-11-04T18:51:27Z
 fetched_at: 2026-11-04T22:57:00.230Z
-importance: 2
-points: 123
+importance: 3
+points: 219
 tags: [opensource]
 ---
 

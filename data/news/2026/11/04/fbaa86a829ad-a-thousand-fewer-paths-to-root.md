@@ -5,8 +5,8 @@ url: https://openai.com/index/a-thousand-fewer-paths-to-root
 source: openai
 published_at: 2026-11-04T08:00:00.000Z
 fetched_at: 2026-11-04T22:57:00.230Z
-importance: 2
-points: 196
+importance: 3
+points: 412
 tags: []
 ---
 

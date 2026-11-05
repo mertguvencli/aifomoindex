@@ -1,5 +1,44 @@
 [
   {
+    "id": "25fa4dd18ec7",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "source": "openai",
+    "publishedAt": "2026-11-05T02:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Setting a new standard for responsible AI infrastructure",
+    "path": "news/2026/11/05/25fa4dd18ec7-setting-a-new-standard-for-responsible-ai-infrastructure.md"
+  },
+  {
+    "id": "f27b7f2709e0",
+    "title": "American Voters Overwhelmingly Reject AI Data Centers",
+    "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-05T00:43:13Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "American Voters Overwhelmingly Reject AI Data Centers",
+    "points": 53,
+    "path": "news/2026/11/05/f27b7f2709e0-american-voters-overwhelmingly-reject-ai-data-centers.md"
+  },
+  {
+    "id": "d893a09dd970",
+    "title": "You'll need nerves of steel to work with AI agents",
+    "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-05T00:01:30Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "You'll need nerves of steel to work with AI agents",
+    "points": 51,
+    "path": "news/2026/11/05/d893a09dd970-you-ll-need-nerves-of-steel-to-work-with-ai-agents.md"
+  },
+  {
     "id": "b840f829bc61",
     "title": "Agility Robotics and Churchill Capital Corp XI Complete Business Combination",
     "url": "https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-complete-business-combination",
@@ -11,6 +50,32 @@
     "path": "news/2026/11/05/b840f829bc61-agility-robotics-and-churchill-capital-corp-xi-complete-busi.md"
   },
   {
+    "id": "c65c7708e939",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "source": "huggingface",
+    "publishedAt": "2026-11-05T00:00:00.000Z",
+    "tags": [
+      "model",
+      "product",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "path": "news/2026/11/05/c65c7708e939-a-closer-look-at-phonon-tts-launching-high-quality-on-device.md"
+  },
+  {
+    "id": "8cada29425c4",
+    "title": "Agility Becomes First U.S. Publicly Listed Pure-Play Humanoid Robotics Company, Begins Trading Today on Nasdaq as AGLT",
+    "url": "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt",
+    "source": "agility",
+    "publishedAt": "2026-11-05T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Becomes First U.S. Publicly Listed Pure-Play Humanoid Robotics Company, Begins Trading Today on Nasdaq as AGLT",
+    "path": "news/2026/11/05/8cada29425c4-agility-becomes-first-u-s-publicly-listed-pure-play-humanoid.md"
+  },
+  {
     "id": "d71dd54f5703",
     "title": "Everything is an AI scam now",
     "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
@@ -19,8 +84,20 @@
     "tags": [],
     "importance": 2,
     "summary": "Everything is an AI scam now",
-    "points": 131,
+    "points": 143,
     "path": "news/2026/11/04/d71dd54f5703-everything-is-an-ai-scam-now.md"
+  },
+  {
+    "id": "8f8704494000",
+    "title": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+    "url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T20:52:53Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+    "points": 53,
+    "path": "news/2026/11/04/8f8704494000-if-you-re-on-replit-pro-you-have-until-november-8-to-opt-out.md"
   },
   {
     "id": "aab699cda7a9",
@@ -31,7 +108,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-    "points": 116,
+    "points": 166,
     "path": "news/2026/11/04/aab699cda7a9-qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-12.md"
   },
   {
@@ -43,9 +120,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "points": 123,
+    "points": 219,
     "path": "news/2026/11/04/52f1128d67c8-show-hn-after-a-decade-of-reversing-i-got-co-op-working-in-d.md"
   },
   {
@@ -71,9 +148,9 @@
       "model",
       "infra"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Progress on provable inference for large language models",
-    "points": 187,
+    "points": 232,
     "path": "news/2026/11/04/500511a0d120-progress-on-provable-inference-for-large-language-models.md"
   },
   {
@@ -98,7 +175,7 @@
     ],
     "importance": 2,
     "summary": "AI data centers comprehensively defeated at US midterm elections",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/11/04/7b0aac85f53b-ai-data-centers-comprehensively-defeated-at-us-midterm-elect.md"
   },
   {
@@ -112,7 +189,7 @@
     ],
     "importance": 2,
     "summary": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "points": 70,
+    "points": 93,
     "path": "news/2026/11/04/d38f7b506835-yc-s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a.md"
   },
   {
@@ -127,7 +204,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a tool that prices a prebuilt PC part by part",
-    "points": 97,
+    "points": 107,
     "path": "news/2026/11/04/d99935ec0efe-show-hn-i-built-a-tool-that-prices-a-prebuilt-pc-part-by-par.md"
   },
   {
@@ -141,7 +218,7 @@
     ],
     "importance": 2,
     "summary": "Debian apt security update (man-in-the-middle)",
-    "points": 137,
+    "points": 145,
     "path": "news/2026/11/04/56fd2c1b61f8-debian-apt-security-update-man-in-the-middle.md"
   },
   {
@@ -155,7 +232,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "points": 211,
+    "points": 258,
     "path": "news/2026/11/04/1be4fdd8e6ca-openai-to-acquire-pierre-computer-company-inc.md"
   },
   {
@@ -167,7 +244,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Tencent Hy4",
-    "points": 206,
+    "points": 260,
     "path": "news/2026/11/04/34beab957f96-tencent-hy4.md"
   },
   {
@@ -181,7 +258,7 @@
     ],
     "importance": 2,
     "summary": "Debian apt security update: man-in-the-middle arbitrary code execution",
-    "points": 98,
+    "points": 100,
     "path": "news/2026/11/04/8299e0907b6f-debian-apt-security-update-man-in-the-middle-arbitrary-code-.md"
   },
   {
@@ -193,8 +270,22 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is forcing us to pay off 40 years of technical debt",
-    "points": 1113,
+    "points": 1220,
     "path": "news/2026/11/04/857e942cc111-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
+  },
+  {
+    "id": "c23be7450e5c",
+    "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+    "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+    "source": "hackernews",
+    "publishedAt": "2026-11-04T11:02:23Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+    "points": 65,
+    "path": "news/2026/11/04/c23be7450e5c-rtx-5090-street-prices-top-9k-as-nvidia-gpu-costs-climb.md"
   },
   {
     "id": "5872c65788e7",
@@ -205,7 +296,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "points": 302,
+    "points": 312,
     "path": "news/2026/11/04/5872c65788e7-geoffrey-hinton-it-might-turn-out-we-were-better-off-without.md"
   },
   {
@@ -217,7 +308,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Incident with Pull Requests, Git Operations and Issues",
-    "points": 258,
+    "points": 263,
     "path": "news/2026/11/04/862f2bfe0384-incident-with-pull-requests-git-operations-and-issues.md"
   },
   {
@@ -231,7 +322,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "points": 594,
+    "points": 603,
     "path": "news/2026/11/04/4537047ca39a-nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to.md"
   },
   {
@@ -241,10 +332,10 @@
     "source": "openai",
     "publishedAt": "2026-11-04T08:00:00.000Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "A thousand fewer paths to root",
     "path": "news/2026/11/04/fbaa86a829ad-a-thousand-fewer-paths-to-root.md",
-    "points": 196
+    "points": 412
   },
   {
     "id": "6ecc2b597212",
@@ -260,7 +351,7 @@
     ],
     "importance": 2,
     "summary": "AI stocks slide as Texas governor result raises data center risks",
-    "points": 53,
+    "points": 54,
     "path": "news/2026/11/04/6ecc2b597212-ai-stocks-slide-as-texas-governor-result-raises-data-center-.md"
   },
   {
@@ -322,9 +413,9 @@
     "tags": [
       "product"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Introducing Images 2.6",
-    "points": 167,
+    "points": 336,
     "path": "news/2026/11/04/295354ff422b-introducing-images-2-6.md"
   },
   {
@@ -336,7 +427,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "points": 384,
+    "points": 387,
     "path": "news/2026/11/03/01b1e45f222d-the-little-book-of-generative-ai-foundations-an-intuitive-ma.md"
   },
   {
@@ -348,7 +439,7 @@
     "tags": [],
     "importance": 3,
     "summary": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-    "points": 411,
+    "points": 412,
     "path": "news/2026/11/03/f7735096343c-us-tech-giants-hidden-ai-debt-swells-90-to-3-2t-in-6-months.md"
   },
   {
@@ -375,7 +466,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-    "points": 123,
+    "points": 127,
     "path": "news/2026/11/03/309d5deba160-show-hn-uncracked-city-detective-game-where-you-question-llm.md"
   },
   {
@@ -414,7 +505,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I use AI (Oct 2026)",
-    "points": 250,
+    "points": 253,
     "path": "news/2026/11/03/ae61902e2afa-how-i-use-ai-oct-2026.md"
   },
   {
@@ -442,7 +533,7 @@
     ],
     "importance": 3,
     "summary": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "points": 1493,
+    "points": 1508,
     "path": "news/2026/11/03/210b26f029f3-postman-silently-auto-installs-ai-plugins-and-attempts-to-sh.md"
   },
   {
@@ -519,7 +610,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google will turn off search for schools that reject AI",
-    "points": 662,
+    "points": 668,
     "path": "news/2026/11/03/2258ac95ca26-google-will-turn-off-search-for-schools-that-reject-ai.md"
   },
   {
@@ -557,7 +648,7 @@
     "tags": [],
     "importance": 2,
     "summary": "There is no posttraining data commons",
-    "points": 119,
+    "points": 123,
     "path": "news/2026/11/03/cf03bdbe3edb-there-is-no-posttraining-data-commons.md"
   },
   {
@@ -658,7 +749,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-    "points": 462,
+    "points": 471,
     "path": "news/2026/11/03/29690e41bb1d-show-hn-hackertv-hn-s-most-recommended-youtube-videos-as-24-.md"
   },
   {
@@ -722,7 +813,7 @@
     ],
     "importance": 3,
     "summary": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "points": 404,
+    "points": 405,
     "path": "news/2026/11/02/4d288a711fe3-the-sec-should-block-anthropic-s-ipo-to-protect-the-public.md"
   },
   {
@@ -737,7 +828,7 @@
     ],
     "importance": 2,
     "summary": "LLMs are not superhuman at reading and writing neural network weights",
-    "points": 147,
+    "points": 148,
     "path": "news/2026/11/02/c91f7ccc9c51-llms-are-not-superhuman-at-reading-and-writing-neural-networ.md"
   },
   {
@@ -825,7 +916,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "points": 165,
+    "points": 166,
     "path": "news/2026/11/02/3e8a8aa61332-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-yo.md"
   },
   {
@@ -865,7 +956,7 @@
     ],
     "importance": 2,
     "summary": "Basically no one is using AI agents for their DoorDash orders",
-    "points": 89,
+    "points": 153,
     "path": "news/2026/11/02/abc5566bda42-basically-no-one-is-using-ai-agents-for-their-doordash-order.md"
   },
   {
@@ -880,7 +971,7 @@
     "importance": 3,
     "summary": "Scaling Git at OpenAI",
     "path": "news/2026/11/02/277870ffc8d7-scaling-git-at-openai.md",
-    "points": 270
+    "points": 271
   },
   {
     "id": "327e862bb29c",
@@ -954,7 +1045,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "points": 527,
+    "points": 530,
     "path": "news/2026/11/02/9c79addb856a-fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-d.md"
   },
   {
