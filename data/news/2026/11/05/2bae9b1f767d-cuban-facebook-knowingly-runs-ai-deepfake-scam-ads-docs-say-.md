@@ -5,8 +5,8 @@ url: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-k
 source: hackernews
 published_at: 2026-11-05T23:09:57Z
 fetched_at: 2026-11-06T03:53:56.008Z
-importance: 2
-points: 166
+importance: 3
+points: 405
 tags: [safety]
 ---
 

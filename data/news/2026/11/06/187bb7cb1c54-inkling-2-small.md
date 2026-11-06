@@ -5,8 +5,8 @@ url: https://thinkingmachines.ai/news/inkling-2-small/
 source: hackernews
 published_at: 2026-11-06T00:00:24Z
 fetched_at: 2026-11-06T03:53:56.008Z
-importance: 2
-points: 102
+importance: 3
+points: 228
 tags: []
 ---
 

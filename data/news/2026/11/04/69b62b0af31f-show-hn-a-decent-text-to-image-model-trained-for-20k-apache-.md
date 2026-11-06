@@ -5,8 +5,8 @@ url: https://www.linum.ai/field-notes/pjit-21k
 source: hackernews
 published_at: 2026-11-04T16:45:11Z
 fetched_at: 2026-11-05T22:57:59.700Z
-importance: 2
-points: 173
+importance: 3
+points: 249
 tags: [model, opensource]
 ---
 
