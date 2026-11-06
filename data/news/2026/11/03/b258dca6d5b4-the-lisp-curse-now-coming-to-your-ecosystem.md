@@ -5,8 +5,8 @@ url: https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-
 source: hackernews
 published_at: 2026-11-03T08:59:31Z
 fetched_at: 2026-11-05T22:57:59.700Z
-importance: 2
-points: 186
+importance: 3
+points: 216
 tags: []
 ---
 
