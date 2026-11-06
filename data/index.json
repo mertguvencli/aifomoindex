@@ -1,5 +1,179 @@
 [
   {
+    "id": "5d5ecd510454",
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T20:27:23Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "AI is dramatically accelerating AI research",
+    "points": 102,
+    "path": "news/2026/11/06/5d5ecd510454-ai-is-dramatically-accelerating-ai-research.md"
+  },
+  {
+    "id": "60724c835de1",
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T19:48:51Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "points": 194,
+    "path": "news/2026/11/06/60724c835de1-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-l.md"
+  },
+  {
+    "id": "19e5a3d3b856",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T19:33:38Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Firecracker VM Escape: PwnEscape Part 2",
+    "points": 112,
+    "path": "news/2026/11/06/19e5a3d3b856-firecracker-vm-escape-pwnescape-part-2.md"
+  },
+  {
+    "id": "7dcd57a756f6",
+    "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+    "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T18:04:06Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+    "points": 72,
+    "path": "news/2026/11/06/7dcd57a756f6-microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capac.md"
+  },
+  {
+    "id": "bc00e1abe23c",
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T18:03:33Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Memorilla: Latent Semantic Memory for LLMs",
+    "points": 64,
+    "path": "news/2026/11/06/bc00e1abe23c-memorilla-latent-semantic-memory-for-llms.md"
+  },
+  {
+    "id": "cf715e9bc8a5",
+    "title": "Perplexity launches AI agents for work",
+    "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T17:59:41Z",
+    "tags": [
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Perplexity launches AI agents for work",
+    "points": 57,
+    "path": "news/2026/11/06/cf715e9bc8a5-perplexity-launches-ai-agents-for-work.md"
+  },
+  {
+    "id": "fa1eb7978f99",
+    "title": "Anthropic IPO valuation talks drop to $1.3T",
+    "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T17:21:15Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic IPO valuation talks drop to $1.3T",
+    "points": 93,
+    "path": "news/2026/11/06/fa1eb7978f99-anthropic-ipo-valuation-talks-drop-to-1-3t.md"
+  },
+  {
+    "id": "72c8d5999f27",
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T16:54:36Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "points": 160,
+    "path": "news/2026/11/06/72c8d5999f27-anthropic-ipo-buyers-see-valuation-as-low-as-1-1t.md"
+  },
+  {
+    "id": "b81ea0f95984",
+    "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "url": "https://github.com/anomalyco/rune",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T16:31:32Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "points": 124,
+    "path": "news/2026/11/06/b81ea0f95984-rune-a-native-gpu-rendered-rust-ui-framework-for-macos-windo.md"
+  },
+  {
+    "id": "d7697f4bfd59",
+    "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+    "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T14:13:09Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "University libraries are being swarmed by AI bots, putting public access at risk",
+    "points": 122,
+    "path": "news/2026/11/06/d7697f4bfd59-university-libraries-are-being-swarmed-by-ai-bots-putting-pu.md"
+  },
+  {
+    "id": "5a90caffb2c8",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "source": "huggingface",
+    "publishedAt": "2026-11-06T14:00:48.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "path": "news/2026/11/06/5a90caffb2c8-toyblocks-a-controlled-world-for-robot-learning-and-evaluati.md"
+  },
+  {
+    "id": "cfb39304f9e3",
+    "title": "AI for scientific discovery: How researchers use Claude",
+    "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T09:13:30Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "AI for scientific discovery: How researchers use Claude",
+    "points": 84,
+    "path": "news/2026/11/06/cfb39304f9e3-ai-for-scientific-discovery-how-researchers-use-claude.md"
+  },
+  {
+    "id": "a0a44ed09dc9",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "source": "openai",
+    "publishedAt": "2026-11-06T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "path": "news/2026/11/06/a0a44ed09dc9-partnering-with-hacktron-to-find-vulnerabilities-in-openai-s.md"
+  },
+  {
     "id": "d32853de8a8b",
     "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
     "url": "https://obelisk.club/research/app-store-2026",
@@ -10,7 +184,7 @@
     ],
     "importance": 2,
     "summary": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-    "points": 56,
+    "points": 60,
     "path": "news/2026/11/06/d32853de8a8b-app-store-2026-in-numbers-ai-pricing-abandoned-apps.md"
   },
   {
@@ -22,7 +196,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I struggle to believe that AI R&D is ingenious",
-    "points": 146,
+    "points": 174,
     "path": "news/2026/11/06/6f6e34984c20-i-struggle-to-believe-that-ai-r-d-is-ingenious.md"
   },
   {
@@ -36,7 +210,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia Kubernetes Engine (NVKE)",
-    "points": 98,
+    "points": 119,
     "path": "news/2026/11/06/e2e23a036796-nvidia-kubernetes-engine-nvke.md"
   },
   {
@@ -64,7 +238,7 @@
     ],
     "importance": 2,
     "summary": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
-    "points": 87,
+    "points": 89,
     "path": "news/2026/11/06/5b76f205a045-major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5t.md"
   },
   {
@@ -76,7 +250,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Small",
-    "points": 228,
+    "points": 280,
     "path": "news/2026/11/06/187bb7cb1c54-inkling-2-small.md"
   },
   {
@@ -93,6 +267,20 @@
     "path": "news/2026/11/06/13e4c95dcbaa-egyptian-and-nigerian-english-join-the-open-asr-leaderboard.md"
   },
   {
+    "id": "5f721228af36",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "source": "openai",
+    "publishedAt": "2026-11-06T00:00:00.000Z",
+    "tags": [
+      "tool",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Measuring how AI agents handle everyday wet-lab science",
+    "path": "news/2026/11/06/5f721228af36-measuring-how-ai-agents-handle-everyday-wet-lab-science.md"
+  },
+  {
     "id": "2bae9b1f767d",
     "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
     "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
@@ -103,7 +291,7 @@
     ],
     "importance": 3,
     "summary": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "points": 405,
+    "points": 489,
     "path": "news/2026/11/05/2bae9b1f767d-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-.md"
   },
   {
@@ -117,7 +305,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code sends your email address to websites",
-    "points": 1284,
+    "points": 1542,
     "path": "news/2026/11/05/199af8aea5b6-claude-code-sends-your-email-address-to-websites.md"
   },
   {
@@ -173,7 +361,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Hackintosh Reborn",
-    "points": 342,
+    "points": 397,
     "path": "news/2026/11/05/0e3c62a202e2-the-hackintosh-reborn.md"
   },
   {
@@ -185,7 +373,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-    "points": 161,
+    "points": 162,
     "path": "news/2026/11/05/209bc0f79dcf-nasdaq-sinks-5-as-investors-retreat-from-ai-trade-after-elec.md"
   },
   {
@@ -200,7 +388,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "points": 105,
+    "points": 118,
     "path": "news/2026/11/05/335e94a09146-launch-hn-rivet-yc-w23-scale-and-orchestrate-agents-on-s3.md"
   },
   {
@@ -225,9 +413,10 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "path": "news/2026/11/05/485654c1f98a-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md"
+    "path": "news/2026/11/05/485654c1f98a-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md",
+    "points": 272
   },
   {
     "id": "616c68177b70",
@@ -249,7 +438,7 @@
     "tags": [],
     "importance": 2,
     "summary": "My psychophysics as a bilateral cochlear implant user",
-    "points": 182,
+    "points": 184,
     "path": "news/2026/11/05/64b454fa51b6-my-psychophysics-as-a-bilateral-cochlear-implant-user.md"
   },
   {
@@ -261,7 +450,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Stacks Project, Formalized in Lean",
-    "points": 93,
+    "points": 95,
     "path": "news/2026/11/05/bafafb1d70ea-the-stacks-project-formalized-in-lean.md"
   },
   {
@@ -276,7 +465,7 @@
     "importance": 2,
     "summary": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
     "path": "news/2026/11/05/14e90e72d340-gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity-.md",
-    "points": 55
+    "points": 60
   },
   {
     "id": "db9792e954d4",
@@ -304,7 +493,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 Astra covertly underperforms on safety research",
-    "points": 333,
+    "points": 340,
     "path": "news/2026/11/05/0b42787f451f-gpt-6-astra-covertly-underperforms-on-safety-research.md"
   },
   {
@@ -443,7 +632,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Everything is an AI scam now",
-    "points": 151,
+    "points": 152,
     "path": "news/2026/11/04/d71dd54f5703-everything-is-an-ai-scam-now.md"
   },
   {
@@ -516,7 +705,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "points": 250,
+    "points": 254,
     "path": "news/2026/11/04/52f1128d67c8-show-hn-after-a-decade-of-reversing-i-got-co-op-working-in-d.md"
   },
   {
@@ -559,7 +748,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-    "points": 249,
+    "points": 269,
     "path": "news/2026/11/04/69b62b0af31f-show-hn-a-decent-text-to-image-model-trained-for-20k-apache-.md"
   },
   {
@@ -598,7 +787,7 @@
     ],
     "importance": 2,
     "summary": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "points": 106,
+    "points": 108,
     "path": "news/2026/11/04/d38f7b506835-yc-s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a.md"
   },
   {
@@ -641,7 +830,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "points": 262,
+    "points": 263,
     "path": "news/2026/11/04/1be4fdd8e6ca-openai-to-acquire-pierre-computer-company-inc.md"
   },
   {
@@ -653,7 +842,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Tencent Hy4",
-    "points": 291,
+    "points": 293,
     "path": "news/2026/11/04/34beab957f96-tencent-hy4.md"
   },
   {
@@ -679,7 +868,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is forcing us to pay off 40 years of technical debt",
-    "points": 1279,
+    "points": 1289,
     "path": "news/2026/11/04/857e942cc111-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
   },
   {
@@ -693,7 +882,7 @@
     ],
     "importance": 2,
     "summary": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
-    "points": 74,
+    "points": 75,
     "path": "news/2026/11/04/c23be7450e5c-rtx-5090-street-prices-top-9k-as-nvidia-gpu-costs-climb.md"
   },
   {
@@ -705,7 +894,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "points": 320,
+    "points": 321,
     "path": "news/2026/11/04/5872c65788e7-geoffrey-hinton-it-might-turn-out-we-were-better-off-without.md"
   },
   {
@@ -744,7 +933,7 @@
     "importance": 3,
     "summary": "A thousand fewer paths to root",
     "path": "news/2026/11/04/fbaa86a829ad-a-thousand-fewer-paths-to-root.md",
-    "points": 484
+    "points": 486
   },
   {
     "id": "6ecc2b597212",
@@ -824,7 +1013,7 @@
     ],
     "importance": 3,
     "summary": "Introducing Images 2.6",
-    "points": 381,
+    "points": 383,
     "path": "news/2026/11/04/295354ff422b-introducing-images-2-6.md"
   },
   {

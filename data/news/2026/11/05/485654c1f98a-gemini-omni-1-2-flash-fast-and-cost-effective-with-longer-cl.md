@@ -5,7 +5,8 @@ url: https://blog.google/innovation-and-ai/technology/developers-tools/introduci
 source: googleai
 published_at: 2026-11-05T17:00:00.000Z
 fetched_at: 2026-11-05T22:57:59.700Z
-importance: 2
+importance: 3
+points: 272
 tags: [model]
 ---
 

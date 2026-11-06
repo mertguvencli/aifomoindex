@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-06T00:31:11Z
 fetched_at: 2026-11-06T03:53:56.008Z
 importance: 2
-points: 87
+points: 89
 tags: [funding]
 ---
 
