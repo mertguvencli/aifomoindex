@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-06T20:09:14Z
 fetched_at: 2026-11-07T11:59:22.733Z
 importance: 2
-points: 80
+points: 99
 tags: [funding, infra]
 ---
 

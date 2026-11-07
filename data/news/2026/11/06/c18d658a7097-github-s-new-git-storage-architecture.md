@@ -5,8 +5,8 @@ url: https://github.blog/engineering/architecture-optimization/inside-githubs-ne
 source: hackernews
 published_at: 2026-11-06T19:24:21Z
 fetched_at: 2026-11-07T03:28:35.748Z
-importance: 2
-points: 155
+importance: 3
+points: 202
 tags: []
 ---
 

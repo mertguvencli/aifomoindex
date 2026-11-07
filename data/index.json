@@ -6,9 +6,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-07T09:46:03Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Every Mac comes with an (undocumented) family member classifier",
-    "points": 116,
+    "points": 409,
     "path": "news/2026/11/07/ef313c34ae18-every-mac-comes-with-an-undocumented-family-member-classifie.md"
   },
   {
@@ -22,7 +22,7 @@
     ],
     "importance": 2,
     "summary": "The Components of Agent Memory",
-    "points": 60,
+    "points": 112,
     "path": "news/2026/11/07/9bd43ba4c246-the-components-of-agent-memory.md"
   },
   {
@@ -34,7 +34,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI sell-off compared to well-known stock market crashes",
-    "points": 67,
+    "points": 78,
     "path": "news/2026/11/07/db4af631edd9-the-ai-sell-off-compared-to-well-known-stock-market-crashes.md"
   },
   {
@@ -48,7 +48,7 @@
     ],
     "importance": 2,
     "summary": "Outbound SIP calling is now available to all organizations",
-    "points": 64,
+    "points": 68,
     "path": "news/2026/11/06/6c7a92be9a6e-outbound-sip-calling-is-now-available-to-all-organizations.md"
   },
   {
@@ -62,7 +62,7 @@
     ],
     "importance": 2,
     "summary": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-    "points": 89,
+    "points": 91,
     "path": "news/2026/11/06/5b5f4925f1b3-chatgpt-silently-passes-data-between-connectors-and-the-boun.md"
   },
   {
@@ -76,7 +76,7 @@
     ],
     "importance": 3,
     "summary": "AI is dramatically accelerating AI research",
-    "points": 320,
+    "points": 344,
     "path": "news/2026/11/06/5d5ecd510454-ai-is-dramatically-accelerating-ai-research.md"
   },
   {
@@ -91,7 +91,7 @@
     ],
     "importance": 2,
     "summary": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "points": 80,
+    "points": 99,
     "path": "news/2026/11/06/7bed7e3c0b8e-google-has-acquired-crusoe-s-data-center-site-in-southeast-w.md"
   },
   {
@@ -103,7 +103,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "points": 501,
+    "points": 543,
     "path": "news/2026/11/06/60724c835de1-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-l.md"
   },
   {
@@ -115,7 +115,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Firecracker VM Escape: PwnEscape Part 2",
-    "points": 248,
+    "points": 268,
     "path": "news/2026/11/06/19e5a3d3b856-firecracker-vm-escape-pwnescape-part-2.md"
   },
   {
@@ -125,9 +125,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-06T19:24:21Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "GitHub's new Git storage architecture",
-    "points": 155,
+    "points": 202,
     "path": "news/2026/11/06/c18d658a7097-github-s-new-git-storage-architecture.md"
   },
   {
@@ -139,7 +139,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "points": 99,
+    "points": 104,
     "path": "news/2026/11/06/7dcd57a756f6-microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capac.md"
   },
   {
@@ -153,7 +153,7 @@
     ],
     "importance": 2,
     "summary": "Memorilla: Latent Semantic Memory for LLMs",
-    "points": 107,
+    "points": 112,
     "path": "news/2026/11/06/bc00e1abe23c-memorilla-latent-semantic-memory-for-llms.md"
   },
   {
@@ -168,7 +168,7 @@
     ],
     "importance": 2,
     "summary": "Perplexity launches AI agents for work",
-    "points": 61,
+    "points": 62,
     "path": "news/2026/11/06/cf715e9bc8a5-perplexity-launches-ai-agents-for-work.md"
   },
   {
@@ -196,7 +196,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "points": 283,
+    "points": 296,
     "path": "news/2026/11/06/72c8d5999f27-anthropic-ipo-buyers-see-valuation-as-low-as-1-1t.md"
   },
   {
@@ -210,7 +210,7 @@
     ],
     "importance": 2,
     "summary": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-    "points": 169,
+    "points": 174,
     "path": "news/2026/11/06/b81ea0f95984-rune-a-native-gpu-rendered-rust-ui-framework-for-macos-windo.md"
   },
   {
@@ -224,7 +224,7 @@
     ],
     "importance": 2,
     "summary": "University libraries are being swarmed by AI bots, putting public access at risk",
-    "points": 130,
+    "points": 132,
     "path": "news/2026/11/06/d7697f4bfd59-university-libraries-are-being-swarmed-by-ai-bots-putting-pu.md"
   },
   {
@@ -252,7 +252,7 @@
     ],
     "importance": 2,
     "summary": "AI for scientific discovery: How researchers use Claude",
-    "points": 94,
+    "points": 99,
     "path": "news/2026/11/06/cfb39304f9e3-ai-for-scientific-discovery-how-researchers-use-claude.md"
   },
   {
@@ -289,7 +289,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I struggle to believe that AI R&D is ingenious",
-    "points": 201,
+    "points": 210,
     "path": "news/2026/11/06/6f6e34984c20-i-struggle-to-believe-that-ai-r-d-is-ingenious.md"
   },
   {
@@ -343,7 +343,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Small",
-    "points": 286,
+    "points": 287,
     "path": "news/2026/11/06/187bb7cb1c54-inkling-2-small.md"
   },
   {
@@ -398,7 +398,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code sends your email address to websites",
-    "points": 1577,
+    "points": 1583,
     "path": "news/2026/11/05/199af8aea5b6-claude-code-sends-your-email-address-to-websites.md"
   },
   {
@@ -454,7 +454,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Hackintosh Reborn",
-    "points": 405,
+    "points": 407,
     "path": "news/2026/11/05/0e3c62a202e2-the-hackintosh-reborn.md"
   },
   {
@@ -481,7 +481,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "points": 118,
+    "points": 119,
     "path": "news/2026/11/05/335e94a09146-launch-hn-rivet-yc-w23-scale-and-orchestrate-agents-on-s3.md"
   },
   {
@@ -509,7 +509,7 @@
     "importance": 3,
     "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "path": "news/2026/11/05/485654c1f98a-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md",
-    "points": 341
+    "points": 354
   },
   {
     "id": "616c68177b70",
@@ -531,7 +531,7 @@
     "tags": [],
     "importance": 2,
     "summary": "My psychophysics as a bilateral cochlear implant user",
-    "points": 186,
+    "points": 187,
     "path": "news/2026/11/05/64b454fa51b6-my-psychophysics-as-a-bilateral-cochlear-implant-user.md"
   },
   {
@@ -557,7 +557,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-    "points": 77,
+    "points": 79,
     "path": "news/2026/11/05/b889830baf54-show-hn-waymark-a-workflow-engine-that-compiles-jobs-instead.md"
   },
   {
@@ -812,7 +812,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "points": 254,
+    "points": 255,
     "path": "news/2026/11/04/52f1128d67c8-show-hn-after-a-decade-of-reversing-i-got-co-op-working-in-d.md"
   },
   {

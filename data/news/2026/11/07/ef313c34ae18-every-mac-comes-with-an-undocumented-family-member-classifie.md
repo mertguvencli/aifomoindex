@@ -5,8 +5,8 @@ url: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
 source: hackernews
 published_at: 2026-11-07T09:46:03Z
 fetched_at: 2026-11-07T11:59:22.733Z
-importance: 2
-points: 116
+importance: 3
+points: 409
 tags: []
 ---
 
