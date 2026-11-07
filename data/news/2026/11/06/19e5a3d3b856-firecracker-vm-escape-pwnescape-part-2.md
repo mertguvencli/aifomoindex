@@ -5,8 +5,8 @@ url: https://pwn.ai/blog/firecracker-escape
 source: hackernews
 published_at: 2026-11-06T19:33:38Z
 fetched_at: 2026-11-06T22:28:12.312Z
-importance: 2
-points: 185
+importance: 3
+points: 248
 tags: []
 ---
 

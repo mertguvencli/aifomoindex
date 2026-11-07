@@ -5,8 +5,8 @@ url: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-short
 source: hackernews
 published_at: 2026-11-06T05:19:04Z
 fetched_at: 2026-11-06T13:20:37.378Z
-importance: 2
-points: 183
+importance: 3
+points: 201
 tags: []
 ---
 
