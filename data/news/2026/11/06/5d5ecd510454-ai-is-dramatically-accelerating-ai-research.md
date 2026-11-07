@@ -5,8 +5,8 @@ url: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
 source: hackernews
 published_at: 2026-11-06T20:27:23Z
 fetched_at: 2026-11-06T22:28:12.312Z
-importance: 2
-points: 102
+importance: 3
+points: 223
 tags: [research]
 ---
 

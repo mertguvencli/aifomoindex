@@ -5,8 +5,8 @@ url: https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-
 source: hackernews
 published_at: 2026-11-06T16:54:36Z
 fetched_at: 2026-11-06T22:28:12.312Z
-importance: 2
-points: 160
+importance: 3
+points: 251
 tags: [funding]
 ---
 

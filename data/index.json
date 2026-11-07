@@ -1,5 +1,33 @@
 [
   {
+    "id": "6c7a92be9a6e",
+    "title": "Outbound SIP calling is now available to all organizations",
+    "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T23:03:55Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Outbound SIP calling is now available to all organizations",
+    "points": 58,
+    "path": "news/2026/11/06/6c7a92be9a6e-outbound-sip-calling-is-now-available-to-all-organizations.md"
+  },
+  {
+    "id": "5b5f4925f1b3",
+    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T22:50:43Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "points": 83,
+    "path": "news/2026/11/06/5b5f4925f1b3-chatgpt-silently-passes-data-between-connectors-and-the-boun.md"
+  },
+  {
     "id": "5d5ecd510454",
     "title": "AI is dramatically accelerating AI research",
     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
@@ -8,9 +36,9 @@
     "tags": [
       "research"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "AI is dramatically accelerating AI research",
-    "points": 102,
+    "points": 223,
     "path": "news/2026/11/06/5d5ecd510454-ai-is-dramatically-accelerating-ai-research.md"
   },
   {
@@ -20,9 +48,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-06T19:48:51Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "points": 194,
+    "points": 364,
     "path": "news/2026/11/06/60724c835de1-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-l.md"
   },
   {
@@ -34,8 +62,20 @@
     "tags": [],
     "importance": 2,
     "summary": "Firecracker VM Escape: PwnEscape Part 2",
-    "points": 112,
+    "points": 185,
     "path": "news/2026/11/06/19e5a3d3b856-firecracker-vm-escape-pwnescape-part-2.md"
+  },
+  {
+    "id": "c18d658a7097",
+    "title": "GitHub's new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T19:24:21Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "GitHub's new Git storage architecture",
+    "points": 81,
+    "path": "news/2026/11/06/c18d658a7097-github-s-new-git-storage-architecture.md"
   },
   {
     "id": "7dcd57a756f6",
@@ -46,7 +86,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "points": 72,
+    "points": 85,
     "path": "news/2026/11/06/7dcd57a756f6-microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capac.md"
   },
   {
@@ -60,7 +100,7 @@
     ],
     "importance": 2,
     "summary": "Memorilla: Latent Semantic Memory for LLMs",
-    "points": 64,
+    "points": 92,
     "path": "news/2026/11/06/bc00e1abe23c-memorilla-latent-semantic-memory-for-llms.md"
   },
   {
@@ -75,7 +115,7 @@
     ],
     "importance": 2,
     "summary": "Perplexity launches AI agents for work",
-    "points": 57,
+    "points": 59,
     "path": "news/2026/11/06/cf715e9bc8a5-perplexity-launches-ai-agents-for-work.md"
   },
   {
@@ -101,9 +141,9 @@
     "tags": [
       "funding"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "points": 160,
+    "points": 251,
     "path": "news/2026/11/06/72c8d5999f27-anthropic-ipo-buyers-see-valuation-as-low-as-1-1t.md"
   },
   {
@@ -117,7 +157,7 @@
     ],
     "importance": 2,
     "summary": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-    "points": 124,
+    "points": 156,
     "path": "news/2026/11/06/b81ea0f95984-rune-a-native-gpu-rendered-rust-ui-framework-for-macos-windo.md"
   },
   {
@@ -131,7 +171,7 @@
     ],
     "importance": 2,
     "summary": "University libraries are being swarmed by AI bots, putting public access at risk",
-    "points": 122,
+    "points": 125,
     "path": "news/2026/11/06/d7697f4bfd59-university-libraries-are-being-swarmed-by-ai-bots-putting-pu.md"
   },
   {
@@ -159,7 +199,7 @@
     ],
     "importance": 2,
     "summary": "AI for scientific discovery: How researchers use Claude",
-    "points": 84,
+    "points": 89,
     "path": "news/2026/11/06/cfb39304f9e3-ai-for-scientific-discovery-how-researchers-use-claude.md"
   },
   {
@@ -196,7 +236,7 @@
     "tags": [],
     "importance": 2,
     "summary": "I struggle to believe that AI R&D is ingenious",
-    "points": 174,
+    "points": 183,
     "path": "news/2026/11/06/6f6e34984c20-i-struggle-to-believe-that-ai-r-d-is-ingenious.md"
   },
   {
@@ -210,7 +250,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia Kubernetes Engine (NVKE)",
-    "points": 119,
+    "points": 123,
     "path": "news/2026/11/06/e2e23a036796-nvidia-kubernetes-engine-nvke.md"
   },
   {
@@ -238,7 +278,7 @@
     ],
     "importance": 2,
     "summary": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
-    "points": 89,
+    "points": 90,
     "path": "news/2026/11/06/5b76f205a045-major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5t.md"
   },
   {
@@ -250,7 +290,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Small",
-    "points": 280,
+    "points": 283,
     "path": "news/2026/11/06/187bb7cb1c54-inkling-2-small.md"
   },
   {
@@ -291,7 +331,7 @@
     ],
     "importance": 3,
     "summary": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "points": 489,
+    "points": 498,
     "path": "news/2026/11/05/2bae9b1f767d-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-.md"
   },
   {
@@ -305,7 +345,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code sends your email address to websites",
-    "points": 1542,
+    "points": 1559,
     "path": "news/2026/11/05/199af8aea5b6-claude-code-sends-your-email-address-to-websites.md"
   },
   {
@@ -361,7 +401,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Hackintosh Reborn",
-    "points": 397,
+    "points": 402,
     "path": "news/2026/11/05/0e3c62a202e2-the-hackintosh-reborn.md"
   },
   {
@@ -416,7 +456,7 @@
     "importance": 3,
     "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "path": "news/2026/11/05/485654c1f98a-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md",
-    "points": 272
+    "points": 303
   },
   {
     "id": "616c68177b70",
@@ -438,7 +478,7 @@
     "tags": [],
     "importance": 2,
     "summary": "My psychophysics as a bilateral cochlear implant user",
-    "points": 184,
+    "points": 185,
     "path": "news/2026/11/05/64b454fa51b6-my-psychophysics-as-a-bilateral-cochlear-implant-user.md"
   },
   {
@@ -450,7 +490,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Stacks Project, Formalized in Lean",
-    "points": 95,
+    "points": 97,
     "path": "news/2026/11/05/bafafb1d70ea-the-stacks-project-formalized-in-lean.md"
   },
   {
@@ -493,7 +533,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 Astra covertly underperforms on safety research",
-    "points": 340,
+    "points": 341,
     "path": "news/2026/11/05/0b42787f451f-gpt-6-astra-covertly-underperforms-on-safety-research.md"
   },
   {
@@ -733,7 +773,7 @@
     ],
     "importance": 3,
     "summary": "Progress on provable inference for large language models",
-    "points": 238,
+    "points": 239,
     "path": "news/2026/11/04/500511a0d120-progress-on-provable-inference-for-large-language-models.md"
   },
   {
@@ -748,7 +788,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-    "points": 269,
+    "points": 271,
     "path": "news/2026/11/04/69b62b0af31f-show-hn-a-decent-text-to-image-model-trained-for-20k-apache-.md"
   },
   {
@@ -802,7 +842,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: I built a tool that prices a prebuilt PC part by part",
-    "points": 116,
+    "points": 117,
     "path": "news/2026/11/04/d99935ec0efe-show-hn-i-built-a-tool-that-prices-a-prebuilt-pc-part-by-par.md"
   },
   {
@@ -868,7 +908,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is forcing us to pay off 40 years of technical debt",
-    "points": 1289,
+    "points": 1292,
     "path": "news/2026/11/04/857e942cc111-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
   },
   {
@@ -1013,7 +1053,7 @@
     ],
     "importance": 3,
     "summary": "Introducing Images 2.6",
-    "points": 383,
+    "points": 384,
     "path": "news/2026/11/04/295354ff422b-introducing-images-2-6.md"
   },
   {

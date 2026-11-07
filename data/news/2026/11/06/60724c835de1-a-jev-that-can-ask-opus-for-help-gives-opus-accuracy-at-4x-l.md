@@ -5,8 +5,8 @@ url: https://hightouch.com/blog/llm-judges-identity-resolution
 source: hackernews
 published_at: 2026-11-06T19:48:51Z
 fetched_at: 2026-11-06T22:28:12.312Z
-importance: 2
-points: 194
+importance: 3
+points: 364
 tags: []
 ---
 
