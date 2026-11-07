@@ -1,5 +1,43 @@
 [
   {
+    "id": "8017ce29f6d8",
+    "title": "The End of AI Frontiers",
+    "url": "https://hunch.net/?p=13764006",
+    "source": "hackernews",
+    "publishedAt": "2026-11-07T18:04:07Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "The End of AI Frontiers",
+    "points": 220,
+    "path": "news/2026/11/07/8017ce29f6d8-the-end-of-ai-frontiers.md"
+  },
+  {
+    "id": "55aa1dc18cbb",
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "url": "https://github.com/hedgerow-dev/coldframe",
+    "source": "hackernews",
+    "publishedAt": "2026-11-07T17:27:30Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "points": 127,
+    "path": "news/2026/11/07/55aa1dc18cbb-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri.md"
+  },
+  {
+    "id": "5be9cd76a11a",
+    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-07T17:19:00Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "points": 113,
+    "path": "news/2026/11/07/5be9cd76a11a-maxxbench-nice-deepswe-score-but-is-it-true.md"
+  },
+  {
     "id": "ef313c34ae18",
     "title": "Every Mac comes with an (undocumented) family member classifier",
     "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
@@ -8,7 +46,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Every Mac comes with an (undocumented) family member classifier",
-    "points": 409,
+    "points": 498,
     "path": "news/2026/11/07/ef313c34ae18-every-mac-comes-with-an-undocumented-family-member-classifie.md"
   },
   {
@@ -22,7 +60,7 @@
     ],
     "importance": 2,
     "summary": "The Components of Agent Memory",
-    "points": 112,
+    "points": 139,
     "path": "news/2026/11/07/9bd43ba4c246-the-components-of-agent-memory.md"
   },
   {
@@ -34,7 +72,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI sell-off compared to well-known stock market crashes",
-    "points": 78,
+    "points": 81,
     "path": "news/2026/11/07/db4af631edd9-the-ai-sell-off-compared-to-well-known-stock-market-crashes.md"
   },
   {
@@ -48,7 +86,7 @@
     ],
     "importance": 2,
     "summary": "Outbound SIP calling is now available to all organizations",
-    "points": 68,
+    "points": 70,
     "path": "news/2026/11/06/6c7a92be9a6e-outbound-sip-calling-is-now-available-to-all-organizations.md"
   },
   {
@@ -62,7 +100,7 @@
     ],
     "importance": 2,
     "summary": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-    "points": 91,
+    "points": 92,
     "path": "news/2026/11/06/5b5f4925f1b3-chatgpt-silently-passes-data-between-connectors-and-the-boun.md"
   },
   {
@@ -76,7 +114,7 @@
     ],
     "importance": 3,
     "summary": "AI is dramatically accelerating AI research",
-    "points": 344,
+    "points": 356,
     "path": "news/2026/11/06/5d5ecd510454-ai-is-dramatically-accelerating-ai-research.md"
   },
   {
@@ -91,7 +129,7 @@
     ],
     "importance": 2,
     "summary": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "points": 99,
+    "points": 100,
     "path": "news/2026/11/06/7bed7e3c0b8e-google-has-acquired-crusoe-s-data-center-site-in-southeast-w.md"
   },
   {
@@ -103,7 +141,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "points": 543,
+    "points": 568,
     "path": "news/2026/11/06/60724c835de1-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-l.md"
   },
   {
@@ -115,7 +153,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Firecracker VM Escape: PwnEscape Part 2",
-    "points": 268,
+    "points": 277,
     "path": "news/2026/11/06/19e5a3d3b856-firecracker-vm-escape-pwnescape-part-2.md"
   },
   {
@@ -127,7 +165,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GitHub's new Git storage architecture",
-    "points": 202,
+    "points": 212,
     "path": "news/2026/11/06/c18d658a7097-github-s-new-git-storage-architecture.md"
   },
   {
@@ -139,7 +177,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "points": 104,
+    "points": 105,
     "path": "news/2026/11/06/7dcd57a756f6-microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capac.md"
   },
   {
@@ -153,7 +191,7 @@
     ],
     "importance": 2,
     "summary": "Memorilla: Latent Semantic Memory for LLMs",
-    "points": 112,
+    "points": 115,
     "path": "news/2026/11/06/bc00e1abe23c-memorilla-latent-semantic-memory-for-llms.md"
   },
   {
@@ -196,7 +234,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "points": 296,
+    "points": 302,
     "path": "news/2026/11/06/72c8d5999f27-anthropic-ipo-buyers-see-valuation-as-low-as-1-1t.md"
   },
   {
@@ -210,7 +248,7 @@
     ],
     "importance": 2,
     "summary": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-    "points": 174,
+    "points": 176,
     "path": "news/2026/11/06/b81ea0f95984-rune-a-native-gpu-rendered-rust-ui-framework-for-macos-windo.md"
   },
   {
@@ -224,7 +262,7 @@
     ],
     "importance": 2,
     "summary": "University libraries are being swarmed by AI bots, putting public access at risk",
-    "points": 132,
+    "points": 134,
     "path": "news/2026/11/06/d7697f4bfd59-university-libraries-are-being-swarmed-by-ai-bots-putting-pu.md"
   },
   {
@@ -252,7 +290,7 @@
     ],
     "importance": 2,
     "summary": "AI for scientific discovery: How researchers use Claude",
-    "points": 99,
+    "points": 101,
     "path": "news/2026/11/06/cfb39304f9e3-ai-for-scientific-discovery-how-researchers-use-claude.md"
   },
   {
@@ -289,7 +327,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I struggle to believe that AI R&D is ingenious",
-    "points": 210,
+    "points": 211,
     "path": "news/2026/11/06/6f6e34984c20-i-struggle-to-believe-that-ai-r-d-is-ingenious.md"
   },
   {
@@ -303,7 +341,7 @@
     ],
     "importance": 2,
     "summary": "Nvidia Kubernetes Engine (NVKE)",
-    "points": 123,
+    "points": 124,
     "path": "news/2026/11/06/e2e23a036796-nvidia-kubernetes-engine-nvke.md"
   },
   {
@@ -384,7 +422,7 @@
     ],
     "importance": 3,
     "summary": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "points": 509,
+    "points": 510,
     "path": "news/2026/11/05/2bae9b1f767d-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-.md"
   },
   {
@@ -398,7 +436,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code sends your email address to websites",
-    "points": 1583,
+    "points": 1589,
     "path": "news/2026/11/05/199af8aea5b6-claude-code-sends-your-email-address-to-websites.md"
   },
   {
@@ -454,7 +492,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Hackintosh Reborn",
-    "points": 407,
+    "points": 410,
     "path": "news/2026/11/05/0e3c62a202e2-the-hackintosh-reborn.md"
   },
   {
@@ -509,7 +547,7 @@
     "importance": 3,
     "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "path": "news/2026/11/05/485654c1f98a-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md",
-    "points": 354
+    "points": 356
   },
   {
     "id": "616c68177b70",
@@ -559,6 +597,21 @@
     "summary": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
     "points": 79,
     "path": "news/2026/11/05/b889830baf54-show-hn-waymark-a-workflow-engine-that-compiles-jobs-instead.md"
+  },
+  {
+    "id": "728790b9a309",
+    "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+    "url": "https://github.com/hyphatech/spindle",
+    "source": "hackernews",
+    "publishedAt": "2026-11-05T10:45:28Z",
+    "tags": [
+      "opensource",
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+    "points": 51,
+    "path": "news/2026/11/05/728790b9a309-show-hn-spindle-a-full-featured-type-safe-web-framework-for-.md"
   },
   {
     "id": "14e90e72d340",
