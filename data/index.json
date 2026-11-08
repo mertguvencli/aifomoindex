@@ -1,5 +1,86 @@
 [
   {
+    "id": "8b18a5361e6d",
+    "title": "How I Fight AI Brain Fry",
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T19:37:42Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How I Fight AI Brain Fry",
+    "points": 74,
+    "path": "news/2026/11/08/8b18a5361e6d-how-i-fight-ai-brain-fry.md"
+  },
+  {
+    "id": "9df362de277c",
+    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T18:43:07Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+    "points": 72,
+    "path": "news/2026/11/08/9df362de277c-silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-.md"
+  },
+  {
+    "id": "79a426483352",
+    "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T18:16:07Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "points": 400,
+    "path": "news/2026/11/08/79a426483352-goldman-sachs-is-pulling-claude-code-from-its-bankers-and-tr.md"
+  },
+  {
+    "id": "7cdeffc8e00d",
+    "title": "OpenAI raises $11B at a $1.25T valuation",
+    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T14:49:23Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "OpenAI raises $11B at a $1.25T valuation",
+    "points": 173,
+    "path": "news/2026/11/08/7cdeffc8e00d-openai-raises-11b-at-a-1-25t-valuation.md"
+  },
+  {
+    "id": "81ca08fb0e37",
+    "title": "Why I will not be using LLMs in my coding",
+    "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T12:14:10Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Why I will not be using LLMs in my coding",
+    "points": 97,
+    "path": "news/2026/11/08/81ca08fb0e37-why-i-will-not-be-using-llms-in-my-coding.md"
+  },
+  {
+    "id": "55858f2b4ca7",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T10:22:04Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 3,
+    "summary": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "points": 304,
+    "path": "news/2026/11/08/55858f2b4ca7-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.md"
+  },
+  {
     "id": "149c124f7b07",
     "title": "Goodbye Claude, Hello Pi",
     "url": "https://caleb.software/posts/claude-to-pi.html",
@@ -10,7 +91,7 @@
     ],
     "importance": 3,
     "summary": "Goodbye Claude, Hello Pi",
-    "points": 370,
+    "points": 635,
     "path": "news/2026/11/08/149c124f7b07-goodbye-claude-hello-pi.md"
   },
   {
@@ -22,7 +103,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Consumer brain wave headsets threaten privacy",
-    "points": 70,
+    "points": 113,
     "path": "news/2026/11/08/ca0c8439858f-consumer-brain-wave-headsets-threaten-privacy.md"
   },
   {
@@ -36,7 +117,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "points": 438,
+    "points": 549,
     "path": "news/2026/11/07/10bdc73097cf-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-pub.md"
   },
   {
@@ -48,7 +129,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The End of AI Frontiers",
-    "points": 468,
+    "points": 486,
     "path": "news/2026/11/07/8017ce29f6d8-the-end-of-ai-frontiers.md"
   },
   {
@@ -62,7 +143,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "points": 250,
+    "points": 274,
     "path": "news/2026/11/07/55aa1dc18cbb-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri.md"
   },
   {
@@ -74,7 +155,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "points": 333,
+    "points": 380,
     "path": "news/2026/11/07/5be9cd76a11a-maxxbench-nice-deepswe-score-but-is-it-true.md"
   },
   {
@@ -86,7 +167,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Every Mac comes with an (undocumented) family member classifier",
-    "points": 752,
+    "points": 838,
     "path": "news/2026/11/07/ef313c34ae18-every-mac-comes-with-an-undocumented-family-member-classifie.md"
   },
   {
@@ -100,7 +181,7 @@
     ],
     "importance": 2,
     "summary": "The Components of Agent Memory",
-    "points": 159,
+    "points": 172,
     "path": "news/2026/11/07/9bd43ba4c246-the-components-of-agent-memory.md"
   },
   {
@@ -112,7 +193,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI sell-off compared to well-known stock market crashes",
-    "points": 92,
+    "points": 98,
     "path": "news/2026/11/07/db4af631edd9-the-ai-sell-off-compared-to-well-known-stock-market-crashes.md"
   },
   {
@@ -126,7 +207,7 @@
     ],
     "importance": 2,
     "summary": "Outbound SIP calling is now available to all organizations",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/11/06/6c7a92be9a6e-outbound-sip-calling-is-now-available-to-all-organizations.md"
   },
   {
@@ -152,7 +233,7 @@
     "tags": [],
     "importance": 2,
     "summary": "*sshole, or when are we going to get rid of C?",
-    "points": 56,
+    "points": 58,
     "path": "news/2026/11/06/8fb4902eb773-sshole-or-when-are-we-going-to-get-rid-of-c.md"
   },
   {
@@ -166,7 +247,7 @@
     ],
     "importance": 3,
     "summary": "AI is dramatically accelerating AI research",
-    "points": 370,
+    "points": 373,
     "path": "news/2026/11/06/5d5ecd510454-ai-is-dramatically-accelerating-ai-research.md"
   },
   {
@@ -193,7 +274,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "points": 582,
+    "points": 594,
     "path": "news/2026/11/06/60724c835de1-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-l.md"
   },
   {
@@ -205,7 +286,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Firecracker VM Escape: PwnEscape Part 2",
-    "points": 283,
+    "points": 287,
     "path": "news/2026/11/06/19e5a3d3b856-firecracker-vm-escape-pwnescape-part-2.md"
   },
   {
@@ -217,7 +298,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GitHub's new Git storage architecture",
-    "points": 229,
+    "points": 235,
     "path": "news/2026/11/06/c18d658a7097-github-s-new-git-storage-architecture.md"
   },
   {
@@ -229,7 +310,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "points": 107,
+    "points": 108,
     "path": "news/2026/11/06/7dcd57a756f6-microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capac.md"
   },
   {
@@ -243,7 +324,7 @@
     ],
     "importance": 2,
     "summary": "Memorilla: Latent Semantic Memory for LLMs",
-    "points": 116,
+    "points": 122,
     "path": "news/2026/11/06/bc00e1abe23c-memorilla-latent-semantic-memory-for-llms.md"
   },
   {
@@ -286,7 +367,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "points": 317,
+    "points": 318,
     "path": "news/2026/11/06/72c8d5999f27-anthropic-ipo-buyers-see-valuation-as-low-as-1-1t.md"
   },
   {
@@ -342,7 +423,7 @@
     ],
     "importance": 2,
     "summary": "AI for scientific discovery: How researchers use Claude",
-    "points": 101,
+    "points": 103,
     "path": "news/2026/11/06/cfb39304f9e3-ai-for-scientific-discovery-how-researchers-use-claude.md"
   },
   {
@@ -474,7 +555,7 @@
     ],
     "importance": 3,
     "summary": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "points": 515,
+    "points": 517,
     "path": "news/2026/11/05/2bae9b1f767d-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-.md"
   },
   {
@@ -488,7 +569,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code sends your email address to websites",
-    "points": 1596,
+    "points": 1599,
     "path": "news/2026/11/05/199af8aea5b6-claude-code-sends-your-email-address-to-websites.md"
   },
   {
@@ -599,7 +680,7 @@
     "importance": 3,
     "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "path": "news/2026/11/05/485654c1f98a-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md",
-    "points": 365
+    "points": 366
   },
   {
     "id": "616c68177b70",
