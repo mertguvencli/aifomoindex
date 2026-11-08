@@ -1,5 +1,19 @@
 [
   {
+    "id": "10bdc73097cf",
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "source": "hackernews",
+    "publishedAt": "2026-11-07T20:45:32Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "points": 202,
+    "path": "news/2026/11/07/10bdc73097cf-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-pub.md"
+  },
+  {
     "id": "8017ce29f6d8",
     "title": "The End of AI Frontiers",
     "url": "https://hunch.net/?p=13764006",
@@ -8,7 +22,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The End of AI Frontiers",
-    "points": 220,
+    "points": 405,
     "path": "news/2026/11/07/8017ce29f6d8-the-end-of-ai-frontiers.md"
   },
   {
@@ -22,7 +36,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "points": 127,
+    "points": 196,
     "path": "news/2026/11/07/55aa1dc18cbb-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri.md"
   },
   {
@@ -32,9 +46,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-07T17:19:00Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "points": 113,
+    "points": 210,
     "path": "news/2026/11/07/5be9cd76a11a-maxxbench-nice-deepswe-score-but-is-it-true.md"
   },
   {
@@ -46,7 +60,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Every Mac comes with an (undocumented) family member classifier",
-    "points": 498,
+    "points": 618,
     "path": "news/2026/11/07/ef313c34ae18-every-mac-comes-with-an-undocumented-family-member-classifie.md"
   },
   {
@@ -60,7 +74,7 @@
     ],
     "importance": 2,
     "summary": "The Components of Agent Memory",
-    "points": 139,
+    "points": 152,
     "path": "news/2026/11/07/9bd43ba4c246-the-components-of-agent-memory.md"
   },
   {
@@ -72,7 +86,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI sell-off compared to well-known stock market crashes",
-    "points": 81,
+    "points": 85,
     "path": "news/2026/11/07/db4af631edd9-the-ai-sell-off-compared-to-well-known-stock-market-crashes.md"
   },
   {
@@ -86,7 +100,7 @@
     ],
     "importance": 2,
     "summary": "Outbound SIP calling is now available to all organizations",
-    "points": 70,
+    "points": 72,
     "path": "news/2026/11/06/6c7a92be9a6e-outbound-sip-calling-is-now-available-to-all-organizations.md"
   },
   {
@@ -100,8 +114,20 @@
     ],
     "importance": 2,
     "summary": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-    "points": 92,
+    "points": 93,
     "path": "news/2026/11/06/5b5f4925f1b3-chatgpt-silently-passes-data-between-connectors-and-the-boun.md"
+  },
+  {
+    "id": "8fb4902eb773",
+    "title": "*sshole, or when are we going to get rid of C?",
+    "url": "https://sunshowers.io/posts/sshole/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-06T22:34:04Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "*sshole, or when are we going to get rid of C?",
+    "points": 51,
+    "path": "news/2026/11/06/8fb4902eb773-sshole-or-when-are-we-going-to-get-rid-of-c.md"
   },
   {
     "id": "5d5ecd510454",
@@ -114,7 +140,7 @@
     ],
     "importance": 3,
     "summary": "AI is dramatically accelerating AI research",
-    "points": 356,
+    "points": 362,
     "path": "news/2026/11/06/5d5ecd510454-ai-is-dramatically-accelerating-ai-research.md"
   },
   {
@@ -129,7 +155,7 @@
     ],
     "importance": 2,
     "summary": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "points": 100,
+    "points": 101,
     "path": "news/2026/11/06/7bed7e3c0b8e-google-has-acquired-crusoe-s-data-center-site-in-southeast-w.md"
   },
   {
@@ -141,7 +167,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "points": 568,
+    "points": 572,
     "path": "news/2026/11/06/60724c835de1-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-l.md"
   },
   {
@@ -153,7 +179,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Firecracker VM Escape: PwnEscape Part 2",
-    "points": 277,
+    "points": 281,
     "path": "news/2026/11/06/19e5a3d3b856-firecracker-vm-escape-pwnescape-part-2.md"
   },
   {
@@ -165,7 +191,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GitHub's new Git storage architecture",
-    "points": 212,
+    "points": 220,
     "path": "news/2026/11/06/c18d658a7097-github-s-new-git-storage-architecture.md"
   },
   {
@@ -177,7 +203,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "points": 105,
+    "points": 106,
     "path": "news/2026/11/06/7dcd57a756f6-microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capac.md"
   },
   {
@@ -206,7 +232,7 @@
     ],
     "importance": 2,
     "summary": "Perplexity launches AI agents for work",
-    "points": 62,
+    "points": 64,
     "path": "news/2026/11/06/cf715e9bc8a5-perplexity-launches-ai-agents-for-work.md"
   },
   {
@@ -234,7 +260,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "points": 302,
+    "points": 309,
     "path": "news/2026/11/06/72c8d5999f27-anthropic-ipo-buyers-see-valuation-as-low-as-1-1t.md"
   },
   {
@@ -248,7 +274,7 @@
     ],
     "importance": 2,
     "summary": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-    "points": 176,
+    "points": 177,
     "path": "news/2026/11/06/b81ea0f95984-rune-a-native-gpu-rendered-rust-ui-framework-for-macos-windo.md"
   },
   {
@@ -262,7 +288,7 @@
     ],
     "importance": 2,
     "summary": "University libraries are being swarmed by AI bots, putting public access at risk",
-    "points": 134,
+    "points": 135,
     "path": "news/2026/11/06/d7697f4bfd59-university-libraries-are-being-swarmed-by-ai-bots-putting-pu.md"
   },
   {
@@ -327,7 +353,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I struggle to believe that AI R&D is ingenious",
-    "points": 211,
+    "points": 215,
     "path": "news/2026/11/06/6f6e34984c20-i-struggle-to-believe-that-ai-r-d-is-ingenious.md"
   },
   {
@@ -381,7 +407,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Small",
-    "points": 287,
+    "points": 288,
     "path": "news/2026/11/06/187bb7cb1c54-inkling-2-small.md"
   },
   {
@@ -422,7 +448,7 @@
     ],
     "importance": 3,
     "summary": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "points": 510,
+    "points": 514,
     "path": "news/2026/11/05/2bae9b1f767d-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-.md"
   },
   {
@@ -436,7 +462,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code sends your email address to websites",
-    "points": 1589,
+    "points": 1592,
     "path": "news/2026/11/05/199af8aea5b6-claude-code-sends-your-email-address-to-websites.md"
   },
   {
@@ -492,7 +518,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The Hackintosh Reborn",
-    "points": 410,
+    "points": 412,
     "path": "news/2026/11/05/0e3c62a202e2-the-hackintosh-reborn.md"
   },
   {
@@ -519,7 +545,7 @@
     ],
     "importance": 2,
     "summary": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "points": 119,
+    "points": 120,
     "path": "news/2026/11/05/335e94a09146-launch-hn-rivet-yc-w23-scale-and-orchestrate-agents-on-s3.md"
   },
   {
@@ -547,7 +573,7 @@
     "importance": 3,
     "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "path": "news/2026/11/05/485654c1f98a-gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-cl.md",
-    "points": 356
+    "points": 360
   },
   {
     "id": "616c68177b70",
@@ -569,7 +595,7 @@
     "tags": [],
     "importance": 2,
     "summary": "My psychophysics as a bilateral cochlear implant user",
-    "points": 187,
+    "points": 188,
     "path": "news/2026/11/05/64b454fa51b6-my-psychophysics-as-a-bilateral-cochlear-implant-user.md"
   },
   {
@@ -595,7 +621,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-    "points": 79,
+    "points": 80,
     "path": "news/2026/11/05/b889830baf54-show-hn-waymark-a-workflow-engine-that-compiles-jobs-instead.md"
   },
   {
@@ -610,7 +636,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
-    "points": 51,
+    "points": 55,
     "path": "news/2026/11/05/728790b9a309-show-hn-spindle-a-full-featured-type-safe-web-framework-for-.md"
   },
   {

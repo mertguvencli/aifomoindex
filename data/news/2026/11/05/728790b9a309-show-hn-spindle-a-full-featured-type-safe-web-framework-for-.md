@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-05T10:45:28Z
 fetched_at: 2026-11-07T21:09:23.484Z
 importance: 2
-points: 51
+points: 55
 tags: [opensource, safety]
 ---
 
