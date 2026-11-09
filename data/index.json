@@ -1,14 +1,81 @@
 [
   {
+    "id": "55d059b88c6c",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "source": "huggingface",
+    "publishedAt": "2026-11-09T12:34:29.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "path": "news/2026/11/09/55d059b88c6c-your-experts-have-partners-there-s-hope-for-keeping-them-tog.md"
+  },
+  {
+    "id": "b95928dc2417",
+    "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+    "url": "https://github.com/samir-sarwar/samir-vllm",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T11:36:55Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+    "points": 54,
+    "path": "news/2026/11/09/b95928dc2417-6-hours-of-youtube-and-85-handtyped-pages-of-notes-on-llm-in.md"
+  },
+  {
+    "id": "104a8c6b6535",
+    "title": "Apple capped engineers at a $200 daily AI budget",
+    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T05:30:11Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Apple capped engineers at a $200 daily AI budget",
+    "points": 98,
+    "path": "news/2026/11/09/104a8c6b6535-apple-capped-engineers-at-a-200-daily-ai-budget.md"
+  },
+  {
+    "id": "2b44002238d6",
+    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+    "url": "https://github.com/OmniJev/Flide",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T04:43:12Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+    "points": 81,
+    "path": "news/2026/11/09/2b44002238d6-show-hn-flide-make-jev-like-decision-models-up-to-9-5x-faste.md"
+  },
+  {
+    "id": "231b4bdb6dd4",
+    "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+    "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T03:06:55Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+    "points": 53,
+    "path": "news/2026/11/09/231b4bdb6dd4-asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-u.md"
+  },
+  {
     "id": "dab987be36e1",
     "title": "I'm Not Convinced the AI Bubble Exists",
     "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
     "source": "hackernews",
     "publishedAt": "2026-11-08T23:44:36Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "I'm Not Convinced the AI Bubble Exists",
-    "points": 69,
+    "points": 415,
     "path": "news/2026/11/08/dab987be36e1-i-m-not-convinced-the-ai-bubble-exists.md"
   },
   {
@@ -18,9 +85,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-08T19:37:42Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "How I Fight AI Brain Fry",
-    "points": 169,
+    "points": 281,
     "path": "news/2026/11/08/8b18a5361e6d-how-i-fight-ai-brain-fry.md"
   },
   {
@@ -32,7 +99,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-    "points": 90,
+    "points": 96,
     "path": "news/2026/11/08/9df362de277c-silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-.md"
   },
   {
@@ -46,7 +113,7 @@
     ],
     "importance": 3,
     "summary": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-    "points": 643,
+    "points": 822,
     "path": "news/2026/11/08/79a426483352-goldman-sachs-is-pulling-claude-code-from-its-bankers-and-tr.md"
   },
   {
@@ -60,7 +127,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises $11B at a $1.25T valuation",
-    "points": 181,
+    "points": 188,
     "path": "news/2026/11/08/7cdeffc8e00d-openai-raises-11b-at-a-1-25t-valuation.md"
   },
   {
@@ -74,7 +141,7 @@
     ],
     "importance": 2,
     "summary": "Why I will not be using LLMs in my coding",
-    "points": 108,
+    "points": 116,
     "path": "news/2026/11/08/81ca08fb0e37-why-i-will-not-be-using-llms-in-my-coding.md"
   },
   {
@@ -89,7 +156,7 @@
     ],
     "importance": 3,
     "summary": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "points": 378,
+    "points": 446,
     "path": "news/2026/11/08/55858f2b4ca7-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.md"
   },
   {
@@ -103,7 +170,7 @@
     ],
     "importance": 3,
     "summary": "Goodbye Claude, Hello Pi",
-    "points": 709,
+    "points": 785,
     "path": "news/2026/11/08/149c124f7b07-goodbye-claude-hello-pi.md"
   },
   {
@@ -115,7 +182,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Consumer brain wave headsets threaten privacy",
-    "points": 116,
+    "points": 117,
     "path": "news/2026/11/08/ca0c8439858f-consumer-brain-wave-headsets-threaten-privacy.md"
   },
   {
@@ -129,7 +196,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "points": 594,
+    "points": 615,
     "path": "news/2026/11/07/10bdc73097cf-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-pub.md"
   },
   {
@@ -141,7 +208,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The End of AI Frontiers",
-    "points": 498,
+    "points": 504,
     "path": "news/2026/11/07/8017ce29f6d8-the-end-of-ai-frontiers.md"
   },
   {
@@ -155,7 +222,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "points": 279,
+    "points": 283,
     "path": "news/2026/11/07/55aa1dc18cbb-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri.md"
   },
   {
@@ -167,7 +234,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "points": 390,
+    "points": 400,
     "path": "news/2026/11/07/5be9cd76a11a-maxxbench-nice-deepswe-score-but-is-it-true.md"
   },
   {
@@ -179,7 +246,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Every Mac comes with an (undocumented) family member classifier",
-    "points": 846,
+    "points": 859,
     "path": "news/2026/11/07/ef313c34ae18-every-mac-comes-with-an-undocumented-family-member-classifie.md"
   },
   {
@@ -193,7 +260,7 @@
     ],
     "importance": 2,
     "summary": "The Components of Agent Memory",
-    "points": 177,
+    "points": 183,
     "path": "news/2026/11/07/9bd43ba4c246-the-components-of-agent-memory.md"
   },
   {
@@ -205,7 +272,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI sell-off compared to well-known stock market crashes",
-    "points": 98,
+    "points": 100,
     "path": "news/2026/11/07/db4af631edd9-the-ai-sell-off-compared-to-well-known-stock-market-crashes.md"
   },
   {
@@ -219,7 +286,7 @@
     ],
     "importance": 2,
     "summary": "Outbound SIP calling is now available to all organizations",
-    "points": 75,
+    "points": 76,
     "path": "news/2026/11/06/6c7a92be9a6e-outbound-sip-calling-is-now-available-to-all-organizations.md"
   },
   {
@@ -245,7 +312,7 @@
     "tags": [],
     "importance": 2,
     "summary": "*sshole, or when are we going to get rid of C?",
-    "points": 60,
+    "points": 62,
     "path": "news/2026/11/06/8fb4902eb773-sshole-or-when-are-we-going-to-get-rid-of-c.md"
   },
   {
@@ -259,7 +326,7 @@
     ],
     "importance": 3,
     "summary": "AI is dramatically accelerating AI research",
-    "points": 373,
+    "points": 374,
     "path": "news/2026/11/06/5d5ecd510454-ai-is-dramatically-accelerating-ai-research.md"
   },
   {
@@ -286,7 +353,7 @@
     "tags": [],
     "importance": 3,
     "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "points": 594,
+    "points": 599,
     "path": "news/2026/11/06/60724c835de1-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-l.md"
   },
   {
@@ -310,7 +377,7 @@
     "tags": [],
     "importance": 3,
     "summary": "GitHub's new Git storage architecture",
-    "points": 235,
+    "points": 236,
     "path": "news/2026/11/06/c18d658a7097-github-s-new-git-storage-architecture.md"
   },
   {
@@ -322,7 +389,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "points": 108,
+    "points": 109,
     "path": "news/2026/11/06/7dcd57a756f6-microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capac.md"
   },
   {
@@ -336,7 +403,7 @@
     ],
     "importance": 2,
     "summary": "Memorilla: Latent Semantic Memory for LLMs",
-    "points": 123,
+    "points": 124,
     "path": "news/2026/11/06/bc00e1abe23c-memorilla-latent-semantic-memory-for-llms.md"
   },
   {
@@ -379,7 +446,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "points": 318,
+    "points": 320,
     "path": "news/2026/11/06/72c8d5999f27-anthropic-ipo-buyers-see-valuation-as-low-as-1-1t.md"
   },
   {
