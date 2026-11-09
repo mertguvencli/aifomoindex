@@ -1,5 +1,17 @@
 [
   {
+    "id": "dab987be36e1",
+    "title": "I'm Not Convinced the AI Bubble Exists",
+    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T23:44:36Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "I'm Not Convinced the AI Bubble Exists",
+    "points": 69,
+    "path": "news/2026/11/08/dab987be36e1-i-m-not-convinced-the-ai-bubble-exists.md"
+  },
+  {
     "id": "8b18a5361e6d",
     "title": "How I Fight AI Brain Fry",
     "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
@@ -8,7 +20,7 @@
     "tags": [],
     "importance": 2,
     "summary": "How I Fight AI Brain Fry",
-    "points": 74,
+    "points": 169,
     "path": "news/2026/11/08/8b18a5361e6d-how-i-fight-ai-brain-fry.md"
   },
   {
@@ -20,7 +32,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-    "points": 72,
+    "points": 90,
     "path": "news/2026/11/08/9df362de277c-silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-.md"
   },
   {
@@ -34,7 +46,7 @@
     ],
     "importance": 3,
     "summary": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-    "points": 400,
+    "points": 643,
     "path": "news/2026/11/08/79a426483352-goldman-sachs-is-pulling-claude-code-from-its-bankers-and-tr.md"
   },
   {
@@ -48,7 +60,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises $11B at a $1.25T valuation",
-    "points": 173,
+    "points": 181,
     "path": "news/2026/11/08/7cdeffc8e00d-openai-raises-11b-at-a-1-25t-valuation.md"
   },
   {
@@ -62,7 +74,7 @@
     ],
     "importance": 2,
     "summary": "Why I will not be using LLMs in my coding",
-    "points": 97,
+    "points": 108,
     "path": "news/2026/11/08/81ca08fb0e37-why-i-will-not-be-using-llms-in-my-coding.md"
   },
   {
@@ -77,7 +89,7 @@
     ],
     "importance": 3,
     "summary": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "points": 304,
+    "points": 378,
     "path": "news/2026/11/08/55858f2b4ca7-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.md"
   },
   {
@@ -91,7 +103,7 @@
     ],
     "importance": 3,
     "summary": "Goodbye Claude, Hello Pi",
-    "points": 635,
+    "points": 709,
     "path": "news/2026/11/08/149c124f7b07-goodbye-claude-hello-pi.md"
   },
   {
@@ -103,7 +115,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Consumer brain wave headsets threaten privacy",
-    "points": 113,
+    "points": 116,
     "path": "news/2026/11/08/ca0c8439858f-consumer-brain-wave-headsets-threaten-privacy.md"
   },
   {
@@ -117,7 +129,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "points": 549,
+    "points": 594,
     "path": "news/2026/11/07/10bdc73097cf-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-pub.md"
   },
   {
@@ -129,7 +141,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The End of AI Frontiers",
-    "points": 486,
+    "points": 498,
     "path": "news/2026/11/07/8017ce29f6d8-the-end-of-ai-frontiers.md"
   },
   {
@@ -143,7 +155,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "points": 274,
+    "points": 279,
     "path": "news/2026/11/07/55aa1dc18cbb-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri.md"
   },
   {
@@ -155,7 +167,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "points": 380,
+    "points": 390,
     "path": "news/2026/11/07/5be9cd76a11a-maxxbench-nice-deepswe-score-but-is-it-true.md"
   },
   {
@@ -167,7 +179,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Every Mac comes with an (undocumented) family member classifier",
-    "points": 838,
+    "points": 846,
     "path": "news/2026/11/07/ef313c34ae18-every-mac-comes-with-an-undocumented-family-member-classifie.md"
   },
   {
@@ -181,7 +193,7 @@
     ],
     "importance": 2,
     "summary": "The Components of Agent Memory",
-    "points": 172,
+    "points": 177,
     "path": "news/2026/11/07/9bd43ba4c246-the-components-of-agent-memory.md"
   },
   {
@@ -207,7 +219,7 @@
     ],
     "importance": 2,
     "summary": "Outbound SIP calling is now available to all organizations",
-    "points": 74,
+    "points": 75,
     "path": "news/2026/11/06/6c7a92be9a6e-outbound-sip-calling-is-now-available-to-all-organizations.md"
   },
   {
@@ -233,7 +245,7 @@
     "tags": [],
     "importance": 2,
     "summary": "*sshole, or when are we going to get rid of C?",
-    "points": 58,
+    "points": 60,
     "path": "news/2026/11/06/8fb4902eb773-sshole-or-when-are-we-going-to-get-rid-of-c.md"
   },
   {
@@ -324,7 +336,7 @@
     ],
     "importance": 2,
     "summary": "Memorilla: Latent Semantic Memory for LLMs",
-    "points": 122,
+    "points": 123,
     "path": "news/2026/11/06/bc00e1abe23c-memorilla-latent-semantic-memory-for-llms.md"
   },
   {
@@ -381,7 +393,7 @@
     ],
     "importance": 2,
     "summary": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-    "points": 177,
+    "points": 178,
     "path": "news/2026/11/06/b81ea0f95984-rune-a-native-gpu-rendered-rust-ui-framework-for-macos-windo.md"
   },
   {
