@@ -5,8 +5,8 @@ url: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
 source: hackernews
 published_at: 2026-11-10T10:25:58Z
 fetched_at: 2026-11-10T13:52:20.148Z
-importance: 2
-points: 115
+importance: 3
+points: 308
 tags: []
 ---
 
