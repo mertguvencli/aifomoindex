@@ -1,5 +1,118 @@
 [
   {
+    "id": "c979be8e72cc",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "source": "googleai",
+    "publishedAt": "2026-11-10T13:00:00.000Z",
+    "tags": [
+      "model",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Google Cloud launches Gemini for healthcare.",
+    "path": "news/2026/11/10/c979be8e72cc-google-cloud-launches-gemini-for-healthcare.md"
+  },
+  {
+    "id": "0e9fb0eb84f1",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-10T12:02:28.000Z",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "path": "news/2026/11/10/0e9fb0eb84f1-introducing-alphaproof-code-a-breakthrough-in-verifying-comp.md"
+  },
+  {
+    "id": "0f0020abcf73",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "openai",
+    "publishedAt": "2026-11-10T12:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Helping caregivers use AI in everyday life",
+    "path": "news/2026/11/10/0f0020abcf73-helping-caregivers-use-ai-in-everyday-life.md"
+  },
+  {
+    "id": "71eb548beb84",
+    "title": "Meet the Sad Wives of AI",
+    "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T10:40:51Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Meet the Sad Wives of AI",
+    "points": 63,
+    "path": "news/2026/11/10/71eb548beb84-meet-the-sad-wives-of-ai.md"
+  },
+  {
+    "id": "db8fc4949921",
+    "title": "AI usage generates a fragile codebase",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T10:25:58Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI usage generates a fragile codebase",
+    "points": 115,
+    "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
+  },
+  {
+    "id": "69d4d9d74efa",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "source": "openai",
+    "publishedAt": "2026-11-10T09:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Closing the AI guidance gap in education",
+    "path": "news/2026/11/10/69d4d9d74efa-closing-the-ai-guidance-gap-in-education.md"
+  },
+  {
+    "id": "7a66b47ed573",
+    "title": "Fireworks AI security breach impacts Notion and their customers",
+    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T07:19:38Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Fireworks AI security breach impacts Notion and their customers",
+    "points": 89,
+    "path": "news/2026/11/10/7a66b47ed573-fireworks-ai-security-breach-impacts-notion-and-their-custom.md"
+  },
+  {
+    "id": "263485a3532c",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T03:20:06Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "points": 176,
+    "path": "news/2026/11/10/263485a3532c-coreweave-bond-yield-tops-16-as-ai-credit-stress-rises.md"
+  },
+  {
+    "id": "dc15a9692d7b",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "url": "https://www.anthropic.com/news/roadshow-launch",
+    "source": "anthropic",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Anthropic launches roadshow for proposed initial public offering",
+    "path": "news/2026/11/10/dc15a9692d7b-anthropic-launches-roadshow-for-proposed-initial-public-offe.md"
+  },
+  {
     "id": "e106c14fd2c6",
     "title": "A year after the 100% AI mandate nobody understands our code",
     "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
@@ -8,7 +121,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A year after the 100% AI mandate nobody understands our code",
-    "points": 91,
+    "points": 134,
     "path": "news/2026/11/09/e106c14fd2c6-a-year-after-the-100-ai-mandate-nobody-understands-our-code.md"
   },
   {
@@ -20,9 +133,9 @@
     "tags": [
       "infra"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "TPU 8tx and TPU 8i Max",
-    "points": 185,
+    "points": 250,
     "path": "news/2026/11/09/a7b39cb06983-tpu-8tx-and-tpu-8i-max.md"
   },
   {
@@ -36,7 +149,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-    "points": 270,
+    "points": 356,
     "path": "news/2026/11/09/fbdf36c6d0b0-claude-fable-5-2-scores-65-on-artificial-analysis-highest-so.md"
   },
   {
@@ -63,7 +176,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 and Mythos 5.2",
-    "points": 900,
+    "points": 980,
     "path": "news/2026/11/09/9fbaf812b26d-claude-fable-5-2-and-mythos-5-2.md"
   },
   {
@@ -77,7 +190,7 @@
     ],
     "importance": 3,
     "summary": "Google Gemini routes personal Drive files and emails to human annotators",
-    "points": 362,
+    "points": 667,
     "path": "news/2026/11/09/a847d1340755-google-gemini-routes-personal-drive-files-and-emails-to-huma.md"
   },
   {
@@ -91,7 +204,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-    "points": 51,
+    "points": 97,
     "path": "news/2026/11/09/eee402332b6d-show-hn-ste80-humanizer-de-ai-text-by-writing-80-of-the-way-.md"
   },
   {
@@ -105,7 +218,7 @@
     ],
     "importance": 3,
     "summary": "Our Smallest, Most Efficient Model: Muse Ember",
-    "points": 236,
+    "points": 316,
     "path": "news/2026/11/09/86708699833d-our-smallest-most-efficient-model-muse-ember.md"
   },
   {
@@ -119,7 +232,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Every satellite that passed over any place this week, and its photos",
-    "points": 216,
+    "points": 406,
     "path": "news/2026/11/09/460cd23bae8e-show-hn-every-satellite-that-passed-over-any-place-this-week.md"
   },
   {
@@ -131,7 +244,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-    "points": 166,
+    "points": 170,
     "path": "news/2026/11/09/681da721508d-the-same-h100-costs-2-69-or-12-29-an-hour-depending-where-yo.md"
   },
   {
@@ -198,7 +311,7 @@
     ],
     "importance": 2,
     "summary": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-    "points": 75,
+    "points": 78,
     "path": "news/2026/11/09/b95928dc2417-6-hours-of-youtube-and-85-handtyped-pages-of-notes-on-llm-in.md"
   },
   {
@@ -234,7 +347,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Apple capped engineers at a $200 daily AI budget",
-    "points": 110,
+    "points": 113,
     "path": "news/2026/11/09/104a8c6b6535-apple-capped-engineers-at-a-200-daily-ai-budget.md"
   },
   {
@@ -249,7 +362,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-    "points": 119,
+    "points": 123,
     "path": "news/2026/11/09/2b44002238d6-show-hn-flide-make-jev-like-decision-models-up-to-9-5x-faste.md"
   },
   {
@@ -261,7 +374,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-    "points": 69,
+    "points": 72,
     "path": "news/2026/11/09/231b4bdb6dd4-asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-u.md"
   },
   {
@@ -273,7 +386,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I'm Not Convinced the AI Bubble Exists",
-    "points": 541,
+    "points": 557,
     "path": "news/2026/11/08/dab987be36e1-i-m-not-convinced-the-ai-bubble-exists.md"
   },
   {
@@ -285,7 +398,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I Fight AI Brain Fry",
-    "points": 303,
+    "points": 307,
     "path": "news/2026/11/08/8b18a5361e6d-how-i-fight-ai-brain-fry.md"
   },
   {
@@ -311,7 +424,7 @@
     ],
     "importance": 3,
     "summary": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-    "points": 882,
+    "points": 891,
     "path": "news/2026/11/08/79a426483352-goldman-sachs-is-pulling-claude-code-from-its-bankers-and-tr.md"
   },
   {
@@ -339,7 +452,7 @@
     ],
     "importance": 2,
     "summary": "Why I will not be using LLMs in my coding",
-    "points": 117,
+    "points": 119,
     "path": "news/2026/11/08/81ca08fb0e37-why-i-will-not-be-using-llms-in-my-coding.md"
   },
   {
@@ -354,7 +467,7 @@
     ],
     "importance": 3,
     "summary": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "points": 475,
+    "points": 481,
     "path": "news/2026/11/08/55858f2b4ca7-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.md"
   },
   {
@@ -368,7 +481,7 @@
     ],
     "importance": 3,
     "summary": "Goodbye Claude, Hello Pi",
-    "points": 805,
+    "points": 809,
     "path": "news/2026/11/08/149c124f7b07-goodbye-claude-hello-pi.md"
   },
   {
@@ -406,7 +519,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "points": 622,
+    "points": 623,
     "path": "news/2026/11/07/10bdc73097cf-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-pub.md"
   },
   {
@@ -418,7 +531,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The End of AI Frontiers",
-    "points": 509,
+    "points": 510,
     "path": "news/2026/11/07/8017ce29f6d8-the-end-of-ai-frontiers.md"
   },
   {
@@ -432,7 +545,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "points": 285,
+    "points": 288,
     "path": "news/2026/11/07/55aa1dc18cbb-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri.md"
   },
   {
@@ -444,7 +557,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "points": 405,
+    "points": 406,
     "path": "news/2026/11/07/5be9cd76a11a-maxxbench-nice-deepswe-score-but-is-it-true.md"
   },
   {

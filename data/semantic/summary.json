@@ -1,25 +1,25 @@
 {
   "protocol": "jev-headlines-v1",
   "rubricSha256": "458511b04141142d9110a514e626adb9bb502d516148bbb1aed7f4fa18d3f321",
-  "datasetSha256": "db9c387a07ce8b2526102d175b5f88b5b7ee69876d4f8cf17be32f3e9e1cde39",
-  "updatedAt": "2026-11-10T00:55:22.829Z",
-  "total": 15450,
-  "annotated": 15450,
+  "datasetSha256": "94b60d8d73d46876bf70901ad7174bcdc01853c861e2b2ed2ff756b25467296f",
+  "updatedAt": "2026-11-10T13:52:21.949Z",
+  "total": 15459,
+  "annotated": 15459,
   "missing": 0,
   "models": [
     "typesafe/jev-1.13-20260917"
   ],
   "flagged": 6,
   "relevance": {
-    "insufficient": 858,
-    "relevant": 11883,
-    "unrelated": 2709
+    "insufficient": 859,
+    "relevant": 11890,
+    "unrelated": 2710
   },
   "concreteChange": {
-    "commentary": 5682,
+    "commentary": 5686,
     "insufficient": 1941,
-    "reported": 7827
+    "reported": 7832
   },
-  "recordedCostUsd": 0.4882602059999742,
+  "recordedCostUsd": 0.48854425199997403,
   "note": "Retrospective headline annotations; no human accuracy benchmark; zero index weight. Cost excludes failed or unrecorded requests."
 }

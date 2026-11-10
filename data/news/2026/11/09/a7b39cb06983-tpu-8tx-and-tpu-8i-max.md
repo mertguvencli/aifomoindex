@@ -5,8 +5,8 @@ url: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-netwo
 source: hackernews
 published_at: 2026-11-09T21:56:57Z
 fetched_at: 2026-11-10T00:55:20.896Z
-importance: 2
-points: 185
+importance: 3
+points: 250
 tags: [infra]
 ---
 
