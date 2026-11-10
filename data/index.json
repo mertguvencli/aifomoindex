@@ -1,5 +1,179 @@
 [
   {
+    "id": "e106c14fd2c6",
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T22:19:12Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A year after the 100% AI mandate nobody understands our code",
+    "points": 91,
+    "path": "news/2026/11/09/e106c14fd2c6-a-year-after-the-100-ai-mandate-nobody-understands-our-code.md"
+  },
+  {
+    "id": "a7b39cb06983",
+    "title": "TPU 8tx and TPU 8i Max",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T21:56:57Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "TPU 8tx and TPU 8i Max",
+    "points": 185,
+    "path": "news/2026/11/09/a7b39cb06983-tpu-8tx-and-tpu-8i-max.md"
+  },
+  {
+    "id": "fbdf36c6d0b0",
+    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T20:04:55Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+    "points": 270,
+    "path": "news/2026/11/09/fbdf36c6d0b0-claude-fable-5-2-scores-65-on-artificial-analysis-highest-so.md"
+  },
+  {
+    "id": "caa9073cefb4",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "openai",
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT Enterprise now available in AWS Marketplace",
+    "path": "news/2026/11/09/caa9073cefb4-chatgpt-enterprise-now-available-in-aws-marketplace.md"
+  },
+  {
+    "id": "9fbaf812b26d",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T18:56:29Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Claude Fable 5.2 and Mythos 5.2",
+    "points": 900,
+    "path": "news/2026/11/09/9fbaf812b26d-claude-fable-5-2-and-mythos-5-2.md"
+  },
+  {
+    "id": "a847d1340755",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T18:24:38Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Google Gemini routes personal Drive files and emails to human annotators",
+    "points": 362,
+    "path": "news/2026/11/09/a847d1340755-google-gemini-routes-personal-drive-files-and-emails-to-huma.md"
+  },
+  {
+    "id": "eee402332b6d",
+    "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T18:05:44Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+    "points": 51,
+    "path": "news/2026/11/09/eee402332b6d-show-hn-ste80-humanizer-de-ai-text-by-writing-80-of-the-way-.md"
+  },
+  {
+    "id": "86708699833d",
+    "title": "Our Smallest, Most Efficient Model: Muse Ember",
+    "url": "https://research.meta.ai/blog/muse-ember",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T17:58:46Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Our Smallest, Most Efficient Model: Muse Ember",
+    "points": 236,
+    "path": "news/2026/11/09/86708699833d-our-smallest-most-efficient-model-muse-ember.md"
+  },
+  {
+    "id": "460cd23bae8e",
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "url": "https://www.watched.earth",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T17:51:31Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "points": 216,
+    "path": "news/2026/11/09/460cd23bae8e-show-hn-every-satellite-that-passed-over-any-place-this-week.md"
+  },
+  {
+    "id": "681da721508d",
+    "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+    "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+    "source": "hackernews",
+    "publishedAt": "2026-11-09T15:39:01Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+    "points": 166,
+    "path": "news/2026/11/09/681da721508d-the-same-h100-costs-2-69-or-12-29-an-hour-depending-where-yo.md"
+  },
+  {
+    "id": "ac8f18750241",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "source": "huggingface",
+    "publishedAt": "2026-11-09T15:05:57.000Z",
+    "tags": [
+      "research",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "path": "news/2026/11/09/ac8f18750241-nemotron-personas-finance-japan-a-synthetic-dataset-capturin.md"
+  },
+  {
+    "id": "8673a196d4e4",
+    "title": "Atlas On a Roll",
+    "url": "https://bostondynamics.com/blog/atlas-on-a-roll/",
+    "source": "bostondynamics",
+    "publishedAt": "2026-11-09T14:50:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Atlas On a Roll",
+    "path": "news/2026/11/09/8673a196d4e4-atlas-on-a-roll.md"
+  },
+  {
+    "id": "952d2516af2e",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "url": "https://openai.com/index/control-room",
+    "source": "openai",
+    "publishedAt": "2026-11-09T13:00:00.000Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "path": "news/2026/11/09/952d2516af2e-control-room-a-central-system-to-track-and-stop-model-worklo.md"
+  },
+  {
     "id": "55d059b88c6c",
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
     "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
@@ -24,8 +198,32 @@
     ],
     "importance": 2,
     "summary": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-    "points": 54,
+    "points": 75,
     "path": "news/2026/11/09/b95928dc2417-6-hours-of-youtube-and-85-handtyped-pages-of-notes-on-llm-in.md"
+  },
+  {
+    "id": "02e9abf47eaf",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "source": "openai",
+    "publishedAt": "2026-11-09T08:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "CodeRabbit scales agentic software development and ships 20x more",
+    "path": "news/2026/11/09/02e9abf47eaf-coderabbit-scales-agentic-software-development-and-ships-20x.md"
+  },
+  {
+    "id": "2e34e84f0999",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "url": "https://openai.com/index/kuken",
+    "source": "openai",
+    "publishedAt": "2026-11-09T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Kuken Industries searches 70 years of drawings in minutes",
+    "path": "news/2026/11/09/2e34e84f0999-kuken-industries-searches-70-years-of-drawings-in-minutes.md"
   },
   {
     "id": "104a8c6b6535",
@@ -36,7 +234,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Apple capped engineers at a $200 daily AI budget",
-    "points": 98,
+    "points": 110,
     "path": "news/2026/11/09/104a8c6b6535-apple-capped-engineers-at-a-200-daily-ai-budget.md"
   },
   {
@@ -51,7 +249,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-    "points": 81,
+    "points": 119,
     "path": "news/2026/11/09/2b44002238d6-show-hn-flide-make-jev-like-decision-models-up-to-9-5x-faste.md"
   },
   {
@@ -63,7 +261,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-    "points": 53,
+    "points": 69,
     "path": "news/2026/11/09/231b4bdb6dd4-asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-u.md"
   },
   {
@@ -75,7 +273,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I'm Not Convinced the AI Bubble Exists",
-    "points": 415,
+    "points": 541,
     "path": "news/2026/11/08/dab987be36e1-i-m-not-convinced-the-ai-bubble-exists.md"
   },
   {
@@ -87,7 +285,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I Fight AI Brain Fry",
-    "points": 281,
+    "points": 303,
     "path": "news/2026/11/08/8b18a5361e6d-how-i-fight-ai-brain-fry.md"
   },
   {
@@ -99,7 +297,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-    "points": 96,
+    "points": 98,
     "path": "news/2026/11/08/9df362de277c-silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-.md"
   },
   {
@@ -113,7 +311,7 @@
     ],
     "importance": 3,
     "summary": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-    "points": 822,
+    "points": 882,
     "path": "news/2026/11/08/79a426483352-goldman-sachs-is-pulling-claude-code-from-its-bankers-and-tr.md"
   },
   {
@@ -127,7 +325,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises $11B at a $1.25T valuation",
-    "points": 188,
+    "points": 189,
     "path": "news/2026/11/08/7cdeffc8e00d-openai-raises-11b-at-a-1-25t-valuation.md"
   },
   {
@@ -141,7 +339,7 @@
     ],
     "importance": 2,
     "summary": "Why I will not be using LLMs in my coding",
-    "points": 116,
+    "points": 117,
     "path": "news/2026/11/08/81ca08fb0e37-why-i-will-not-be-using-llms-in-my-coding.md"
   },
   {
@@ -156,7 +354,7 @@
     ],
     "importance": 3,
     "summary": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "points": 446,
+    "points": 475,
     "path": "news/2026/11/08/55858f2b4ca7-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.md"
   },
   {
@@ -170,7 +368,7 @@
     ],
     "importance": 3,
     "summary": "Goodbye Claude, Hello Pi",
-    "points": 785,
+    "points": 805,
     "path": "news/2026/11/08/149c124f7b07-goodbye-claude-hello-pi.md"
   },
   {
@@ -186,6 +384,18 @@
     "path": "news/2026/11/08/ca0c8439858f-consumer-brain-wave-headsets-threaten-privacy.md"
   },
   {
+    "id": "caca20c23ffc",
+    "title": "Wearable device makers are using brain data to train AI without telling users",
+    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+    "source": "hackernews",
+    "publishedAt": "2026-11-08T02:02:38Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Wearable device makers are using brain data to train AI without telling users",
+    "points": 119,
+    "path": "news/2026/11/08/caca20c23ffc-wearable-device-makers-are-using-brain-data-to-train-ai-with.md"
+  },
+  {
     "id": "10bdc73097cf",
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
@@ -196,7 +406,7 @@
     ],
     "importance": 3,
     "summary": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "points": 615,
+    "points": 622,
     "path": "news/2026/11/07/10bdc73097cf-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-pub.md"
   },
   {
@@ -208,7 +418,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The End of AI Frontiers",
-    "points": 504,
+    "points": 509,
     "path": "news/2026/11/07/8017ce29f6d8-the-end-of-ai-frontiers.md"
   },
   {
@@ -222,7 +432,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "points": 283,
+    "points": 285,
     "path": "news/2026/11/07/55aa1dc18cbb-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fri.md"
   },
   {
@@ -234,7 +444,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "points": 400,
+    "points": 405,
     "path": "news/2026/11/07/5be9cd76a11a-maxxbench-nice-deepswe-score-but-is-it-true.md"
   },
   {
@@ -246,7 +456,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Every Mac comes with an (undocumented) family member classifier",
-    "points": 859,
+    "points": 863,
     "path": "news/2026/11/07/ef313c34ae18-every-mac-comes-with-an-undocumented-family-member-classifie.md"
   },
   {
@@ -260,7 +470,7 @@
     ],
     "importance": 2,
     "summary": "The Components of Agent Memory",
-    "points": 183,
+    "points": 187,
     "path": "news/2026/11/07/9bd43ba4c246-the-components-of-agent-memory.md"
   },
   {
