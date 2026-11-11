@@ -1,5 +1,46 @@
 [
   {
+    "id": "65b96c238445",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "openai",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Gilbert + Tobin rethinks the business of law with AI",
+    "path": "news/2026/11/12/65b96c238445-gilbert-tobin-rethinks-the-business-of-law-with-ai.md"
+  },
+  {
+    "id": "373b9d395325",
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T22:17:56Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "points": 305,
+    "path": "news/2026/11/10/373b9d395325-after-7-months-glasswing-overwelms-maintainers-with-underwhe.md"
+  },
+  {
+    "id": "9836df349290",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T21:25:03Z",
+    "tags": [
+      "model",
+      "opensource",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Apple has new Mac app coming to make running local AI models easy",
+    "points": 114,
+    "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
+  },
+  {
     "id": "f4116becfee3",
     "title": "What objective is reasoning solving?",
     "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
@@ -10,8 +51,20 @@
     ],
     "importance": 2,
     "summary": "What objective is reasoning solving?",
-    "points": 69,
+    "points": 115,
     "path": "news/2026/11/10/f4116becfee3-what-objective-is-reasoning-solving.md"
+  },
+  {
+    "id": "aa9ab5a1e592",
+    "title": "Saltline: First-person shooter built by Fable 5.2",
+    "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T19:14:38Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Saltline: First-person shooter built by Fable 5.2",
+    "points": 56,
+    "path": "news/2026/11/10/aa9ab5a1e592-saltline-first-person-shooter-built-by-fable-5-2.md"
   },
   {
     "id": "fafff4292c09",
@@ -39,7 +92,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 204,
+    "points": 284,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -53,7 +106,7 @@
     ],
     "importance": 2,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 126,
+    "points": 164,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -67,7 +120,7 @@
     ],
     "importance": 2,
     "summary": "An Open Field Guide to Inference Engineering",
-    "points": 53,
+    "points": 74,
     "path": "news/2026/11/10/64c65c510d53-an-open-field-guide-to-inference-engineering.md"
   },
   {
@@ -81,7 +134,7 @@
     ],
     "importance": 2,
     "summary": "Life on Claude Nine",
-    "points": 65,
+    "points": 88,
     "path": "news/2026/11/10/bc7799c9ed5f-life-on-claude-nine.md"
   },
   {
@@ -96,7 +149,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is now available",
-    "points": 266,
+    "points": 280,
     "path": "news/2026/11/10/5b4c18faabad-gemini-4-carbon-is-now-available.md"
   },
   {
@@ -152,7 +205,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic to Seek $1.3T Valuation in IPO",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/11/10/ee3bbdb0ceb9-anthropic-to-seek-1-3t-valuation-in-ipo.md"
   },
   {
@@ -189,7 +242,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Meet the Sad Wives of AI",
-    "points": 74,
+    "points": 75,
     "path": "news/2026/11/10/71eb548beb84-meet-the-sad-wives-of-ai.md"
   },
   {
@@ -201,7 +254,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI usage generates a fragile codebase",
-    "points": 308,
+    "points": 407,
     "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
   },
   {
@@ -239,7 +292,7 @@
     ],
     "importance": 2,
     "summary": "Fireworks AI security breach impacts Notion and their customers",
-    "points": 157,
+    "points": 159,
     "path": "news/2026/11/10/7a66b47ed573-fireworks-ai-security-breach-impacts-notion-and-their-custom.md"
   },
   {
@@ -262,7 +315,7 @@
     "tags": [],
     "importance": 2,
     "summary": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "points": 191,
+    "points": 192,
     "path": "news/2026/11/10/263485a3532c-coreweave-bond-yield-tops-16-as-ai-credit-stress-rises.md"
   },
   {
@@ -325,7 +378,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A year after the 100% AI mandate nobody understands our code",
-    "points": 145,
+    "points": 153,
     "path": "news/2026/11/09/e106c14fd2c6-a-year-after-the-100-ai-mandate-nobody-understands-our-code.md"
   },
   {
@@ -339,7 +392,7 @@
     ],
     "importance": 3,
     "summary": "TPU 8tx and TPU 8i Max",
-    "points": 254,
+    "points": 256,
     "path": "news/2026/11/09/a7b39cb06983-tpu-8tx-and-tpu-8i-max.md"
   },
   {
@@ -353,7 +406,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-    "points": 370,
+    "points": 373,
     "path": "news/2026/11/09/fbdf36c6d0b0-claude-fable-5-2-scores-65-on-artificial-analysis-highest-so.md"
   },
   {
@@ -393,7 +446,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 and Mythos 5.2",
-    "points": 987,
+    "points": 988,
     "path": "news/2026/11/09/9fbaf812b26d-claude-fable-5-2-and-mythos-5-2.md"
   },
   {
@@ -407,7 +460,7 @@
     ],
     "importance": 3,
     "summary": "Google Gemini routes personal Drive files and emails to human annotators",
-    "points": 708,
+    "points": 715,
     "path": "news/2026/11/09/a847d1340755-google-gemini-routes-personal-drive-files-and-emails-to-huma.md"
   },
   {
@@ -435,7 +488,7 @@
     ],
     "importance": 3,
     "summary": "Our Smallest, Most Efficient Model: Muse Ember",
-    "points": 325,
+    "points": 330,
     "path": "news/2026/11/09/86708699833d-our-smallest-most-efficient-model-muse-ember.md"
   },
   {
@@ -449,7 +502,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Every satellite that passed over any place this week, and its photos",
-    "points": 448,
+    "points": 458,
     "path": "news/2026/11/09/460cd23bae8e-show-hn-every-satellite-that-passed-over-any-place-this-week.md"
   },
   {
@@ -461,7 +514,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-    "points": 170,
+    "points": 171,
     "path": "news/2026/11/09/681da721508d-the-same-h100-costs-2-69-or-12-29-an-hour-depending-where-yo.md"
   },
   {
@@ -603,7 +656,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I'm Not Convinced the AI Bubble Exists",
-    "points": 563,
+    "points": 564,
     "path": "news/2026/11/08/dab987be36e1-i-m-not-convinced-the-ai-bubble-exists.md"
   },
   {
@@ -615,7 +668,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I Fight AI Brain Fry",
-    "points": 309,
+    "points": 311,
     "path": "news/2026/11/08/8b18a5361e6d-how-i-fight-ai-brain-fry.md"
   },
   {
@@ -641,7 +694,7 @@
     ],
     "importance": 3,
     "summary": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-    "points": 897,
+    "points": 898,
     "path": "news/2026/11/08/79a426483352-goldman-sachs-is-pulling-claude-code-from-its-bankers-and-tr.md"
   },
   {
@@ -655,7 +708,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI raises $11B at a $1.25T valuation",
-    "points": 189,
+    "points": 190,
     "path": "news/2026/11/08/7cdeffc8e00d-openai-raises-11b-at-a-1-25t-valuation.md"
   },
   {
@@ -684,7 +737,7 @@
     ],
     "importance": 3,
     "summary": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "points": 482,
+    "points": 483,
     "path": "news/2026/11/08/55858f2b4ca7-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.md"
   },
   {
