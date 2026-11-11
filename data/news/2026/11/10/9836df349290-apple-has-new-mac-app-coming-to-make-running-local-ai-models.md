@@ -5,8 +5,8 @@ url: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running
 source: hackernews
 published_at: 2026-11-10T21:25:03Z
 fetched_at: 2026-11-11T03:26:52.037Z
-importance: 2
-points: 114
+importance: 3
+points: 327
 tags: [model, opensource, product]
 ---
 

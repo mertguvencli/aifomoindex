@@ -13,6 +13,97 @@
     "path": "news/2026/11/12/65b96c238445-gilbert-tobin-rethinks-the-business-of-law-with-ai.md"
   },
   {
+    "id": "e09fad6dcc25",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "source": "googleai",
+    "publishedAt": "2026-11-11T09:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "path": "news/2026/11/11/e09fad6dcc25-experience-the-art-and-legacy-of-dr-esther-mahlangu.md"
+  },
+  {
+    "id": "e492ab3c4686",
+    "title": "OSS projects banning AI-generated contributions",
+    "url": "https://osssaysno.com",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T08:51:45Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OSS projects banning AI-generated contributions",
+    "points": 53,
+    "path": "news/2026/11/11/e492ab3c4686-oss-projects-banning-ai-generated-contributions.md"
+  },
+  {
+    "id": "ac94b61a25ad",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "source": "openai",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT Plus for veterans and servicemembers",
+    "path": "news/2026/11/11/ac94b61a25ad-chatgpt-plus-for-veterans-and-servicemembers.md"
+  },
+  {
+    "id": "19b4fcb1faac",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "source": "huggingface",
+    "publishedAt": "2026-11-11T05:01:16.000Z",
+    "tags": [
+      "model",
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "path": "news/2026/11/11/19b4fcb1faac-botpsy-on-device-personal-assistant-with-a-sub-billion-param.md"
+  },
+  {
+    "id": "d7608f1b23b7",
+    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "url": "https://github.com/adrbn/bo2-mac",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T04:56:47Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "points": 51,
+    "path": "news/2026/11/11/d7608f1b23b7-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-m.md"
+  },
+  {
+    "id": "efd172eb5caf",
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "url": "https://tis-100.wincon.dev/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T00:37:05Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "LLMs Play Zachtronics' TIS-100",
+    "points": 80,
+    "path": "news/2026/11/11/efd172eb5caf-llms-play-zachtronics-tis-100.md"
+  },
+  {
+    "id": "5ab5b854a462",
+    "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T00:15:33Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI is becoming an information gateway. Audiences still don’t want it making news",
+    "points": 55,
+    "path": "news/2026/11/11/5ab5b854a462-ai-is-becoming-an-information-gateway-audiences-still-don-t-.md"
+  },
+  {
     "id": "373b9d395325",
     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
     "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
@@ -21,7 +112,7 @@
     "tags": [],
     "importance": 3,
     "summary": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-    "points": 305,
+    "points": 422,
     "path": "news/2026/11/10/373b9d395325-after-7-months-glasswing-overwelms-maintainers-with-underwhe.md"
   },
   {
@@ -35,9 +126,9 @@
       "opensource",
       "product"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Apple has new Mac app coming to make running local AI models easy",
-    "points": 114,
+    "points": 327,
     "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
   },
   {
@@ -51,7 +142,7 @@
     ],
     "importance": 2,
     "summary": "What objective is reasoning solving?",
-    "points": 115,
+    "points": 149,
     "path": "news/2026/11/10/f4116becfee3-what-objective-is-reasoning-solving.md"
   },
   {
@@ -63,7 +154,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Saltline: First-person shooter built by Fable 5.2",
-    "points": 56,
+    "points": 67,
     "path": "news/2026/11/10/aa9ab5a1e592-saltline-first-person-shooter-built-by-fable-5-2.md"
   },
   {
@@ -92,7 +183,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 284,
+    "points": 388,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -104,9 +195,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 164,
+    "points": 248,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -120,7 +211,7 @@
     ],
     "importance": 2,
     "summary": "An Open Field Guide to Inference Engineering",
-    "points": 74,
+    "points": 89,
     "path": "news/2026/11/10/64c65c510d53-an-open-field-guide-to-inference-engineering.md"
   },
   {
@@ -134,7 +225,7 @@
     ],
     "importance": 2,
     "summary": "Life on Claude Nine",
-    "points": 88,
+    "points": 113,
     "path": "news/2026/11/10/bc7799c9ed5f-life-on-claude-nine.md"
   },
   {
@@ -149,7 +240,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is now available",
-    "points": 280,
+    "points": 287,
     "path": "news/2026/11/10/5b4c18faabad-gemini-4-carbon-is-now-available.md"
   },
   {
@@ -195,6 +286,18 @@
     "path": "news/2026/11/10/c979be8e72cc-google-cloud-launches-gemini-for-healthcare.md"
   },
   {
+    "id": "90093eb9fbdb",
+    "title": "AI Users have workdays up to 90 min longer than non-users",
+    "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T12:57:24Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI Users have workdays up to 90 min longer than non-users",
+    "points": 57,
+    "path": "news/2026/11/10/90093eb9fbdb-ai-users-have-workdays-up-to-90-min-longer-than-non-users.md"
+  },
+  {
     "id": "ee3bbdb0ceb9",
     "title": "Anthropic to Seek $1.3T Valuation in IPO",
     "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
@@ -205,7 +308,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic to Seek $1.3T Valuation in IPO",
-    "points": 59,
+    "points": 60,
     "path": "news/2026/11/10/ee3bbdb0ceb9-anthropic-to-seek-1-3t-valuation-in-ipo.md"
   },
   {
@@ -242,7 +345,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Meet the Sad Wives of AI",
-    "points": 75,
+    "points": 78,
     "path": "news/2026/11/10/71eb548beb84-meet-the-sad-wives-of-ai.md"
   },
   {
@@ -254,7 +357,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI usage generates a fragile codebase",
-    "points": 407,
+    "points": 599,
     "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
   },
   {
@@ -282,6 +385,17 @@
     "path": "news/2026/11/10/69d4d9d74efa-closing-the-ai-guidance-gap-in-education.md"
   },
   {
+    "id": "9092d5eb66f2",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "source": "openai",
+    "publishedAt": "2026-11-10T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "path": "news/2026/11/10/9092d5eb66f2-singapore-airlines-elevates-travel-work-with-openai-technolo.md"
+  },
+  {
     "id": "7a66b47ed573",
     "title": "Fireworks AI security breach impacts Notion and their customers",
     "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
@@ -292,7 +406,7 @@
     ],
     "importance": 2,
     "summary": "Fireworks AI security breach impacts Notion and their customers",
-    "points": 159,
+    "points": 163,
     "path": "news/2026/11/10/7a66b47ed573-fireworks-ai-security-breach-impacts-notion-and-their-custom.md"
   },
   {
@@ -315,7 +429,7 @@
     "tags": [],
     "importance": 2,
     "summary": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "points": 192,
+    "points": 194,
     "path": "news/2026/11/10/263485a3532c-coreweave-bond-yield-tops-16-as-ai-credit-stress-rises.md"
   },
   {
@@ -370,6 +484,17 @@
     "path": "news/2026/11/10/bde41ad06988-agility-robotics-files-customary-registration-statements-fol.md"
   },
   {
+    "id": "37e4452e64c8",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "url": "https://openai.com/index/cogent-security",
+    "source": "openai",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "path": "news/2026/11/10/37e4452e64c8-cogent-and-openai-build-cyber-defense-factories-for-enterpri.md"
+  },
+  {
     "id": "e106c14fd2c6",
     "title": "A year after the 100% AI mandate nobody understands our code",
     "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
@@ -378,7 +503,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A year after the 100% AI mandate nobody understands our code",
-    "points": 153,
+    "points": 158,
     "path": "news/2026/11/09/e106c14fd2c6-a-year-after-the-100-ai-mandate-nobody-understands-our-code.md"
   },
   {
@@ -392,7 +517,7 @@
     ],
     "importance": 3,
     "summary": "TPU 8tx and TPU 8i Max",
-    "points": 256,
+    "points": 257,
     "path": "news/2026/11/09/a7b39cb06983-tpu-8tx-and-tpu-8i-max.md"
   },
   {
@@ -406,7 +531,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-    "points": 373,
+    "points": 375,
     "path": "news/2026/11/09/fbdf36c6d0b0-claude-fable-5-2-scores-65-on-artificial-analysis-highest-so.md"
   },
   {
@@ -446,7 +571,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 and Mythos 5.2",
-    "points": 988,
+    "points": 993,
     "path": "news/2026/11/09/9fbaf812b26d-claude-fable-5-2-and-mythos-5-2.md"
   },
   {
@@ -460,7 +585,7 @@
     ],
     "importance": 3,
     "summary": "Google Gemini routes personal Drive files and emails to human annotators",
-    "points": 715,
+    "points": 721,
     "path": "news/2026/11/09/a847d1340755-google-gemini-routes-personal-drive-files-and-emails-to-huma.md"
   },
   {
@@ -474,7 +599,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-    "points": 105,
+    "points": 109,
     "path": "news/2026/11/09/eee402332b6d-show-hn-ste80-humanizer-de-ai-text-by-writing-80-of-the-way-.md"
   },
   {
@@ -502,7 +627,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Every satellite that passed over any place this week, and its photos",
-    "points": 458,
+    "points": 468,
     "path": "news/2026/11/09/460cd23bae8e-show-hn-every-satellite-that-passed-over-any-place-this-week.md"
   },
   {
@@ -644,7 +769,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-    "points": 73,
+    "points": 74,
     "path": "news/2026/11/09/231b4bdb6dd4-asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-u.md"
   },
   {
@@ -656,7 +781,7 @@
     "tags": [],
     "importance": 3,
     "summary": "I'm Not Convinced the AI Bubble Exists",
-    "points": 564,
+    "points": 569,
     "path": "news/2026/11/08/dab987be36e1-i-m-not-convinced-the-ai-bubble-exists.md"
   },
   {
@@ -668,7 +793,7 @@
     "tags": [],
     "importance": 3,
     "summary": "How I Fight AI Brain Fry",
-    "points": 311,
+    "points": 313,
     "path": "news/2026/11/08/8b18a5361e6d-how-i-fight-ai-brain-fry.md"
   },
   {
@@ -694,7 +819,7 @@
     ],
     "importance": 3,
     "summary": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-    "points": 898,
+    "points": 901,
     "path": "news/2026/11/08/79a426483352-goldman-sachs-is-pulling-claude-code-from-its-bankers-and-tr.md"
   },
   {
