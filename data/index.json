@@ -13,6 +13,151 @@
     "path": "news/2026/11/12/65b96c238445-gilbert-tobin-rethinks-the-business-of-law-with-ai.md"
   },
   {
+    "id": "7ba20429e23e",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T21:24:35Z",
+    "tags": [
+      "tool",
+      "policy"
+    ],
+    "importance": 3,
+    "summary": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "points": 254,
+    "path": "news/2026/11/11/7ba20429e23e-united-airlines-bans-ai-agents-from-booking-flights-on-behal.md"
+  },
+  {
+    "id": "3dcdab220cd0",
+    "title": "Retirement Savings Are Fueling the AI Bubble",
+    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T19:06:43Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Retirement Savings Are Fueling the AI Bubble",
+    "points": 127,
+    "path": "news/2026/11/11/3dcdab220cd0-retirement-savings-are-fueling-the-ai-bubble.md"
+  },
+  {
+    "id": "78b8986836f7",
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T18:21:38Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "AWS emulator",
+    "points": 579,
+    "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
+  },
+  {
+    "id": "02bfed5e7aa8",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "googleai",
+    "publishedAt": "2026-11-11T18:00:00.000Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "points": 209,
+    "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
+  },
+  {
+    "id": "275a803dc4dd",
+    "title": "AI, activity, and outcomes in software engineering",
+    "url": "https://cabird.com/talks/shipping-faster/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T16:33:28Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI, activity, and outcomes in software engineering",
+    "points": 103,
+    "path": "news/2026/11/11/275a803dc4dd-ai-activity-and-outcomes-in-software-engineering.md"
+  },
+  {
+    "id": "359bb99c4567",
+    "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+    "url": "https://github.com/klad-app/klad",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T16:00:50Z",
+    "tags": [
+      "tool",
+      "opensource",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+    "points": 69,
+    "path": "news/2026/11/11/359bb99c4567-show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-.md"
+  },
+  {
+    "id": "3d65ccc2f5cd",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "source": "googleai",
+    "publishedAt": "2026-11-11T16:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "path": "news/2026/11/11/3d65ccc2f5cd-try-tabletop-customizable-collaborative-spaces-for-groups-to.md"
+  },
+  {
+    "id": "e40297c9b5a8",
+    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T15:33:06Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+    "points": 148,
+    "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
+  },
+  {
+    "id": "ba0fcf4e325b",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-11T15:00:15.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "path": "news/2026/11/11/ba0fcf4e325b-alphagenome-2-deciphering-how-cells-read-dna-to-better-under.md"
+  },
+  {
+    "id": "4159103a9ba7",
+    "title": "Praxis-1: From Video Pretraining to Robot Control",
+    "url": "https://runway.com/research/praxis-1-video-pretraining-to-robot-control",
+    "source": "runway",
+    "publishedAt": "2026-11-11T15:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Praxis-1: From Video Pretraining to Robot Control",
+    "path": "news/2026/11/11/4159103a9ba7-praxis-1-from-video-pretraining-to-robot-control.md"
+  },
+  {
+    "id": "c8dde4086f9a",
+    "title": "My AI agents found an unmapped Maya site",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "source": "hackernews",
+    "publishedAt": "2026-11-11T12:05:22Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "My AI agents found an unmapped Maya site",
+    "points": 907,
+    "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
+  },
+  {
     "id": "e09fad6dcc25",
     "title": "Experience the art and legacy of Dr. Esther Mahlangu",
     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
@@ -32,7 +177,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OSS projects banning AI-generated contributions",
-    "points": 53,
+    "points": 61,
     "path": "news/2026/11/11/e492ab3c4686-oss-projects-banning-ai-generated-contributions.md"
   },
   {
@@ -74,7 +219,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "points": 51,
+    "points": 138,
     "path": "news/2026/11/11/d7608f1b23b7-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-m.md"
   },
   {
@@ -88,7 +233,7 @@
     ],
     "importance": 2,
     "summary": "LLMs Play Zachtronics' TIS-100",
-    "points": 80,
+    "points": 90,
     "path": "news/2026/11/11/efd172eb5caf-llms-play-zachtronics-tis-100.md"
   },
   {
@@ -100,8 +245,34 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is becoming an information gateway. Audiences still don’t want it making news",
-    "points": 55,
+    "points": 57,
     "path": "news/2026/11/11/5ab5b854a462-ai-is-becoming-an-information-gateway-audiences-still-don-t-.md"
+  },
+  {
+    "id": "55ff14dc4213",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "openai",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "path": "news/2026/11/11/55ff14dc4213-jiostar-s-chief-architect-on-ai-discovery-at-500m-user-scale.md"
+  },
+  {
+    "id": "11568aa8dfcf",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "source": "huggingface",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "tags": [
+      "model",
+      "research",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "path": "news/2026/11/11/11568aa8dfcf-token-pooling-aware-training-for-multi-vector-embedding-mode.md"
   },
   {
     "id": "373b9d395325",
@@ -112,7 +283,7 @@
     "tags": [],
     "importance": 3,
     "summary": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-    "points": 422,
+    "points": 447,
     "path": "news/2026/11/10/373b9d395325-after-7-months-glasswing-overwelms-maintainers-with-underwhe.md"
   },
   {
@@ -128,7 +299,7 @@
     ],
     "importance": 3,
     "summary": "Apple has new Mac app coming to make running local AI models easy",
-    "points": 327,
+    "points": 513,
     "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
   },
   {
@@ -142,7 +313,7 @@
     ],
     "importance": 2,
     "summary": "What objective is reasoning solving?",
-    "points": 149,
+    "points": 153,
     "path": "news/2026/11/10/f4116becfee3-what-objective-is-reasoning-solving.md"
   },
   {
@@ -154,7 +325,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Saltline: First-person shooter built by Fable 5.2",
-    "points": 67,
+    "points": 71,
     "path": "news/2026/11/10/aa9ab5a1e592-saltline-first-person-shooter-built-by-fable-5-2.md"
   },
   {
@@ -183,7 +354,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 388,
+    "points": 423,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -197,7 +368,7 @@
     ],
     "importance": 3,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 248,
+    "points": 281,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -211,7 +382,7 @@
     ],
     "importance": 2,
     "summary": "An Open Field Guide to Inference Engineering",
-    "points": 89,
+    "points": 92,
     "path": "news/2026/11/10/64c65c510d53-an-open-field-guide-to-inference-engineering.md"
   },
   {
@@ -225,7 +396,7 @@
     ],
     "importance": 2,
     "summary": "Life on Claude Nine",
-    "points": 113,
+    "points": 129,
     "path": "news/2026/11/10/bc7799c9ed5f-life-on-claude-nine.md"
   },
   {
@@ -240,7 +411,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is now available",
-    "points": 287,
+    "points": 291,
     "path": "news/2026/11/10/5b4c18faabad-gemini-4-carbon-is-now-available.md"
   },
   {
@@ -294,7 +465,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI Users have workdays up to 90 min longer than non-users",
-    "points": 57,
+    "points": 64,
     "path": "news/2026/11/10/90093eb9fbdb-ai-users-have-workdays-up-to-90-min-longer-than-non-users.md"
   },
   {
@@ -357,7 +528,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI usage generates a fragile codebase",
-    "points": 599,
+    "points": 628,
     "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
   },
   {
@@ -406,7 +577,7 @@
     ],
     "importance": 2,
     "summary": "Fireworks AI security breach impacts Notion and their customers",
-    "points": 163,
+    "points": 164,
     "path": "news/2026/11/10/7a66b47ed573-fireworks-ai-security-breach-impacts-notion-and-their-custom.md"
   },
   {
@@ -517,7 +688,7 @@
     ],
     "importance": 3,
     "summary": "TPU 8tx and TPU 8i Max",
-    "points": 257,
+    "points": 258,
     "path": "news/2026/11/09/a7b39cb06983-tpu-8tx-and-tpu-8i-max.md"
   },
   {
@@ -531,7 +702,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-    "points": 375,
+    "points": 379,
     "path": "news/2026/11/09/fbdf36c6d0b0-claude-fable-5-2-scores-65-on-artificial-analysis-highest-so.md"
   },
   {
@@ -571,7 +742,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 and Mythos 5.2",
-    "points": 993,
+    "points": 995,
     "path": "news/2026/11/09/9fbaf812b26d-claude-fable-5-2-and-mythos-5-2.md"
   },
   {
@@ -585,7 +756,7 @@
     ],
     "importance": 3,
     "summary": "Google Gemini routes personal Drive files and emails to human annotators",
-    "points": 721,
+    "points": 733,
     "path": "news/2026/11/09/a847d1340755-google-gemini-routes-personal-drive-files-and-emails-to-huma.md"
   },
   {
@@ -599,7 +770,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-    "points": 109,
+    "points": 111,
     "path": "news/2026/11/09/eee402332b6d-show-hn-ste80-humanizer-de-ai-text-by-writing-80-of-the-way-.md"
   },
   {
@@ -613,7 +784,7 @@
     ],
     "importance": 3,
     "summary": "Our Smallest, Most Efficient Model: Muse Ember",
-    "points": 330,
+    "points": 332,
     "path": "news/2026/11/09/86708699833d-our-smallest-most-efficient-model-muse-ember.md"
   },
   {
@@ -627,7 +798,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Every satellite that passed over any place this week, and its photos",
-    "points": 468,
+    "points": 480,
     "path": "news/2026/11/09/460cd23bae8e-show-hn-every-satellite-that-passed-over-any-place-this-week.md"
   },
   {
