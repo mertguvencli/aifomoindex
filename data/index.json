@@ -1,5 +1,127 @@
 [
   {
+    "id": "a491aa90d650",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/index/amplitude",
+    "source": "openai",
+    "publishedAt": "2026-11-12T20:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "path": "news/2026/11/12/a491aa90d650-how-amplitude-ships-product-improvements-in-1-2-days-with-op.md"
+  },
+  {
+    "id": "84ec87286cb3",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "source": "huggingface",
+    "publishedAt": "2026-11-12T19:07:35.000Z",
+    "tags": [
+      "model",
+      "product",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "path": "news/2026/11/12/84ec87286cb3-llmon-an-llm-native-markup-language-now-in-granite-4-1-3b-an.md"
+  },
+  {
+    "id": "d7e80ea809e6",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T18:52:01Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Gemini 4 Hydrogen and Orchestrator",
+    "points": 211,
+    "path": "news/2026/11/12/d7e80ea809e6-gemini-4-hydrogen-and-orchestrator.md"
+  },
+  {
+    "id": "9f652a2c4d20",
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T18:15:48Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "points": 65,
+    "path": "news/2026/11/12/9f652a2c4d20-show-hn-agentrun-open-source-self-improving-managed-agents.md"
+  },
+  {
+    "id": "d7c21c501eb2",
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T18:01:48Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Gemini 4 Hydrogen",
+    "points": 409,
+    "path": "news/2026/11/12/d7c21c501eb2-gemini-4-hydrogen.md"
+  },
+  {
+    "id": "5b69826eead4",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-12T18:00:50.000Z",
+    "tags": [
+      "model",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Gemini 4 Hydrogen",
+    "path": "news/2026/11/12/5b69826eead4-introducing-gemini-4-hydrogen.md"
+  },
+  {
+    "id": "d6d23163b98d",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "source": "googleai",
+    "publishedAt": "2026-11-12T18:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "path": "news/2026/11/12/d6d23163b98d-google-search-gets-a-major-upgrade-with-gemini-4-hydrogen.md"
+  },
+  {
+    "id": "2fb376d25394",
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T15:23:10Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "I'm making LLMs work on small and old devices",
+    "points": 248,
+    "path": "news/2026/11/12/2fb376d25394-i-m-making-llms-work-on-small-and-old-devices.md"
+  },
+  {
+    "id": "aca1fa009ffc",
+    "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+    "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T15:14:52Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+    "points": 75,
+    "path": "news/2026/11/12/aca1fa009ffc-fitting-four-32-gb-resizable-bars-behind-a-pcie-switch-on-li.md"
+  },
+  {
     "id": "6f409348da4b",
     "title": "Anthropic IPO",
     "url": "https://ipo.anthropic.com/us/",
@@ -10,7 +132,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO",
-    "points": 219,
+    "points": 766,
     "path": "news/2026/11/12/6f409348da4b-anthropic-ipo.md"
   },
   {
@@ -54,6 +176,20 @@
     "path": "news/2026/11/12/d7c1da8cb7dc-supporting-research-on-ai-and-children-s-safety.md"
   },
   {
+    "id": "cbda9238a368",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "source": "huggingface",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "path": "news/2026/11/12/cbda9238a368-the-definitive-fine-tuning-guide-for-3d-generation-models.md"
+  },
+  {
     "id": "7ba20429e23e",
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
@@ -65,7 +201,7 @@
     ],
     "importance": 3,
     "summary": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "points": 595,
+    "points": 658,
     "path": "news/2026/11/11/7ba20429e23e-united-airlines-bans-ai-agents-from-booking-flights-on-behal.md"
   },
   {
@@ -77,7 +213,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Retirement Savings Are Fueling the AI Bubble",
-    "points": 160,
+    "points": 165,
     "path": "news/2026/11/11/3dcdab220cd0-retirement-savings-are-fueling-the-ai-bubble.md"
   },
   {
@@ -89,7 +225,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AWS emulator",
-    "points": 899,
+    "points": 961,
     "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
   },
   {
@@ -104,7 +240,7 @@
     ],
     "importance": 3,
     "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "points": 486,
+    "points": 553,
     "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
   },
   {
@@ -116,7 +252,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI, activity, and outcomes in software engineering",
-    "points": 120,
+    "points": 125,
     "path": "news/2026/11/11/275a803dc4dd-ai-activity-and-outcomes-in-software-engineering.md"
   },
   {
@@ -132,7 +268,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-    "points": 80,
+    "points": 83,
     "path": "news/2026/11/11/359bb99c4567-show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-.md"
   },
   {
@@ -157,7 +293,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 268,
+    "points": 285,
     "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
   },
   {
@@ -195,7 +331,7 @@
     ],
     "importance": 3,
     "summary": "My AI agents found an unmapped Maya site",
-    "points": 1012,
+    "points": 1026,
     "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
   },
   {
@@ -218,7 +354,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OSS projects banning AI-generated contributions",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/11/11/e492ab3c4686-oss-projects-banning-ai-generated-contributions.md"
   },
   {
@@ -260,7 +396,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "points": 147,
+    "points": 148,
     "path": "news/2026/11/11/d7608f1b23b7-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-m.md"
   },
   {
@@ -274,7 +410,7 @@
     ],
     "importance": 2,
     "summary": "LLMs Play Zachtronics' TIS-100",
-    "points": 91,
+    "points": 93,
     "path": "news/2026/11/11/efd172eb5caf-llms-play-zachtronics-tis-100.md"
   },
   {
@@ -286,7 +422,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is becoming an information gateway. Audiences still don’t want it making news",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/11/11/5ab5b854a462-ai-is-becoming-an-information-gateway-audiences-still-don-t-.md"
   },
   {
@@ -324,7 +460,7 @@
     "tags": [],
     "importance": 3,
     "summary": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-    "points": 456,
+    "points": 457,
     "path": "news/2026/11/10/373b9d395325-after-7-months-glasswing-overwelms-maintainers-with-underwhe.md"
   },
   {
@@ -340,7 +476,7 @@
     ],
     "importance": 3,
     "summary": "Apple has new Mac app coming to make running local AI models easy",
-    "points": 540,
+    "points": 550,
     "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
   },
   {
@@ -395,7 +531,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 432,
+    "points": 434,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -409,7 +545,7 @@
     ],
     "importance": 3,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 286,
+    "points": 289,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -423,7 +559,7 @@
     ],
     "importance": 2,
     "summary": "An Open Field Guide to Inference Engineering",
-    "points": 92,
+    "points": 94,
     "path": "news/2026/11/10/64c65c510d53-an-open-field-guide-to-inference-engineering.md"
   },
   {
@@ -437,8 +573,23 @@
     ],
     "importance": 2,
     "summary": "Life on Claude Nine",
-    "points": 136,
+    "points": 137,
     "path": "news/2026/11/10/bc7799c9ed5f-life-on-claude-nine.md"
+  },
+  {
+    "id": "368b7f5af1ed",
+    "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+    "url": "https://github.com/OpenTSLM/TimeNet",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T17:16:09Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+    "points": 51,
+    "path": "news/2026/11/10/368b7f5af1ed-timenet-open-source-data-infrastructure-for-temporal-foundat.md"
   },
   {
     "id": "5b4c18faabad",
@@ -452,7 +603,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is now available",
-    "points": 294,
+    "points": 295,
     "path": "news/2026/11/10/5b4c18faabad-gemini-4-carbon-is-now-available.md"
   },
   {
@@ -480,7 +631,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-    "points": 57,
+    "points": 85,
     "path": "news/2026/11/10/893277f83528-show-hn-aircad-professional-drafting-and-3d-modeling-in-the-.md"
   },
   {
@@ -583,7 +734,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI usage generates a fragile codebase",
-    "points": 637,
+    "points": 638,
     "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
   },
   {
@@ -632,7 +783,7 @@
     ],
     "importance": 2,
     "summary": "Fireworks AI security breach impacts Notion and their customers",
-    "points": 164,
+    "points": 165,
     "path": "news/2026/11/10/7a66b47ed573-fireworks-ai-security-breach-impacts-notion-and-their-custom.md"
   },
   {
@@ -655,7 +806,7 @@
     "tags": [],
     "importance": 2,
     "summary": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "points": 195,
+    "points": 196,
     "path": "news/2026/11/10/263485a3532c-coreweave-bond-yield-tops-16-as-ai-credit-stress-rises.md"
   },
   {
