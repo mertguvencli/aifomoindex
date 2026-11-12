@@ -6,7 +6,7 @@ source: googleai
 published_at: 2026-11-11T18:00:00.000Z
 fetched_at: 2026-11-11T23:46:18.746Z
 importance: 3
-points: 324
+points: 486
 tags: [model, tool]
 ---
 

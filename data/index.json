@@ -1,5 +1,32 @@
 [
   {
+    "id": "6f409348da4b",
+    "title": "Anthropic IPO",
+    "url": "https://ipo.anthropic.com/us/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T11:46:41Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 3,
+    "summary": "Anthropic IPO",
+    "points": 219,
+    "path": "news/2026/11/12/6f409348da4b-anthropic-ipo.md"
+  },
+  {
+    "id": "4922ca6fb0dd",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "openai",
+    "publishedAt": "2026-11-12T09:30:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Holiday Extras is rethinking what it can build with Codex",
+    "path": "news/2026/11/12/4922ca6fb0dd-holiday-extras-is-rethinking-what-it-can-build-with-codex.md"
+  },
+  {
     "id": "65b96c238445",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -13,6 +40,20 @@
     "path": "news/2026/11/12/65b96c238445-gilbert-tobin-rethinks-the-business-of-law-with-ai.md"
   },
   {
+    "id": "d7c1da8cb7dc",
+    "title": "Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "source": "openai",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "tags": [
+      "research",
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Supporting research on AI and children’s safety",
+    "path": "news/2026/11/12/d7c1da8cb7dc-supporting-research-on-ai-and-children-s-safety.md"
+  },
+  {
     "id": "7ba20429e23e",
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
@@ -24,7 +65,7 @@
     ],
     "importance": 3,
     "summary": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "points": 464,
+    "points": 595,
     "path": "news/2026/11/11/7ba20429e23e-united-airlines-bans-ai-agents-from-booking-flights-on-behal.md"
   },
   {
@@ -36,7 +77,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Retirement Savings Are Fueling the AI Bubble",
-    "points": 146,
+    "points": 160,
     "path": "news/2026/11/11/3dcdab220cd0-retirement-savings-are-fueling-the-ai-bubble.md"
   },
   {
@@ -48,7 +89,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AWS emulator",
-    "points": 747,
+    "points": 899,
     "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
   },
   {
@@ -63,7 +104,7 @@
     ],
     "importance": 3,
     "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "points": 324,
+    "points": 486,
     "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
   },
   {
@@ -75,7 +116,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI, activity, and outcomes in software engineering",
-    "points": 110,
+    "points": 120,
     "path": "news/2026/11/11/275a803dc4dd-ai-activity-and-outcomes-in-software-engineering.md"
   },
   {
@@ -91,7 +132,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-    "points": 75,
+    "points": 80,
     "path": "news/2026/11/11/359bb99c4567-show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-.md"
   },
   {
@@ -116,7 +157,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 203,
+    "points": 268,
     "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
   },
   {
@@ -154,7 +195,7 @@
     ],
     "importance": 3,
     "summary": "My AI agents found an unmapped Maya site",
-    "points": 951,
+    "points": 1012,
     "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
   },
   {
@@ -177,7 +218,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OSS projects banning AI-generated contributions",
-    "points": 62,
+    "points": 64,
     "path": "news/2026/11/11/e492ab3c4686-oss-projects-banning-ai-generated-contributions.md"
   },
   {
@@ -219,7 +260,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "points": 143,
+    "points": 147,
     "path": "news/2026/11/11/d7608f1b23b7-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-m.md"
   },
   {
@@ -245,7 +286,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is becoming an information gateway. Audiences still don’t want it making news",
-    "points": 57,
+    "points": 58,
     "path": "news/2026/11/11/5ab5b854a462-ai-is-becoming-an-information-gateway-audiences-still-don-t-.md"
   },
   {
@@ -283,7 +324,7 @@
     "tags": [],
     "importance": 3,
     "summary": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-    "points": 447,
+    "points": 456,
     "path": "news/2026/11/10/373b9d395325-after-7-months-glasswing-overwelms-maintainers-with-underwhe.md"
   },
   {
@@ -299,7 +340,7 @@
     ],
     "importance": 3,
     "summary": "Apple has new Mac app coming to make running local AI models easy",
-    "points": 522,
+    "points": 540,
     "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
   },
   {
@@ -313,7 +354,7 @@
     ],
     "importance": 2,
     "summary": "What objective is reasoning solving?",
-    "points": 155,
+    "points": 159,
     "path": "news/2026/11/10/f4116becfee3-what-objective-is-reasoning-solving.md"
   },
   {
@@ -354,7 +395,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 425,
+    "points": 432,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -368,7 +409,7 @@
     ],
     "importance": 3,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 283,
+    "points": 286,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -396,7 +437,7 @@
     ],
     "importance": 2,
     "summary": "Life on Claude Nine",
-    "points": 131,
+    "points": 136,
     "path": "news/2026/11/10/bc7799c9ed5f-life-on-claude-nine.md"
   },
   {
@@ -411,7 +452,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is now available",
-    "points": 292,
+    "points": 294,
     "path": "news/2026/11/10/5b4c18faabad-gemini-4-carbon-is-now-available.md"
   },
   {
@@ -427,6 +468,20 @@
     "importance": 2,
     "summary": "Gemini 4 Carbon is now available",
     "path": "news/2026/11/10/55cb0588b3e8-gemini-4-carbon-is-now-available.md"
+  },
+  {
+    "id": "893277f83528",
+    "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+    "url": "https://aircad.com",
+    "source": "hackernews",
+    "publishedAt": "2026-11-10T15:01:19Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+    "points": 57,
+    "path": "news/2026/11/10/893277f83528-show-hn-aircad-professional-drafting-and-3d-modeling-in-the-.md"
   },
   {
     "id": "e192e4f92a70",
@@ -528,7 +583,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI usage generates a fragile codebase",
-    "points": 632,
+    "points": 637,
     "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
   },
   {
@@ -600,7 +655,7 @@
     "tags": [],
     "importance": 2,
     "summary": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "points": 194,
+    "points": 195,
     "path": "news/2026/11/10/263485a3532c-coreweave-bond-yield-tops-16-as-ai-credit-stress-rises.md"
   },
   {
@@ -674,7 +729,7 @@
     "tags": [],
     "importance": 2,
     "summary": "A year after the 100% AI mandate nobody understands our code",
-    "points": 158,
+    "points": 159,
     "path": "news/2026/11/09/e106c14fd2c6-a-year-after-the-100-ai-mandate-nobody-understands-our-code.md"
   },
   {
@@ -742,7 +797,7 @@
     ],
     "importance": 3,
     "summary": "Claude Fable 5.2 and Mythos 5.2",
-    "points": 995,
+    "points": 996,
     "path": "news/2026/11/09/9fbaf812b26d-claude-fable-5-2-and-mythos-5-2.md"
   },
   {
@@ -756,7 +811,7 @@
     ],
     "importance": 3,
     "summary": "Google Gemini routes personal Drive files and emails to human annotators",
-    "points": 733,
+    "points": 737,
     "path": "news/2026/11/09/a847d1340755-google-gemini-routes-personal-drive-files-and-emails-to-huma.md"
   },
   {
@@ -798,7 +853,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Every satellite that passed over any place this week, and its photos",
-    "points": 480,
+    "points": 484,
     "path": "news/2026/11/09/460cd23bae8e-show-hn-every-satellite-that-passed-over-any-place-this-week.md"
   },
   {
@@ -810,7 +865,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-    "points": 171,
+    "points": 172,
     "path": "news/2026/11/09/681da721508d-the-same-h100-costs-2-69-or-12-29-an-hour-depending-where-yo.md"
   },
   {
