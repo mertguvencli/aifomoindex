@@ -24,7 +24,7 @@
     ],
     "importance": 3,
     "summary": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "points": 254,
+    "points": 464,
     "path": "news/2026/11/11/7ba20429e23e-united-airlines-bans-ai-agents-from-booking-flights-on-behal.md"
   },
   {
@@ -36,7 +36,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Retirement Savings Are Fueling the AI Bubble",
-    "points": 127,
+    "points": 146,
     "path": "news/2026/11/11/3dcdab220cd0-retirement-savings-are-fueling-the-ai-bubble.md"
   },
   {
@@ -48,7 +48,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AWS emulator",
-    "points": 579,
+    "points": 747,
     "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
   },
   {
@@ -63,7 +63,7 @@
     ],
     "importance": 3,
     "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "points": 209,
+    "points": 324,
     "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
   },
   {
@@ -75,7 +75,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI, activity, and outcomes in software engineering",
-    "points": 103,
+    "points": 110,
     "path": "news/2026/11/11/275a803dc4dd-ai-activity-and-outcomes-in-software-engineering.md"
   },
   {
@@ -91,7 +91,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-    "points": 69,
+    "points": 75,
     "path": "news/2026/11/11/359bb99c4567-show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-.md"
   },
   {
@@ -114,9 +114,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 148,
+    "points": 203,
     "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
   },
   {
@@ -154,7 +154,7 @@
     ],
     "importance": 3,
     "summary": "My AI agents found an unmapped Maya site",
-    "points": 907,
+    "points": 951,
     "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
   },
   {
@@ -177,7 +177,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OSS projects banning AI-generated contributions",
-    "points": 61,
+    "points": 62,
     "path": "news/2026/11/11/e492ab3c4686-oss-projects-banning-ai-generated-contributions.md"
   },
   {
@@ -219,7 +219,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "points": 138,
+    "points": 143,
     "path": "news/2026/11/11/d7608f1b23b7-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-m.md"
   },
   {
@@ -233,7 +233,7 @@
     ],
     "importance": 2,
     "summary": "LLMs Play Zachtronics' TIS-100",
-    "points": 90,
+    "points": 91,
     "path": "news/2026/11/11/efd172eb5caf-llms-play-zachtronics-tis-100.md"
   },
   {
@@ -299,7 +299,7 @@
     ],
     "importance": 3,
     "summary": "Apple has new Mac app coming to make running local AI models easy",
-    "points": 513,
+    "points": 522,
     "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
   },
   {
@@ -313,7 +313,7 @@
     ],
     "importance": 2,
     "summary": "What objective is reasoning solving?",
-    "points": 153,
+    "points": 155,
     "path": "news/2026/11/10/f4116becfee3-what-objective-is-reasoning-solving.md"
   },
   {
@@ -354,7 +354,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 423,
+    "points": 425,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -368,7 +368,7 @@
     ],
     "importance": 3,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 281,
+    "points": 283,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -396,7 +396,7 @@
     ],
     "importance": 2,
     "summary": "Life on Claude Nine",
-    "points": 129,
+    "points": 131,
     "path": "news/2026/11/10/bc7799c9ed5f-life-on-claude-nine.md"
   },
   {
@@ -411,7 +411,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Carbon is now available",
-    "points": 291,
+    "points": 292,
     "path": "news/2026/11/10/5b4c18faabad-gemini-4-carbon-is-now-available.md"
   },
   {
@@ -528,7 +528,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI usage generates a fragile codebase",
-    "points": 628,
+    "points": 632,
     "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
   },
   {
