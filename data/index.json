@@ -1,5 +1,33 @@
 [
   {
+    "id": "8e4ca78447a7",
+    "title": "Claude Is Down",
+    "url": "https://status.claude.com/history",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T10:20:09Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude Is Down",
+    "points": 150,
+    "path": "news/2026/11/13/8e4ca78447a7-claude-is-down.md"
+  },
+  {
+    "id": "1a09f77a4836",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T10:18:13Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "points": 299,
+    "path": "news/2026/11/13/1a09f77a4836-elevated-errors-on-claude-ai-claude-code-and-platform-claude.md"
+  },
+  {
     "id": "99f24ac47416",
     "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
     "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
@@ -8,7 +36,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-    "points": 62,
+    "points": 82,
     "path": "news/2026/11/13/99f24ac47416-chicago-schools-to-google-we-d-rather-lose-search-than-be-fo.md"
   },
   {
@@ -20,7 +48,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why You Should Expect an AI Crash",
-    "points": 88,
+    "points": 97,
     "path": "news/2026/11/12/1679aa80de58-why-you-should-expect-an-ai-crash.md"
   },
   {
@@ -30,9 +58,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-12T23:06:17Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "points": 108,
+    "points": 286,
     "path": "news/2026/11/12/4e10e32134f8-edge0-145b-frontier-ai-capabilities-on-your-own-computer.md"
   },
   {
@@ -47,7 +75,7 @@
     ],
     "importance": 3,
     "summary": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "points": 207,
+    "points": 315,
     "path": "news/2026/11/12/076934ef461b-chinese-frontier-ai-models-carry-the-fingerprint-of-export-c.md"
   },
   {
@@ -61,7 +89,7 @@
     ],
     "importance": 2,
     "summary": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "points": 125,
+    "points": 184,
     "path": "news/2026/11/12/b1c7febb39e1-ai-is-turning-apple-s-app-review-process-into-a-nightmare-fo.md"
   },
   {
@@ -101,7 +129,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen and Orchestrator",
-    "points": 338,
+    "points": 443,
     "path": "news/2026/11/12/d7e80ea809e6-gemini-4-hydrogen-and-orchestrator.md"
   },
   {
@@ -116,7 +144,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "points": 84,
+    "points": 120,
     "path": "news/2026/11/12/9f652a2c4d20-show-hn-agentrun-open-source-self-improving-managed-agents.md"
   },
   {
@@ -130,7 +158,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen",
-    "points": 482,
+    "points": 543,
     "path": "news/2026/11/12/d7c21c501eb2-gemini-4-hydrogen.md"
   },
   {
@@ -171,7 +199,7 @@
     ],
     "importance": 3,
     "summary": "I'm making LLMs work on small and old devices",
-    "points": 294,
+    "points": 405,
     "path": "news/2026/11/12/2fb376d25394-i-m-making-llms-work-on-small-and-old-devices.md"
   },
   {
@@ -183,7 +211,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-    "points": 80,
+    "points": 90,
     "path": "news/2026/11/12/aca1fa009ffc-fitting-four-32-gb-resizable-bars-behind-a-pcie-switch-on-li.md"
   },
   {
@@ -210,7 +238,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO",
-    "points": 849,
+    "points": 962,
     "path": "news/2026/11/12/6f409348da4b-anthropic-ipo.md"
   },
   {
@@ -279,7 +307,7 @@
     ],
     "importance": 3,
     "summary": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "points": 665,
+    "points": 674,
     "path": "news/2026/11/11/7ba20429e23e-united-airlines-bans-ai-agents-from-booking-flights-on-behal.md"
   },
   {
@@ -303,7 +331,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AWS emulator",
-    "points": 968,
+    "points": 979,
     "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
   },
   {
@@ -318,7 +346,7 @@
     ],
     "importance": 3,
     "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "points": 555,
+    "points": 562,
     "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
   },
   {
@@ -330,7 +358,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI, activity, and outcomes in software engineering",
-    "points": 126,
+    "points": 128,
     "path": "news/2026/11/11/275a803dc4dd-ai-activity-and-outcomes-in-software-engineering.md"
   },
   {
@@ -371,7 +399,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 286,
+    "points": 291,
     "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
   },
   {
@@ -409,7 +437,7 @@
     ],
     "importance": 3,
     "summary": "My AI agents found an unmapped Maya site",
-    "points": 1029,
+    "points": 1032,
     "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
   },
   {
@@ -488,7 +516,7 @@
     ],
     "importance": 2,
     "summary": "LLMs Play Zachtronics' TIS-100",
-    "points": 93,
+    "points": 94,
     "path": "news/2026/11/11/efd172eb5caf-llms-play-zachtronics-tis-100.md"
   },
   {
@@ -538,7 +566,7 @@
     "tags": [],
     "importance": 3,
     "summary": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-    "points": 457,
+    "points": 458,
     "path": "news/2026/11/10/373b9d395325-after-7-months-glasswing-overwelms-maintainers-with-underwhe.md"
   },
   {
@@ -554,7 +582,7 @@
     ],
     "importance": 3,
     "summary": "Apple has new Mac app coming to make running local AI models easy",
-    "points": 553,
+    "points": 557,
     "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
   },
   {
@@ -609,7 +637,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 435,
+    "points": 440,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -623,7 +651,7 @@
     ],
     "importance": 3,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 291,
+    "points": 295,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -709,7 +737,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-    "points": 87,
+    "points": 91,
     "path": "news/2026/11/10/893277f83528-show-hn-aircad-professional-drafting-and-3d-modeling-in-the-.md"
   },
   {
@@ -790,6 +818,19 @@
     "importance": 2,
     "summary": "Helping caregivers use AI in everyday life",
     "path": "news/2026/11/10/0f0020abcf73-helping-caregivers-use-ai-in-everyday-life.md"
+  },
+  {
+    "id": "1972a6107d7c",
+    "title": "Opening the datasets behind our AI weather models",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-10T11:13:04.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Opening the datasets behind our AI weather models",
+    "path": "news/2026/11/10/1972a6107d7c-opening-the-datasets-behind-our-ai-weather-models.md"
   },
   {
     "id": "71eb548beb84",

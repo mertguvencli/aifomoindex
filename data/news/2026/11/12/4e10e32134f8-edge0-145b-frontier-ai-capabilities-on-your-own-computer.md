@@ -5,8 +5,8 @@ url: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-yo
 source: hackernews
 published_at: 2026-11-12T23:06:17Z
 fetched_at: 2026-11-13T03:50:16.360Z
-importance: 2
-points: 108
+importance: 3
+points: 286
 tags: []
 ---
 
