@@ -1,5 +1,181 @@
 [
   {
+    "id": "06494e6425f1",
+    "title": "No AI Slop: A Manifesto",
+    "url": "https://www.slopmanifesto.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T19:51:56Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "No AI Slop: A Manifesto",
+    "points": 143,
+    "path": "news/2026/11/13/06494e6425f1-no-ai-slop-a-manifesto.md"
+  },
+  {
+    "id": "e21547ba4ae8",
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T19:24:47Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "points": 74,
+    "path": "news/2026/11/13/e21547ba4ae8-perplexity-decider-v1-3-training-eval-and-use-cases.md"
+  },
+  {
+    "id": "bdb98f16d97d",
+    "title": "The avalanche that hit math is coming for AI development",
+    "url": "https://www.dwarkesh.com/p/rsi",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T18:39:42Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The avalanche that hit math is coming for AI development",
+    "points": 56,
+    "path": "news/2026/11/13/bdb98f16d97d-the-avalanche-that-hit-math-is-coming-for-ai-development.md"
+  },
+  {
+    "id": "cdc8eef67bc5",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "huggingface",
+    "publishedAt": "2026-11-13T18:00:39.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "path": "news/2026/11/13/cdc8eef67bc5-build-a-robot-pick-and-place-simulation-with-simready-assets.md"
+  },
+  {
+    "id": "691d6cdbb8fb",
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T17:55:23Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "OpenAI disbands its robotics team as its general models start running robots",
+    "points": 128,
+    "path": "news/2026/11/13/691d6cdbb8fb-openai-disbands-its-robotics-team-as-its-general-models-star.md"
+  },
+  {
+    "id": "5bfca8e96e51",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T17:30:10Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "points": 285,
+    "path": "news/2026/11/13/5bfca8e96e51-ai-unlocks-g-del-s-notebooks-said-to-contain-hundreds-of-pro.md"
+  },
+  {
+    "id": "96c7f67bef86",
+    "title": "XYBench: Helping with the problem behind the question",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "source": "huggingface",
+    "publishedAt": "2026-11-13T17:02:35.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "XYBench: Helping with the problem behind the question",
+    "path": "news/2026/11/13/96c7f67bef86-xybench-helping-with-the-problem-behind-the-question.md"
+  },
+  {
+    "id": "0d4c924e6437",
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "url": "https://text.npr.org/nx-s1-6029408",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T15:29:10Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "points": 156,
+    "path": "news/2026/11/13/0d4c924e6437-why-is-google-cutting-off-search-from-ai-free-schools-here-a.md"
+  },
+  {
+    "id": "af1a164c41f6",
+    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T15:08:44Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "points": 145,
+    "path": "news/2026/11/13/af1a164c41f6-jonathan-blow-if-ai-solved-coding-why-is-my-software-still-t.md"
+  },
+  {
+    "id": "7d4d71d056da",
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "openai",
+    "publishedAt": "2026-11-13T15:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing ChatGPT Wallet",
+    "path": "news/2026/11/13/7d4d71d056da-introducing-chatgpt-wallet.md"
+  },
+  {
+    "id": "6841e619fcd7",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "huggingface",
+    "publishedAt": "2026-11-13T14:05:22.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "path": "news/2026/11/13/6841e619fcd7-llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecos.md"
+  },
+  {
+    "id": "47c5631ef081",
+    "title": "Suno Bridge: Your DAW, Suno-powered",
+    "url": "https://suno.com/blog/introducing-bridge",
+    "source": "suno",
+    "publishedAt": "2026-11-13T14:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Suno Bridge: Your DAW, Suno-powered",
+    "path": "news/2026/11/13/47c5631ef081-suno-bridge-your-daw-suno-powered.md"
+  },
+  {
+    "id": "aec3ba91796d",
+    "title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+    "url": "https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T13:08:48Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+    "points": 68,
+    "path": "news/2026/11/13/aec3ba91796d-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-w.md"
+  },
+  {
+    "id": "ae3943fd2aed",
+    "title": "AI is destroying the trust between writers and readers",
+    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T11:13:46Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "AI is destroying the trust between writers and readers",
+    "points": 300,
+    "path": "news/2026/11/13/ae3943fd2aed-ai-is-destroying-the-trust-between-writers-and-readers.md"
+  },
+  {
     "id": "8e4ca78447a7",
     "title": "Claude Is Down",
     "url": "https://status.claude.com/history",
@@ -10,7 +186,7 @@
     ],
     "importance": 2,
     "summary": "Claude Is Down",
-    "points": 150,
+    "points": 193,
     "path": "news/2026/11/13/8e4ca78447a7-claude-is-down.md"
   },
   {
@@ -24,7 +200,7 @@
     ],
     "importance": 3,
     "summary": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "points": 299,
+    "points": 479,
     "path": "news/2026/11/13/1a09f77a4836-elevated-errors-on-claude-ai-claude-code-and-platform-claude.md"
   },
   {
@@ -36,8 +212,23 @@
     "tags": [],
     "importance": 2,
     "summary": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-    "points": 82,
+    "points": 88,
     "path": "news/2026/11/13/99f24ac47416-chicago-schools-to-google-we-d-rather-lose-search-than-be-fo.md"
+  },
+  {
+    "id": "cc8781df9c27",
+    "title": "The full DeepSeek App experience, now via API",
+    "url": "https://api-docs.deepseek.com/news/news261113",
+    "source": "deepseek",
+    "publishedAt": "2026-11-13T00:00:00.000Z",
+    "tags": [
+      "model",
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "The full DeepSeek App experience, now via API",
+    "path": "news/2026/11/13/cc8781df9c27-the-full-deepseek-app-experience-now-via-api.md"
   },
   {
     "id": "1679aa80de58",
@@ -48,7 +239,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why You Should Expect an AI Crash",
-    "points": 97,
+    "points": 101,
     "path": "news/2026/11/12/1679aa80de58-why-you-should-expect-an-ai-crash.md"
   },
   {
@@ -60,7 +251,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "points": 286,
+    "points": 338,
     "path": "news/2026/11/12/4e10e32134f8-edge0-145b-frontier-ai-capabilities-on-your-own-computer.md"
   },
   {
@@ -75,7 +266,7 @@
     ],
     "importance": 3,
     "summary": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "points": 315,
+    "points": 353,
     "path": "news/2026/11/12/076934ef461b-chinese-frontier-ai-models-carry-the-fingerprint-of-export-c.md"
   },
   {
@@ -89,7 +280,7 @@
     ],
     "importance": 2,
     "summary": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "points": 184,
+    "points": 195,
     "path": "news/2026/11/12/b1c7febb39e1-ai-is-turning-apple-s-app-review-process-into-a-nightmare-fo.md"
   },
   {
@@ -129,7 +320,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen and Orchestrator",
-    "points": 443,
+    "points": 493,
     "path": "news/2026/11/12/d7e80ea809e6-gemini-4-hydrogen-and-orchestrator.md"
   },
   {
@@ -144,7 +335,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "points": 120,
+    "points": 133,
     "path": "news/2026/11/12/9f652a2c4d20-show-hn-agentrun-open-source-self-improving-managed-agents.md"
   },
   {
@@ -158,7 +349,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen",
-    "points": 543,
+    "points": 556,
     "path": "news/2026/11/12/d7c21c501eb2-gemini-4-hydrogen.md"
   },
   {
@@ -189,6 +380,20 @@
     "path": "news/2026/11/12/d6d23163b98d-google-search-gets-a-major-upgrade-with-gemini-4-hydrogen.md"
   },
   {
+    "id": "c26bd2698bdf",
+    "title": "Show HN: Apron Chat Protocol",
+    "url": "https://apron.chat/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T16:52:31Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Apron Chat Protocol",
+    "points": 55,
+    "path": "news/2026/11/12/c26bd2698bdf-show-hn-apron-chat-protocol.md"
+  },
+  {
     "id": "2fb376d25394",
     "title": "I'm making LLMs work on small and old devices",
     "url": "https://github.com/hyperionaidev/smolmaxxing/",
@@ -199,7 +404,7 @@
     ],
     "importance": 3,
     "summary": "I'm making LLMs work on small and old devices",
-    "points": 405,
+    "points": 463,
     "path": "news/2026/11/12/2fb376d25394-i-m-making-llms-work-on-small-and-old-devices.md"
   },
   {
@@ -211,7 +416,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-    "points": 90,
+    "points": 92,
     "path": "news/2026/11/12/aca1fa009ffc-fitting-four-32-gb-resizable-bars-behind-a-pcie-switch-on-li.md"
   },
   {
@@ -238,7 +443,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO",
-    "points": 962,
+    "points": 990,
     "path": "news/2026/11/12/6f409348da4b-anthropic-ipo.md"
   },
   {
@@ -307,7 +512,7 @@
     ],
     "importance": 3,
     "summary": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "points": 674,
+    "points": 677,
     "path": "news/2026/11/11/7ba20429e23e-united-airlines-bans-ai-agents-from-booking-flights-on-behal.md"
   },
   {
@@ -331,7 +536,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AWS emulator",
-    "points": 979,
+    "points": 982,
     "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
   },
   {
@@ -346,7 +551,7 @@
     ],
     "importance": 3,
     "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "points": 562,
+    "points": 565,
     "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
   },
   {
@@ -358,7 +563,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI, activity, and outcomes in software engineering",
-    "points": 128,
+    "points": 130,
     "path": "news/2026/11/11/275a803dc4dd-ai-activity-and-outcomes-in-software-engineering.md"
   },
   {
@@ -399,7 +604,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 291,
+    "points": 296,
     "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
   },
   {
@@ -437,7 +642,7 @@
     ],
     "importance": 3,
     "summary": "My AI agents found an unmapped Maya site",
-    "points": 1032,
+    "points": 1034,
     "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
   },
   {
@@ -502,7 +707,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "points": 149,
+    "points": 150,
     "path": "news/2026/11/11/d7608f1b23b7-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-m.md"
   },
   {
