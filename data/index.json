@@ -1,5 +1,70 @@
 [
   {
+    "id": "99f24ac47416",
+    "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+    "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T00:38:41Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+    "points": 62,
+    "path": "news/2026/11/13/99f24ac47416-chicago-schools-to-google-we-d-rather-lose-search-than-be-fo.md"
+  },
+  {
+    "id": "1679aa80de58",
+    "title": "Why You Should Expect an AI Crash",
+    "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T23:08:31Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Why You Should Expect an AI Crash",
+    "points": 88,
+    "path": "news/2026/11/12/1679aa80de58-why-you-should-expect-an-ai-crash.md"
+  },
+  {
+    "id": "4e10e32134f8",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T23:06:17Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "points": 108,
+    "path": "news/2026/11/12/4e10e32134f8-edge0-145b-frontier-ai-capabilities-on-your-own-computer.md"
+  },
+  {
+    "id": "076934ef461b",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T21:56:11Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 3,
+    "summary": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "points": 207,
+    "path": "news/2026/11/12/076934ef461b-chinese-frontier-ai-models-carry-the-fingerprint-of-export-c.md"
+  },
+  {
+    "id": "b1c7febb39e1",
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-12T21:09:49Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "points": 125,
+    "path": "news/2026/11/12/b1c7febb39e1-ai-is-turning-apple-s-app-review-process-into-a-nightmare-fo.md"
+  },
+  {
     "id": "a491aa90d650",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "url": "https://openai.com/index/amplitude",
@@ -36,7 +101,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen and Orchestrator",
-    "points": 211,
+    "points": 338,
     "path": "news/2026/11/12/d7e80ea809e6-gemini-4-hydrogen-and-orchestrator.md"
   },
   {
@@ -51,7 +116,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "points": 65,
+    "points": 84,
     "path": "news/2026/11/12/9f652a2c4d20-show-hn-agentrun-open-source-self-improving-managed-agents.md"
   },
   {
@@ -65,7 +130,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen",
-    "points": 409,
+    "points": 482,
     "path": "news/2026/11/12/d7c21c501eb2-gemini-4-hydrogen.md"
   },
   {
@@ -106,7 +171,7 @@
     ],
     "importance": 3,
     "summary": "I'm making LLMs work on small and old devices",
-    "points": 248,
+    "points": 294,
     "path": "news/2026/11/12/2fb376d25394-i-m-making-llms-work-on-small-and-old-devices.md"
   },
   {
@@ -118,8 +183,21 @@
     "tags": [],
     "importance": 2,
     "summary": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-    "points": 75,
+    "points": 80,
     "path": "news/2026/11/12/aca1fa009ffc-fitting-four-32-gb-resizable-bars-behind-a-pcie-switch-on-li.md"
+  },
+  {
+    "id": "b9840fd67063",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "source": "openai",
+    "publishedAt": "2026-11-12T12:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Gondola doubles revenue as its team builds more with Codex",
+    "path": "news/2026/11/12/b9840fd67063-gondola-doubles-revenue-as-its-team-builds-more-with-codex.md"
   },
   {
     "id": "6f409348da4b",
@@ -132,7 +210,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO",
-    "points": 766,
+    "points": 849,
     "path": "news/2026/11/12/6f409348da4b-anthropic-ipo.md"
   },
   {
@@ -201,7 +279,7 @@
     ],
     "importance": 3,
     "summary": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "points": 658,
+    "points": 665,
     "path": "news/2026/11/11/7ba20429e23e-united-airlines-bans-ai-agents-from-booking-flights-on-behal.md"
   },
   {
@@ -225,7 +303,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AWS emulator",
-    "points": 961,
+    "points": 968,
     "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
   },
   {
@@ -240,7 +318,7 @@
     ],
     "importance": 3,
     "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "points": 553,
+    "points": 555,
     "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
   },
   {
@@ -252,7 +330,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI, activity, and outcomes in software engineering",
-    "points": 125,
+    "points": 126,
     "path": "news/2026/11/11/275a803dc4dd-ai-activity-and-outcomes-in-software-engineering.md"
   },
   {
@@ -293,7 +371,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 285,
+    "points": 286,
     "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
   },
   {
@@ -331,7 +409,7 @@
     ],
     "importance": 3,
     "summary": "My AI agents found an unmapped Maya site",
-    "points": 1026,
+    "points": 1029,
     "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
   },
   {
@@ -396,7 +474,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "points": 148,
+    "points": 149,
     "path": "news/2026/11/11/d7608f1b23b7-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-m.md"
   },
   {
@@ -476,7 +554,7 @@
     ],
     "importance": 3,
     "summary": "Apple has new Mac app coming to make running local AI models easy",
-    "points": 550,
+    "points": 553,
     "path": "news/2026/11/10/9836df349290-apple-has-new-mac-app-coming-to-make-running-local-ai-models.md"
   },
   {
@@ -531,7 +609,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 434,
+    "points": 435,
     "path": "news/2026/11/10/a4978faa7e16-show-hn-get-your-coding-agent-off-2019-javascript-onto-moder.md"
   },
   {
@@ -545,7 +623,7 @@
     ],
     "importance": 3,
     "summary": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "points": 289,
+    "points": 291,
     "path": "news/2026/11/10/001cd33c9652-claude-whiteboards-claude-sheets-and-claude-data.md"
   },
   {
@@ -588,7 +666,7 @@
     ],
     "importance": 2,
     "summary": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-    "points": 51,
+    "points": 52,
     "path": "news/2026/11/10/368b7f5af1ed-timenet-open-source-data-infrastructure-for-temporal-foundat.md"
   },
   {
@@ -631,7 +709,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-    "points": 85,
+    "points": 87,
     "path": "news/2026/11/10/893277f83528-show-hn-aircad-professional-drafting-and-3d-modeling-in-the-.md"
   },
   {
@@ -671,7 +749,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI Users have workdays up to 90 min longer than non-users",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/11/10/90093eb9fbdb-ai-users-have-workdays-up-to-90-min-longer-than-non-users.md"
   },
   {
@@ -734,7 +812,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI usage generates a fragile codebase",
-    "points": 638,
+    "points": 639,
     "path": "news/2026/11/10/db8fc4949921-ai-usage-generates-a-fragile-codebase.md"
   },
   {
