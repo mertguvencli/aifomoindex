@@ -1,5 +1,33 @@
 [
   {
+    "id": "845cc78cbca5",
+    "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+    "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+    "source": "hackernews",
+    "publishedAt": "2026-11-14T00:28:11Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+    "points": 59,
+    "path": "news/2026/11/14/845cc78cbca5-anthropic-upgrades-claude-code-projects-to-run-parallel-ai-w.md"
+  },
+  {
+    "id": "779abe288b1c",
+    "title": "Claude Meetings",
+    "url": "https://claude.com/resources/articles/claude-meetings",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T22:39:15Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude Meetings",
+    "points": 77,
+    "path": "news/2026/11/13/779abe288b1c-claude-meetings.md"
+  },
+  {
     "id": "06494e6425f1",
     "title": "No AI Slop: A Manifesto",
     "url": "https://www.slopmanifesto.com/",
@@ -8,7 +36,7 @@
     "tags": [],
     "importance": 2,
     "summary": "No AI Slop: A Manifesto",
-    "points": 143,
+    "points": 189,
     "path": "news/2026/11/13/06494e6425f1-no-ai-slop-a-manifesto.md"
   },
   {
@@ -22,7 +50,7 @@
     ],
     "importance": 2,
     "summary": "Perplexity Decider v1.3: Training, eval, and use cases",
-    "points": 74,
+    "points": 105,
     "path": "news/2026/11/13/e21547ba4ae8-perplexity-decider-v1-3-training-eval-and-use-cases.md"
   },
   {
@@ -34,8 +62,20 @@
     "tags": [],
     "importance": 2,
     "summary": "The avalanche that hit math is coming for AI development",
-    "points": 56,
+    "points": 61,
     "path": "news/2026/11/13/bdb98f16d97d-the-avalanche-that-hit-math-is-coming-for-ai-development.md"
+  },
+  {
+    "id": "d8a9c78361ac",
+    "title": "Are we just going to ignore that books are destroyed for AI?",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T18:14:38Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Are we just going to ignore that books are destroyed for AI?",
+    "points": 55,
+    "path": "news/2026/11/13/d8a9c78361ac-are-we-just-going-to-ignore-that-books-are-destroyed-for-ai.md"
   },
   {
     "id": "cdc8eef67bc5",
@@ -61,7 +101,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI disbands its robotics team as its general models start running robots",
-    "points": 128,
+    "points": 151,
     "path": "news/2026/11/13/691d6cdbb8fb-openai-disbands-its-robotics-team-as-its-general-models-star.md"
   },
   {
@@ -73,7 +113,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "points": 285,
+    "points": 349,
     "path": "news/2026/11/13/5bfca8e96e51-ai-unlocks-g-del-s-notebooks-said-to-contain-hundreds-of-pro.md"
   },
   {
@@ -98,7 +138,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "points": 156,
+    "points": 170,
     "path": "news/2026/11/13/0d4c924e6437-why-is-google-cutting-off-search-from-ai-free-schools-here-a.md"
   },
   {
@@ -110,7 +150,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-    "points": 145,
+    "points": 151,
     "path": "news/2026/11/13/af1a164c41f6-jonathan-blow-if-ai-solved-coding-why-is-my-software-still-t.md"
   },
   {
@@ -160,7 +200,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
-    "points": 68,
+    "points": 70,
     "path": "news/2026/11/13/aec3ba91796d-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-w.md"
   },
   {
@@ -172,7 +212,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is destroying the trust between writers and readers",
-    "points": 300,
+    "points": 320,
     "path": "news/2026/11/13/ae3943fd2aed-ai-is-destroying-the-trust-between-writers-and-readers.md"
   },
   {
@@ -186,7 +226,7 @@
     ],
     "importance": 2,
     "summary": "Claude Is Down",
-    "points": 193,
+    "points": 198,
     "path": "news/2026/11/13/8e4ca78447a7-claude-is-down.md"
   },
   {
@@ -200,8 +240,19 @@
     ],
     "importance": 3,
     "summary": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "points": 479,
+    "points": 486,
     "path": "news/2026/11/13/1a09f77a4836-elevated-errors-on-claude-ai-claude-code-and-platform-claude.md"
+  },
+  {
+    "id": "a99dfdd20d85",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "source": "openai",
+    "publishedAt": "2026-11-13T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "path": "news/2026/11/13/a99dfdd20d85-shield-helps-technicians-hand-off-legacy-portal-work-with-op.md"
   },
   {
     "id": "99f24ac47416",
@@ -212,7 +263,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-    "points": 88,
+    "points": 89,
     "path": "news/2026/11/13/99f24ac47416-chicago-schools-to-google-we-d-rather-lose-search-than-be-fo.md"
   },
   {
@@ -251,7 +302,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "points": 338,
+    "points": 340,
     "path": "news/2026/11/12/4e10e32134f8-edge0-145b-frontier-ai-capabilities-on-your-own-computer.md"
   },
   {
@@ -266,7 +317,7 @@
     ],
     "importance": 3,
     "summary": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "points": 353,
+    "points": 357,
     "path": "news/2026/11/12/076934ef461b-chinese-frontier-ai-models-carry-the-fingerprint-of-export-c.md"
   },
   {
@@ -280,7 +331,7 @@
     ],
     "importance": 2,
     "summary": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "points": 195,
+    "points": 197,
     "path": "news/2026/11/12/b1c7febb39e1-ai-is-turning-apple-s-app-review-process-into-a-nightmare-fo.md"
   },
   {
@@ -320,7 +371,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen and Orchestrator",
-    "points": 493,
+    "points": 496,
     "path": "news/2026/11/12/d7e80ea809e6-gemini-4-hydrogen-and-orchestrator.md"
   },
   {
@@ -335,7 +386,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "points": 133,
+    "points": 134,
     "path": "news/2026/11/12/9f652a2c4d20-show-hn-agentrun-open-source-self-improving-managed-agents.md"
   },
   {
@@ -349,7 +400,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen",
-    "points": 556,
+    "points": 559,
     "path": "news/2026/11/12/d7c21c501eb2-gemini-4-hydrogen.md"
   },
   {
@@ -390,7 +441,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Apron Chat Protocol",
-    "points": 55,
+    "points": 57,
     "path": "news/2026/11/12/c26bd2698bdf-show-hn-apron-chat-protocol.md"
   },
   {
@@ -404,7 +455,7 @@
     ],
     "importance": 3,
     "summary": "I'm making LLMs work on small and old devices",
-    "points": 463,
+    "points": 467,
     "path": "news/2026/11/12/2fb376d25394-i-m-making-llms-work-on-small-and-old-devices.md"
   },
   {
@@ -443,7 +494,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic IPO",
-    "points": 990,
+    "points": 996,
     "path": "news/2026/11/12/6f409348da4b-anthropic-ipo.md"
   },
   {
@@ -536,7 +587,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AWS emulator",
-    "points": 982,
+    "points": 984,
     "path": "news/2026/11/11/78b8986836f7-aws-emulator.md"
   },
   {
@@ -551,7 +602,7 @@
     ],
     "importance": 3,
     "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "points": 565,
+    "points": 566,
     "path": "news/2026/11/11/02bfed5e7aa8-gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
   },
   {
@@ -604,7 +655,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 296,
+    "points": 297,
     "path": "news/2026/11/11/e40297c9b5a8-show-hn-yogurt-free-private-open-source-alternative-to-grano.md"
   },
   {
@@ -642,7 +693,7 @@
     ],
     "importance": 3,
     "summary": "My AI agents found an unmapped Maya site",
-    "points": 1034,
+    "points": 1035,
     "path": "news/2026/11/11/c8dde4086f9a-my-ai-agents-found-an-unmapped-maya-site.md"
   },
   {
