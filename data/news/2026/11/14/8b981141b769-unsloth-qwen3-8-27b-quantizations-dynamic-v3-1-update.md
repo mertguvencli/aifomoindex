@@ -5,8 +5,8 @@ url: https://unsloth.ai/docs/models/qwen3.8
 source: hackernews
 published_at: 2026-11-14T00:06:04Z
 fetched_at: 2026-11-14T12:36:42.341Z
-importance: 2
-points: 171
+importance: 3
+points: 236
 tags: [model]
 ---
 
