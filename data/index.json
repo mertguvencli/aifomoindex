@@ -1,5 +1,59 @@
 [
   {
+    "id": "bbfcf564f0bf",
+    "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+    "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-15T19:39:46Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+    "points": 52,
+    "path": "news/2026/11/15/bbfcf564f0bf-parents-pay-75k-for-alpha-s-ai-school-half-of-its-students-m.md"
+  },
+  {
+    "id": "91935a495282",
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-15T14:46:58Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "All AI-generated code should be Open Source",
+    "points": 972,
+    "path": "news/2026/11/15/91935a495282-all-ai-generated-code-should-be-open-source.md"
+  },
+  {
+    "id": "eba8c0480eb8",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "source": "hackernews",
+    "publishedAt": "2026-11-15T12:14:06Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Understanding Positional Embeddings in Modern LLMs",
+    "points": 179,
+    "path": "news/2026/11/15/eba8c0480eb8-understanding-positional-embeddings-in-modern-llms.md"
+  },
+  {
+    "id": "2221164cfde1",
+    "title": "Jensen Huang allegedly manufactured the GPU shortage",
+    "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-15T10:53:50Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Jensen Huang allegedly manufactured the GPU shortage",
+    "points": 56,
+    "path": "news/2026/11/15/2221164cfde1-jensen-huang-allegedly-manufactured-the-gpu-shortage.md"
+  },
+  {
     "id": "2f7edc232ee6",
     "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
     "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
@@ -8,7 +62,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-    "points": 65,
+    "points": 82,
     "path": "news/2026/11/15/2f7edc232ee6-the-single-router-in-southern-arkansas-that-ground-air-trave.md"
   },
   {
@@ -22,7 +76,7 @@
     ],
     "importance": 3,
     "summary": "Court denies motion to dismiss DRAM price fixing case",
-    "points": 250,
+    "points": 474,
     "path": "news/2026/11/15/88ae2cfdd6f5-court-denies-motion-to-dismiss-dram-price-fixing-case.md"
   },
   {
@@ -36,8 +90,20 @@
     ],
     "importance": 3,
     "summary": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "points": 427,
+    "points": 442,
     "path": "news/2026/11/14/9a523e1db268-nvidia-deliberately-kept-gpu-prices-high-through-circular-fi.md"
+  },
+  {
+    "id": "aadeb415852b",
+    "title": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
+    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-14T19:17:45Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
+    "points": 51,
+    "path": "news/2026/11/14/aadeb415852b-silicon-valley-claims-to-know-the-future-so-why-d-it-get-the.md"
   },
   {
     "id": "d4ea311ddc40",
@@ -50,7 +116,7 @@
     ],
     "importance": 2,
     "summary": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-    "points": 59,
+    "points": 61,
     "path": "news/2026/11/14/d4ea311ddc40-smuggling-of-1-5m-ai-gpus-could-be-the-cause-of-huang-s-depa.md"
   },
   {
@@ -65,7 +131,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "points": 246,
+    "points": 271,
     "path": "news/2026/11/14/34de9d80d814-show-hn-deepseek-v3-in-200-lines-of-pure-jax.md"
   },
   {
@@ -80,7 +146,7 @@
     ],
     "importance": 2,
     "summary": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-    "points": 140,
+    "points": 144,
     "path": "news/2026/11/14/afe19bd014a4-serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-dgx-station.md"
   },
   {
@@ -94,7 +160,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "points": 159,
+    "points": 164,
     "path": "news/2026/11/14/529d65553fb4-show-hn-a-terminal-native-idle-factory-game-written-in-rust-.md"
   },
   {
@@ -108,7 +174,7 @@
     ],
     "importance": 2,
     "summary": "The Claude Delusion",
-    "points": 148,
+    "points": 151,
     "path": "news/2026/11/14/10a453890373-the-claude-delusion.md"
   },
   {
@@ -123,7 +189,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "points": 1077,
+    "points": 1095,
     "path": "news/2026/11/14/01b281f4771f-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-.md"
   },
   {
@@ -151,7 +217,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-    "points": 99,
+    "points": 100,
     "path": "news/2026/11/14/60e5719ddad5-anthropic-upgrades-claude-code-projects-to-run-parallel-ai-w.md"
   },
   {
@@ -165,7 +231,7 @@
     ],
     "importance": 3,
     "summary": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "points": 251,
+    "points": 257,
     "path": "news/2026/11/14/8b981141b769-unsloth-qwen3-8-27b-quantizations-dynamic-v3-1-update.md"
   },
   {
@@ -191,7 +257,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No AI Slop: A Manifesto",
-    "points": 220,
+    "points": 222,
     "path": "news/2026/11/13/06494e6425f1-no-ai-slop-a-manifesto.md"
   },
   {
@@ -205,7 +271,7 @@
     ],
     "importance": 2,
     "summary": "Perplexity Decider v1.3: Training, eval, and use cases",
-    "points": 145,
+    "points": 146,
     "path": "news/2026/11/13/e21547ba4ae8-perplexity-decider-v1-3-training-eval-and-use-cases.md"
   },
   {
@@ -217,7 +283,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The avalanche that hit math is coming for AI development",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/11/13/bdb98f16d97d-the-avalanche-that-hit-math-is-coming-for-ai-development.md"
   },
   {
@@ -229,7 +295,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Are we just going to ignore that books are destroyed for AI?",
-    "points": 59,
+    "points": 61,
     "path": "news/2026/11/13/d8a9c78361ac-are-we-just-going-to-ignore-that-books-are-destroyed-for-ai.md"
   },
   {
@@ -256,7 +322,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI disbands its robotics team as its general models start running robots",
-    "points": 177,
+    "points": 179,
     "path": "news/2026/11/13/691d6cdbb8fb-openai-disbands-its-robotics-team-as-its-general-models-star.md"
   },
   {
@@ -282,7 +348,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "points": 430,
+    "points": 437,
     "path": "news/2026/11/13/5bfca8e96e51-ai-unlocks-g-del-s-notebooks-said-to-contain-hundreds-of-pro.md"
   },
   {
@@ -307,7 +373,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "points": 194,
+    "points": 195,
     "path": "news/2026/11/13/0d4c924e6437-why-is-google-cutting-off-search-from-ai-free-schools-here-a.md"
   },
   {
@@ -319,7 +385,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-    "points": 472,
+    "points": 482,
     "path": "news/2026/11/13/af1a164c41f6-jonathan-blow-if-ai-solved-coding-why-is-my-software-still-t.md"
   },
   {
@@ -373,6 +439,20 @@
     "path": "news/2026/11/13/aec3ba91796d-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-w.md"
   },
   {
+    "id": "4af7eeae968a",
+    "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+    "url": "https://www.niklasroy.com/carton-clock/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-13T12:00:18Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+    "points": 71,
+    "path": "news/2026/11/13/4af7eeae968a-show-hn-carton-clock-a-working-pendulum-clock-made-from-empt.md"
+  },
+  {
     "id": "ae3943fd2aed",
     "title": "AI is destroying the trust between writers and readers",
     "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
@@ -381,7 +461,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is destroying the trust between writers and readers",
-    "points": 367,
+    "points": 369,
     "path": "news/2026/11/13/ae3943fd2aed-ai-is-destroying-the-trust-between-writers-and-readers.md"
   },
   {
@@ -471,7 +551,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "points": 353,
+    "points": 355,
     "path": "news/2026/11/12/4e10e32134f8-edge0-145b-frontier-ai-capabilities-on-your-own-computer.md"
   },
   {
