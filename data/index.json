@@ -1,5 +1,31 @@
 [
   {
+    "id": "2f7edc232ee6",
+    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "source": "hackernews",
+    "publishedAt": "2026-11-15T03:05:54Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "points": 65,
+    "path": "news/2026/11/15/2f7edc232ee6-the-single-router-in-southern-arkansas-that-ground-air-trave.md"
+  },
+  {
+    "id": "88ae2cfdd6f5",
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "source": "hackernews",
+    "publishedAt": "2026-11-15T01:18:36Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 3,
+    "summary": "Court denies motion to dismiss DRAM price fixing case",
+    "points": 250,
+    "path": "news/2026/11/15/88ae2cfdd6f5-court-denies-motion-to-dismiss-dram-price-fixing-case.md"
+  },
+  {
     "id": "9a523e1db268",
     "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
     "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
@@ -10,8 +36,22 @@
     ],
     "importance": 3,
     "summary": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "points": 266,
+    "points": 427,
     "path": "news/2026/11/14/9a523e1db268-nvidia-deliberately-kept-gpu-prices-high-through-circular-fi.md"
+  },
+  {
+    "id": "d4ea311ddc40",
+    "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+    "source": "hackernews",
+    "publishedAt": "2026-11-14T15:58:57Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+    "points": 59,
+    "path": "news/2026/11/14/d4ea311ddc40-smuggling-of-1-5m-ai-gpus-could-be-the-cause-of-huang-s-depa.md"
   },
   {
     "id": "34de9d80d814",
@@ -23,9 +63,9 @@
       "model",
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "points": 192,
+    "points": 246,
     "path": "news/2026/11/14/34de9d80d814-show-hn-deepseek-v3-in-200-lines-of-pure-jax.md"
   },
   {
@@ -40,7 +80,7 @@
     ],
     "importance": 2,
     "summary": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-    "points": 130,
+    "points": 140,
     "path": "news/2026/11/14/afe19bd014a4-serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-dgx-station.md"
   },
   {
@@ -54,7 +94,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "points": 143,
+    "points": 159,
     "path": "news/2026/11/14/529d65553fb4-show-hn-a-terminal-native-idle-factory-game-written-in-rust-.md"
   },
   {
@@ -68,7 +108,7 @@
     ],
     "importance": 2,
     "summary": "The Claude Delusion",
-    "points": 146,
+    "points": 148,
     "path": "news/2026/11/14/10a453890373-the-claude-delusion.md"
   },
   {
@@ -83,7 +123,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "points": 1045,
+    "points": 1077,
     "path": "news/2026/11/14/01b281f4771f-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-.md"
   },
   {
@@ -111,7 +151,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-    "points": 98,
+    "points": 99,
     "path": "news/2026/11/14/60e5719ddad5-anthropic-upgrades-claude-code-projects-to-run-parallel-ai-w.md"
   },
   {
@@ -125,7 +165,7 @@
     ],
     "importance": 3,
     "summary": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "points": 243,
+    "points": 251,
     "path": "news/2026/11/14/8b981141b769-unsloth-qwen3-8-27b-quantizations-dynamic-v3-1-update.md"
   },
   {
@@ -151,7 +191,7 @@
     "tags": [],
     "importance": 3,
     "summary": "No AI Slop: A Manifesto",
-    "points": 218,
+    "points": 220,
     "path": "news/2026/11/13/06494e6425f1-no-ai-slop-a-manifesto.md"
   },
   {
@@ -165,7 +205,7 @@
     ],
     "importance": 2,
     "summary": "Perplexity Decider v1.3: Training, eval, and use cases",
-    "points": 144,
+    "points": 145,
     "path": "news/2026/11/13/e21547ba4ae8-perplexity-decider-v1-3-training-eval-and-use-cases.md"
   },
   {
@@ -177,7 +217,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The avalanche that hit math is coming for AI development",
-    "points": 66,
+    "points": 67,
     "path": "news/2026/11/13/bdb98f16d97d-the-avalanche-that-hit-math-is-coming-for-ai-development.md"
   },
   {
@@ -189,7 +229,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Are we just going to ignore that books are destroyed for AI?",
-    "points": 58,
+    "points": 59,
     "path": "news/2026/11/13/d8a9c78361ac-are-we-just-going-to-ignore-that-books-are-destroyed-for-ai.md"
   },
   {
@@ -216,7 +256,7 @@
     ],
     "importance": 2,
     "summary": "OpenAI disbands its robotics team as its general models start running robots",
-    "points": 176,
+    "points": 177,
     "path": "news/2026/11/13/691d6cdbb8fb-openai-disbands-its-robotics-team-as-its-general-models-star.md"
   },
   {
@@ -230,7 +270,7 @@
     ],
     "importance": 2,
     "summary": "DeepSeek Ultrafast",
-    "points": 69,
+    "points": 71,
     "path": "news/2026/11/13/872249f13200-deepseek-ultrafast.md"
   },
   {
@@ -242,7 +282,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "points": 426,
+    "points": 430,
     "path": "news/2026/11/13/5bfca8e96e51-ai-unlocks-g-del-s-notebooks-said-to-contain-hundreds-of-pro.md"
   },
   {
@@ -267,7 +307,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "points": 192,
+    "points": 194,
     "path": "news/2026/11/13/0d4c924e6437-why-is-google-cutting-off-search-from-ai-free-schools-here-a.md"
   },
   {
@@ -279,7 +319,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-    "points": 464,
+    "points": 472,
     "path": "news/2026/11/13/af1a164c41f6-jonathan-blow-if-ai-solved-coding-why-is-my-software-still-t.md"
   },
   {
@@ -341,7 +381,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is destroying the trust between writers and readers",
-    "points": 365,
+    "points": 367,
     "path": "news/2026/11/13/ae3943fd2aed-ai-is-destroying-the-trust-between-writers-and-readers.md"
   },
   {
@@ -353,9 +393,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Claude Is Down",
-    "points": 199,
+    "points": 200,
     "path": "news/2026/11/13/8e4ca78447a7-claude-is-down.md"
   },
   {
@@ -431,7 +471,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "points": 352,
+    "points": 353,
     "path": "news/2026/11/12/4e10e32134f8-edge0-145b-frontier-ai-capabilities-on-your-own-computer.md"
   },
   {
@@ -446,7 +486,7 @@
     ],
     "importance": 3,
     "summary": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "points": 390,
+    "points": 403,
     "path": "news/2026/11/12/076934ef461b-chinese-frontier-ai-models-carry-the-fingerprint-of-export-c.md"
   },
   {
@@ -460,7 +500,7 @@
     ],
     "importance": 2,
     "summary": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "points": 197,
+    "points": 198,
     "path": "news/2026/11/12/b1c7febb39e1-ai-is-turning-apple-s-app-review-process-into-a-nightmare-fo.md"
   },
   {
@@ -500,7 +540,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Hydrogen and Orchestrator",
-    "points": 501,
+    "points": 503,
     "path": "news/2026/11/12/d7e80ea809e6-gemini-4-hydrogen-and-orchestrator.md"
   },
   {
@@ -584,7 +624,7 @@
     ],
     "importance": 3,
     "summary": "I'm making LLMs work on small and old devices",
-    "points": 478,
+    "points": 479,
     "path": "news/2026/11/12/2fb376d25394-i-m-making-llms-work-on-small-and-old-devices.md"
   },
   {
