@@ -1,5 +1,57 @@
 [
   {
+    "id": "756563a41449",
+    "title": "Qwen4-Max",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "source": "hackernews",
+    "publishedAt": "2026-11-16T02:14:44Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Qwen4-Max",
+    "points": 101,
+    "path": "news/2026/11/16/756563a41449-qwen4-max.md"
+  },
+  {
+    "id": "c5e889f5e8e2",
+    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+    "url": "https://www.hntrends.com/2026/november.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-16T01:31:30Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+    "points": 73,
+    "path": "news/2026/11/16/c5e889f5e8e2-who-is-hiring-postings-stuck-near-12-year-lows-as-ai-reaches.md"
+  },
+  {
+    "id": "2e8f421d2ee2",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "openai",
+    "publishedAt": "2026-11-15T22:00:01.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "A step toward defining the Standard Model on a lattice",
+    "path": "news/2026/11/15/2e8f421d2ee2-a-step-toward-defining-the-standard-model-on-a-lattice.md"
+  },
+  {
+    "id": "33b95c2112c4",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "source": "openai",
+    "publishedAt": "2026-11-15T22:00:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Our new blog for science",
+    "path": "news/2026/11/15/33b95c2112c4-our-new-blog-for-science.md"
+  },
+  {
     "id": "bbfcf564f0bf",
     "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
     "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
@@ -8,7 +60,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-    "points": 52,
+    "points": 63,
     "path": "news/2026/11/15/bbfcf564f0bf-parents-pay-75k-for-alpha-s-ai-school-half-of-its-students-m.md"
   },
   {
@@ -22,7 +74,7 @@
     ],
     "importance": 3,
     "summary": "All AI-generated code should be Open Source",
-    "points": 972,
+    "points": 1107,
     "path": "news/2026/11/15/91935a495282-all-ai-generated-code-should-be-open-source.md"
   },
   {
@@ -34,9 +86,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Understanding Positional Embeddings in Modern LLMs",
-    "points": 179,
+    "points": 216,
     "path": "news/2026/11/15/eba8c0480eb8-understanding-positional-embeddings-in-modern-llms.md"
   },
   {
@@ -50,7 +102,7 @@
     ],
     "importance": 2,
     "summary": "Jensen Huang allegedly manufactured the GPU shortage",
-    "points": 56,
+    "points": 61,
     "path": "news/2026/11/15/2221164cfde1-jensen-huang-allegedly-manufactured-the-gpu-shortage.md"
   },
   {
@@ -62,7 +114,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-    "points": 82,
+    "points": 86,
     "path": "news/2026/11/15/2f7edc232ee6-the-single-router-in-southern-arkansas-that-ground-air-trave.md"
   },
   {
@@ -76,7 +128,7 @@
     ],
     "importance": 3,
     "summary": "Court denies motion to dismiss DRAM price fixing case",
-    "points": 474,
+    "points": 493,
     "path": "news/2026/11/15/88ae2cfdd6f5-court-denies-motion-to-dismiss-dram-price-fixing-case.md"
   },
   {
@@ -90,7 +142,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "points": 442,
+    "points": 444,
     "path": "news/2026/11/14/9a523e1db268-nvidia-deliberately-kept-gpu-prices-high-through-circular-fi.md"
   },
   {
@@ -131,7 +183,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "points": 271,
+    "points": 272,
     "path": "news/2026/11/14/34de9d80d814-show-hn-deepseek-v3-in-200-lines-of-pure-jax.md"
   },
   {
@@ -146,7 +198,7 @@
     ],
     "importance": 2,
     "summary": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-    "points": 144,
+    "points": 145,
     "path": "news/2026/11/14/afe19bd014a4-serving-glm-5-3-at-607-8-tok-s-across-two-nvidia-dgx-station.md"
   },
   {
@@ -160,7 +212,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "points": 164,
+    "points": 167,
     "path": "news/2026/11/14/529d65553fb4-show-hn-a-terminal-native-idle-factory-game-written-in-rust-.md"
   },
   {
@@ -174,7 +226,7 @@
     ],
     "importance": 2,
     "summary": "The Claude Delusion",
-    "points": 151,
+    "points": 152,
     "path": "news/2026/11/14/10a453890373-the-claude-delusion.md"
   },
   {
@@ -189,7 +241,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "points": 1095,
+    "points": 1101,
     "path": "news/2026/11/14/01b281f4771f-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-.md"
   },
   {
@@ -231,7 +283,7 @@
     ],
     "importance": 3,
     "summary": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "points": 257,
+    "points": 259,
     "path": "news/2026/11/14/8b981141b769-unsloth-qwen3-8-27b-quantizations-dynamic-v3-1-update.md"
   },
   {
@@ -348,7 +400,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "points": 437,
+    "points": 438,
     "path": "news/2026/11/13/5bfca8e96e51-ai-unlocks-g-del-s-notebooks-said-to-contain-hundreds-of-pro.md"
   },
   {
@@ -373,7 +425,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "points": 195,
+    "points": 196,
     "path": "news/2026/11/13/0d4c924e6437-why-is-google-cutting-off-search-from-ai-free-schools-here-a.md"
   },
   {
@@ -449,7 +501,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-    "points": 71,
+    "points": 75,
     "path": "news/2026/11/13/4af7eeae968a-show-hn-carton-clock-a-working-pendulum-clock-made-from-empt.md"
   },
   {
@@ -461,7 +513,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is destroying the trust between writers and readers",
-    "points": 369,
+    "points": 370,
     "path": "news/2026/11/13/ae3943fd2aed-ai-is-destroying-the-trust-between-writers-and-readers.md"
   },
   {

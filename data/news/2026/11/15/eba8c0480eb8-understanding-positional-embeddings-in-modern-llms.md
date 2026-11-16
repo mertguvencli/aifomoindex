@@ -5,8 +5,8 @@ url: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
 source: hackernews
 published_at: 2026-11-15T12:14:06Z
 fetched_at: 2026-11-15T22:11:10.907Z
-importance: 2
-points: 179
+importance: 3
+points: 216
 tags: [model]
 ---
 
