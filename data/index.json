@@ -1,5 +1,73 @@
 [
   {
+    "id": "8331a3aa13cb",
+    "title": "OpenCode Browse",
+    "url": "https://opencode.ai/product/browse",
+    "source": "hackernews",
+    "publishedAt": "2026-11-16T21:20:37Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenCode Browse",
+    "points": 100,
+    "path": "news/2026/11/16/8331a3aa13cb-opencode-browse.md"
+  },
+  {
+    "id": "5f063d5a2114",
+    "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+    "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-16T17:25:35Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+    "points": 74,
+    "path": "news/2026/11/16/5f063d5a2114-how-billions-in-safe-insurance-money-is-being-bet-on-a-i-deb.md"
+  },
+  {
+    "id": "2d7a5d6b20ff",
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "openai",
+    "publishedAt": "2026-11-16T17:00:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Broadening access to AI for scientists",
+    "path": "news/2026/11/16/2d7a5d6b20ff-broadening-access-to-ai-for-scientists.md"
+  },
+  {
+    "id": "dd659f011024",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "source": "openai",
+    "publishedAt": "2026-11-16T17:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "points": 102,
+    "path": "news/2026/11/16/dd659f011024-strengthening-the-fight-against-online-child-sexual-abuse-wi.md"
+  },
+  {
+    "id": "b8363c312713",
+    "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+    "url": "https://github.com/withcoral/coral",
+    "source": "hackernews",
+    "publishedAt": "2026-11-16T14:14:51Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Coral – Open-source gateway where agents write their own tools",
+    "points": 52,
+    "path": "news/2026/11/16/b8363c312713-show-hn-coral-open-source-gateway-where-agents-write-their-o.md"
+  },
+  {
     "id": "11608d311d00",
     "title": "New Ask Maps features to help with holiday travel and prep",
     "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
@@ -9,6 +77,20 @@
     "importance": 2,
     "summary": "New Ask Maps features to help with holiday travel and prep",
     "path": "news/2026/11/16/11608d311d00-new-ask-maps-features-to-help-with-holiday-travel-and-prep.md"
+  },
+  {
+    "id": "d91fd06de7b8",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "source": "openai",
+    "publishedAt": "2026-11-16T12:00:00.000Z",
+    "tags": [
+      "research",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Science at the Frontier: How scientists use ChatGPT",
+    "path": "news/2026/11/16/d91fd06de7b8-science-at-the-frontier-how-scientists-use-chatgpt.md"
   },
   {
     "id": "ff7833693fa2",
@@ -22,6 +104,43 @@
     "path": "news/2026/11/16/ff7833693fa2-lvmh-s-media-division-announces-strategic-partnership-with-o.md"
   },
   {
+    "id": "9fe6d2ae73e5",
+    "title": "Our first phase of embedded assessments",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "source": "openai",
+    "publishedAt": "2026-11-16T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Our first phase of embedded assessments",
+    "path": "news/2026/11/16/9fe6d2ae73e5-our-first-phase-of-embedded-assessments.md"
+  },
+  {
+    "id": "21b4758ab521",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "source": "openai",
+    "publishedAt": "2026-11-16T06:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Advancing computer-use agents for healthcare teams",
+    "path": "news/2026/11/16/21b4758ab521-advancing-computer-use-agents-for-healthcare-teams.md"
+  },
+  {
+    "id": "21e886491b30",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "source": "openai",
+    "publishedAt": "2026-11-16T06:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "More ways to move care forward with ChatGPT for Healthcare",
+    "path": "news/2026/11/16/21e886491b30-more-ways-to-move-care-forward-with-chatgpt-for-healthcare.md"
+  },
+  {
     "id": "756563a41449",
     "title": "Qwen4-Max",
     "url": "https://qwen.ai/blog?id=qwen4-max",
@@ -32,7 +151,7 @@
     ],
     "importance": 3,
     "summary": "Qwen4-Max",
-    "points": 671,
+    "points": 852,
     "path": "news/2026/11/16/756563a41449-qwen4-max.md"
   },
   {
@@ -44,7 +163,7 @@
     "tags": [],
     "importance": 2,
     "summary": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-    "points": 89,
+    "points": 94,
     "path": "news/2026/11/16/c5e889f5e8e2-who-is-hiring-postings-stuck-near-12-year-lows-as-ai-reaches.md"
   },
   {
@@ -59,6 +178,31 @@
     "importance": 2,
     "summary": "The King’s Trust and OpenAI launch £1m partnership",
     "path": "news/2026/11/16/60f3c7381bc6-the-king-s-trust-and-openai-launch-1m-partnership.md"
+  },
+  {
+    "id": "3d4aeac88b69",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "source": "openai",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "At Holiday Extras, dots get to work before anyone asks",
+    "path": "news/2026/11/16/3d4aeac88b69-at-holiday-extras-dots-get-to-work-before-anyone-asks.md"
+  },
+  {
+    "id": "8ec21efa2c62",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "source": "huggingface",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "path": "news/2026/11/16/8ec21efa2c62-hugging-face-and-openrouter-join-forces-to-make-open-weight-.md"
   },
   {
     "id": "2e8f421d2ee2",
@@ -95,7 +239,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-    "points": 66,
+    "points": 68,
     "path": "news/2026/11/15/bbfcf564f0bf-parents-pay-75k-for-alpha-s-ai-school-half-of-its-students-m.md"
   },
   {
@@ -109,7 +253,7 @@
     ],
     "importance": 3,
     "summary": "All AI-generated code should be Open Source",
-    "points": 1194,
+    "points": 1258,
     "path": "news/2026/11/15/91935a495282-all-ai-generated-code-should-be-open-source.md"
   },
   {
@@ -123,7 +267,7 @@
     ],
     "importance": 3,
     "summary": "Understanding Positional Embeddings in Modern LLMs",
-    "points": 238,
+    "points": 242,
     "path": "news/2026/11/15/eba8c0480eb8-understanding-positional-embeddings-in-modern-llms.md"
   },
   {
@@ -137,7 +281,7 @@
     ],
     "importance": 2,
     "summary": "Jensen Huang allegedly manufactured the GPU shortage",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/11/15/2221164cfde1-jensen-huang-allegedly-manufactured-the-gpu-shortage.md"
   },
   {
@@ -149,7 +293,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-    "points": 88,
+    "points": 89,
     "path": "news/2026/11/15/2f7edc232ee6-the-single-router-in-southern-arkansas-that-ground-air-trave.md"
   },
   {
@@ -163,7 +307,7 @@
     ],
     "importance": 3,
     "summary": "Court denies motion to dismiss DRAM price fixing case",
-    "points": 517,
+    "points": 530,
     "path": "news/2026/11/15/88ae2cfdd6f5-court-denies-motion-to-dismiss-dram-price-fixing-case.md"
   },
   {
@@ -193,6 +337,20 @@
     "path": "news/2026/11/14/aadeb415852b-silicon-valley-claims-to-know-the-future-so-why-d-it-get-the.md"
   },
   {
+    "id": "1775d37e49b5",
+    "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+    "source": "hackernews",
+    "publishedAt": "2026-11-14T17:51:13Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+    "points": 51,
+    "path": "news/2026/11/14/1775d37e49b5-claude-asked-to-renumber-pages-deletes-professor-s-syllabus-.md"
+  },
+  {
     "id": "d4ea311ddc40",
     "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
@@ -218,7 +376,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "points": 273,
+    "points": 276,
     "path": "news/2026/11/14/34de9d80d814-show-hn-deepseek-v3-in-200-lines-of-pure-jax.md"
   },
   {
@@ -247,7 +405,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "points": 169,
+    "points": 171,
     "path": "news/2026/11/14/529d65553fb4-show-hn-a-terminal-native-idle-factory-game-written-in-rust-.md"
   },
   {
@@ -276,7 +434,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "points": 1104,
+    "points": 1112,
     "path": "news/2026/11/14/01b281f4771f-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-.md"
   },
   {
