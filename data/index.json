@@ -1,14 +1,78 @@
 [
   {
+    "id": "b45b81ab7d74",
+    "title": "Regulatory Capture by Anthropic Through METR",
+    "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T12:21:57Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Regulatory Capture by Anthropic Through METR",
+    "points": 126,
+    "path": "news/2026/11/17/b45b81ab7d74-regulatory-capture-by-anthropic-through-metr.md"
+  },
+  {
+    "id": "9a0aa0e71b45",
+    "title": "How the Claude Code team thinks about verification",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T10:20:40Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "How the Claude Code team thinks about verification",
+    "points": 100,
+    "path": "news/2026/11/17/9a0aa0e71b45-how-the-claude-code-team-thinks-about-verification.md"
+  },
+  {
+    "id": "cd3f9f2cc97c",
+    "title": "Mem Is Shutting Down",
+    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T02:13:41Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Mem Is Shutting Down",
+    "points": 74,
+    "path": "news/2026/11/17/cd3f9f2cc97c-mem-is-shutting-down.md"
+  },
+  {
+    "id": "0e7f690aa4ff",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "openai",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Strengthening NATO and allied cyber defenses with AI",
+    "path": "news/2026/11/17/0e7f690aa4ff-strengthening-nato-and-allied-cyber-defenses-with-ai.md"
+  },
+  {
+    "id": "3b3be741a87f",
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "openai",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing OpenAI for Chile",
+    "path": "news/2026/11/17/3b3be741a87f-introducing-openai-for-chile.md"
+  },
+  {
     "id": "8331a3aa13cb",
     "title": "OpenCode Browse",
     "url": "https://opencode.ai/product/browse",
     "source": "hackernews",
     "publishedAt": "2026-11-16T21:20:37Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "OpenCode Browse",
-    "points": 100,
+    "points": 311,
     "path": "news/2026/11/16/8331a3aa13cb-opencode-browse.md"
   },
   {
@@ -22,7 +86,7 @@
     ],
     "importance": 2,
     "summary": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
-    "points": 74,
+    "points": 88,
     "path": "news/2026/11/16/5f063d5a2114-how-billions-in-safe-insurance-money-is-being-bet-on-a-i-deb.md"
   },
   {
@@ -49,7 +113,7 @@
     ],
     "importance": 2,
     "summary": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "points": 102,
+    "points": 120,
     "path": "news/2026/11/16/dd659f011024-strengthening-the-fight-against-online-child-sexual-abuse-wi.md"
   },
   {
@@ -93,6 +157,19 @@
     "path": "news/2026/11/16/d91fd06de7b8-science-at-the-frontier-how-scientists-use-chatgpt.md"
   },
   {
+    "id": "b82b64ef90f7",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "source": "openai",
+    "publishedAt": "2026-11-16T09:30:00.000Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "How Revolut raises ambition without lowering the bar",
+    "path": "news/2026/11/16/b82b64ef90f7-how-revolut-raises-ambition-without-lowering-the-bar.md"
+  },
+  {
     "id": "ff7833693fa2",
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
     "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -112,7 +189,8 @@
     "tags": [],
     "importance": 2,
     "summary": "Our first phase of embedded assessments",
-    "path": "news/2026/11/16/9fe6d2ae73e5-our-first-phase-of-embedded-assessments.md"
+    "path": "news/2026/11/16/9fe6d2ae73e5-our-first-phase-of-embedded-assessments.md",
+    "points": 56
   },
   {
     "id": "21b4758ab521",
@@ -151,7 +229,7 @@
     ],
     "importance": 3,
     "summary": "Qwen4-Max",
-    "points": 852,
+    "points": 868,
     "path": "news/2026/11/16/756563a41449-qwen4-max.md"
   },
   {
@@ -239,7 +317,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-    "points": 68,
+    "points": 69,
     "path": "news/2026/11/15/bbfcf564f0bf-parents-pay-75k-for-alpha-s-ai-school-half-of-its-students-m.md"
   },
   {
@@ -253,7 +331,7 @@
     ],
     "importance": 3,
     "summary": "All AI-generated code should be Open Source",
-    "points": 1258,
+    "points": 1275,
     "path": "news/2026/11/15/91935a495282-all-ai-generated-code-should-be-open-source.md"
   },
   {
@@ -267,7 +345,7 @@
     ],
     "importance": 3,
     "summary": "Understanding Positional Embeddings in Modern LLMs",
-    "points": 242,
+    "points": 246,
     "path": "news/2026/11/15/eba8c0480eb8-understanding-positional-embeddings-in-modern-llms.md"
   },
   {
@@ -281,7 +359,7 @@
     ],
     "importance": 2,
     "summary": "Jensen Huang allegedly manufactured the GPU shortage",
-    "points": 64,
+    "points": 65,
     "path": "news/2026/11/15/2221164cfde1-jensen-huang-allegedly-manufactured-the-gpu-shortage.md"
   },
   {
@@ -307,7 +385,7 @@
     ],
     "importance": 3,
     "summary": "Court denies motion to dismiss DRAM price fixing case",
-    "points": 530,
+    "points": 534,
     "path": "news/2026/11/15/88ae2cfdd6f5-court-denies-motion-to-dismiss-dram-price-fixing-case.md"
   },
   {
@@ -321,7 +399,7 @@
     ],
     "importance": 3,
     "summary": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "points": 450,
+    "points": 451,
     "path": "news/2026/11/14/9a523e1db268-nvidia-deliberately-kept-gpu-prices-high-through-circular-fi.md"
   },
   {
