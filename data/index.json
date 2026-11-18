@@ -1,5 +1,151 @@
 [
   {
+    "id": "6663bdbb0746",
+    "title": "AI is killing All About Berlin",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T06:47:26Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "AI is killing All About Berlin",
+    "points": 582,
+    "path": "news/2026/11/18/6663bdbb0746-ai-is-killing-all-about-berlin.md"
+  },
+  {
+    "id": "10d331c37469",
+    "title": "Why is Gemini 4 Carbon taking so long?",
+    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T04:14:04Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Why is Gemini 4 Carbon taking so long?",
+    "points": 193,
+    "path": "news/2026/11/18/10d331c37469-why-is-gemini-4-carbon-taking-so-long.md"
+  },
+  {
+    "id": "7740f35fe8ec",
+    "title": "Claude was trained on protein sequences at scale",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T03:47:43Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Claude was trained on protein sequences at scale",
+    "points": 111,
+    "path": "news/2026/11/18/7740f35fe8ec-claude-was-trained-on-protein-sequences-at-scale.md"
+  },
+  {
+    "id": "951a7b3dee94",
+    "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+    "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T01:45:11Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+    "points": 88,
+    "path": "news/2026/11/18/951a7b3dee94-bank-ceos-nsa-tell-congress-that-ai-driven-patches-are-behin.md"
+  },
+  {
+    "id": "7038831a9a91",
+    "title": "Cerebras Disaggregated Inference",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T00:56:23Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Cerebras Disaggregated Inference",
+    "points": 94,
+    "path": "news/2026/11/18/7038831a9a91-cerebras-disaggregated-inference.md"
+  },
+  {
+    "id": "d00fc9246841",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T00:17:58Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Google's AI answers reducing search traffic by 40%",
+    "points": 572,
+    "path": "news/2026/11/18/d00fc9246841-google-s-ai-answers-reducing-search-traffic-by-40.md"
+  },
+  {
+    "id": "a1de396d3910",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "source": "openai",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "path": "news/2026/11/18/a1de396d3910-le-groupe-figaro-and-openai-partner-to-bring-le-figaro-journ.md"
+  },
+  {
+    "id": "5b89a2db7f60",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "source": "huggingface",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "path": "news/2026/11/18/5b89a2db7f60-rumble-2-flash-an-open-0-5b-speech-model-for-40-languages.md"
+  },
+  {
+    "id": "84808e02eada",
+    "title": "Agility Robotics Evolves Executive Leadership Team to Support Next Phase of Growth as a Public Company",
+    "url": "https://www.agilityrobotics.com/content/agility-robotics-evolves-executive-leadership-team-to-support-next-phase-of-growth-as-a-public-company",
+    "source": "agility",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Agility Robotics Evolves Executive Leadership Team to Support Next Phase of Growth as a Public Company",
+    "path": "news/2026/11/18/84808e02eada-agility-robotics-evolves-executive-leadership-team-to-suppor.md"
+  },
+  {
+    "id": "4d189ef1f84f",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T21:16:12Z",
+    "tags": [
+      "tool",
+      "research"
+    ],
+    "importance": 3,
+    "summary": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "points": 252,
+    "path": "news/2026/11/17/4d189ef1f84f-harvard-researchers-find-ai-coding-agents-shifted-the-bottle.md"
+  },
+  {
+    "id": "85e628cc5cea",
+    "title": "Tencent Hy4 Flash",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T21:06:08Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Tencent Hy4 Flash",
+    "points": 148,
+    "path": "news/2026/11/17/85e628cc5cea-tencent-hy4-flash.md"
+  },
+  {
     "id": "ee8fdfef4247",
     "title": "Human.md",
     "url": "https://www.human-md.ai/",
@@ -8,7 +154,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Human.md",
-    "points": 59,
+    "points": 114,
     "path": "news/2026/11/17/ee8fdfef4247-human-md.md"
   },
   {
@@ -20,7 +166,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
-    "points": 55,
+    "points": 97,
     "path": "news/2026/11/17/731314a55d28-anthropic-paid-rubio-s-ex-chief-of-staff-s-firm-740k-it-lobb.md"
   },
   {
@@ -32,7 +178,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MAI Code 2 and Code 2 Flash",
-    "points": 262,
+    "points": 390,
     "path": "news/2026/11/17/c74e8eacd8b5-mai-code-2-and-code-2-flash.md"
   },
   {
@@ -46,7 +192,7 @@
     ],
     "importance": 2,
     "summary": "Not Everything Needs an LLM",
-    "points": 72,
+    "points": 168,
     "path": "news/2026/11/17/233f4988e8c3-not-everything-needs-an-llm.md"
   },
   {
@@ -61,7 +207,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.2 Astra and Sol",
-    "points": 1034,
+    "points": 1316,
     "path": "news/2026/11/17/8f6af8c44a4a-introducing-gpt-6-2-astra-and-sol.md"
   },
   {
@@ -76,6 +222,22 @@
     "importance": 2,
     "summary": "Put Gemini to work for you",
     "path": "news/2026/11/17/830da74434e8-put-gemini-to-work-for-you.md"
+  },
+  {
+    "id": "b95538822455",
+    "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+    "url": "https://github.com/RunanywhereAI/trnrt",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T16:01:04Z",
+    "tags": [
+      "model",
+      "opensource",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+    "points": 52,
+    "path": "news/2026/11/17/b95538822455-show-hn-trnrt-an-open-source-llm-inference-engine-for-aws-tr.md"
   },
   {
     "id": "bb47293ae648",
@@ -99,7 +261,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-    "points": 184,
+    "points": 189,
     "path": "news/2026/11/17/51ba83f18049-baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-re.md"
   },
   {
@@ -111,7 +273,7 @@
     "tags": [],
     "importance": 2,
     "summary": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
-    "points": 66,
+    "points": 70,
     "path": "news/2026/11/17/744081a6555f-s-korea-to-send-nationwide-emergency-alerts-over-college-ent.md"
   },
   {
@@ -125,7 +287,7 @@
     ],
     "importance": 2,
     "summary": "Regulatory Capture by Anthropic Through METR",
-    "points": 138,
+    "points": 140,
     "path": "news/2026/11/17/b45b81ab7d74-regulatory-capture-by-anthropic-through-metr.md"
   },
   {
@@ -139,7 +301,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team thinks about verification",
-    "points": 252,
+    "points": 287,
     "path": "news/2026/11/17/9a0aa0e71b45-how-the-claude-code-team-thinks-about-verification.md"
   },
   {
@@ -164,7 +326,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Mem Is Shutting Down",
-    "points": 77,
+    "points": 79,
     "path": "news/2026/11/17/cd3f9f2cc97c-mem-is-shutting-down.md"
   },
   {
@@ -179,7 +341,7 @@
     ],
     "importance": 2,
     "summary": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-    "points": 52,
+    "points": 55,
     "path": "news/2026/11/17/86356759cab6-claude-mythos-slashed-software-work-to-onboard-amd-gpus-to-a.md"
   },
   {
@@ -220,6 +382,19 @@
     "path": "news/2026/11/17/b43ef08ac3ed-astra-for-law-leads-in-legal-intelligence.md"
   },
   {
+    "id": "8f49db30003a",
+    "title": "Research Preview: Pika Enact",
+    "url": "https://pika.art/blog/pika-enact",
+    "source": "pika",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Research Preview: Pika Enact",
+    "path": "news/2026/11/17/8f49db30003a-research-preview-pika-enact.md"
+  },
+  {
     "id": "8331a3aa13cb",
     "title": "OpenCode Browse",
     "url": "https://opencode.ai/product/browse",
@@ -228,7 +403,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenCode Browse",
-    "points": 323,
+    "points": 330,
     "path": "news/2026/11/16/8331a3aa13cb-opencode-browse.md"
   },
   {
@@ -241,6 +416,20 @@
     "importance": 2,
     "summary": "Breaking Down Data Silos in the Physical World",
     "path": "news/2026/11/16/cfa0a260a941-breaking-down-data-silos-in-the-physical-world.md"
+  },
+  {
+    "id": "a863be392a84",
+    "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+    "url": "https://fakemetrics.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-16T18:08:04Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+    "points": 51,
+    "path": "news/2026/11/16/a863be392a84-show-hn-fakemetrics-com-build-in-public-like-a-superstar.md"
   },
   {
     "id": "5f063d5a2114",
@@ -357,7 +546,7 @@
     "importance": 2,
     "summary": "Our first phase of embedded assessments",
     "path": "news/2026/11/16/9fe6d2ae73e5-our-first-phase-of-embedded-assessments.md",
-    "points": 57
+    "points": 59
   },
   {
     "id": "21b4758ab521",
@@ -370,7 +559,8 @@
     ],
     "importance": 2,
     "summary": "Advancing computer-use agents for healthcare teams",
-    "path": "news/2026/11/16/21b4758ab521-advancing-computer-use-agents-for-healthcare-teams.md"
+    "path": "news/2026/11/16/21b4758ab521-advancing-computer-use-agents-for-healthcare-teams.md",
+    "points": 51
   },
   {
     "id": "21e886491b30",
@@ -396,7 +586,7 @@
     ],
     "importance": 3,
     "summary": "Qwen4-Max",
-    "points": 872,
+    "points": 877,
     "path": "news/2026/11/16/756563a41449-qwen4-max.md"
   },
   {
@@ -498,7 +688,7 @@
     ],
     "importance": 3,
     "summary": "All AI-generated code should be Open Source",
-    "points": 1279,
+    "points": 1281,
     "path": "news/2026/11/15/91935a495282-all-ai-generated-code-should-be-open-source.md"
   },
   {

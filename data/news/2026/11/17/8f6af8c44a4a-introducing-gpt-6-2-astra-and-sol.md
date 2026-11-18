@@ -6,7 +6,7 @@ source: openai
 published_at: 2026-11-17T17:45:00.000Z
 fetched_at: 2026-11-18T00:06:06.462Z
 importance: 3
-points: 1034
+points: 1316
 tags: [model, product]
 ---
 
