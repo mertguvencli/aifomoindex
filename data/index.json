@@ -1,5 +1,120 @@
 [
   {
+    "id": "ee8fdfef4247",
+    "title": "Human.md",
+    "url": "https://www.human-md.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T20:47:36Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Human.md",
+    "points": 59,
+    "path": "news/2026/11/17/ee8fdfef4247-human-md.md"
+  },
+  {
+    "id": "731314a55d28",
+    "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+    "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T19:08:45Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+    "points": 55,
+    "path": "news/2026/11/17/731314a55d28-anthropic-paid-rubio-s-ex-chief-of-staff-s-firm-740k-it-lobb.md"
+  },
+  {
+    "id": "c74e8eacd8b5",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T18:25:13Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "MAI Code 2 and Code 2 Flash",
+    "points": 262,
+    "path": "news/2026/11/17/c74e8eacd8b5-mai-code-2-and-code-2-flash.md"
+  },
+  {
+    "id": "233f4988e8c3",
+    "title": "Not Everything Needs an LLM",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T18:16:18Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Not Everything Needs an LLM",
+    "points": 72,
+    "path": "news/2026/11/17/233f4988e8c3-not-everything-needs-an-llm.md"
+  },
+  {
+    "id": "8f6af8c44a4a",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "source": "openai",
+    "publishedAt": "2026-11-17T17:45:00.000Z",
+    "tags": [
+      "model",
+      "product"
+    ],
+    "importance": 3,
+    "summary": "Introducing GPT-6.2 Astra and Sol",
+    "points": 1034,
+    "path": "news/2026/11/17/8f6af8c44a4a-introducing-gpt-6-2-astra-and-sol.md"
+  },
+  {
+    "id": "830da74434e8",
+    "title": "Put Gemini to work for you",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "source": "googleai",
+    "publishedAt": "2026-11-17T17:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Put Gemini to work for you",
+    "path": "news/2026/11/17/830da74434e8-put-gemini-to-work-for-you.md"
+  },
+  {
+    "id": "bb47293ae648",
+    "title": "Introducing Visuals",
+    "url": "https://suno.com/blog/introducing-visuals",
+    "source": "suno",
+    "publishedAt": "2026-11-17T15:00:11.319Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Visuals",
+    "path": "news/2026/11/17/bb47293ae648-introducing-visuals.md"
+  },
+  {
+    "id": "51ba83f18049",
+    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T14:19:59Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "points": 184,
+    "path": "news/2026/11/17/51ba83f18049-baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-re.md"
+  },
+  {
+    "id": "744081a6555f",
+    "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+    "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T14:00:47Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+    "points": 66,
+    "path": "news/2026/11/17/744081a6555f-s-korea-to-send-nationwide-emergency-alerts-over-college-ent.md"
+  },
+  {
     "id": "b45b81ab7d74",
     "title": "Regulatory Capture by Anthropic Through METR",
     "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
@@ -10,7 +125,7 @@
     ],
     "importance": 2,
     "summary": "Regulatory Capture by Anthropic Through METR",
-    "points": 126,
+    "points": 138,
     "path": "news/2026/11/17/b45b81ab7d74-regulatory-capture-by-anthropic-through-metr.md"
   },
   {
@@ -22,10 +137,23 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "How the Claude Code team thinks about verification",
-    "points": 100,
+    "points": 252,
     "path": "news/2026/11/17/9a0aa0e71b45-how-the-claude-code-team-thinks-about-verification.md"
+  },
+  {
+    "id": "3047d7657748",
+    "title": "Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "source": "openai",
+    "publishedAt": "2026-11-17T08:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing ChatGPT for Sales",
+    "path": "news/2026/11/17/3047d7657748-introducing-chatgpt-for-sales.md"
   },
   {
     "id": "cd3f9f2cc97c",
@@ -36,8 +164,23 @@
     "tags": [],
     "importance": 2,
     "summary": "Mem Is Shutting Down",
-    "points": 74,
+    "points": 77,
     "path": "news/2026/11/17/cd3f9f2cc97c-mem-is-shutting-down.md"
+  },
+  {
+    "id": "86356759cab6",
+    "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+    "source": "hackernews",
+    "publishedAt": "2026-11-17T01:35:16Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+    "points": 52,
+    "path": "news/2026/11/17/86356759cab6-claude-mythos-slashed-software-work-to-onboard-amd-gpus-to-a.md"
   },
   {
     "id": "0e7f690aa4ff",
@@ -64,6 +207,19 @@
     "path": "news/2026/11/17/3b3be741a87f-introducing-openai-for-chile.md"
   },
   {
+    "id": "b43ef08ac3ed",
+    "title": "Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "source": "openai",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Astra for Law leads in legal intelligence",
+    "path": "news/2026/11/17/b43ef08ac3ed-astra-for-law-leads-in-legal-intelligence.md"
+  },
+  {
     "id": "8331a3aa13cb",
     "title": "OpenCode Browse",
     "url": "https://opencode.ai/product/browse",
@@ -72,8 +228,19 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenCode Browse",
-    "points": 311,
+    "points": 323,
     "path": "news/2026/11/16/8331a3aa13cb-opencode-browse.md"
+  },
+  {
+    "id": "cfa0a260a941",
+    "title": "Breaking Down Data Silos in the Physical World",
+    "url": "https://bostondynamics.com/blog/breaking-down-data-silos-in-the-physical-world/",
+    "source": "bostondynamics",
+    "publishedAt": "2026-11-16T18:59:41.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Breaking Down Data Silos in the Physical World",
+    "path": "news/2026/11/16/cfa0a260a941-breaking-down-data-silos-in-the-physical-world.md"
   },
   {
     "id": "5f063d5a2114",
@@ -86,7 +253,7 @@
     ],
     "importance": 2,
     "summary": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
-    "points": 88,
+    "points": 92,
     "path": "news/2026/11/16/5f063d5a2114-how-billions-in-safe-insurance-money-is-being-bet-on-a-i-deb.md"
   },
   {
@@ -113,7 +280,7 @@
     ],
     "importance": 2,
     "summary": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "points": 120,
+    "points": 125,
     "path": "news/2026/11/16/dd659f011024-strengthening-the-fight-against-online-child-sexual-abuse-wi.md"
   },
   {
@@ -190,7 +357,7 @@
     "importance": 2,
     "summary": "Our first phase of embedded assessments",
     "path": "news/2026/11/16/9fe6d2ae73e5-our-first-phase-of-embedded-assessments.md",
-    "points": 56
+    "points": 57
   },
   {
     "id": "21b4758ab521",
@@ -229,7 +396,7 @@
     ],
     "importance": 3,
     "summary": "Qwen4-Max",
-    "points": 868,
+    "points": 872,
     "path": "news/2026/11/16/756563a41449-qwen4-max.md"
   },
   {
@@ -331,7 +498,7 @@
     ],
     "importance": 3,
     "summary": "All AI-generated code should be Open Source",
-    "points": 1275,
+    "points": 1279,
     "path": "news/2026/11/15/91935a495282-all-ai-generated-code-should-be-open-source.md"
   },
   {
@@ -385,7 +552,7 @@
     ],
     "importance": 3,
     "summary": "Court denies motion to dismiss DRAM price fixing case",
-    "points": 534,
+    "points": 536,
     "path": "news/2026/11/15/88ae2cfdd6f5-court-denies-motion-to-dismiss-dram-price-fixing-case.md"
   },
   {
@@ -1122,6 +1289,41 @@
     "importance": 2,
     "summary": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "path": "news/2026/11/12/cbda9238a368-the-definitive-fine-tuning-guide-for-3d-generation-models.md"
+  },
+  {
+    "id": "35bcc4b3dafe",
+    "title": "ChatGPT Ads increases its market presence in 44 countries",
+    "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+    "source": "openai",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "ChatGPT Ads increases its market presence in 44 countries",
+    "path": "news/2026/11/12/35bcc4b3dafe-chatgpt-ads-increases-its-market-presence-in-44-countries.md"
+  },
+  {
+    "id": "4ea01d01762a",
+    "title": "Pika Blog",
+    "url": "https://pika.art/blog/feed.xml",
+    "source": "pika",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Pika Blog",
+    "path": "news/2026/11/12/4ea01d01762a-pika-blog.md"
+  },
+  {
+    "id": "9a81de82179a",
+    "title": "Pika vs Runway: pricing compared",
+    "url": "https://pika.art/blog/pika-vs-runway",
+    "source": "pika",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Pika vs Runway: pricing compared",
+    "path": "news/2026/11/12/9a81de82179a-pika-vs-runway-pricing-compared.md"
   },
   {
     "id": "7ba20429e23e",
@@ -2095,6 +2297,17 @@
     "summary": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
     "points": 74,
     "path": "news/2026/11/09/231b4bdb6dd4-asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-u.md"
+  },
+  {
+    "id": "81209450b91a",
+    "title": "How VistaPrint helps small businesses get the word out",
+    "url": "https://openai.com/ads/customers/vistaprint",
+    "source": "openai",
+    "publishedAt": "2026-11-09T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How VistaPrint helps small businesses get the word out",
+    "path": "news/2026/11/09/81209450b91a-how-vistaprint-helps-small-businesses-get-the-word-out.md"
   },
   {
     "id": "dab987be36e1",

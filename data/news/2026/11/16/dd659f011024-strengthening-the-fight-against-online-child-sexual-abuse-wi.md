@@ -6,7 +6,7 @@ source: openai
 published_at: 2026-11-16T17:00:00.000Z
 fetched_at: 2026-11-17T01:12:03.025Z
 importance: 2
-points: 120
+points: 125
 tags: [tool]
 ---
 
