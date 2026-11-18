@@ -1,5 +1,206 @@
 [
   {
+    "id": "fd9bebbff7e6",
+    "title": "Introducing Gemini 4 Neon",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-18T21:35:43.000Z",
+    "tags": [
+      "model",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Introducing Gemini 4 Neon",
+    "path": "news/2026/11/18/fd9bebbff7e6-introducing-gemini-4-neon.md"
+  },
+  {
+    "id": "be0aed2f5105",
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T21:34:07Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Gemini 4 Neon",
+    "points": 319,
+    "path": "news/2026/11/18/be0aed2f5105-gemini-4-neon.md"
+  },
+  {
+    "id": "f0b81ce3c146",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "source": "huggingface",
+    "publishedAt": "2026-11-18T19:54:56.000Z",
+    "tags": [
+      "research",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "path": "news/2026/11/18/f0b81ce3c146-daisyrose-27b-pushing-the-frontier-of-post-training-efficien.md"
+  },
+  {
+    "id": "e55c8f2df06c",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "source": "huggingface",
+    "publishedAt": "2026-11-18T18:53:43.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Why your fine-tuning job takes longer than the FLOPs say",
+    "path": "news/2026/11/18/e55c8f2df06c-why-your-fine-tuning-job-takes-longer-than-the-flops-say.md"
+  },
+  {
+    "id": "a261d2eee241",
+    "title": "Genie 4 is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T18:49:51Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Genie 4 is now available",
+    "points": 167,
+    "path": "news/2026/11/18/a261d2eee241-genie-4-is-now-available.md"
+  },
+  {
+    "id": "ca9ca0837de1",
+    "title": "Genie 4 is now available",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-18T18:13:42.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Genie 4 is now available",
+    "path": "news/2026/11/18/ca9ca0837de1-genie-4-is-now-available.md"
+  },
+  {
+    "id": "0191a8cf5007",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "source": "googleai",
+    "publishedAt": "2026-11-18T17:00:00.000Z",
+    "tags": [
+      "model",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "The Gemini app is now available on lower-memory Android devices.",
+    "path": "news/2026/11/18/0191a8cf5007-the-gemini-app-is-now-available-on-lower-memory-android-devi.md"
+  },
+  {
+    "id": "f578074493d4",
+    "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+    "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T16:41:22Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+    "points": 124,
+    "path": "news/2026/11/18/f578074493d4-anthropic-is-not-a-safe-ai-company-coalition-challenges-anth.md"
+  },
+  {
+    "id": "f5b869b89561",
+    "title": "Seven new models at scalable price-performance",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T16:08:24Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Seven new models at scalable price-performance",
+    "points": 402,
+    "path": "news/2026/11/18/f5b869b89561-seven-new-models-at-scalable-price-performance.md"
+  },
+  {
+    "id": "f6f0576c6cc3",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T15:49:34Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "AI agents ask better questions than KPMG accountants in audit trial",
+    "points": 311,
+    "path": "news/2026/11/18/f6f0576c6cc3-ai-agents-ask-better-questions-than-kpmg-accountants-in-audi.md"
+  },
+  {
+    "id": "aef632472a5e",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "source": "huggingface",
+    "publishedAt": "2026-11-18T15:00:23.000Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "path": "news/2026/11/18/aef632472a5e-time-series-models-in-the-streamhouse-a-new-frontier-and-use.md"
+  },
+  {
+    "id": "50062a7b7efa",
+    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T13:51:03Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Can Peer Review Survive AI-Generated Text? [pdf]",
+    "points": 66,
+    "path": "news/2026/11/18/50062a7b7efa-can-peer-review-survive-ai-generated-text-pdf.md"
+  },
+  {
+    "id": "184d931227f2",
+    "title": "The Silent Consensus",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "source": "openai",
+    "publishedAt": "2026-11-18T10:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Silent Consensus",
+    "path": "news/2026/11/18/184d931227f2-the-silent-consensus.md"
+  },
+  {
+    "id": "58da586369f3",
+    "title": "Research acceleration: The jagged frontier",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "source": "openai",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Research acceleration: The jagged frontier",
+    "path": "news/2026/11/18/58da586369f3-research-acceleration-the-jagged-frontier.md"
+  },
+  {
+    "id": "67952d9a918d",
+    "title": "Inside the Codex sandbox",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "source": "openai",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Inside the Codex sandbox",
+    "path": "news/2026/11/18/67952d9a918d-inside-the-codex-sandbox.md"
+  },
+  {
     "id": "6663bdbb0746",
     "title": "AI is killing All About Berlin",
     "url": "https://nicolasbouliane.com/blog/death-by-ai",
@@ -8,8 +209,22 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is killing All About Berlin",
-    "points": 582,
+    "points": 748,
     "path": "news/2026/11/18/6663bdbb0746-ai-is-killing-all-about-berlin.md"
+  },
+  {
+    "id": "99be0c0a7e07",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "source": "openai",
+    "publishedAt": "2026-11-18T06:00:00.000Z",
+    "tags": [
+      "research",
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Managing frontier AI risk: From training to deployment",
+    "path": "news/2026/11/18/99be0c0a7e07-managing-frontier-ai-risk-from-training-to-deployment.md"
   },
   {
     "id": "10d331c37469",
@@ -20,9 +235,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Why is Gemini 4 Carbon taking so long?",
-    "points": 193,
+    "points": 261,
     "path": "news/2026/11/18/10d331c37469-why-is-gemini-4-carbon-taking-so-long.md"
   },
   {
@@ -37,7 +252,7 @@
     ],
     "importance": 2,
     "summary": "Claude was trained on protein sequences at scale",
-    "points": 111,
+    "points": 159,
     "path": "news/2026/11/18/7740f35fe8ec-claude-was-trained-on-protein-sequences-at-scale.md"
   },
   {
@@ -51,7 +266,7 @@
     ],
     "importance": 2,
     "summary": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-    "points": 88,
+    "points": 95,
     "path": "news/2026/11/18/951a7b3dee94-bank-ceos-nsa-tell-congress-that-ai-driven-patches-are-behin.md"
   },
   {
@@ -65,7 +280,7 @@
     ],
     "importance": 2,
     "summary": "Cerebras Disaggregated Inference",
-    "points": 94,
+    "points": 105,
     "path": "news/2026/11/18/7038831a9a91-cerebras-disaggregated-inference.md"
   },
   {
@@ -77,7 +292,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google's AI answers reducing search traffic by 40%",
-    "points": 572,
+    "points": 683,
     "path": "news/2026/11/18/d00fc9246841-google-s-ai-answers-reducing-search-traffic-by-40.md"
   },
   {
@@ -119,6 +334,46 @@
     "path": "news/2026/11/18/84808e02eada-agility-robotics-evolves-executive-leadership-team-to-suppor.md"
   },
   {
+    "id": "68ddb817fe40",
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "source": "openai",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "tags": [
+      "model",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Advancing chip design with OpenAI models",
+    "points": 142,
+    "path": "news/2026/11/18/68ddb817fe40-advancing-chip-design-with-openai-models.md"
+  },
+  {
+    "id": "ec56b5eff9af",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "source": "huggingface",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "tags": [
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "path": "news/2026/11/18/ec56b5eff9af-180b-parameters-32gb-of-ram-pushing-moe-inference-to-the-lim.md"
+  },
+  {
+    "id": "76db4fd405ce",
+    "title": "Anthropic prices initial public offering",
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "source": "anthropic",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Anthropic prices initial public offering",
+    "path": "news/2026/11/18/76db4fd405ce-anthropic-prices-initial-public-offering.md"
+  },
+  {
     "id": "4d189ef1f84f",
     "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
     "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
@@ -130,7 +385,7 @@
     ],
     "importance": 3,
     "summary": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "points": 252,
+    "points": 313,
     "path": "news/2026/11/17/4d189ef1f84f-harvard-researchers-find-ai-coding-agents-shifted-the-bottle.md"
   },
   {
@@ -142,7 +397,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Tencent Hy4 Flash",
-    "points": 148,
+    "points": 162,
     "path": "news/2026/11/17/85e628cc5cea-tencent-hy4-flash.md"
   },
   {
@@ -154,7 +409,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Human.md",
-    "points": 114,
+    "points": 119,
     "path": "news/2026/11/17/ee8fdfef4247-human-md.md"
   },
   {
@@ -166,7 +421,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
-    "points": 97,
+    "points": 99,
     "path": "news/2026/11/17/731314a55d28-anthropic-paid-rubio-s-ex-chief-of-staff-s-firm-740k-it-lobb.md"
   },
   {
@@ -178,7 +433,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MAI Code 2 and Code 2 Flash",
-    "points": 390,
+    "points": 415,
     "path": "news/2026/11/17/c74e8eacd8b5-mai-code-2-and-code-2-flash.md"
   },
   {
@@ -192,7 +447,7 @@
     ],
     "importance": 2,
     "summary": "Not Everything Needs an LLM",
-    "points": 168,
+    "points": 178,
     "path": "news/2026/11/17/233f4988e8c3-not-everything-needs-an-llm.md"
   },
   {
@@ -207,7 +462,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.2 Astra and Sol",
-    "points": 1316,
+    "points": 1336,
     "path": "news/2026/11/17/8f6af8c44a4a-introducing-gpt-6-2-astra-and-sol.md"
   },
   {
@@ -236,7 +491,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-    "points": 52,
+    "points": 54,
     "path": "news/2026/11/17/b95538822455-show-hn-trnrt-an-open-source-llm-inference-engine-for-aws-tr.md"
   },
   {
@@ -261,7 +516,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-    "points": 189,
+    "points": 191,
     "path": "news/2026/11/17/51ba83f18049-baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-re.md"
   },
   {
@@ -301,7 +556,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team thinks about verification",
-    "points": 287,
+    "points": 290,
     "path": "news/2026/11/17/9a0aa0e71b45-how-the-claude-code-team-thinks-about-verification.md"
   },
   {
@@ -403,7 +658,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenCode Browse",
-    "points": 330,
+    "points": 331,
     "path": "news/2026/11/16/8331a3aa13cb-opencode-browse.md"
   },
   {
@@ -471,6 +726,20 @@
     "summary": "Strengthening the fight against online child sexual abuse with new tools and support",
     "points": 125,
     "path": "news/2026/11/16/dd659f011024-strengthening-the-fight-against-online-child-sexual-abuse-wi.md"
+  },
+  {
+    "id": "cdad9c6dc3a6",
+    "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
+    "url": "https://github.com/mr-anjaneyam/Emittr",
+    "source": "hackernews",
+    "publishedAt": "2026-11-16T14:18:15Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
+    "points": 51,
+    "path": "news/2026/11/16/cdad9c6dc3a6-show-hn-nobody-blocks-a-keyboard-rooted-android-as-a-physica.md"
   },
   {
     "id": "b8363c312713",
@@ -560,7 +829,7 @@
     "importance": 2,
     "summary": "Advancing computer-use agents for healthcare teams",
     "path": "news/2026/11/16/21b4758ab521-advancing-computer-use-agents-for-healthcare-teams.md",
-    "points": 51
+    "points": 53
   },
   {
     "id": "21e886491b30",
@@ -586,7 +855,7 @@
     ],
     "importance": 3,
     "summary": "Qwen4-Max",
-    "points": 877,
+    "points": 879,
     "path": "news/2026/11/16/756563a41449-qwen4-max.md"
   },
   {

@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-17T16:01:04Z
 fetched_at: 2026-11-18T14:41:38.893Z
 importance: 2
-points: 52
+points: 54
 tags: [model, opensource, infra]
 ---
 

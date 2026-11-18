@@ -5,8 +5,8 @@ url: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/
 source: hackernews
 published_at: 2026-11-18T04:14:04Z
 fetched_at: 2026-11-18T14:41:38.893Z
-importance: 2
-points: 193
+importance: 3
+points: 261
 tags: [model]
 ---
 
