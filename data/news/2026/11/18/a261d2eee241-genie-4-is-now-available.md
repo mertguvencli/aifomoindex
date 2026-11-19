@@ -5,8 +5,8 @@ url: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/g
 source: hackernews
 published_at: 2026-11-18T18:49:51Z
 fetched_at: 2026-11-18T23:39:09.494Z
-importance: 2
-points: 167
+importance: 3
+points: 209
 tags: [product]
 ---
 
