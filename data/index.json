@@ -1,5 +1,17 @@
 [
   {
+    "id": "68905d8de463",
+    "title": "The AI Superintelligence Debate Has Serious Flaws",
+    "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+    "source": "hackernews",
+    "publishedAt": "2026-11-19T12:17:10Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The AI Superintelligence Debate Has Serious Flaws",
+    "points": 84,
+    "path": "news/2026/11/19/68905d8de463-the-ai-superintelligence-debate-has-serious-flaws.md"
+  },
+  {
     "id": "f24ede8b2ec8",
     "title": "AI will not make you rich (2025)",
     "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
@@ -8,7 +20,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI will not make you rich (2025)",
-    "points": 77,
+    "points": 104,
     "path": "news/2026/11/19/f24ede8b2ec8-ai-will-not-make-you-rich-2025.md"
   },
   {
@@ -22,7 +34,7 @@
     ],
     "importance": 2,
     "summary": "Black high school students sue after AI mistakes Doritos bag for gun",
-    "points": 64,
+    "points": 104,
     "path": "news/2026/11/19/14422b66a2e2-black-high-school-students-sue-after-ai-mistakes-doritos-bag.md"
   },
   {
@@ -34,9 +46,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-    "points": 155,
+    "points": 240,
     "path": "news/2026/11/19/8d685e65acd0-gemini-4-neon-looks-like-an-opus-5-5-competitor.md"
   },
   {
@@ -50,7 +62,7 @@
     ],
     "importance": 2,
     "summary": "Fable: Written, painted and directed by Claude Fable 5.2",
-    "points": 53,
+    "points": 60,
     "path": "news/2026/11/19/085c9f35ad85-fable-written-painted-and-directed-by-claude-fable-5-2.md"
   },
   {
@@ -62,9 +74,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "LLM assisted reverse engineering",
-    "points": 112,
+    "points": 275,
     "path": "news/2026/11/18/1db0eada3052-llm-assisted-reverse-engineering.md"
   },
   {
@@ -92,7 +104,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon",
-    "points": 592,
+    "points": 916,
     "path": "news/2026/11/18/be0aed2f5105-gemini-4-neon.md"
   },
   {
@@ -133,7 +145,7 @@
     ],
     "importance": 3,
     "summary": "Genie 4 is now available",
-    "points": 209,
+    "points": 278,
     "path": "news/2026/11/18/a261d2eee241-genie-4-is-now-available.md"
   },
   {
@@ -174,7 +186,7 @@
     ],
     "importance": 2,
     "summary": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-    "points": 130,
+    "points": 135,
     "path": "news/2026/11/18/f578074493d4-anthropic-is-not-a-safe-ai-company-coalition-challenges-anth.md"
   },
   {
@@ -188,8 +200,22 @@
     ],
     "importance": 3,
     "summary": "Seven new models at scalable price-performance",
-    "points": 481,
+    "points": 576,
     "path": "news/2026/11/18/f5b869b89561-seven-new-models-at-scalable-price-performance.md"
+  },
+  {
+    "id": "dc52e334dcb4",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-18T15:59:04Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "points": 51,
+    "path": "news/2026/11/18/dc52e334dcb4-amazon-and-google-will-together-own-nearly-30-of-anthropic-a.md"
   },
   {
     "id": "f6f0576c6cc3",
@@ -202,7 +228,7 @@
     ],
     "importance": 3,
     "summary": "AI agents ask better questions than KPMG accountants in audit trial",
-    "points": 409,
+    "points": 475,
     "path": "news/2026/11/18/f6f0576c6cc3-ai-agents-ask-better-questions-than-kpmg-accountants-in-audi.md"
   },
   {
@@ -290,7 +316,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is killing All About Berlin",
-    "points": 767,
+    "points": 793,
     "path": "news/2026/11/18/6663bdbb0746-ai-is-killing-all-about-berlin.md"
   },
   {
@@ -318,7 +344,7 @@
     ],
     "importance": 3,
     "summary": "Why is Gemini 4 Carbon taking so long?",
-    "points": 269,
+    "points": 271,
     "path": "news/2026/11/18/10d331c37469-why-is-gemini-4-carbon-taking-so-long.md"
   },
   {
@@ -333,7 +359,7 @@
     ],
     "importance": 2,
     "summary": "Claude was trained on protein sequences at scale",
-    "points": 167,
+    "points": 176,
     "path": "news/2026/11/18/7740f35fe8ec-claude-was-trained-on-protein-sequences-at-scale.md"
   },
   {
@@ -347,7 +373,7 @@
     ],
     "importance": 2,
     "summary": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-    "points": 96,
+    "points": 97,
     "path": "news/2026/11/18/951a7b3dee94-bank-ceos-nsa-tell-congress-that-ai-driven-patches-are-behin.md"
   },
   {
@@ -373,7 +399,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google's AI answers reducing search traffic by 40%",
-    "points": 692,
+    "points": 706,
     "path": "news/2026/11/18/d00fc9246841-google-s-ai-answers-reducing-search-traffic-by-40.md"
   },
   {
@@ -424,9 +450,9 @@
       "model",
       "infra"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Advancing chip design with OpenAI models",
-    "points": 175,
+    "points": 216,
     "path": "news/2026/11/18/68ddb817fe40-advancing-chip-design-with-openai-models.md"
   },
   {
@@ -450,10 +476,10 @@
     "source": "anthropic",
     "publishedAt": "2026-11-18T00:00:00.000Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic prices initial public offering",
     "path": "news/2026/11/18/76db4fd405ce-anthropic-prices-initial-public-offering.md",
-    "points": 136
+    "points": 326
   },
   {
     "id": "4d189ef1f84f",
@@ -467,7 +493,7 @@
     ],
     "importance": 3,
     "summary": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "points": 320,
+    "points": 321,
     "path": "news/2026/11/17/4d189ef1f84f-harvard-researchers-find-ai-coding-agents-shifted-the-bottle.md"
   },
   {
@@ -479,7 +505,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Tencent Hy4 Flash",
-    "points": 168,
+    "points": 173,
     "path": "news/2026/11/17/85e628cc5cea-tencent-hy4-flash.md"
   },
   {
@@ -491,7 +517,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Human.md",
-    "points": 119,
+    "points": 121,
     "path": "news/2026/11/17/ee8fdfef4247-human-md.md"
   },
   {
@@ -503,7 +529,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
-    "points": 100,
+    "points": 101,
     "path": "news/2026/11/17/731314a55d28-anthropic-paid-rubio-s-ex-chief-of-staff-s-firm-740k-it-lobb.md"
   },
   {
@@ -515,7 +541,7 @@
     "tags": [],
     "importance": 3,
     "summary": "MAI Code 2 and Code 2 Flash",
-    "points": 417,
+    "points": 421,
     "path": "news/2026/11/17/c74e8eacd8b5-mai-code-2-and-code-2-flash.md"
   },
   {
@@ -529,7 +555,7 @@
     ],
     "importance": 2,
     "summary": "Not Everything Needs an LLM",
-    "points": 182,
+    "points": 185,
     "path": "news/2026/11/17/233f4988e8c3-not-everything-needs-an-llm.md"
   },
   {
@@ -544,7 +570,7 @@
     ],
     "importance": 3,
     "summary": "Introducing GPT-6.2 Astra and Sol",
-    "points": 1337,
+    "points": 1342,
     "path": "news/2026/11/17/8f6af8c44a4a-introducing-gpt-6-2-astra-and-sol.md"
   },
   {
@@ -559,7 +585,7 @@
     "importance": 2,
     "summary": "Put Gemini to work for you",
     "path": "news/2026/11/17/830da74434e8-put-gemini-to-work-for-you.md",
-    "points": 51
+    "points": 55
   },
   {
     "id": "b95538822455",
@@ -611,7 +637,7 @@
     "tags": [],
     "importance": 2,
     "summary": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
-    "points": 70,
+    "points": 72,
     "path": "news/2026/11/17/744081a6555f-s-korea-to-send-nationwide-emergency-alerts-over-college-ent.md"
   },
   {
@@ -639,7 +665,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team thinks about verification",
-    "points": 292,
+    "points": 294,
     "path": "news/2026/11/17/9a0aa0e71b45-how-the-claude-code-team-thinks-about-verification.md"
   },
   {
@@ -755,7 +781,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Open-source, real-time object tracking for live video feeds",
-    "points": 59,
+    "points": 114,
     "path": "news/2026/11/16/cc198026e3a4-show-hn-open-source-real-time-object-tracking-for-live-video.md"
   },
   {

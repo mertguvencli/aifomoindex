@@ -5,8 +5,8 @@ url: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/
 source: hackernews
 published_at: 2026-11-19T00:29:45Z
 fetched_at: 2026-11-19T04:46:02.706Z
-importance: 2
-points: 155
+importance: 3
+points: 240
 tags: [model]
 ---
 

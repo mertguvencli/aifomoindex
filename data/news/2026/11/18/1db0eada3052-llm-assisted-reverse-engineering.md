@@ -5,8 +5,8 @@ url: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
 source: hackernews
 published_at: 2026-11-18T22:29:13Z
 fetched_at: 2026-11-19T04:46:02.706Z
-importance: 2
-points: 112
+importance: 3
+points: 275
 tags: [model]
 ---
 
