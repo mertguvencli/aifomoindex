@@ -1,5 +1,81 @@
 [
   {
+    "id": "bd3614c30b5d",
+    "title": "Inkling 2 Mini",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T20:12:19Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Inkling 2 Mini",
+    "points": 507,
+    "path": "news/2026/11/20/bd3614c30b5d-inkling-2-mini.md"
+  },
+  {
+    "id": "7421040b4b2a",
+    "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+    "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T17:44:01Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+    "points": 172,
+    "path": "news/2026/11/20/7421040b4b2a-anthropic-shares-tank-after-ipo-as-the-nasdaq-erases-2026-ga.md"
+  },
+  {
+    "id": "3edabf9cadff",
+    "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+    "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T16:59:27Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+    "points": 239,
+    "path": "news/2026/11/20/3edabf9cadff-google-workers-tell-their-employer-not-to-punish-schools-tha.md"
+  },
+  {
+    "id": "ffe5471d0a69",
+    "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T13:29:59Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+    "points": 188,
+    "path": "news/2026/11/20/ffe5471d0a69-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-t.md"
+  },
+  {
+    "id": "cdb079564327",
+    "title": "If you stop writing code, you also get worse at reviewing it",
+    "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T12:41:38Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "If you stop writing code, you also get worse at reviewing it",
+    "points": 317,
+    "path": "news/2026/11/20/cdb079564327-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.md"
+  },
+  {
+    "id": "6a27c4ad2fc9",
+    "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+    "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T12:16:36Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Epic Games Turns to AI Coding for the Unreal Engine",
+    "points": 57,
+    "path": "news/2026/11/20/6a27c4ad2fc9-epic-games-turns-to-ai-coding-for-the-unreal-engine.md"
+  },
+  {
     "id": "3381c1b46b2b",
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "url": "https://architectlabs.com/blog/frostbite",
@@ -8,8 +84,19 @@
     "tags": [],
     "importance": 3,
     "summary": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "points": 318,
+    "points": 603,
     "path": "news/2026/11/20/3381c1b46b2b-frostbite-a-new-cpu-architecture-discovered-designed-and-ver.md"
+  },
+  {
+    "id": "7ad44f990f0c",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "openai",
+    "publishedAt": "2026-11-20T10:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Combatting adversarial distillation",
+    "path": "news/2026/11/20/7ad44f990f0c-combatting-adversarial-distillation.md"
   },
   {
     "id": "8d2cece9eea7",
@@ -22,7 +109,7 @@
     ],
     "importance": 2,
     "summary": "ChatGPT for SNES",
-    "points": 107,
+    "points": 121,
     "path": "news/2026/11/20/8d2cece9eea7-chatgpt-for-snes.md"
   },
   {
@@ -52,6 +139,46 @@
     "path": "news/2026/11/20/e621a2a9dfa1-anthropic-announces-closing-of-initial-public-offering-inclu.md"
   },
   {
+    "id": "8145fefb47ff",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "openai",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "path": "news/2026/11/20/8145fefb47ff-hebbia-sees-improvements-in-financial-research-with-gpt-6-as.md"
+  },
+  {
+    "id": "c1a2af93db54",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "openai",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "tags": [
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Can AI help scientists identify promising drug candidates?",
+    "path": "news/2026/11/20/c1a2af93db54-can-ai-help-scientists-identify-promising-drug-candidates.md"
+  },
+  {
+    "id": "824c03b970f1",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "source": "huggingface",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "path": "news/2026/11/20/824c03b970f1-welcome-inkling-2-mini-cutting-edge-performance-for-your-loc.md"
+  },
+  {
     "id": "bda522de56a3",
     "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
     "url": "https://git-aarvin.github.io/mei/",
@@ -62,7 +189,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "points": 356,
+    "points": 363,
     "path": "news/2026/11/19/bda522de56a3-gemini-4-neon-is-the-new-1-on-the-models-engineering-index.md"
   },
   {
@@ -76,7 +203,7 @@
     ],
     "importance": 2,
     "summary": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-    "points": 67,
+    "points": 68,
     "path": "news/2026/11/19/1dd84aa7447e-court-4th-amendment-disallows-use-of-ai-generated-probable-c.md"
   },
   {
@@ -90,8 +217,22 @@
     ],
     "importance": 2,
     "summary": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "points": 110,
+    "points": 114,
     "path": "news/2026/11/19/1007874272d7-should-governments-slow-frontier-ai-jacob-coxon-and-robin-ha.md"
+  },
+  {
+    "id": "3bbbeb029cfe",
+    "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+    "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-19T18:42:13Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+    "points": 51,
+    "path": "news/2026/11/19/3bbbeb029cfe-no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say.md"
   },
   {
     "id": "056cf0b58a3d",
@@ -117,7 +258,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI came for the coders. Understanding why tells us who's next",
-    "points": 58,
+    "points": 65,
     "path": "news/2026/11/19/0521fbfe6186-ai-came-for-the-coders-understanding-why-tells-us-who-s-next.md"
   },
   {
@@ -131,7 +272,7 @@
     ],
     "importance": 3,
     "summary": "Claude solves two open problems in the physics of black holes",
-    "points": 518,
+    "points": 551,
     "path": "news/2026/11/19/3277cf52dcd2-claude-solves-two-open-problems-in-the-physics-of-black-hole.md"
   },
   {
@@ -143,7 +284,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic’s Nasdaq debut",
-    "points": 1104,
+    "points": 1128,
     "path": "news/2026/11/19/7b4d99ca3afb-anthropic-s-nasdaq-debut.md"
   },
   {
@@ -178,7 +319,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI isn't replacing your job. It's turning it into low-paid gig work",
-    "points": 141,
+    "points": 144,
     "path": "news/2026/11/19/bd2c18ba4684-ai-isn-t-replacing-your-job-it-s-turning-it-into-low-paid-gi.md"
   },
   {
@@ -190,7 +331,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fuck Your AI Safeguards",
-    "points": 573,
+    "points": 596,
     "path": "news/2026/11/19/5661d98e657c-fuck-your-ai-safeguards.md"
   },
   {
@@ -205,8 +346,22 @@
     ],
     "importance": 3,
     "summary": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-    "points": 264,
+    "points": 268,
     "path": "news/2026/11/19/e39600edda0e-pete-warden-on-local-ai-open-models-voice-interfaces-the-fut.md"
+  },
+  {
+    "id": "cbbbac7b6ef9",
+    "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+    "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+    "source": "hackernews",
+    "publishedAt": "2026-11-19T15:16:02Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+    "points": 120,
+    "path": "news/2026/11/19/cbbbac7b6ef9-show-hn-fast-deterministic-natural-language-search-for-opens.md"
   },
   {
     "id": "9f489e28a46f",
@@ -217,7 +372,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI still has a WebRTC Problem",
-    "points": 98,
+    "points": 99,
     "path": "news/2026/11/19/9f489e28a46f-openai-still-has-a-webrtc-problem.md"
   },
   {
@@ -232,7 +387,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-    "points": 110,
+    "points": 117,
     "path": "news/2026/11/19/973315bbac51-show-hn-foolscap-a-writing-app-that-reads-your-book-and-neve.md"
   },
   {
@@ -269,7 +424,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI will not make you rich (2025)",
-    "points": 107,
+    "points": 108,
     "path": "news/2026/11/19/f24ede8b2ec8-ai-will-not-make-you-rich-2025.md"
   },
   {
@@ -283,7 +438,7 @@
     ],
     "importance": 2,
     "summary": "Black high school students sue after AI mistakes Doritos bag for gun",
-    "points": 117,
+    "points": 118,
     "path": "news/2026/11/19/14422b66a2e2-black-high-school-students-sue-after-ai-mistakes-doritos-bag.md"
   },
   {
@@ -372,7 +527,7 @@
     ],
     "importance": 3,
     "summary": "LLM assisted reverse engineering",
-    "points": 307,
+    "points": 314,
     "path": "news/2026/11/18/1db0eada3052-llm-assisted-reverse-engineering.md"
   },
   {
@@ -400,7 +555,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon",
-    "points": 1039,
+    "points": 1048,
     "path": "news/2026/11/18/be0aed2f5105-gemini-4-neon.md"
   },
   {
@@ -441,7 +596,7 @@
     ],
     "importance": 3,
     "summary": "Genie 4 is now available",
-    "points": 289,
+    "points": 290,
     "path": "news/2026/11/18/a261d2eee241-genie-4-is-now-available.md"
   },
   {
@@ -482,7 +637,7 @@
     ],
     "importance": 2,
     "summary": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-    "points": 147,
+    "points": 148,
     "path": "news/2026/11/18/f578074493d4-anthropic-is-not-a-safe-ai-company-coalition-challenges-anth.md"
   },
   {
@@ -496,7 +651,7 @@
     ],
     "importance": 3,
     "summary": "Seven new models at scalable price-performance",
-    "points": 600,
+    "points": 602,
     "path": "news/2026/11/18/f5b869b89561-seven-new-models-at-scalable-price-performance.md"
   },
   {
@@ -524,7 +679,7 @@
     ],
     "importance": 3,
     "summary": "AI agents ask better questions than KPMG accountants in audit trial",
-    "points": 492,
+    "points": 495,
     "path": "news/2026/11/18/f6f0576c6cc3-ai-agents-ask-better-questions-than-kpmg-accountants-in-audi.md"
   },
   {
@@ -612,7 +767,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is killing All About Berlin",
-    "points": 811,
+    "points": 813,
     "path": "news/2026/11/18/6663bdbb0746-ai-is-killing-all-about-berlin.md"
   },
   {
@@ -640,7 +795,7 @@
     ],
     "importance": 3,
     "summary": "Why is Gemini 4 Carbon taking so long?",
-    "points": 282,
+    "points": 283,
     "path": "news/2026/11/18/10d331c37469-why-is-gemini-4-carbon-taking-so-long.md"
   },
   {
@@ -655,7 +810,7 @@
     ],
     "importance": 2,
     "summary": "Claude was trained on protein sequences at scale",
-    "points": 178,
+    "points": 180,
     "path": "news/2026/11/18/7740f35fe8ec-claude-was-trained-on-protein-sequences-at-scale.md"
   },
   {
@@ -683,7 +838,7 @@
     ],
     "importance": 2,
     "summary": "Cerebras Disaggregated Inference",
-    "points": 108,
+    "points": 109,
     "path": "news/2026/11/18/7038831a9a91-cerebras-disaggregated-inference.md"
   },
   {
@@ -748,7 +903,7 @@
     ],
     "importance": 3,
     "summary": "Advancing chip design with OpenAI models",
-    "points": 222,
+    "points": 223,
     "path": "news/2026/11/18/68ddb817fe40-advancing-chip-design-with-openai-models.md"
   },
   {
@@ -775,7 +930,7 @@
     "importance": 3,
     "summary": "Anthropic prices initial public offering",
     "path": "news/2026/11/18/76db4fd405ce-anthropic-prices-initial-public-offering.md",
-    "points": 417
+    "points": 418
   },
   {
     "id": "4d189ef1f84f",

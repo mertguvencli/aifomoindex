@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-19T22:56:59Z
 fetched_at: 2026-11-20T05:21:58.947Z
 importance: 2
-points: 67
+points: 68
 tags: [policy]
 ---
 
