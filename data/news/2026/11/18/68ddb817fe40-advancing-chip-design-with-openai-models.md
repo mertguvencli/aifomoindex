@@ -6,7 +6,7 @@ source: openai
 published_at: 2026-11-18T00:00:00.000Z
 fetched_at: 2026-11-18T23:39:09.494Z
 importance: 3
-points: 221
+points: 222
 tags: [model, infra]
 ---
 
