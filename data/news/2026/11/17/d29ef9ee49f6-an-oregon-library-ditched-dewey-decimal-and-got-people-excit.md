@@ -5,8 +5,8 @@ url: https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-w
 source: hackernews
 published_at: 2026-11-17T19:35:12Z
 fetched_at: 2026-11-19T23:57:49.548Z
-importance: 2
-points: 181
+importance: 3
+points: 218
 tags: []
 ---
 

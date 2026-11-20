@@ -1,5 +1,33 @@
 [
   {
+    "id": "bda522de56a3",
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "url": "https://git-aarvin.github.io/mei/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-19T23:35:35Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "points": 314,
+    "path": "news/2026/11/19/bda522de56a3-gemini-4-neon-is-the-new-1-on-the-models-engineering-index.md"
+  },
+  {
+    "id": "1dd84aa7447e",
+    "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+    "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-19T22:56:59Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+    "points": 59,
+    "path": "news/2026/11/19/1dd84aa7447e-court-4th-amendment-disallows-use-of-ai-generated-probable-c.md"
+  },
+  {
     "id": "1007874272d7",
     "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
     "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
@@ -10,7 +38,7 @@
     ],
     "importance": 2,
     "summary": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "points": 62,
+    "points": 90,
     "path": "news/2026/11/19/1007874272d7-should-governments-slow-frontier-ai-jacob-coxon-and-robin-ha.md"
   },
   {
@@ -39,7 +67,7 @@
     ],
     "importance": 3,
     "summary": "Claude solves two open problems in the physics of black holes",
-    "points": 344,
+    "points": 442,
     "path": "news/2026/11/19/3277cf52dcd2-claude-solves-two-open-problems-in-the-physics-of-black-hole.md"
   },
   {
@@ -51,7 +79,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic’s Nasdaq debut",
-    "points": 819,
+    "points": 1016,
     "path": "news/2026/11/19/7b4d99ca3afb-anthropic-s-nasdaq-debut.md"
   },
   {
@@ -74,7 +102,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Chrome AI features wasting much bandwidth",
-    "points": 122,
+    "points": 127,
     "path": "news/2026/11/19/3e35d01c88b4-chrome-ai-features-wasting-much-bandwidth.md"
   },
   {
@@ -86,7 +114,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI isn't replacing your job. It's turning it into low-paid gig work",
-    "points": 102,
+    "points": 128,
     "path": "news/2026/11/19/bd2c18ba4684-ai-isn-t-replacing-your-job-it-s-turning-it-into-low-paid-gi.md"
   },
   {
@@ -98,7 +126,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fuck Your AI Safeguards",
-    "points": 451,
+    "points": 506,
     "path": "news/2026/11/19/5661d98e657c-fuck-your-ai-safeguards.md"
   },
   {
@@ -113,7 +141,7 @@
     ],
     "importance": 3,
     "summary": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-    "points": 203,
+    "points": 223,
     "path": "news/2026/11/19/e39600edda0e-pete-warden-on-local-ai-open-models-voice-interfaces-the-fut.md"
   },
   {
@@ -125,7 +153,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI still has a WebRTC Problem",
-    "points": 90,
+    "points": 94,
     "path": "news/2026/11/19/9f489e28a46f-openai-still-has-a-webrtc-problem.md"
   },
   {
@@ -140,7 +168,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-    "points": 102,
+    "points": 105,
     "path": "news/2026/11/19/973315bbac51-show-hn-foolscap-a-writing-app-that-reads-your-book-and-neve.md"
   },
   {
@@ -177,7 +205,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI will not make you rich (2025)",
-    "points": 105,
+    "points": 106,
     "path": "news/2026/11/19/f24ede8b2ec8-ai-will-not-make-you-rich-2025.md"
   },
   {
@@ -191,7 +219,7 @@
     ],
     "importance": 2,
     "summary": "Black high school students sue after AI mistakes Doritos bag for gun",
-    "points": 112,
+    "points": 117,
     "path": "news/2026/11/19/14422b66a2e2-black-high-school-students-sue-after-ai-mistakes-doritos-bag.md"
   },
   {
@@ -205,7 +233,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-    "points": 250,
+    "points": 252,
     "path": "news/2026/11/19/8d685e65acd0-gemini-4-neon-looks-like-an-opus-5-5-competitor.md"
   },
   {
@@ -259,6 +287,17 @@
     "path": "news/2026/11/19/da3064513703-get-started-with-daybreak-blue.md"
   },
   {
+    "id": "a890a236270c",
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "openai",
+    "publishedAt": "2026-11-19T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Deploying Daybreak Red",
+    "path": "news/2026/11/19/a890a236270c-deploying-daybreak-red.md"
+  },
+  {
     "id": "1db0eada3052",
     "title": "LLM assisted reverse engineering",
     "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
@@ -269,7 +308,7 @@
     ],
     "importance": 3,
     "summary": "LLM assisted reverse engineering",
-    "points": 296,
+    "points": 302,
     "path": "news/2026/11/18/1db0eada3052-llm-assisted-reverse-engineering.md"
   },
   {
@@ -297,7 +336,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon",
-    "points": 1010,
+    "points": 1025,
     "path": "news/2026/11/18/be0aed2f5105-gemini-4-neon.md"
   },
   {
@@ -338,7 +377,7 @@
     ],
     "importance": 3,
     "summary": "Genie 4 is now available",
-    "points": 286,
+    "points": 288,
     "path": "news/2026/11/18/a261d2eee241-genie-4-is-now-available.md"
   },
   {
@@ -379,7 +418,7 @@
     ],
     "importance": 2,
     "summary": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-    "points": 144,
+    "points": 145,
     "path": "news/2026/11/18/f578074493d4-anthropic-is-not-a-safe-ai-company-coalition-challenges-anth.md"
   },
   {
@@ -393,7 +432,7 @@
     ],
     "importance": 3,
     "summary": "Seven new models at scalable price-performance",
-    "points": 592,
+    "points": 595,
     "path": "news/2026/11/18/f5b869b89561-seven-new-models-at-scalable-price-performance.md"
   },
   {
@@ -407,7 +446,7 @@
     ],
     "importance": 2,
     "summary": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "points": 52,
+    "points": 53,
     "path": "news/2026/11/18/dc52e334dcb4-amazon-and-google-will-together-own-nearly-30-of-anthropic-a.md"
   },
   {
@@ -421,7 +460,7 @@
     ],
     "importance": 3,
     "summary": "AI agents ask better questions than KPMG accountants in audit trial",
-    "points": 482,
+    "points": 487,
     "path": "news/2026/11/18/f6f0576c6cc3-ai-agents-ask-better-questions-than-kpmg-accountants-in-audi.md"
   },
   {
@@ -509,7 +548,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI is killing All About Berlin",
-    "points": 801,
+    "points": 806,
     "path": "news/2026/11/18/6663bdbb0746-ai-is-killing-all-about-berlin.md"
   },
   {
@@ -537,7 +576,7 @@
     ],
     "importance": 3,
     "summary": "Why is Gemini 4 Carbon taking so long?",
-    "points": 276,
+    "points": 279,
     "path": "news/2026/11/18/10d331c37469-why-is-gemini-4-carbon-taking-so-long.md"
   },
   {
@@ -552,7 +591,7 @@
     ],
     "importance": 2,
     "summary": "Claude was trained on protein sequences at scale",
-    "points": 177,
+    "points": 178,
     "path": "news/2026/11/18/7740f35fe8ec-claude-was-trained-on-protein-sequences-at-scale.md"
   },
   {
@@ -645,7 +684,7 @@
     ],
     "importance": 3,
     "summary": "Advancing chip design with OpenAI models",
-    "points": 219,
+    "points": 221,
     "path": "news/2026/11/18/68ddb817fe40-advancing-chip-design-with-openai-models.md"
   },
   {
@@ -672,7 +711,7 @@
     "importance": 3,
     "summary": "Anthropic prices initial public offering",
     "path": "news/2026/11/18/76db4fd405ce-anthropic-prices-initial-public-offering.md",
-    "points": 411
+    "points": 413
   },
   {
     "id": "4d189ef1f84f",
@@ -686,7 +725,7 @@
     ],
     "importance": 3,
     "summary": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "points": 323,
+    "points": 325,
     "path": "news/2026/11/17/4d189ef1f84f-harvard-researchers-find-ai-coding-agents-shifted-the-bottle.md"
   },
   {
@@ -720,9 +759,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-17T19:35:12Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "An Oregon library ditched Dewey Decimal and got people excited about books again",
-    "points": 181,
+    "points": 218,
     "path": "news/2026/11/17/d29ef9ee49f6-an-oregon-library-ditched-dewey-decimal-and-got-people-excit.md"
   },
   {
@@ -870,7 +909,7 @@
     ],
     "importance": 3,
     "summary": "How the Claude Code team thinks about verification",
-    "points": 295,
+    "points": 296,
     "path": "news/2026/11/17/9a0aa0e71b45-how-the-claude-code-team-thinks-about-verification.md"
   },
   {
