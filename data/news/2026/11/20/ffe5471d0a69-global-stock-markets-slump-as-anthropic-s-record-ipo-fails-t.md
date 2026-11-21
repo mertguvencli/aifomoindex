@@ -5,8 +5,8 @@ url: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump
 source: hackernews
 published_at: 2026-11-20T13:29:59Z
 fetched_at: 2026-11-20T23:26:47.053Z
-importance: 2
-points: 192
+importance: 3
+points: 378
 tags: [funding]
 ---
 

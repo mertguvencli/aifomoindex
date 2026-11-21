@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-20T00:25:59Z
 fetched_at: 2026-11-20T14:29:18.132Z
 importance: 2
-points: 123
+points: 125
 tags: [product]
 ---
 

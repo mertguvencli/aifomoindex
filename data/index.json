@@ -1,5 +1,33 @@
 [
   {
+    "id": "4fd24093a146",
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "url": "http://ricapar.net/ClawDOS/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-21T05:38:01Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "ClawDOS – An AI coding agent for DOS",
+    "points": 110,
+    "path": "news/2026/11/21/4fd24093a146-clawdos-an-ai-coding-agent-for-dos.md"
+  },
+  {
+    "id": "e32cbd51ef17",
+    "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+    "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T21:18:46Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+    "points": 60,
+    "path": "news/2026/11/20/e32cbd51ef17-anthropic-s-ipo-bust-deepens-4t-ai-wipeout-on-wall-street.md"
+  },
+  {
     "id": "e54c27197d1f",
     "title": "Show HN: OpenComputer – an open source alternative to Devin",
     "url": "https://github.com/diggerhq/opencomputer",
@@ -10,7 +38,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OpenComputer – an open source alternative to Devin",
-    "points": 77,
+    "points": 107,
     "path": "news/2026/11/20/e54c27197d1f-show-hn-opencomputer-an-open-source-alternative-to-devin.md"
   },
   {
@@ -22,7 +50,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Mini",
-    "points": 801,
+    "points": 1119,
     "path": "news/2026/11/20/bd3614c30b5d-inkling-2-mini.md"
   },
   {
@@ -36,7 +64,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-    "points": 184,
+    "points": 194,
     "path": "news/2026/11/20/7421040b4b2a-anthropic-shares-tank-after-ipo-as-the-nasdaq-erases-2026-ga.md"
   },
   {
@@ -48,7 +76,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-    "points": 272,
+    "points": 277,
     "path": "news/2026/11/20/3edabf9cadff-google-workers-tell-their-employer-not-to-punish-schools-tha.md"
   },
   {
@@ -60,7 +88,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is giving everyone the same advice",
-    "points": 66,
+    "points": 96,
     "path": "news/2026/11/20/eecdc918ec25-ai-is-giving-everyone-the-same-advice.md"
   },
   {
@@ -72,9 +100,9 @@
     "tags": [
       "funding"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "points": 192,
+    "points": 378,
     "path": "news/2026/11/20/ffe5471d0a69-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-t.md"
   },
   {
@@ -86,7 +114,7 @@
     "tags": [],
     "importance": 3,
     "summary": "If you stop writing code, you also get worse at reviewing it",
-    "points": 331,
+    "points": 361,
     "path": "news/2026/11/20/cdb079564327-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.md"
   },
   {
@@ -110,7 +138,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "points": 633,
+    "points": 651,
     "path": "news/2026/11/20/3381c1b46b2b-frostbite-a-new-cpu-architecture-discovered-designed-and-ver.md"
   },
   {
@@ -135,7 +163,7 @@
     ],
     "importance": 3,
     "summary": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "points": 528,
+    "points": 556,
     "path": "news/2026/11/20/266efb82a5bf-restricting-ai-agents-in-mobile-operating-systems-platforms-.md"
   },
   {
@@ -149,7 +177,7 @@
     ],
     "importance": 2,
     "summary": "ChatGPT for SNES",
-    "points": 123,
+    "points": 125,
     "path": "news/2026/11/20/8d2cece9eea7-chatgpt-for-snes.md"
   },
   {
@@ -229,7 +257,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "points": 368,
+    "points": 370,
     "path": "news/2026/11/19/bda522de56a3-gemini-4-neon-is-the-new-1-on-the-models-engineering-index.md"
   },
   {
@@ -312,7 +340,7 @@
     ],
     "importance": 3,
     "summary": "Claude solves two open problems in the physics of black holes",
-    "points": 553,
+    "points": 560,
     "path": "news/2026/11/19/3277cf52dcd2-claude-solves-two-open-problems-in-the-physics-of-black-hole.md"
   },
   {
@@ -324,7 +352,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic’s Nasdaq debut",
-    "points": 1131,
+    "points": 1134,
     "path": "news/2026/11/19/7b4d99ca3afb-anthropic-s-nasdaq-debut.md"
   },
   {
@@ -359,7 +387,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI isn't replacing your job. It's turning it into low-paid gig work",
-    "points": 145,
+    "points": 146,
     "path": "news/2026/11/19/bd2c18ba4684-ai-isn-t-replacing-your-job-it-s-turning-it-into-low-paid-gi.md"
   },
   {
@@ -371,7 +399,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fuck Your AI Safeguards",
-    "points": 601,
+    "points": 609,
     "path": "news/2026/11/19/5661d98e657c-fuck-your-ai-safeguards.md"
   },
   {
@@ -386,7 +414,7 @@
     ],
     "importance": 3,
     "summary": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-    "points": 269,
+    "points": 270,
     "path": "news/2026/11/19/e39600edda0e-pete-warden-on-local-ai-open-models-voice-interfaces-the-fut.md"
   },
   {
@@ -400,7 +428,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-    "points": 126,
+    "points": 132,
     "path": "news/2026/11/19/cbbbac7b6ef9-show-hn-fast-deterministic-natural-language-search-for-opens.md"
   },
   {
@@ -427,7 +455,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-    "points": 118,
+    "points": 122,
     "path": "news/2026/11/19/973315bbac51-show-hn-foolscap-a-writing-app-that-reads-your-book-and-neve.md"
   },
   {
@@ -439,7 +467,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The AI Superintelligence Debate Has Serious Flaws",
-    "points": 104,
+    "points": 105,
     "path": "news/2026/11/19/68905d8de463-the-ai-superintelligence-debate-has-serious-flaws.md"
   },
   {
@@ -595,7 +623,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon",
-    "points": 1051,
+    "points": 1056,
     "path": "news/2026/11/18/be0aed2f5105-gemini-4-neon.md"
   },
   {
@@ -636,7 +664,7 @@
     ],
     "importance": 3,
     "summary": "Genie 4 is now available",
-    "points": 291,
+    "points": 292,
     "path": "news/2026/11/18/a261d2eee241-genie-4-is-now-available.md"
   },
   {
@@ -970,7 +998,7 @@
     "importance": 3,
     "summary": "Anthropic prices initial public offering",
     "path": "news/2026/11/18/76db4fd405ce-anthropic-prices-initial-public-offering.md",
-    "points": 420
+    "points": 421
   },
   {
     "id": "4d189ef1f84f",
