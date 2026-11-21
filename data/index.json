@@ -1,5 +1,17 @@
 [
   {
+    "id": "1a6bc61cbec2",
+    "title": "Upload2Shell (CVE-2026-125396)",
+    "url": "https://pwn.ai/upload2shell",
+    "source": "hackernews",
+    "publishedAt": "2026-11-21T18:29:29Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Upload2Shell (CVE-2026-125396)",
+    "points": 56,
+    "path": "news/2026/11/21/1a6bc61cbec2-upload2shell-cve-2026-125396.md"
+  },
+  {
     "id": "4fd24093a146",
     "title": "ClawDOS – An AI coding agent for DOS",
     "url": "http://ricapar.net/ClawDOS/",
@@ -10,8 +22,22 @@
     ],
     "importance": 2,
     "summary": "ClawDOS – An AI coding agent for DOS",
-    "points": 110,
+    "points": 153,
     "path": "news/2026/11/21/4fd24093a146-clawdos-an-ai-coding-agent-for-dos.md"
+  },
+  {
+    "id": "60a0bb21a20c",
+    "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+    "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T22:18:20Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+    "points": 52,
+    "path": "news/2026/11/20/60a0bb21a20c-the-hungry-butler-effect-concealed-commercial-incentives-in-.md"
   },
   {
     "id": "e32cbd51ef17",
@@ -24,7 +50,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-    "points": 60,
+    "points": 64,
     "path": "news/2026/11/20/e32cbd51ef17-anthropic-s-ipo-bust-deepens-4t-ai-wipeout-on-wall-street.md"
   },
   {
@@ -38,7 +64,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OpenComputer – an open source alternative to Devin",
-    "points": 107,
+    "points": 116,
     "path": "news/2026/11/20/e54c27197d1f-show-hn-opencomputer-an-open-source-alternative-to-devin.md"
   },
   {
@@ -50,7 +76,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Mini",
-    "points": 1119,
+    "points": 1342,
     "path": "news/2026/11/20/bd3614c30b5d-inkling-2-mini.md"
   },
   {
@@ -64,7 +90,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-    "points": 194,
+    "points": 196,
     "path": "news/2026/11/20/7421040b4b2a-anthropic-shares-tank-after-ipo-as-the-nasdaq-erases-2026-ga.md"
   },
   {
@@ -76,7 +102,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-    "points": 277,
+    "points": 279,
     "path": "news/2026/11/20/3edabf9cadff-google-workers-tell-their-employer-not-to-punish-schools-tha.md"
   },
   {
@@ -88,7 +114,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is giving everyone the same advice",
-    "points": 96,
+    "points": 116,
     "path": "news/2026/11/20/eecdc918ec25-ai-is-giving-everyone-the-same-advice.md"
   },
   {
@@ -102,7 +128,7 @@
     ],
     "importance": 3,
     "summary": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "points": 378,
+    "points": 489,
     "path": "news/2026/11/20/ffe5471d0a69-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-t.md"
   },
   {
@@ -114,7 +140,7 @@
     "tags": [],
     "importance": 3,
     "summary": "If you stop writing code, you also get worse at reviewing it",
-    "points": 361,
+    "points": 376,
     "path": "news/2026/11/20/cdb079564327-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.md"
   },
   {
@@ -138,7 +164,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "points": 651,
+    "points": 666,
     "path": "news/2026/11/20/3381c1b46b2b-frostbite-a-new-cpu-architecture-discovered-designed-and-ver.md"
   },
   {
@@ -163,7 +189,7 @@
     ],
     "importance": 3,
     "summary": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "points": 556,
+    "points": 570,
     "path": "news/2026/11/20/266efb82a5bf-restricting-ai-agents-in-mobile-operating-systems-platforms-.md"
   },
   {
@@ -177,7 +203,7 @@
     ],
     "importance": 2,
     "summary": "ChatGPT for SNES",
-    "points": 125,
+    "points": 128,
     "path": "news/2026/11/20/8d2cece9eea7-chatgpt-for-snes.md"
   },
   {
@@ -257,7 +283,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "points": 370,
+    "points": 372,
     "path": "news/2026/11/19/bda522de56a3-gemini-4-neon-is-the-new-1-on-the-models-engineering-index.md"
   },
   {
@@ -271,7 +297,7 @@
     ],
     "importance": 2,
     "summary": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-    "points": 69,
+    "points": 70,
     "path": "news/2026/11/19/1dd84aa7447e-court-4th-amendment-disallows-use-of-ai-generated-probable-c.md"
   },
   {
@@ -285,7 +311,7 @@
     ],
     "importance": 2,
     "summary": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "points": 114,
+    "points": 115,
     "path": "news/2026/11/19/1007874272d7-should-governments-slow-frontier-ai-jacob-coxon-and-robin-ha.md"
   },
   {
@@ -340,7 +366,7 @@
     ],
     "importance": 3,
     "summary": "Claude solves two open problems in the physics of black holes",
-    "points": 560,
+    "points": 566,
     "path": "news/2026/11/19/3277cf52dcd2-claude-solves-two-open-problems-in-the-physics-of-black-hole.md"
   },
   {
@@ -352,7 +378,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic’s Nasdaq debut",
-    "points": 1134,
+    "points": 1139,
     "path": "news/2026/11/19/7b4d99ca3afb-anthropic-s-nasdaq-debut.md"
   },
   {
@@ -375,7 +401,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Chrome AI features wasting much bandwidth",
-    "points": 133,
+    "points": 134,
     "path": "news/2026/11/19/3e35d01c88b4-chrome-ai-features-wasting-much-bandwidth.md"
   },
   {
@@ -387,7 +413,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI isn't replacing your job. It's turning it into low-paid gig work",
-    "points": 146,
+    "points": 148,
     "path": "news/2026/11/19/bd2c18ba4684-ai-isn-t-replacing-your-job-it-s-turning-it-into-low-paid-gi.md"
   },
   {
@@ -399,7 +425,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Fuck Your AI Safeguards",
-    "points": 609,
+    "points": 616,
     "path": "news/2026/11/19/5661d98e657c-fuck-your-ai-safeguards.md"
   },
   {
@@ -428,7 +454,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-    "points": 132,
+    "points": 136,
     "path": "news/2026/11/19/cbbbac7b6ef9-show-hn-fast-deterministic-natural-language-search-for-opens.md"
   },
   {
@@ -455,7 +481,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-    "points": 122,
+    "points": 124,
     "path": "news/2026/11/19/973315bbac51-show-hn-foolscap-a-writing-app-that-reads-your-book-and-neve.md"
   },
   {
@@ -506,7 +532,7 @@
     ],
     "importance": 2,
     "summary": "Black high school students sue after AI mistakes Doritos bag for gun",
-    "points": 118,
+    "points": 119,
     "path": "news/2026/11/19/14422b66a2e2-black-high-school-students-sue-after-ai-mistakes-doritos-bag.md"
   },
   {
@@ -998,7 +1024,7 @@
     "importance": 3,
     "summary": "Anthropic prices initial public offering",
     "path": "news/2026/11/18/76db4fd405ce-anthropic-prices-initial-public-offering.md",
-    "points": 421
+    "points": 422
   },
   {
     "id": "4d189ef1f84f",

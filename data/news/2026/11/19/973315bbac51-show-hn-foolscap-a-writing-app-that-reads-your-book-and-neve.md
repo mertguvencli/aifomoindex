@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-19T13:21:20Z
 fetched_at: 2026-11-19T23:57:49.548Z
 importance: 2
-points: 122
+points: 124
 tags: [opensource, product]
 ---
 
