@@ -1,5 +1,88 @@
 [
   {
+    "id": "48435cfc749a",
+    "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+    "url": "https://arxiv.org/abs/2606.14068",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T09:18:36Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+    "points": 75,
+    "path": "news/2026/11/22/48435cfc749a-harsher-on-male-evaluating-llms-on-gender-asymmetric-moral-f.md"
+  },
+  {
+    "id": "d7e78f94bca2",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T08:57:34Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 3,
+    "summary": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "points": 263,
+    "path": "news/2026/11/22/d7e78f94bca2-87-of-the-anthropic-power-will-come-from-gas-and-11-from-coa.md"
+  },
+  {
+    "id": "842fc07e68b3",
+    "title": "AI Supply Chain Security: What Canary Tokens Found",
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T05:11:43Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "AI Supply Chain Security: What Canary Tokens Found",
+    "points": 88,
+    "path": "news/2026/11/22/842fc07e68b3-ai-supply-chain-security-what-canary-tokens-found.md"
+  },
+  {
+    "id": "26c5ca669b14",
+    "title": "Data Processing Incidents on Inference Providers",
+    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T02:14:14Z",
+    "tags": [
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "Data Processing Incidents on Inference Providers",
+    "points": 194,
+    "path": "news/2026/11/22/26c5ca669b14-data-processing-incidents-on-inference-providers.md"
+  },
+  {
+    "id": "6cfe9e5a687e",
+    "title": "The Mythology of Conscious AI",
+    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T02:10:02Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The Mythology of Conscious AI",
+    "points": 93,
+    "path": "news/2026/11/22/6cfe9e5a687e-the-mythology-of-conscious-ai.md"
+  },
+  {
+    "id": "63b2557fd3f6",
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "url": "https://www.pandex.io",
+    "source": "hackernews",
+    "publishedAt": "2026-11-21T20:47:41Z",
+    "tags": [
+      "tool",
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "Pandex – Official European Law for AI Agents, over MCP",
+    "points": 110,
+    "path": "news/2026/11/21/63b2557fd3f6-pandex-official-european-law-for-ai-agents-over-mcp.md"
+  },
+  {
     "id": "1a6bc61cbec2",
     "title": "Upload2Shell (CVE-2026-125396)",
     "url": "https://pwn.ai/upload2shell",
@@ -8,7 +91,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Upload2Shell (CVE-2026-125396)",
-    "points": 92,
+    "points": 131,
     "path": "news/2026/11/21/1a6bc61cbec2-upload2shell-cve-2026-125396.md"
   },
   {
@@ -22,7 +105,7 @@
     ],
     "importance": 2,
     "summary": "ClawDOS – An AI coding agent for DOS",
-    "points": 161,
+    "points": 166,
     "path": "news/2026/11/21/4fd24093a146-clawdos-an-ai-coding-agent-for-dos.md"
   },
   {
@@ -48,7 +131,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-    "points": 53,
+    "points": 57,
     "path": "news/2026/11/20/f22d46a83ecd-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-ala.md"
   },
   {
@@ -76,7 +159,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OpenComputer – an open source alternative to Devin",
-    "points": 118,
+    "points": 120,
     "path": "news/2026/11/20/e54c27197d1f-show-hn-opencomputer-an-open-source-alternative-to-devin.md"
   },
   {
@@ -88,7 +171,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Mini",
-    "points": 1394,
+    "points": 1428,
     "path": "news/2026/11/20/bd3614c30b5d-inkling-2-mini.md"
   },
   {
@@ -102,7 +185,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-    "points": 197,
+    "points": 198,
     "path": "news/2026/11/20/7421040b4b2a-anthropic-shares-tank-after-ipo-as-the-nasdaq-erases-2026-ga.md"
   },
   {
@@ -114,7 +197,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-    "points": 280,
+    "points": 282,
     "path": "news/2026/11/20/3edabf9cadff-google-workers-tell-their-employer-not-to-punish-schools-tha.md"
   },
   {
@@ -126,7 +209,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is giving everyone the same advice",
-    "points": 122,
+    "points": 124,
     "path": "news/2026/11/20/eecdc918ec25-ai-is-giving-everyone-the-same-advice.md"
   },
   {
@@ -140,7 +223,7 @@
     ],
     "importance": 3,
     "summary": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "points": 503,
+    "points": 514,
     "path": "news/2026/11/20/ffe5471d0a69-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-t.md"
   },
   {
@@ -152,7 +235,7 @@
     "tags": [],
     "importance": 3,
     "summary": "If you stop writing code, you also get worse at reviewing it",
-    "points": 378,
+    "points": 388,
     "path": "news/2026/11/20/cdb079564327-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.md"
   },
   {
@@ -176,7 +259,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "points": 669,
+    "points": 671,
     "path": "news/2026/11/20/3381c1b46b2b-frostbite-a-new-cpu-architecture-discovered-designed-and-ver.md"
   },
   {
@@ -201,7 +284,7 @@
     ],
     "importance": 3,
     "summary": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "points": 572,
+    "points": 576,
     "path": "news/2026/11/20/266efb82a5bf-restricting-ai-agents-in-mobile-operating-systems-platforms-.md"
   },
   {
@@ -295,7 +378,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "points": 374,
+    "points": 375,
     "path": "news/2026/11/19/bda522de56a3-gemini-4-neon-is-the-new-1-on-the-models-engineering-index.md"
   },
   {
@@ -309,7 +392,7 @@
     ],
     "importance": 2,
     "summary": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-    "points": 70,
+    "points": 71,
     "path": "news/2026/11/19/1dd84aa7447e-court-4th-amendment-disallows-use-of-ai-generated-probable-c.md"
   },
   {
@@ -378,7 +461,7 @@
     ],
     "importance": 3,
     "summary": "Claude solves two open problems in the physics of black holes",
-    "points": 569,
+    "points": 572,
     "path": "news/2026/11/19/3277cf52dcd2-claude-solves-two-open-problems-in-the-physics-of-black-hole.md"
   },
   {
@@ -390,7 +473,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic’s Nasdaq debut",
-    "points": 1139,
+    "points": 1140,
     "path": "news/2026/11/19/7b4d99ca3afb-anthropic-s-nasdaq-debut.md"
   },
   {
@@ -452,7 +535,7 @@
     ],
     "importance": 3,
     "summary": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-    "points": 270,
+    "points": 272,
     "path": "news/2026/11/19/e39600edda0e-pete-warden-on-local-ai-open-models-voice-interfaces-the-fut.md"
   },
   {
