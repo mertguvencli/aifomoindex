@@ -1,5 +1,61 @@
 [
   {
+    "id": "c75d02646488",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T21:01:16Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "points": 77,
+    "path": "news/2026/11/22/c75d02646488-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.md"
+  },
+  {
+    "id": "9e90f9c09471",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "url": "https://github.com/gulivan/worker755",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T13:56:58Z",
+    "tags": [
+      "model",
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "Show HN: I built a game where you are an LLM's subagent",
+    "points": 252,
+    "path": "news/2026/11/22/9e90f9c09471-show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.md"
+  },
+  {
+    "id": "16636a52f663",
+    "title": "AI is becoming a disaster for the climate",
+    "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T12:19:46Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AI is becoming a disaster for the climate",
+    "points": 96,
+    "path": "news/2026/11/22/16636a52f663-ai-is-becoming-a-disaster-for-the-climate.md"
+  },
+  {
+    "id": "aaa55aaf5989",
+    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "url": "https://simonwillison.net/2026/Nov/21/muru/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T09:57:01Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "points": 69,
+    "path": "news/2026/11/22/aaa55aaf5989-muru-ai-assisted-rust-server-for-python-apps-by-mod-wsgi-s-c.md"
+  },
+  {
     "id": "48435cfc749a",
     "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
     "url": "https://arxiv.org/abs/2606.14068",
@@ -10,7 +66,7 @@
     ],
     "importance": 2,
     "summary": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-    "points": 75,
+    "points": 89,
     "path": "news/2026/11/22/48435cfc749a-harsher-on-male-evaluating-llms-on-gender-asymmetric-moral-f.md"
   },
   {
@@ -24,7 +80,7 @@
     ],
     "importance": 3,
     "summary": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "points": 263,
+    "points": 828,
     "path": "news/2026/11/22/d7e78f94bca2-87-of-the-anthropic-power-will-come-from-gas-and-11-from-coa.md"
   },
   {
@@ -38,7 +94,7 @@
     ],
     "importance": 2,
     "summary": "AI Supply Chain Security: What Canary Tokens Found",
-    "points": 88,
+    "points": 97,
     "path": "news/2026/11/22/842fc07e68b3-ai-supply-chain-security-what-canary-tokens-found.md"
   },
   {
@@ -50,9 +106,9 @@
     "tags": [
       "infra"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Data Processing Incidents on Inference Providers",
-    "points": 194,
+    "points": 277,
     "path": "news/2026/11/22/26c5ca669b14-data-processing-incidents-on-inference-providers.md"
   },
   {
@@ -64,8 +120,20 @@
     "tags": [],
     "importance": 2,
     "summary": "The Mythology of Conscious AI",
-    "points": 93,
+    "points": 160,
     "path": "news/2026/11/22/6cfe9e5a687e-the-mythology-of-conscious-ai.md"
+  },
+  {
+    "id": "1a10f1676d46",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "source": "openai",
+    "publishedAt": "2026-11-22T00:00:00.000Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Perplexity and Intelligence",
+    "points": 421,
+    "path": "news/2026/11/22/1a10f1676d46-perplexity-and-intelligence.md"
   },
   {
     "id": "63b2557fd3f6",
@@ -79,7 +147,7 @@
     ],
     "importance": 2,
     "summary": "Pandex – Official European Law for AI Agents, over MCP",
-    "points": 110,
+    "points": 138,
     "path": "news/2026/11/21/63b2557fd3f6-pandex-official-european-law-for-ai-agents-over-mcp.md"
   },
   {
@@ -91,7 +159,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Upload2Shell (CVE-2026-125396)",
-    "points": 131,
+    "points": 150,
     "path": "news/2026/11/21/1a6bc61cbec2-upload2shell-cve-2026-125396.md"
   },
   {
@@ -105,7 +173,7 @@
     ],
     "importance": 2,
     "summary": "ClawDOS – An AI coding agent for DOS",
-    "points": 166,
+    "points": 172,
     "path": "news/2026/11/21/4fd24093a146-clawdos-an-ai-coding-agent-for-dos.md"
   },
   {
@@ -119,7 +187,7 @@
     ],
     "importance": 2,
     "summary": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-    "points": 53,
+    "points": 55,
     "path": "news/2026/11/20/60a0bb21a20c-the-hungry-butler-effect-concealed-commercial-incentives-in-.md"
   },
   {
@@ -131,7 +199,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-    "points": 57,
+    "points": 60,
     "path": "news/2026/11/20/f22d46a83ecd-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-ala.md"
   },
   {
@@ -159,7 +227,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OpenComputer – an open source alternative to Devin",
-    "points": 120,
+    "points": 124,
     "path": "news/2026/11/20/e54c27197d1f-show-hn-opencomputer-an-open-source-alternative-to-devin.md"
   },
   {
@@ -171,7 +239,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Mini",
-    "points": 1428,
+    "points": 1451,
     "path": "news/2026/11/20/bd3614c30b5d-inkling-2-mini.md"
   },
   {
@@ -185,7 +253,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-    "points": 198,
+    "points": 199,
     "path": "news/2026/11/20/7421040b4b2a-anthropic-shares-tank-after-ipo-as-the-nasdaq-erases-2026-ga.md"
   },
   {
@@ -197,7 +265,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-    "points": 282,
+    "points": 283,
     "path": "news/2026/11/20/3edabf9cadff-google-workers-tell-their-employer-not-to-punish-schools-tha.md"
   },
   {
@@ -223,7 +291,7 @@
     ],
     "importance": 3,
     "summary": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "points": 514,
+    "points": 526,
     "path": "news/2026/11/20/ffe5471d0a69-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-t.md"
   },
   {
@@ -235,7 +303,7 @@
     "tags": [],
     "importance": 3,
     "summary": "If you stop writing code, you also get worse at reviewing it",
-    "points": 388,
+    "points": 397,
     "path": "news/2026/11/20/cdb079564327-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.md"
   },
   {
@@ -259,7 +327,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "points": 671,
+    "points": 677,
     "path": "news/2026/11/20/3381c1b46b2b-frostbite-a-new-cpu-architecture-discovered-designed-and-ver.md"
   },
   {
@@ -284,7 +352,7 @@
     ],
     "importance": 3,
     "summary": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "points": 576,
+    "points": 577,
     "path": "news/2026/11/20/266efb82a5bf-restricting-ai-agents-in-mobile-operating-systems-platforms-.md"
   },
   {

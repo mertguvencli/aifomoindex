@@ -5,8 +5,8 @@ url: https://openrouter.ai/blog/announcements/data-processing-incidents-on-infer
 source: hackernews
 published_at: 2026-11-22T02:14:14Z
 fetched_at: 2026-11-22T13:41:23.966Z
-importance: 2
-points: 194
+importance: 3
+points: 277
 tags: [infra]
 ---
 
