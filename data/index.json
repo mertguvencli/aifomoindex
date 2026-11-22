@@ -8,7 +8,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Upload2Shell (CVE-2026-125396)",
-    "points": 56,
+    "points": 92,
     "path": "news/2026/11/21/1a6bc61cbec2-upload2shell-cve-2026-125396.md"
   },
   {
@@ -22,7 +22,7 @@
     ],
     "importance": 2,
     "summary": "ClawDOS – An AI coding agent for DOS",
-    "points": 153,
+    "points": 161,
     "path": "news/2026/11/21/4fd24093a146-clawdos-an-ai-coding-agent-for-dos.md"
   },
   {
@@ -36,8 +36,20 @@
     ],
     "importance": 2,
     "summary": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-    "points": 52,
+    "points": 53,
     "path": "news/2026/11/20/60a0bb21a20c-the-hungry-butler-effect-concealed-commercial-incentives-in-.md"
+  },
+  {
+    "id": "f22d46a83ecd",
+    "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-20T21:53:39Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+    "points": 53,
+    "path": "news/2026/11/20/f22d46a83ecd-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-ala.md"
   },
   {
     "id": "e32cbd51ef17",
@@ -50,7 +62,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-    "points": 64,
+    "points": 66,
     "path": "news/2026/11/20/e32cbd51ef17-anthropic-s-ipo-bust-deepens-4t-ai-wipeout-on-wall-street.md"
   },
   {
@@ -64,7 +76,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OpenComputer – an open source alternative to Devin",
-    "points": 116,
+    "points": 118,
     "path": "news/2026/11/20/e54c27197d1f-show-hn-opencomputer-an-open-source-alternative-to-devin.md"
   },
   {
@@ -76,7 +88,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Mini",
-    "points": 1342,
+    "points": 1394,
     "path": "news/2026/11/20/bd3614c30b5d-inkling-2-mini.md"
   },
   {
@@ -90,7 +102,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-    "points": 196,
+    "points": 197,
     "path": "news/2026/11/20/7421040b4b2a-anthropic-shares-tank-after-ipo-as-the-nasdaq-erases-2026-ga.md"
   },
   {
@@ -102,7 +114,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-    "points": 279,
+    "points": 280,
     "path": "news/2026/11/20/3edabf9cadff-google-workers-tell-their-employer-not-to-punish-schools-tha.md"
   },
   {
@@ -114,7 +126,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is giving everyone the same advice",
-    "points": 116,
+    "points": 122,
     "path": "news/2026/11/20/eecdc918ec25-ai-is-giving-everyone-the-same-advice.md"
   },
   {
@@ -128,7 +140,7 @@
     ],
     "importance": 3,
     "summary": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "points": 489,
+    "points": 503,
     "path": "news/2026/11/20/ffe5471d0a69-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-t.md"
   },
   {
@@ -140,7 +152,7 @@
     "tags": [],
     "importance": 3,
     "summary": "If you stop writing code, you also get worse at reviewing it",
-    "points": 376,
+    "points": 378,
     "path": "news/2026/11/20/cdb079564327-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.md"
   },
   {
@@ -164,7 +176,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "points": 666,
+    "points": 669,
     "path": "news/2026/11/20/3381c1b46b2b-frostbite-a-new-cpu-architecture-discovered-designed-and-ver.md"
   },
   {
@@ -189,7 +201,7 @@
     ],
     "importance": 3,
     "summary": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "points": 570,
+    "points": 572,
     "path": "news/2026/11/20/266efb82a5bf-restricting-ai-agents-in-mobile-operating-systems-platforms-.md"
   },
   {
@@ -283,7 +295,7 @@
     ],
     "importance": 3,
     "summary": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-    "points": 372,
+    "points": 374,
     "path": "news/2026/11/19/bda522de56a3-gemini-4-neon-is-the-new-1-on-the-models-engineering-index.md"
   },
   {
@@ -366,7 +378,7 @@
     ],
     "importance": 3,
     "summary": "Claude solves two open problems in the physics of black holes",
-    "points": 566,
+    "points": 569,
     "path": "news/2026/11/19/3277cf52dcd2-claude-solves-two-open-problems-in-the-physics-of-black-hole.md"
   },
   {
@@ -481,7 +493,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-    "points": 124,
+    "points": 127,
     "path": "news/2026/11/19/973315bbac51-show-hn-foolscap-a-writing-app-that-reads-your-book-and-neve.md"
   },
   {
