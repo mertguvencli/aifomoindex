@@ -5,8 +5,8 @@ url: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unslo
 source: hackernews
 published_at: 2026-11-22T21:01:16Z
 fetched_at: 2026-11-22T22:53:37.863Z
-importance: 2
-points: 77
+importance: 3
+points: 332
 tags: [model, opensource]
 ---
 

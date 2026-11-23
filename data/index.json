@@ -1,5 +1,17 @@
 [
   {
+    "id": "61d8127e693f",
+    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T23:12:10Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "points": 178,
+    "path": "news/2026/11/22/61d8127e693f-progress-map-for-the-lean-formalization-of-alessandro-masull.md"
+  },
+  {
     "id": "c75d02646488",
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
     "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
@@ -9,10 +21,36 @@
       "model",
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "points": 77,
+    "points": 332,
     "path": "news/2026/11/22/c75d02646488-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.md"
+  },
+  {
+    "id": "d1c21e3fe0ec",
+    "title": "AWS got hit by an outage too. You didn't hear about it",
+    "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T20:50:18Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "AWS got hit by an outage too. You didn't hear about it",
+    "points": 54,
+    "path": "news/2026/11/22/d1c21e3fe0ec-aws-got-hit-by-an-outage-too-you-didn-t-hear-about-it.md"
+  },
+  {
+    "id": "605bc9329fe9",
+    "title": "Harvard CS 2881R AI Safety",
+    "url": "https://boazbk.github.io/mltheoryseminar/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-22T18:01:54Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "Harvard CS 2881R AI Safety",
+    "points": 55,
+    "path": "news/2026/11/22/605bc9329fe9-harvard-cs-2881r-ai-safety.md"
   },
   {
     "id": "9e90f9c09471",
@@ -26,7 +64,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: I built a game where you are an LLM's subagent",
-    "points": 252,
+    "points": 287,
     "path": "news/2026/11/22/9e90f9c09471-show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.md"
   },
   {
@@ -38,7 +76,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is becoming a disaster for the climate",
-    "points": 96,
+    "points": 110,
     "path": "news/2026/11/22/16636a52f663-ai-is-becoming-a-disaster-for-the-climate.md"
   },
   {
@@ -52,7 +90,7 @@
     ],
     "importance": 2,
     "summary": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-    "points": 69,
+    "points": 73,
     "path": "news/2026/11/22/aaa55aaf5989-muru-ai-assisted-rust-server-for-python-apps-by-mod-wsgi-s-c.md"
   },
   {
@@ -66,7 +104,7 @@
     ],
     "importance": 2,
     "summary": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-    "points": 89,
+    "points": 92,
     "path": "news/2026/11/22/48435cfc749a-harsher-on-male-evaluating-llms-on-gender-asymmetric-moral-f.md"
   },
   {
@@ -80,7 +118,7 @@
     ],
     "importance": 3,
     "summary": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "points": 828,
+    "points": 920,
     "path": "news/2026/11/22/d7e78f94bca2-87-of-the-anthropic-power-will-come-from-gas-and-11-from-coa.md"
   },
   {
@@ -94,7 +132,7 @@
     ],
     "importance": 2,
     "summary": "AI Supply Chain Security: What Canary Tokens Found",
-    "points": 97,
+    "points": 103,
     "path": "news/2026/11/22/842fc07e68b3-ai-supply-chain-security-what-canary-tokens-found.md"
   },
   {
@@ -108,7 +146,7 @@
     ],
     "importance": 3,
     "summary": "Data Processing Incidents on Inference Providers",
-    "points": 277,
+    "points": 280,
     "path": "news/2026/11/22/26c5ca669b14-data-processing-incidents-on-inference-providers.md"
   },
   {
@@ -120,7 +158,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Mythology of Conscious AI",
-    "points": 160,
+    "points": 172,
     "path": "news/2026/11/22/6cfe9e5a687e-the-mythology-of-conscious-ai.md"
   },
   {
@@ -132,7 +170,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Perplexity and Intelligence",
-    "points": 421,
+    "points": 524,
     "path": "news/2026/11/22/1a10f1676d46-perplexity-and-intelligence.md"
   },
   {
@@ -147,7 +185,7 @@
     ],
     "importance": 2,
     "summary": "Pandex – Official European Law for AI Agents, over MCP",
-    "points": 138,
+    "points": 139,
     "path": "news/2026/11/21/63b2557fd3f6-pandex-official-european-law-for-ai-agents-over-mcp.md"
   },
   {
@@ -159,7 +197,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Upload2Shell (CVE-2026-125396)",
-    "points": 150,
+    "points": 151,
     "path": "news/2026/11/21/1a6bc61cbec2-upload2shell-cve-2026-125396.md"
   },
   {
@@ -173,7 +211,7 @@
     ],
     "importance": 2,
     "summary": "ClawDOS – An AI coding agent for DOS",
-    "points": 172,
+    "points": 174,
     "path": "news/2026/11/21/4fd24093a146-clawdos-an-ai-coding-agent-for-dos.md"
   },
   {
@@ -199,7 +237,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/11/20/f22d46a83ecd-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-ala.md"
   },
   {
@@ -227,7 +265,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: OpenComputer – an open source alternative to Devin",
-    "points": 124,
+    "points": 125,
     "path": "news/2026/11/20/e54c27197d1f-show-hn-opencomputer-an-open-source-alternative-to-devin.md"
   },
   {
@@ -239,7 +277,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Inkling 2 Mini",
-    "points": 1451,
+    "points": 1457,
     "path": "news/2026/11/20/bd3614c30b5d-inkling-2-mini.md"
   },
   {
@@ -291,7 +329,7 @@
     ],
     "importance": 3,
     "summary": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "points": 526,
+    "points": 528,
     "path": "news/2026/11/20/ffe5471d0a69-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-t.md"
   },
   {
@@ -327,7 +365,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "points": 677,
+    "points": 678,
     "path": "news/2026/11/20/3381c1b46b2b-frostbite-a-new-cpu-architecture-discovered-designed-and-ver.md"
   },
   {
@@ -352,7 +390,7 @@
     ],
     "importance": 3,
     "summary": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "points": 577,
+    "points": 578,
     "path": "news/2026/11/20/266efb82a5bf-restricting-ai-agents-in-mobile-operating-systems-platforms-.md"
   },
   {
