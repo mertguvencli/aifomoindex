@@ -1,5 +1,81 @@
 [
   {
+    "id": "e68c6b8d3ebd",
+    "title": "VP ≠ VNP over Every Field",
+    "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "source": "hackernews",
+    "publishedAt": "2026-11-23T22:09:10Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "VP ≠ VNP over Every Field",
+    "points": 276,
+    "path": "news/2026/11/23/e68c6b8d3ebd-vp-vnp-over-every-field.md"
+  },
+  {
+    "id": "b0689cf87ab5",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "source": "openai",
+    "publishedAt": "2026-11-23T21:20:00.000Z",
+    "tags": [
+      "product"
+    ],
+    "importance": 2,
+    "summary": "OpenAI and Cisco introduce Shirudo",
+    "path": "news/2026/11/23/b0689cf87ab5-openai-and-cisco-introduce-shirudo.md"
+  },
+  {
+    "id": "eb2701ff66fe",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "source": "huggingface",
+    "publishedAt": "2026-11-23T17:20:37.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "path": "news/2026/11/23/eb2701ff66fe-robotrack-point-tracking-for-real-world-robotic-manipulation.md"
+  },
+  {
+    "id": "4f5fe20de68e",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "source": "googleai",
+    "publishedAt": "2026-11-23T17:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "A more tailored Google Search that’s uniquely yours",
+    "path": "news/2026/11/23/4f5fe20de68e-a-more-tailored-google-search-that-s-uniquely-yours.md"
+  },
+  {
+    "id": "895b540db6a8",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "source": "deepmind",
+    "publishedAt": "2026-11-23T16:59:40.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Finding faster quantum algorithms with agents and formal verification",
+    "path": "news/2026/11/23/895b540db6a8-finding-faster-quantum-algorithms-with-agents-and-formal-ver.md"
+  },
+  {
+    "id": "9f183e9f9f75",
+    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "source": "hackernews",
+    "publishedAt": "2026-11-23T13:42:38Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "points": 135,
+    "path": "news/2026/11/23/9f183e9f9f75-nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file.md"
+  },
+  {
     "id": "949f5ce24876",
     "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
@@ -8,7 +84,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-    "points": 64,
+    "points": 74,
     "path": "news/2026/11/23/949f5ce24876-amodei-reportedly-suggested-games-could-pacify-masses-after-.md"
   },
   {
@@ -22,8 +98,30 @@
     ],
     "importance": 3,
     "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-    "points": 687,
+    "points": 1079,
     "path": "news/2026/11/23/f1db7ce98881-glm-5-4-toward-generalized-coding-with-our-first-loop-transf.md"
+  },
+  {
+    "id": "10878202550b",
+    "title": "Connected intelligence for in-house legal",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "source": "openai",
+    "publishedAt": "2026-11-23T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Connected intelligence for in-house legal",
+    "path": "news/2026/11/23/10878202550b-connected-intelligence-for-in-house-legal.md"
+  },
+  {
+    "id": "1259b534687d",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "openai",
+    "publishedAt": "2026-11-23T08:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Richpanel helps companies automate 50% of support in 30 days",
+    "path": "news/2026/11/23/1259b534687d-richpanel-helps-companies-automate-50-of-support-in-30-days.md"
   },
   {
     "id": "6866258a646f",
@@ -36,7 +134,7 @@
     ],
     "importance": 2,
     "summary": "GLM 5.4",
-    "points": 51,
+    "points": 58,
     "path": "news/2026/11/23/6866258a646f-glm-5-4.md"
   },
   {
@@ -64,7 +162,7 @@
     ],
     "importance": 2,
     "summary": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-    "points": 67,
+    "points": 69,
     "path": "news/2026/11/22/36fce04b839f-0rwx-a-simple-model-of-ai-usage-inspired-by-unix-permissions.md"
   },
   {
@@ -76,7 +174,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-    "points": 253,
+    "points": 257,
     "path": "news/2026/11/22/61d8127e693f-progress-map-for-the-lean-formalization-of-alessandro-masull.md"
   },
   {
@@ -88,7 +186,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Do Not Accept",
-    "points": 53,
+    "points": 55,
     "path": "news/2026/11/22/893192b2b4a1-do-not-accept.md"
   },
   {
@@ -103,7 +201,7 @@
     ],
     "importance": 3,
     "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "points": 664,
+    "points": 745,
     "path": "news/2026/11/22/c75d02646488-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.md"
   },
   {
@@ -115,7 +213,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AWS got hit by an outage too. You didn't hear about it",
-    "points": 62,
+    "points": 66,
     "path": "news/2026/11/22/d1c21e3fe0ec-aws-got-hit-by-an-outage-too-you-didn-t-hear-about-it.md"
   },
   {
@@ -129,7 +227,7 @@
     ],
     "importance": 2,
     "summary": "Harvard CS 2881R AI Safety",
-    "points": 75,
+    "points": 78,
     "path": "news/2026/11/22/605bc9329fe9-harvard-cs-2881r-ai-safety.md"
   },
   {
@@ -144,7 +242,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: I built a game where you are an LLM's subagent",
-    "points": 352,
+    "points": 357,
     "path": "news/2026/11/22/9e90f9c09471-show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.md"
   },
   {
@@ -156,7 +254,7 @@
     "tags": [],
     "importance": 2,
     "summary": "AI is becoming a disaster for the climate",
-    "points": 132,
+    "points": 134,
     "path": "news/2026/11/22/16636a52f663-ai-is-becoming-a-disaster-for-the-climate.md"
   },
   {
@@ -170,7 +268,7 @@
     ],
     "importance": 2,
     "summary": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-    "points": 77,
+    "points": 78,
     "path": "news/2026/11/22/aaa55aaf5989-muru-ai-assisted-rust-server-for-python-apps-by-mod-wsgi-s-c.md"
   },
   {
@@ -198,7 +296,7 @@
     ],
     "importance": 3,
     "summary": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "points": 1003,
+    "points": 1029,
     "path": "news/2026/11/22/d7e78f94bca2-87-of-the-anthropic-power-will-come-from-gas-and-11-from-coa.md"
   },
   {
@@ -226,7 +324,7 @@
     ],
     "importance": 3,
     "summary": "Data Processing Incidents on Inference Providers",
-    "points": 291,
+    "points": 294,
     "path": "news/2026/11/22/26c5ca669b14-data-processing-incidents-on-inference-providers.md"
   },
   {
@@ -238,7 +336,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Mythology of Conscious AI",
-    "points": 179,
+    "points": 180,
     "path": "news/2026/11/22/6cfe9e5a687e-the-mythology-of-conscious-ai.md"
   },
   {
@@ -250,7 +348,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Perplexity and Intelligence",
-    "points": 655,
+    "points": 698,
     "path": "news/2026/11/22/1a10f1676d46-perplexity-and-intelligence.md"
   },
   {
@@ -277,7 +375,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Upload2Shell (CVE-2026-125396)",
-    "points": 153,
+    "points": 154,
     "path": "news/2026/11/21/1a6bc61cbec2-upload2shell-cve-2026-125396.md"
   },
   {
