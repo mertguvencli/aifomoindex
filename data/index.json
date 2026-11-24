@@ -1,5 +1,124 @@
 [
   {
+    "id": "6a28e842b3bf",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "source": "huggingface",
+    "publishedAt": "2026-11-24T16:34:13.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "path": "news/2026/11/24/6a28e842b3bf-microduck-obstacle-avoidance-a-sim2real-workflow-with-isaac-.md"
+  },
+  {
+    "id": "a7a0adf7d6c7",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "source": "googleai",
+    "publishedAt": "2026-11-24T16:00:00.000Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "How Gemini is changing the game for Golden State's organization and fans.",
+    "path": "news/2026/11/24/a7a0adf7d6c7-how-gemini-is-changing-the-game-for-golden-state-s-organizat.md"
+  },
+  {
+    "id": "e20cd11d2332",
+    "title": "Anthropic is below its IPO price",
+    "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T14:41:15Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic is below its IPO price",
+    "points": 102,
+    "path": "news/2026/11/24/e20cd11d2332-anthropic-is-below-its-ipo-price.md"
+  },
+  {
+    "id": "1e8fe8d51502",
+    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T13:23:47Z",
+    "tags": [
+      "funding"
+    ],
+    "importance": 2,
+    "summary": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "points": 139,
+    "path": "news/2026/11/24/1e8fe8d51502-anthropic-breaks-below-83-ipo-price-in-premarket-trading.md"
+  },
+  {
+    "id": "02e27935986c",
+    "title": "LLM agents work for their parent companies, not for you",
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T12:40:15Z",
+    "tags": [
+      "model",
+      "tool"
+    ],
+    "importance": 3,
+    "summary": "LLM agents work for their parent companies, not for you",
+    "points": 548,
+    "path": "news/2026/11/24/02e27935986c-llm-agents-work-for-their-parent-companies-not-for-you.md"
+  },
+  {
+    "id": "89859b71aef0",
+    "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+    "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T09:39:50Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+    "points": 68,
+    "path": "news/2026/11/24/89859b71aef0-jevons-paradox-in-ai-cheaper-tokens-won-t-pay-for-capex.md"
+  },
+  {
+    "id": "4a0f8af51ad7",
+    "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+    "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T06:28:04Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "India's opposition storms Meta's offices to get its Instagram accounts back",
+    "points": 216,
+    "path": "news/2026/11/24/4a0f8af51ad7-india-s-opposition-storms-meta-s-offices-to-get-its-instagra.md"
+  },
+  {
+    "id": "0f779e7fa162",
+    "title": "Declare is a UI language for you and your AI",
+    "url": "https://davidtemkin.github.io/declarelang/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T02:36:56Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Declare is a UI language for you and your AI",
+    "points": 89,
+    "path": "news/2026/11/24/0f779e7fa162-declare-is-a-ui-language-for-you-and-your-ai.md"
+  },
+  {
+    "id": "80a050ce3ae3",
+    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+    "url": "https://arxiv.org/abs/2602.20031",
+    "source": "hackernews",
+    "publishedAt": "2026-11-23T22:29:48Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+    "points": 69,
+    "path": "news/2026/11/23/80a050ce3ae3-latent-introspection-llms-can-detect-prior-concept-injection.md"
+  },
+  {
     "id": "e68c6b8d3ebd",
     "title": "VP ≠ VNP over Every Field",
     "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
@@ -8,7 +127,7 @@
     "tags": [],
     "importance": 3,
     "summary": "VP ≠ VNP over Every Field",
-    "points": 276,
+    "points": 344,
     "path": "news/2026/11/23/e68c6b8d3ebd-vp-vnp-over-every-field.md"
   },
   {
@@ -22,7 +141,22 @@
     ],
     "importance": 2,
     "summary": "OpenAI and Cisco introduce Shirudo",
-    "path": "news/2026/11/23/b0689cf87ab5-openai-and-cisco-introduce-shirudo.md"
+    "path": "news/2026/11/23/b0689cf87ab5-openai-and-cisco-introduce-shirudo.md",
+    "points": 80
+  },
+  {
+    "id": "b5129d6fc89a",
+    "title": "Claude Ship",
+    "url": "https://claude.com/resources/articles/introducing-claude-ship",
+    "source": "hackernews",
+    "publishedAt": "2026-11-23T20:14:18Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Claude Ship",
+    "points": 76,
+    "path": "news/2026/11/23/b5129d6fc89a-claude-ship.md"
   },
   {
     "id": "eb2701ff66fe",
@@ -36,6 +170,20 @@
     "importance": 2,
     "summary": "RoboTrack: Point tracking for real-world robotic manipulation",
     "path": "news/2026/11/23/eb2701ff66fe-robotrack-point-tracking-for-real-world-robotic-manipulation.md"
+  },
+  {
+    "id": "70a48163bc4d",
+    "title": "How should an LLM see a computer?",
+    "url": "https://www.greptile.com/blog/trex-computer-use",
+    "source": "hackernews",
+    "publishedAt": "2026-11-23T17:19:25Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "How should an LLM see a computer?",
+    "points": 57,
+    "path": "news/2026/11/23/70a48163bc4d-how-should-an-llm-see-a-computer.md"
   },
   {
     "id": "4f5fe20de68e",
@@ -72,7 +220,7 @@
     ],
     "importance": 2,
     "summary": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-    "points": 135,
+    "points": 183,
     "path": "news/2026/11/23/9f183e9f9f75-nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file.md"
   },
   {
@@ -84,7 +232,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-    "points": 74,
+    "points": 77,
     "path": "news/2026/11/23/949f5ce24876-amodei-reportedly-suggested-games-could-pacify-masses-after-.md"
   },
   {
@@ -98,7 +246,7 @@
     ],
     "importance": 3,
     "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-    "points": 1079,
+    "points": 1150,
     "path": "news/2026/11/23/f1db7ce98881-glm-5-4-toward-generalized-coding-with-our-first-loop-transf.md"
   },
   {
@@ -162,7 +310,7 @@
     ],
     "importance": 2,
     "summary": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-    "points": 69,
+    "points": 71,
     "path": "news/2026/11/22/36fce04b839f-0rwx-a-simple-model-of-ai-usage-inspired-by-unix-permissions.md"
   },
   {
@@ -174,7 +322,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-    "points": 257,
+    "points": 259,
     "path": "news/2026/11/22/61d8127e693f-progress-map-for-the-lean-formalization-of-alessandro-masull.md"
   },
   {
@@ -201,7 +349,7 @@
     ],
     "importance": 3,
     "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "points": 745,
+    "points": 766,
     "path": "news/2026/11/22/c75d02646488-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.md"
   },
   {
@@ -227,7 +375,7 @@
     ],
     "importance": 2,
     "summary": "Harvard CS 2881R AI Safety",
-    "points": 78,
+    "points": 80,
     "path": "news/2026/11/22/605bc9329fe9-harvard-cs-2881r-ai-safety.md"
   },
   {
@@ -242,7 +390,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: I built a game where you are an LLM's subagent",
-    "points": 357,
+    "points": 359,
     "path": "news/2026/11/22/9e90f9c09471-show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.md"
   },
   {
@@ -296,7 +444,7 @@
     ],
     "importance": 3,
     "summary": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "points": 1029,
+    "points": 1035,
     "path": "news/2026/11/22/d7e78f94bca2-87-of-the-anthropic-power-will-come-from-gas-and-11-from-coa.md"
   },
   {
@@ -310,7 +458,7 @@
     ],
     "importance": 2,
     "summary": "AI Supply Chain Security: What Canary Tokens Found",
-    "points": 104,
+    "points": 105,
     "path": "news/2026/11/22/842fc07e68b3-ai-supply-chain-security-what-canary-tokens-found.md"
   },
   {
@@ -336,7 +484,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The Mythology of Conscious AI",
-    "points": 180,
+    "points": 181,
     "path": "news/2026/11/22/6cfe9e5a687e-the-mythology-of-conscious-ai.md"
   },
   {
@@ -348,7 +496,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Perplexity and Intelligence",
-    "points": 698,
+    "points": 713,
     "path": "news/2026/11/22/1a10f1676d46-perplexity-and-intelligence.md"
   },
   {
@@ -363,7 +511,7 @@
     ],
     "importance": 2,
     "summary": "Pandex – Official European Law for AI Agents, over MCP",
-    "points": 140,
+    "points": 141,
     "path": "news/2026/11/21/63b2557fd3f6-pandex-official-european-law-for-ai-agents-over-mcp.md"
   },
   {
