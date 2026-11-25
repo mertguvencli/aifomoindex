@@ -5,8 +5,8 @@ url: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-8
 source: hackernews
 published_at: 2026-11-24T13:23:47Z
 fetched_at: 2026-11-24T16:36:18.252Z
-importance: 2
-points: 139
+importance: 3
+points: 342
 tags: [funding]
 ---
 

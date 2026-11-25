@@ -1,5 +1,41 @@
 [
   {
+    "id": "7862748937ff",
+    "title": "Working with AI",
+    "url": "https://www.anthropic.com/research/working-with-ai",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T21:07:38Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Working with AI",
+    "points": 63,
+    "path": "news/2026/11/24/7862748937ff-working-with-ai.md"
+  },
+  {
+    "id": "f8198597ae6c",
+    "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+    "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T18:55:12Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+    "points": 85,
+    "path": "news/2026/11/24/f8198597ae6c-openai-reveals-they-solved-vp-vnp-before-anthropic.md"
+  },
+  {
+    "id": "88520ae3e584",
+    "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+    "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T17:10:45Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+    "points": 200,
+    "path": "news/2026/11/24/88520ae3e584-anthropic-staff-openly-talk-about-taking-over-the-world-clai.md"
+  },
+  {
     "id": "6a28e842b3bf",
     "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
     "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -11,6 +47,34 @@
     "importance": 2,
     "summary": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
     "path": "news/2026/11/24/6a28e842b3bf-microduck-obstacle-avoidance-a-sim2real-workflow-with-isaac-.md"
+  },
+  {
+    "id": "8914c0669275",
+    "title": "Tidal bans AI-generated music",
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T16:12:38Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 3,
+    "summary": "Tidal bans AI-generated music",
+    "points": 318,
+    "path": "news/2026/11/24/8914c0669275-tidal-bans-ai-generated-music.md"
+  },
+  {
+    "id": "66e6136a2975",
+    "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+    "url": "https://masondata.ai/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T16:11:52Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+    "points": 86,
+    "path": "news/2026/11/24/66e6136a2975-show-hn-mason-a-lightweight-postgres-read-replica-built-on-c.md"
   },
   {
     "id": "a7a0adf7d6c7",
@@ -36,7 +100,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic is below its IPO price",
-    "points": 102,
+    "points": 128,
     "path": "news/2026/11/24/e20cd11d2332-anthropic-is-below-its-ipo-price.md"
   },
   {
@@ -48,10 +112,25 @@
     "tags": [
       "funding"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-    "points": 139,
+    "points": 342,
     "path": "news/2026/11/24/1e8fe8d51502-anthropic-breaks-below-83-ipo-price-in-premarket-trading.md"
+  },
+  {
+    "id": "ac2f786b30f6",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "source": "openai",
+    "publishedAt": "2026-11-24T13:00:00.000Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "points": 164,
+    "path": "news/2026/11/24/ac2f786b30f6-gpt-6-models-demonstrate-intrinsic-protein-design-capabiliti.md"
   },
   {
     "id": "02e27935986c",
@@ -65,8 +144,19 @@
     ],
     "importance": 3,
     "summary": "LLM agents work for their parent companies, not for you",
-    "points": 548,
+    "points": 907,
     "path": "news/2026/11/24/02e27935986c-llm-agents-work-for-their-parent-companies-not-for-you.md"
+  },
+  {
+    "id": "7758c04a6293",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "openai",
+    "publishedAt": "2026-11-24T11:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Searching for distant planets with Astra",
+    "path": "news/2026/11/24/7758c04a6293-searching-for-distant-planets-with-astra.md"
   },
   {
     "id": "89859b71aef0",
@@ -77,7 +167,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-    "points": 68,
+    "points": 79,
     "path": "news/2026/11/24/89859b71aef0-jevons-paradox-in-ai-cheaper-tokens-won-t-pay-for-capex.md"
   },
   {
@@ -89,7 +179,7 @@
     "tags": [],
     "importance": 3,
     "summary": "India's opposition storms Meta's offices to get its Instagram accounts back",
-    "points": 216,
+    "points": 230,
     "path": "news/2026/11/24/4a0f8af51ad7-india-s-opposition-storms-meta-s-offices-to-get-its-instagra.md"
   },
   {
@@ -101,8 +191,46 @@
     "tags": [],
     "importance": 2,
     "summary": "Declare is a UI language for you and your AI",
-    "points": 89,
+    "points": 105,
     "path": "news/2026/11/24/0f779e7fa162-declare-is-a-ui-language-for-you-and-your-ai.md"
+  },
+  {
+    "id": "7e14b56be674",
+    "title": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "source": "openai",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "How Intentful uses dots to make more time for growth",
+    "path": "news/2026/11/24/7e14b56be674-how-intentful-uses-dots-to-make-more-time-for-growth.md"
+  },
+  {
+    "id": "89a905d5eae9",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "source": "openai",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "How iFood scales coding agents across 15,000 repositories",
+    "path": "news/2026/11/24/89a905d5eae9-how-ifood-scales-coding-agents-across-15-000-repositories.md"
+  },
+  {
+    "id": "a3c9028eefd6",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "source": "openai",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "tags": [
+      "tool",
+      "product"
+    ],
+    "importance": 2,
+    "summary": "Clay helps sales teams win with Codex and ChatGPT",
+    "path": "news/2026/11/24/a3c9028eefd6-clay-helps-sales-teams-win-with-codex-and-chatgpt.md"
   },
   {
     "id": "80a050ce3ae3",
@@ -115,7 +243,7 @@
     ],
     "importance": 2,
     "summary": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-    "points": 69,
+    "points": 72,
     "path": "news/2026/11/23/80a050ce3ae3-latent-introspection-llms-can-detect-prior-concept-injection.md"
   },
   {
@@ -127,7 +255,7 @@
     "tags": [],
     "importance": 3,
     "summary": "VP ≠ VNP over Every Field",
-    "points": 344,
+    "points": 357,
     "path": "news/2026/11/23/e68c6b8d3ebd-vp-vnp-over-every-field.md"
   },
   {
@@ -142,7 +270,7 @@
     "importance": 2,
     "summary": "OpenAI and Cisco introduce Shirudo",
     "path": "news/2026/11/23/b0689cf87ab5-openai-and-cisco-introduce-shirudo.md",
-    "points": 80
+    "points": 83
   },
   {
     "id": "b5129d6fc89a",
@@ -155,7 +283,7 @@
     ],
     "importance": 2,
     "summary": "Claude Ship",
-    "points": 76,
+    "points": 87,
     "path": "news/2026/11/23/b5129d6fc89a-claude-ship.md"
   },
   {
@@ -182,7 +310,7 @@
     ],
     "importance": 2,
     "summary": "How should an LLM see a computer?",
-    "points": 57,
+    "points": 58,
     "path": "news/2026/11/23/70a48163bc4d-how-should-an-llm-see-a-computer.md"
   },
   {
@@ -220,7 +348,7 @@
     ],
     "importance": 2,
     "summary": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-    "points": 183,
+    "points": 191,
     "path": "news/2026/11/23/9f183e9f9f75-nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file.md"
   },
   {
@@ -232,7 +360,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-    "points": 77,
+    "points": 78,
     "path": "news/2026/11/23/949f5ce24876-amodei-reportedly-suggested-games-could-pacify-masses-after-.md"
   },
   {
@@ -246,7 +374,7 @@
     ],
     "importance": 3,
     "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-    "points": 1150,
+    "points": 1165,
     "path": "news/2026/11/23/f1db7ce98881-glm-5-4-toward-generalized-coding-with-our-first-loop-transf.md"
   },
   {
@@ -322,7 +450,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-    "points": 259,
+    "points": 262,
     "path": "news/2026/11/22/61d8127e693f-progress-map-for-the-lean-formalization-of-alessandro-masull.md"
   },
   {
@@ -349,7 +477,7 @@
     ],
     "importance": 3,
     "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "points": 766,
+    "points": 772,
     "path": "news/2026/11/22/c75d02646488-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.md"
   },
   {
@@ -375,7 +503,7 @@
     ],
     "importance": 2,
     "summary": "Harvard CS 2881R AI Safety",
-    "points": 80,
+    "points": 81,
     "path": "news/2026/11/22/605bc9329fe9-harvard-cs-2881r-ai-safety.md"
   },
   {
@@ -390,7 +518,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: I built a game where you are an LLM's subagent",
-    "points": 359,
+    "points": 360,
     "path": "news/2026/11/22/9e90f9c09471-show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.md"
   },
   {
@@ -416,7 +544,7 @@
     ],
     "importance": 2,
     "summary": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-    "points": 78,
+    "points": 80,
     "path": "news/2026/11/22/aaa55aaf5989-muru-ai-assisted-rust-server-for-python-apps-by-mod-wsgi-s-c.md"
   },
   {
@@ -444,7 +572,7 @@
     ],
     "importance": 3,
     "summary": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "points": 1035,
+    "points": 1038,
     "path": "news/2026/11/22/d7e78f94bca2-87-of-the-anthropic-power-will-come-from-gas-and-11-from-coa.md"
   },
   {
@@ -458,7 +586,7 @@
     ],
     "importance": 2,
     "summary": "AI Supply Chain Security: What Canary Tokens Found",
-    "points": 105,
+    "points": 106,
     "path": "news/2026/11/22/842fc07e68b3-ai-supply-chain-security-what-canary-tokens-found.md"
   },
   {
@@ -496,7 +624,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Perplexity and Intelligence",
-    "points": 713,
+    "points": 717,
     "path": "news/2026/11/22/1a10f1676d46-perplexity-and-intelligence.md"
   },
   {
