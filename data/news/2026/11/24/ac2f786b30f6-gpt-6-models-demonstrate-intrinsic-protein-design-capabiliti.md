@@ -5,8 +5,8 @@ url: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-
 source: openai
 published_at: 2026-11-24T13:00:00.000Z
 fetched_at: 2026-11-25T01:41:14.242Z
-importance: 2
-points: 164
+importance: 3
+points: 324
 tags: [model, research]
 ---
 

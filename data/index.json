@@ -1,5 +1,110 @@
 [
   {
+    "id": "681ddfb81dd7",
+    "title": "Rumors swirling that labs might have cracked Factoring in P",
+    "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-25T15:08:44Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Rumors swirling that labs might have cracked Factoring in P",
+    "points": 80,
+    "path": "news/2026/11/25/681ddfb81dd7-rumors-swirling-that-labs-might-have-cracked-factoring-in-p.md"
+  },
+  {
+    "id": "0077e07924e4",
+    "title": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "source": "huggingface",
+    "publishedAt": "2026-11-25T10:22:09.000Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "An Indic Voice Agent with CUGA",
+    "path": "news/2026/11/25/0077e07924e4-an-indic-voice-agent-with-cuga.md"
+  },
+  {
+    "id": "fe89a7f4f466",
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "url": "https://gpu-demo-gallery.pages.dev/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-25T04:31:48Z",
+    "tags": [
+      "opensource",
+      "infra"
+    ],
+    "importance": 3,
+    "summary": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "points": 261,
+    "path": "news/2026/11/25/fe89a7f4f466-show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-b.md"
+  },
+  {
+    "id": "6e701ed04efb",
+    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+    "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+    "source": "hackernews",
+    "publishedAt": "2026-11-25T04:03:33Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+    "points": 201,
+    "path": "news/2026/11/25/6e701ed04efb-gemini-refused-to-give-me-the-lyrics-to-twinkle-twinkle-litt.md"
+  },
+  {
+    "id": "5ab91ae86dc0",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-25T03:47:42Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "points": 190,
+    "path": "news/2026/11/25/5ab91ae86dc0-marginalia-search-money-c-rust-ai-stuff.md"
+  },
+  {
+    "id": "3872e74c58bd",
+    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "url": "https://www.proofatlas.ai/open-problems/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-25T03:01:36Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "points": 88,
+    "path": "news/2026/11/25/3872e74c58bd-top-open-problems-in-mathematics-ranked-by-llm-assessed-impo.md"
+  },
+  {
+    "id": "22f7a46f7fe9",
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "source": "hackernews",
+    "publishedAt": "2026-11-25T01:19:26Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "points": 855,
+    "path": "news/2026/11/25/22f7a46f7fe9-matrix-multiplication-is-n-2-25-pdf.md"
+  },
+  {
+    "id": "0b9c4fffd365",
+    "title": "Get in, friends, the Atmosphere is happening",
+    "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T23:23:35Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Get in, friends, the Atmosphere is happening",
+    "points": 60,
+    "path": "news/2026/11/24/0b9c4fffd365-get-in-friends-the-atmosphere-is-happening.md"
+  },
+  {
     "id": "7862748937ff",
     "title": "Working with AI",
     "url": "https://www.anthropic.com/research/working-with-ai",
@@ -8,7 +113,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Working with AI",
-    "points": 63,
+    "points": 79,
     "path": "news/2026/11/24/7862748937ff-working-with-ai.md"
   },
   {
@@ -20,7 +125,7 @@
     "tags": [],
     "importance": 2,
     "summary": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
-    "points": 85,
+    "points": 96,
     "path": "news/2026/11/24/f8198597ae6c-openai-reveals-they-solved-vp-vnp-before-anthropic.md"
   },
   {
@@ -32,7 +137,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
-    "points": 200,
+    "points": 221,
     "path": "news/2026/11/24/88520ae3e584-anthropic-staff-openly-talk-about-taking-over-the-world-clai.md"
   },
   {
@@ -59,7 +164,7 @@
     ],
     "importance": 3,
     "summary": "Tidal bans AI-generated music",
-    "points": 318,
+    "points": 333,
     "path": "news/2026/11/24/8914c0669275-tidal-bans-ai-generated-music.md"
   },
   {
@@ -73,7 +178,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-    "points": 86,
+    "points": 99,
     "path": "news/2026/11/24/66e6136a2975-show-hn-mason-a-lightweight-postgres-read-replica-built-on-c.md"
   },
   {
@@ -100,7 +205,7 @@
     ],
     "importance": 2,
     "summary": "Anthropic is below its IPO price",
-    "points": 128,
+    "points": 129,
     "path": "news/2026/11/24/e20cd11d2332-anthropic-is-below-its-ipo-price.md"
   },
   {
@@ -114,7 +219,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-    "points": 342,
+    "points": 414,
     "path": "news/2026/11/24/1e8fe8d51502-anthropic-breaks-below-83-ipo-price-in-premarket-trading.md"
   },
   {
@@ -127,9 +232,9 @@
       "model",
       "research"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "points": 164,
+    "points": 324,
     "path": "news/2026/11/24/ac2f786b30f6-gpt-6-models-demonstrate-intrinsic-protein-design-capabiliti.md"
   },
   {
@@ -144,7 +249,7 @@
     ],
     "importance": 3,
     "summary": "LLM agents work for their parent companies, not for you",
-    "points": 907,
+    "points": 989,
     "path": "news/2026/11/24/02e27935986c-llm-agents-work-for-their-parent-companies-not-for-you.md"
   },
   {
@@ -167,7 +272,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-    "points": 79,
+    "points": 81,
     "path": "news/2026/11/24/89859b71aef0-jevons-paradox-in-ai-cheaper-tokens-won-t-pay-for-capex.md"
   },
   {
@@ -179,7 +284,7 @@
     "tags": [],
     "importance": 3,
     "summary": "India's opposition storms Meta's offices to get its Instagram accounts back",
-    "points": 230,
+    "points": 236,
     "path": "news/2026/11/24/4a0f8af51ad7-india-s-opposition-storms-meta-s-offices-to-get-its-instagra.md"
   },
   {
@@ -191,7 +296,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Declare is a UI language for you and your AI",
-    "points": 105,
+    "points": 113,
     "path": "news/2026/11/24/0f779e7fa162-declare-is-a-ui-language-for-you-and-your-ai.md"
   },
   {
@@ -255,7 +360,7 @@
     "tags": [],
     "importance": 3,
     "summary": "VP ≠ VNP over Every Field",
-    "points": 357,
+    "points": 365,
     "path": "news/2026/11/23/e68c6b8d3ebd-vp-vnp-over-every-field.md"
   },
   {
@@ -270,7 +375,7 @@
     "importance": 2,
     "summary": "OpenAI and Cisco introduce Shirudo",
     "path": "news/2026/11/23/b0689cf87ab5-openai-and-cisco-introduce-shirudo.md",
-    "points": 83
+    "points": 85
   },
   {
     "id": "b5129d6fc89a",
@@ -283,7 +388,7 @@
     ],
     "importance": 2,
     "summary": "Claude Ship",
-    "points": 87,
+    "points": 88,
     "path": "news/2026/11/23/b5129d6fc89a-claude-ship.md"
   },
   {
@@ -348,7 +453,7 @@
     ],
     "importance": 2,
     "summary": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-    "points": 191,
+    "points": 195,
     "path": "news/2026/11/23/9f183e9f9f75-nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file.md"
   },
   {
@@ -360,7 +465,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-    "points": 78,
+    "points": 79,
     "path": "news/2026/11/23/949f5ce24876-amodei-reportedly-suggested-games-could-pacify-masses-after-.md"
   },
   {
@@ -374,7 +479,7 @@
     ],
     "importance": 3,
     "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-    "points": 1165,
+    "points": 1174,
     "path": "news/2026/11/23/f1db7ce98881-glm-5-4-toward-generalized-coding-with-our-first-loop-transf.md"
   },
   {
@@ -450,7 +555,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-    "points": 262,
+    "points": 264,
     "path": "news/2026/11/22/61d8127e693f-progress-map-for-the-lean-formalization-of-alessandro-masull.md"
   },
   {
@@ -477,7 +582,7 @@
     ],
     "importance": 3,
     "summary": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "points": 772,
+    "points": 774,
     "path": "news/2026/11/22/c75d02646488-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.md"
   },
   {
@@ -503,7 +608,7 @@
     ],
     "importance": 2,
     "summary": "Harvard CS 2881R AI Safety",
-    "points": 81,
+    "points": 82,
     "path": "news/2026/11/22/605bc9329fe9-harvard-cs-2881r-ai-safety.md"
   },
   {
@@ -624,7 +729,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Perplexity and Intelligence",
-    "points": 717,
+    "points": 719,
     "path": "news/2026/11/22/1a10f1676d46-perplexity-and-intelligence.md"
   },
   {
