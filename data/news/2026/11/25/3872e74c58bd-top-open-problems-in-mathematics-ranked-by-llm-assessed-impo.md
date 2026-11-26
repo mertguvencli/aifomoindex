@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-25T03:01:36Z
 fetched_at: 2026-11-25T16:18:43.435Z
 importance: 2
-points: 101
+points: 104
 tags: [model]
 ---
 

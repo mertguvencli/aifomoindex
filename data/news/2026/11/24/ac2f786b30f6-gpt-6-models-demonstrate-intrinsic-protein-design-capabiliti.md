@@ -6,7 +6,7 @@ source: openai
 published_at: 2026-11-24T13:00:00.000Z
 fetched_at: 2026-11-25T01:41:14.242Z
 importance: 3
-points: 350
+points: 355
 tags: [model, research]
 ---
 

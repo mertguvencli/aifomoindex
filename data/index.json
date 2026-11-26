@@ -1,5 +1,88 @@
 [
   {
+    "id": "a734da9d3a1d",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "huggingface",
+    "publishedAt": "2026-11-26T11:37:17.000Z",
+    "tags": [
+      "model",
+      "product",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "path": "news/2026/11/26/a734da9d3a1d-introducing-the-llama-cpp-benchmark-dashboard-for-amd-ryzen-.md"
+  },
+  {
+    "id": "9a36b64e1e92",
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T09:44:23Z",
+    "tags": [
+      "tool"
+    ],
+    "importance": 2,
+    "summary": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "points": 91,
+    "path": "news/2026/11/26/9a36b64e1e92-google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one.md"
+  },
+  {
+    "id": "e2ac2e209969",
+    "title": "Moat: Your OpenRouter Replacement",
+    "url": "https://commandcode.ai/moat",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T06:32:48Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "Moat: Your OpenRouter Replacement",
+    "points": 149,
+    "path": "news/2026/11/26/e2ac2e209969-moat-your-openrouter-replacement.md"
+  },
+  {
+    "id": "3d2697b636d7",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "source": "huggingface",
+    "publishedAt": "2026-11-26T05:05:36.000Z",
+    "tags": [
+      "infra",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "path": "news/2026/11/26/3d2697b636d7-building-on-nemotron-3-5-parse-open-data-fine-tuning-and-fas.md"
+  },
+  {
+    "id": "1572d1e1c176",
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T03:36:58Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "points": 396,
+    "path": "news/2026/11/26/1572d1e1c176-openai-cuts-gpt-6-2-usage-astra-hits-limits-40-faster-sol-25.md"
+  },
+  {
+    "id": "819f2bb8e324",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "source": "huggingface",
+    "publishedAt": "2026-11-26T00:00:00.000Z",
+    "tags": [
+      "tool",
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "path": "news/2026/11/26/819f2bb8e324-swarms-flocks-gangs-how-to-build-train-and-evaluate-multi-ag.md"
+  },
+  {
     "id": "acd1839cbac0",
     "title": "Bare Metal Qwen",
     "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
@@ -8,9 +91,9 @@
     "tags": [
       "model"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Bare Metal Qwen",
-    "points": 52,
+    "points": 206,
     "path": "news/2026/11/25/acd1839cbac0-bare-metal-qwen.md"
   },
   {
@@ -22,7 +105,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Much shorter version of GRH Lean verification from Anthropic",
-    "points": 246,
+    "points": 505,
     "path": "news/2026/11/25/d0f423014258-much-shorter-version-of-grh-lean-verification-from-anthropic.md"
   },
   {
@@ -32,9 +115,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-25T21:18:02Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "The New York Times warns photographers not to update Photoshop over AI features",
-    "points": 184,
+    "points": 514,
     "path": "news/2026/11/25/e0db27b64455-the-new-york-times-warns-photographers-not-to-update-photosh.md"
   },
   {
@@ -46,7 +129,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
-    "points": 51,
+    "points": 57,
     "path": "news/2026/11/25/8971bf895bd5-spending-35b-opus-5-5-tokens-to-write-a-symphony.md"
   },
   {
@@ -73,8 +156,22 @@
     "tags": [],
     "importance": 2,
     "summary": "The polynomial Hirsch conjecture is false [pdf]",
-    "points": 119,
+    "points": 171,
     "path": "news/2026/11/25/636ec9fc5513-the-polynomial-hirsch-conjecture-is-false-pdf.md"
+  },
+  {
+    "id": "13305f74bc3c",
+    "title": "New York bans AI toys, including those using internet to talk to children",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+    "source": "hackernews",
+    "publishedAt": "2026-11-25T17:27:05Z",
+    "tags": [
+      "policy"
+    ],
+    "importance": 2,
+    "summary": "New York bans AI toys, including those using internet to talk to children",
+    "points": 54,
+    "path": "news/2026/11/25/13305f74bc3c-new-york-bans-ai-toys-including-those-using-internet-to-talk.md"
   },
   {
     "id": "681ddfb81dd7",
@@ -85,7 +182,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Rumors swirling that labs might have cracked Factoring in P",
-    "points": 461,
+    "points": 495,
     "path": "news/2026/11/25/681ddfb81dd7-rumors-swirling-that-labs-might-have-cracked-factoring-in-p.md"
   },
   {
@@ -114,7 +211,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "points": 337,
+    "points": 352,
     "path": "news/2026/11/25/fe89a7f4f466-show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-b.md"
   },
   {
@@ -128,7 +225,7 @@
     ],
     "importance": 3,
     "summary": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-    "points": 214,
+    "points": 219,
     "path": "news/2026/11/25/6e701ed04efb-gemini-refused-to-give-me-the-lyrics-to-twinkle-twinkle-litt.md"
   },
   {
@@ -140,7 +237,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "points": 218,
+    "points": 221,
     "path": "news/2026/11/25/5ab91ae86dc0-marginalia-search-money-c-rust-ai-stuff.md"
   },
   {
@@ -154,7 +251,7 @@
     ],
     "importance": 2,
     "summary": "Top open problems in mathematics ranked by LLM-assessed importance",
-    "points": 101,
+    "points": 104,
     "path": "news/2026/11/25/3872e74c58bd-top-open-problems-in-mathematics-ranked-by-llm-assessed-impo.md"
   },
   {
@@ -166,7 +263,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-    "points": 1022,
+    "points": 1052,
     "path": "news/2026/11/25/22f7a46f7fe9-matrix-multiplication-is-n-2-25-pdf.md"
   },
   {
@@ -192,7 +289,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Get in, friends, the Atmosphere is happening",
-    "points": 63,
+    "points": 64,
     "path": "news/2026/11/24/0b9c4fffd365-get-in-friends-the-atmosphere-is-happening.md"
   },
   {
@@ -218,7 +315,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Working with AI",
-    "points": 88,
+    "points": 89,
     "path": "news/2026/11/24/7862748937ff-working-with-ai.md"
   },
   {
@@ -242,7 +339,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
-    "points": 223,
+    "points": 224,
     "path": "news/2026/11/24/88520ae3e584-anthropic-staff-openly-talk-about-taking-over-the-world-clai.md"
   },
   {
@@ -269,7 +366,7 @@
     ],
     "importance": 3,
     "summary": "Tidal bans AI-generated music",
-    "points": 334,
+    "points": 337,
     "path": "news/2026/11/24/8914c0669275-tidal-bans-ai-generated-music.md"
   },
   {
@@ -283,7 +380,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-    "points": 101,
+    "points": 106,
     "path": "news/2026/11/24/66e6136a2975-show-hn-mason-a-lightweight-postgres-read-replica-built-on-c.md"
   },
   {
@@ -324,7 +421,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-    "points": 422,
+    "points": 429,
     "path": "news/2026/11/24/1e8fe8d51502-anthropic-breaks-below-83-ipo-price-in-premarket-trading.md"
   },
   {
@@ -350,7 +447,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "points": 350,
+    "points": 355,
     "path": "news/2026/11/24/ac2f786b30f6-gpt-6-models-demonstrate-intrinsic-protein-design-capabiliti.md"
   },
   {
@@ -365,7 +462,7 @@
     ],
     "importance": 3,
     "summary": "LLM agents work for their parent companies, not for you",
-    "points": 1000,
+    "points": 1021,
     "path": "news/2026/11/24/02e27935986c-llm-agents-work-for-their-parent-companies-not-for-you.md"
   },
   {
@@ -388,8 +485,22 @@
     "tags": [],
     "importance": 2,
     "summary": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-    "points": 81,
+    "points": 82,
     "path": "news/2026/11/24/89859b71aef0-jevons-paradox-in-ai-cheaper-tokens-won-t-pay-for-capex.md"
+  },
+  {
+    "id": "cb180ab2e1b6",
+    "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+    "url": "https://www.rchive.computer/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T07:03:33Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+    "points": 51,
+    "path": "news/2026/11/24/cb180ab2e1b6-show-hn-rchive-every-drive-i-ve-owned-since-the-90s-searchab.md"
   },
   {
     "id": "4a0f8af51ad7",
@@ -400,7 +511,7 @@
     "tags": [],
     "importance": 3,
     "summary": "India's opposition storms Meta's offices to get its Instagram accounts back",
-    "points": 237,
+    "points": 238,
     "path": "news/2026/11/24/4a0f8af51ad7-india-s-opposition-storms-meta-s-offices-to-get-its-instagra.md"
   },
   {
@@ -414,8 +525,22 @@
     ],
     "importance": 3,
     "summary": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-    "points": 221,
+    "points": 264,
     "path": "news/2026/11/24/247664f7b48a-porting-rockbox-to-an-undocumented-9-aliexpress-yp3-mp3-play.md"
+  },
+  {
+    "id": "243dfaa22eae",
+    "title": "Show HN: Synth Patch Hero",
+    "url": "https://swarkentin.github.io/synth-patch-hero/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-24T03:24:22Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: Synth Patch Hero",
+    "points": 107,
+    "path": "news/2026/11/24/243dfaa22eae-show-hn-synth-patch-hero.md"
   },
   {
     "id": "0f779e7fa162",
@@ -426,7 +551,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Declare is a UI language for you and your AI",
-    "points": 116,
+    "points": 119,
     "path": "news/2026/11/24/0f779e7fa162-declare-is-a-ui-language-for-you-and-your-ai.md"
   },
   {
@@ -490,7 +615,7 @@
     "tags": [],
     "importance": 3,
     "summary": "VP ≠ VNP over Every Field",
-    "points": 367,
+    "points": 368,
     "path": "news/2026/11/23/e68c6b8d3ebd-vp-vnp-over-every-field.md"
   },
   {
@@ -505,7 +630,7 @@
     "importance": 2,
     "summary": "OpenAI and Cisco introduce Shirudo",
     "path": "news/2026/11/23/b0689cf87ab5-openai-and-cisco-introduce-shirudo.md",
-    "points": 86
+    "points": 87
   },
   {
     "id": "b5129d6fc89a",
@@ -518,7 +643,7 @@
     ],
     "importance": 2,
     "summary": "Claude Ship",
-    "points": 89,
+    "points": 90,
     "path": "news/2026/11/23/b5129d6fc89a-claude-ship.md"
   },
   {

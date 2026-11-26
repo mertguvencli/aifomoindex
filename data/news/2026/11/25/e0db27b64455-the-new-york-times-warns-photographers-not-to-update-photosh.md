@@ -5,8 +5,8 @@ url: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-ti
 source: hackernews
 published_at: 2026-11-25T21:18:02Z
 fetched_at: 2026-11-26T01:13:49.552Z
-importance: 2
-points: 184
+importance: 3
+points: 514
 tags: []
 ---
 
