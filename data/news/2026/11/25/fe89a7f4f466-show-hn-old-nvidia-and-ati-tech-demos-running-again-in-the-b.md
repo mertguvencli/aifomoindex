@@ -6,7 +6,7 @@ source: hackernews
 published_at: 2026-11-25T04:31:48Z
 fetched_at: 2026-11-25T16:18:43.435Z
 importance: 3
-points: 261
+points: 337
 tags: [opensource, infra]
 ---
 

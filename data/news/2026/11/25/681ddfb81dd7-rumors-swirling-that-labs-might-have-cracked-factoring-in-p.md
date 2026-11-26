@@ -5,8 +5,8 @@ url: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_
 source: hackernews
 published_at: 2026-11-25T15:08:44Z
 fetched_at: 2026-11-25T16:18:43.435Z
-importance: 2
-points: 80
+importance: 3
+points: 461
 tags: []
 ---
 

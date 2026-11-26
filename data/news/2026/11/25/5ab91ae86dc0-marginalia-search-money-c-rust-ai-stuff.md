@@ -5,8 +5,8 @@ url: https://www.marginalia.nu/log/a_141_marginalia_update/
 source: hackernews
 published_at: 2026-11-25T03:47:42Z
 fetched_at: 2026-11-25T16:18:43.435Z
-importance: 2
-points: 190
+importance: 3
+points: 218
 tags: []
 ---
 
