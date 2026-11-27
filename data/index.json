@@ -1,5 +1,81 @@
 [
   {
+    "id": "aebfbe56731b",
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T21:47:45Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "AI made self-hosting fun again",
+    "points": 267,
+    "path": "news/2026/11/26/aebfbe56731b-ai-made-self-hosting-fun-again.md"
+  },
+  {
+    "id": "304eb6f376a1",
+    "title": "The USA as a Civilizations-esque map",
+    "url": "https://karpathy.ai/usaciv/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T19:53:58Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "The USA as a Civilizations-esque map",
+    "points": 67,
+    "path": "news/2026/11/26/304eb6f376a1-the-usa-as-a-civilizations-esque-map.md"
+  },
+  {
+    "id": "655cc26755f4",
+    "title": "Tracking Diseases Cured by AI",
+    "url": "https://diseasescuredbyai.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T17:16:41Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "Tracking Diseases Cured by AI",
+    "points": 299,
+    "path": "news/2026/11/26/655cc26755f4-tracking-diseases-cured-by-ai.md"
+  },
+  {
+    "id": "40cb24997469",
+    "title": "AMD-specific fork of llama.cpp",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T17:11:29Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "AMD-specific fork of llama.cpp",
+    "points": 279,
+    "path": "news/2026/11/26/40cb24997469-amd-specific-fork-of-llama-cpp.md"
+  },
+  {
+    "id": "1ff9ac2f00c6",
+    "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+    "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T16:55:15Z",
+    "tags": [],
+    "importance": 2,
+    "summary": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+    "points": 55,
+    "path": "news/2026/11/26/1ff9ac2f00c6-one-guy-is-doing-a-hunger-strike-outside-anthropic-currently.md"
+  },
+  {
+    "id": "16dc45523745",
+    "title": "Show HN: I wrote an entire Vim manual over 4 years",
+    "url": "http://themouseless.dev/vim/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T14:44:22Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: I wrote an entire Vim manual over 4 years",
+    "points": 52,
+    "path": "news/2026/11/26/16dc45523745-show-hn-i-wrote-an-entire-vim-manual-over-4-years.md"
+  },
+  {
     "id": "a734da9d3a1d",
     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
     "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -23,10 +99,22 @@
     "tags": [
       "tool"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "points": 91,
+    "points": 228,
     "path": "news/2026/11/26/9a36b64e1e92-google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one.md"
+  },
+  {
+    "id": "030a9d5b67bf",
+    "title": "OpenAI may be in cost control mode",
+    "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T07:33:12Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "OpenAI may be in cost control mode",
+    "points": 265,
+    "path": "news/2026/11/26/030a9d5b67bf-openai-may-be-in-cost-control-mode.md"
   },
   {
     "id": "e2ac2e209969",
@@ -35,9 +123,9 @@
     "source": "hackernews",
     "publishedAt": "2026-11-26T06:32:48Z",
     "tags": [],
-    "importance": 2,
+    "importance": 3,
     "summary": "Moat: Your OpenRouter Replacement",
-    "points": 149,
+    "points": 246,
     "path": "news/2026/11/26/e2ac2e209969-moat-your-openrouter-replacement.md"
   },
   {
@@ -65,7 +153,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-    "points": 396,
+    "points": 463,
     "path": "news/2026/11/26/1572d1e1c176-openai-cuts-gpt-6-2-usage-astra-hits-limits-40-faster-sol-25.md"
   },
   {
@@ -93,7 +181,7 @@
     ],
     "importance": 3,
     "summary": "Bare Metal Qwen",
-    "points": 206,
+    "points": 228,
     "path": "news/2026/11/25/acd1839cbac0-bare-metal-qwen.md"
   },
   {
@@ -105,7 +193,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Much shorter version of GRH Lean verification from Anthropic",
-    "points": 505,
+    "points": 546,
     "path": "news/2026/11/25/d0f423014258-much-shorter-version-of-grh-lean-verification-from-anthropic.md"
   },
   {
@@ -117,7 +205,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The New York Times warns photographers not to update Photoshop over AI features",
-    "points": 514,
+    "points": 650,
     "path": "news/2026/11/25/e0db27b64455-the-new-york-times-warns-photographers-not-to-update-photosh.md"
   },
   {
@@ -156,7 +244,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The polynomial Hirsch conjecture is false [pdf]",
-    "points": 171,
+    "points": 178,
     "path": "news/2026/11/25/636ec9fc5513-the-polynomial-hirsch-conjecture-is-false-pdf.md"
   },
   {
@@ -170,7 +258,7 @@
     ],
     "importance": 2,
     "summary": "New York bans AI toys, including those using internet to talk to children",
-    "points": 54,
+    "points": 55,
     "path": "news/2026/11/25/13305f74bc3c-new-york-bans-ai-toys-including-those-using-internet-to-talk.md"
   },
   {
@@ -182,7 +270,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Rumors swirling that labs might have cracked Factoring in P",
-    "points": 495,
+    "points": 505,
     "path": "news/2026/11/25/681ddfb81dd7-rumors-swirling-that-labs-might-have-cracked-factoring-in-p.md"
   },
   {
@@ -211,7 +299,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "points": 352,
+    "points": 353,
     "path": "news/2026/11/25/fe89a7f4f466-show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-b.md"
   },
   {
@@ -225,7 +313,7 @@
     ],
     "importance": 3,
     "summary": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-    "points": 219,
+    "points": 222,
     "path": "news/2026/11/25/6e701ed04efb-gemini-refused-to-give-me-the-lyrics-to-twinkle-twinkle-litt.md"
   },
   {
@@ -237,7 +325,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "points": 221,
+    "points": 223,
     "path": "news/2026/11/25/5ab91ae86dc0-marginalia-search-money-c-rust-ai-stuff.md"
   },
   {
@@ -263,7 +351,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-    "points": 1052,
+    "points": 1063,
     "path": "news/2026/11/25/22f7a46f7fe9-matrix-multiplication-is-n-2-25-pdf.md"
   },
   {
@@ -339,7 +427,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
-    "points": 224,
+    "points": 225,
     "path": "news/2026/11/24/88520ae3e584-anthropic-staff-openly-talk-about-taking-over-the-world-clai.md"
   },
   {
@@ -380,7 +468,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-    "points": 106,
+    "points": 107,
     "path": "news/2026/11/24/66e6136a2975-show-hn-mason-a-lightweight-postgres-read-replica-built-on-c.md"
   },
   {
@@ -421,7 +509,7 @@
     ],
     "importance": 3,
     "summary": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-    "points": 429,
+    "points": 433,
     "path": "news/2026/11/24/1e8fe8d51502-anthropic-breaks-below-83-ipo-price-in-premarket-trading.md"
   },
   {
@@ -447,7 +535,7 @@
     ],
     "importance": 3,
     "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "points": 355,
+    "points": 356,
     "path": "news/2026/11/24/ac2f786b30f6-gpt-6-models-demonstrate-intrinsic-protein-design-capabiliti.md"
   },
   {
@@ -462,7 +550,7 @@
     ],
     "importance": 3,
     "summary": "LLM agents work for their parent companies, not for you",
-    "points": 1021,
+    "points": 1029,
     "path": "news/2026/11/24/02e27935986c-llm-agents-work-for-their-parent-companies-not-for-you.md"
   },
   {
@@ -499,7 +587,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-    "points": 51,
+    "points": 53,
     "path": "news/2026/11/24/cb180ab2e1b6-show-hn-rchive-every-drive-i-ve-owned-since-the-90s-searchab.md"
   },
   {
@@ -525,7 +613,7 @@
     ],
     "importance": 3,
     "summary": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-    "points": 264,
+    "points": 274,
     "path": "news/2026/11/24/247664f7b48a-porting-rockbox-to-an-undocumented-9-aliexpress-yp3-mp3-play.md"
   },
   {
@@ -539,7 +627,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Synth Patch Hero",
-    "points": 107,
+    "points": 129,
     "path": "news/2026/11/24/243dfaa22eae-show-hn-synth-patch-hero.md"
   },
   {
@@ -551,7 +639,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Declare is a UI language for you and your AI",
-    "points": 119,
+    "points": 122,
     "path": "news/2026/11/24/0f779e7fa162-declare-is-a-ui-language-for-you-and-your-ai.md"
   },
   {

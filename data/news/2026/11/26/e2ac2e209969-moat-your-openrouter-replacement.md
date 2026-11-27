@@ -5,8 +5,8 @@ url: https://commandcode.ai/moat
 source: hackernews
 published_at: 2026-11-26T06:32:48Z
 fetched_at: 2026-11-26T15:54:35.132Z
-importance: 2
-points: 149
+importance: 3
+points: 246
 tags: []
 ---
 

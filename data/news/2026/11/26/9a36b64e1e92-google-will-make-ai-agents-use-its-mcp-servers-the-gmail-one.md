@@ -5,8 +5,8 @@ url: https://techstackups.com/articles/google-workspace-ai-agents-mcp/
 source: hackernews
 published_at: 2026-11-26T09:44:23Z
 fetched_at: 2026-11-26T15:54:35.132Z
-importance: 2
-points: 91
+importance: 3
+points: 228
 tags: [tool]
 ---
 
