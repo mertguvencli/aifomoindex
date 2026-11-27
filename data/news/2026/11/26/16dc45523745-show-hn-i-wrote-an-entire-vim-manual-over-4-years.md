@@ -5,8 +5,8 @@ url: http://themouseless.dev/vim/
 source: hackernews
 published_at: 2026-11-26T14:44:22Z
 fetched_at: 2026-11-27T01:13:12.049Z
-importance: 2
-points: 52
+importance: 3
+points: 250
 tags: [opensource]
 ---
 

@@ -1,5 +1,104 @@
 [
   {
+    "id": "99ad51141652",
+    "title": "Kimi for Science: More scientific ideas, made possible",
+    "url": "https://www.kimi.ai/news/kimi-for-science-program",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T12:03:11Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Kimi for Science: More scientific ideas, made possible",
+    "points": 102,
+    "path": "news/2026/11/27/99ad51141652-kimi-for-science-more-scientific-ideas-made-possible.md"
+  },
+  {
+    "id": "8d3363766b47",
+    "title": "AI on brink of making online security useless, mathematicians fear",
+    "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T11:09:04Z",
+    "tags": [
+      "safety"
+    ],
+    "importance": 2,
+    "summary": "AI on brink of making online security useless, mathematicians fear",
+    "points": 64,
+    "path": "news/2026/11/27/8d3363766b47-ai-on-brink-of-making-online-security-useless-mathematicians.md"
+  },
+  {
+    "id": "b645d71050c8",
+    "title": "Claude sabotaging ML research tasks?",
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T08:28:08Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Claude sabotaging ML research tasks?",
+    "points": 190,
+    "path": "news/2026/11/27/b645d71050c8-claude-sabotaging-ml-research-tasks.md"
+  },
+  {
+    "id": "76dfdf91db6f",
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T06:44:34Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "The group chat where your AI talks behind your back",
+    "points": 502,
+    "path": "news/2026/11/27/76dfdf91db6f-the-group-chat-where-your-ai-talks-behind-your-back.md"
+  },
+  {
+    "id": "322301f4a57f",
+    "title": "\"What's Claude's Fursona?\" and Other Questions",
+    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T04:56:18Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 2,
+    "summary": "\"What's Claude's Fursona?\" and Other Questions",
+    "points": 102,
+    "path": "news/2026/11/27/322301f4a57f-what-s-claude-s-fursona-and-other-questions.md"
+  },
+  {
+    "id": "305e62040e8a",
+    "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T00:03:18Z",
+    "tags": [
+      "model",
+      "tool",
+      "infra"
+    ],
+    "importance": 2,
+    "summary": "AI agents now control part of DeepMind's compute for Gemini experiments",
+    "points": 56,
+    "path": "news/2026/11/27/305e62040e8a-ai-agents-now-control-part-of-deepmind-s-compute-for-gemini-.md"
+  },
+  {
+    "id": "c2bd79531046",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "source": "huggingface",
+    "publishedAt": "2026-11-27T00:00:00.000Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "path": "news/2026/11/27/c2bd79531046-taking-trainium3-to-the-track-generating-videos-with-ltx-2-5.md"
+  },
+  {
     "id": "aebfbe56731b",
     "title": "AI made self-hosting fun again",
     "url": "https://janlukas.blog/posts/ai-self-hosting",
@@ -8,7 +107,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI made self-hosting fun again",
-    "points": 267,
+    "points": 915,
     "path": "news/2026/11/26/aebfbe56731b-ai-made-self-hosting-fun-again.md"
   },
   {
@@ -20,7 +119,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The USA as a Civilizations-esque map",
-    "points": 67,
+    "points": 72,
     "path": "news/2026/11/26/304eb6f376a1-the-usa-as-a-civilizations-esque-map.md"
   },
   {
@@ -32,7 +131,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Tracking Diseases Cured by AI",
-    "points": 299,
+    "points": 314,
     "path": "news/2026/11/26/655cc26755f4-tracking-diseases-cured-by-ai.md"
   },
   {
@@ -46,7 +145,7 @@
     ],
     "importance": 3,
     "summary": "AMD-specific fork of llama.cpp",
-    "points": 279,
+    "points": 409,
     "path": "news/2026/11/26/40cb24997469-amd-specific-fork-of-llama-cpp.md"
   },
   {
@@ -58,8 +157,22 @@
     "tags": [],
     "importance": 2,
     "summary": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
-    "points": 55,
+    "points": 60,
     "path": "news/2026/11/26/1ff9ac2f00c6-one-guy-is-doing-a-hunger-strike-outside-anthropic-currently.md"
+  },
+  {
+    "id": "b9a922b9838e",
+    "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+    "url": "https://github.com/rxliuli/sim-drop",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T16:51:38Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+    "points": 51,
+    "path": "news/2026/11/26/b9a922b9838e-show-hn-simdrop-running-ios-simulators-in-the-macos-finder-s.md"
   },
   {
     "id": "16dc45523745",
@@ -70,9 +183,9 @@
     "tags": [
       "opensource"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Show HN: I wrote an entire Vim manual over 4 years",
-    "points": 52,
+    "points": 250,
     "path": "news/2026/11/26/16dc45523745-show-hn-i-wrote-an-entire-vim-manual-over-4-years.md"
   },
   {
@@ -101,7 +214,7 @@
     ],
     "importance": 3,
     "summary": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "points": 228,
+    "points": 382,
     "path": "news/2026/11/26/9a36b64e1e92-google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one.md"
   },
   {
@@ -113,7 +226,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI may be in cost control mode",
-    "points": 265,
+    "points": 348,
     "path": "news/2026/11/26/030a9d5b67bf-openai-may-be-in-cost-control-mode.md"
   },
   {
@@ -125,7 +238,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Moat: Your OpenRouter Replacement",
-    "points": 246,
+    "points": 307,
     "path": "news/2026/11/26/e2ac2e209969-moat-your-openrouter-replacement.md"
   },
   {
@@ -143,6 +256,21 @@
     "path": "news/2026/11/26/3d2697b636d7-building-on-nemotron-3-5-parse-open-data-fine-tuning-and-fas.md"
   },
   {
+    "id": "7fd32cc4aacb",
+    "title": "Claude tries to sabotage research work at every stage",
+    "url": "https://twitter.com/skirano/status/2125371115979641188",
+    "source": "hackernews",
+    "publishedAt": "2026-11-26T04:49:21Z",
+    "tags": [
+      "model",
+      "research"
+    ],
+    "importance": 2,
+    "summary": "Claude tries to sabotage research work at every stage",
+    "points": 70,
+    "path": "news/2026/11/26/7fd32cc4aacb-claude-tries-to-sabotage-research-work-at-every-stage.md"
+  },
+  {
     "id": "1572d1e1c176",
     "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
     "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
@@ -153,7 +281,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-    "points": 463,
+    "points": 499,
     "path": "news/2026/11/26/1572d1e1c176-openai-cuts-gpt-6-2-usage-astra-hits-limits-40-faster-sol-25.md"
   },
   {
@@ -181,7 +309,7 @@
     ],
     "importance": 3,
     "summary": "Bare Metal Qwen",
-    "points": 228,
+    "points": 233,
     "path": "news/2026/11/25/acd1839cbac0-bare-metal-qwen.md"
   },
   {
@@ -193,7 +321,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Much shorter version of GRH Lean verification from Anthropic",
-    "points": 546,
+    "points": 558,
     "path": "news/2026/11/25/d0f423014258-much-shorter-version-of-grh-lean-verification-from-anthropic.md"
   },
   {
@@ -205,7 +333,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The New York Times warns photographers not to update Photoshop over AI features",
-    "points": 650,
+    "points": 676,
     "path": "news/2026/11/25/e0db27b64455-the-new-york-times-warns-photographers-not-to-update-photosh.md"
   },
   {
@@ -244,7 +372,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The polynomial Hirsch conjecture is false [pdf]",
-    "points": 178,
+    "points": 180,
     "path": "news/2026/11/25/636ec9fc5513-the-polynomial-hirsch-conjecture-is-false-pdf.md"
   },
   {
@@ -258,7 +386,7 @@
     ],
     "importance": 2,
     "summary": "New York bans AI toys, including those using internet to talk to children",
-    "points": 55,
+    "points": 56,
     "path": "news/2026/11/25/13305f74bc3c-new-york-bans-ai-toys-including-those-using-internet-to-talk.md"
   },
   {
@@ -270,7 +398,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Rumors swirling that labs might have cracked Factoring in P",
-    "points": 505,
+    "points": 510,
     "path": "news/2026/11/25/681ddfb81dd7-rumors-swirling-that-labs-might-have-cracked-factoring-in-p.md"
   },
   {
@@ -299,7 +427,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "points": 353,
+    "points": 355,
     "path": "news/2026/11/25/fe89a7f4f466-show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-b.md"
   },
   {
@@ -325,7 +453,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "points": 223,
+    "points": 224,
     "path": "news/2026/11/25/5ab91ae86dc0-marginalia-search-money-c-rust-ai-stuff.md"
   },
   {
@@ -339,7 +467,7 @@
     ],
     "importance": 2,
     "summary": "Top open problems in mathematics ranked by LLM-assessed importance",
-    "points": 104,
+    "points": 105,
     "path": "news/2026/11/25/3872e74c58bd-top-open-problems-in-mathematics-ranked-by-llm-assessed-impo.md"
   },
   {
@@ -351,7 +479,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-    "points": 1063,
+    "points": 1067,
     "path": "news/2026/11/25/22f7a46f7fe9-matrix-multiplication-is-n-2-25-pdf.md"
   },
   {
@@ -403,7 +531,7 @@
     "tags": [],
     "importance": 2,
     "summary": "Working with AI",
-    "points": 89,
+    "points": 90,
     "path": "news/2026/11/24/7862748937ff-working-with-ai.md"
   },
   {
@@ -468,7 +596,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-    "points": 107,
+    "points": 109,
     "path": "news/2026/11/24/66e6136a2975-show-hn-mason-a-lightweight-postgres-read-replica-built-on-c.md"
   },
   {
