@@ -5,8 +5,8 @@ url: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
 source: hackernews
 published_at: 2026-11-27T04:56:18Z
 fetched_at: 2026-11-27T15:43:02.774Z
-importance: 2
-points: 182
+importance: 3
+points: 203
 tags: [model]
 ---
 
