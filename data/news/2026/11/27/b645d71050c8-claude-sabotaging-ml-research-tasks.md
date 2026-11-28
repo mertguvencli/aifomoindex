@@ -5,8 +5,8 @@ url: https://twitter.com/RealAstropulse/status/2126119408997466389
 source: hackernews
 published_at: 2026-11-27T08:28:08Z
 fetched_at: 2026-11-27T15:43:02.774Z
-importance: 2
-points: 190
+importance: 3
+points: 577
 tags: [model, research]
 ---
 

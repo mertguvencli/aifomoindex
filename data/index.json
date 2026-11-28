@@ -1,5 +1,59 @@
 [
   {
+    "id": "6f522ca9ee99",
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "url": "https://dragdropmath.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T17:56:28Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 2,
+    "summary": "Show HN: DragDropMath – Learn math by feel",
+    "points": 90,
+    "path": "news/2026/11/27/6f522ca9ee99-show-hn-dragdropmath-learn-math-by-feel.md"
+  },
+  {
+    "id": "117d78644729",
+    "title": "I'm Scared of AI",
+    "url": "https://thesoapbox.email/archive/3",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T17:45:31Z",
+    "tags": [],
+    "importance": 3,
+    "summary": "I'm Scared of AI",
+    "points": 201,
+    "path": "news/2026/11/27/117d78644729-i-m-scared-of-ai.md"
+  },
+  {
+    "id": "fb8bde07edc4",
+    "title": "GPT 6.2 Astra solves a historical mystery",
+    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T15:03:17Z",
+    "tags": [
+      "model"
+    ],
+    "importance": 3,
+    "summary": "GPT 6.2 Astra solves a historical mystery",
+    "points": 283,
+    "path": "news/2026/11/27/fb8bde07edc4-gpt-6-2-astra-solves-a-historical-mystery.md"
+  },
+  {
+    "id": "d0c7a2169488",
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "url": "https://bouncemarket.minhanhday.com/",
+    "source": "hackernews",
+    "publishedAt": "2026-11-27T15:01:50Z",
+    "tags": [
+      "opensource"
+    ],
+    "importance": 3,
+    "summary": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "points": 322,
+    "path": "news/2026/11/27/d0c7a2169488-show-hn-bouncemarket-a-live-prediction-market-game-for-a-bou.md"
+  },
+  {
     "id": "99ad51141652",
     "title": "Kimi for Science: More scientific ideas, made possible",
     "url": "https://www.kimi.ai/news/kimi-for-science-program",
@@ -11,7 +65,7 @@
     ],
     "importance": 2,
     "summary": "Kimi for Science: More scientific ideas, made possible",
-    "points": 102,
+    "points": 180,
     "path": "news/2026/11/27/99ad51141652-kimi-for-science-more-scientific-ideas-made-possible.md"
   },
   {
@@ -25,7 +79,7 @@
     ],
     "importance": 2,
     "summary": "AI on brink of making online security useless, mathematicians fear",
-    "points": 64,
+    "points": 115,
     "path": "news/2026/11/27/8d3363766b47-ai-on-brink-of-making-online-security-useless-mathematicians.md"
   },
   {
@@ -38,9 +92,9 @@
       "model",
       "research"
     ],
-    "importance": 2,
+    "importance": 3,
     "summary": "Claude sabotaging ML research tasks?",
-    "points": 190,
+    "points": 577,
     "path": "news/2026/11/27/b645d71050c8-claude-sabotaging-ml-research-tasks.md"
   },
   {
@@ -52,7 +106,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The group chat where your AI talks behind your back",
-    "points": 502,
+    "points": 682,
     "path": "news/2026/11/27/76dfdf91db6f-the-group-chat-where-your-ai-talks-behind-your-back.md"
   },
   {
@@ -66,7 +120,7 @@
     ],
     "importance": 2,
     "summary": "\"What's Claude's Fursona?\" and Other Questions",
-    "points": 102,
+    "points": 182,
     "path": "news/2026/11/27/322301f4a57f-what-s-claude-s-fursona-and-other-questions.md"
   },
   {
@@ -107,7 +161,7 @@
     "tags": [],
     "importance": 3,
     "summary": "AI made self-hosting fun again",
-    "points": 915,
+    "points": 1098,
     "path": "news/2026/11/26/aebfbe56731b-ai-made-self-hosting-fun-again.md"
   },
   {
@@ -119,7 +173,7 @@
     "tags": [],
     "importance": 2,
     "summary": "The USA as a Civilizations-esque map",
-    "points": 72,
+    "points": 73,
     "path": "news/2026/11/26/304eb6f376a1-the-usa-as-a-civilizations-esque-map.md"
   },
   {
@@ -131,7 +185,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Tracking Diseases Cured by AI",
-    "points": 314,
+    "points": 321,
     "path": "news/2026/11/26/655cc26755f4-tracking-diseases-cured-by-ai.md"
   },
   {
@@ -145,7 +199,7 @@
     ],
     "importance": 3,
     "summary": "AMD-specific fork of llama.cpp",
-    "points": 409,
+    "points": 438,
     "path": "news/2026/11/26/40cb24997469-amd-specific-fork-of-llama-cpp.md"
   },
   {
@@ -157,7 +211,7 @@
     "tags": [],
     "importance": 2,
     "summary": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
-    "points": 60,
+    "points": 61,
     "path": "news/2026/11/26/1ff9ac2f00c6-one-guy-is-doing-a-hunger-strike-outside-anthropic-currently.md"
   },
   {
@@ -171,7 +225,7 @@
     ],
     "importance": 2,
     "summary": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-    "points": 51,
+    "points": 60,
     "path": "news/2026/11/26/b9a922b9838e-show-hn-simdrop-running-ios-simulators-in-the-macos-finder-s.md"
   },
   {
@@ -185,7 +239,7 @@
     ],
     "importance": 3,
     "summary": "Show HN: I wrote an entire Vim manual over 4 years",
-    "points": 250,
+    "points": 299,
     "path": "news/2026/11/26/16dc45523745-show-hn-i-wrote-an-entire-vim-manual-over-4-years.md"
   },
   {
@@ -214,7 +268,7 @@
     ],
     "importance": 3,
     "summary": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "points": 382,
+    "points": 420,
     "path": "news/2026/11/26/9a36b64e1e92-google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one.md"
   },
   {
@@ -226,7 +280,7 @@
     "tags": [],
     "importance": 3,
     "summary": "OpenAI may be in cost control mode",
-    "points": 348,
+    "points": 355,
     "path": "news/2026/11/26/030a9d5b67bf-openai-may-be-in-cost-control-mode.md"
   },
   {
@@ -238,7 +292,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Moat: Your OpenRouter Replacement",
-    "points": 307,
+    "points": 323,
     "path": "news/2026/11/26/e2ac2e209969-moat-your-openrouter-replacement.md"
   },
   {
@@ -267,7 +321,7 @@
     ],
     "importance": 2,
     "summary": "Claude tries to sabotage research work at every stage",
-    "points": 70,
+    "points": 104,
     "path": "news/2026/11/26/7fd32cc4aacb-claude-tries-to-sabotage-research-work-at-every-stage.md"
   },
   {
@@ -281,7 +335,7 @@
     ],
     "importance": 3,
     "summary": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-    "points": 499,
+    "points": 507,
     "path": "news/2026/11/26/1572d1e1c176-openai-cuts-gpt-6-2-usage-astra-hits-limits-40-faster-sol-25.md"
   },
   {
@@ -309,7 +363,7 @@
     ],
     "importance": 3,
     "summary": "Bare Metal Qwen",
-    "points": 233,
+    "points": 234,
     "path": "news/2026/11/25/acd1839cbac0-bare-metal-qwen.md"
   },
   {
@@ -321,7 +375,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Much shorter version of GRH Lean verification from Anthropic",
-    "points": 558,
+    "points": 561,
     "path": "news/2026/11/25/d0f423014258-much-shorter-version-of-grh-lean-verification-from-anthropic.md"
   },
   {
@@ -333,7 +387,7 @@
     "tags": [],
     "importance": 3,
     "summary": "The New York Times warns photographers not to update Photoshop over AI features",
-    "points": 676,
+    "points": 679,
     "path": "news/2026/11/25/e0db27b64455-the-new-york-times-warns-photographers-not-to-update-photosh.md"
   },
   {
@@ -398,7 +452,7 @@
     "tags": [],
     "importance": 3,
     "summary": "Rumors swirling that labs might have cracked Factoring in P",
-    "points": 510,
+    "points": 513,
     "path": "news/2026/11/25/681ddfb81dd7-rumors-swirling-that-labs-might-have-cracked-factoring-in-p.md"
   },
   {
